@@ -71,10 +71,22 @@ function render() {
   grid.appendChild(frag);
 }
 
+async function fetchDeals(forceRefresh) {
+  if (forceRefresh) {
+    try {
+      const res = await fetch('/api/refresh');
+      if (res.ok) return res;
+    } catch (err) {
+      // 백엔드 없는 정적 배포(GitHub Pages)에서는 무시하고 data.json으로 대체
+    }
+  }
+  return fetch(`data.json?t=${Date.now()}`);
+}
+
 async function load(forceRefresh) {
   meta.textContent = '불러오는 중...';
   try {
-    const res = await fetch(forceRefresh ? '/api/refresh' : '/api/deals');
+    const res = await fetchDeals(forceRefresh);
     const payload = await res.json();
     if (payload.error) throw new Error(payload.error);
     deals = payload.deals || [];

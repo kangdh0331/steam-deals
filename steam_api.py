@@ -39,5 +39,5 @@ def fetch_and_save(path="data.json"):
 
 
 if __name__ == "__main__":
-    result = fetch_and_save()
-    print(f"{len(result['deals'])}개 할인 게임을 data.json에 저장했습니다.")
+    result = fetch_and_save("docs/data.json")
+    print(f"{len(result['deals'])}개 할인 게임을 docs/data.json에 저장했습니다.")

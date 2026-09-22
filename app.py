@@ -7,8 +7,8 @@ from urllib.parse import urlparse
 import steam_api
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-STATIC_DIR = os.path.join(BASE_DIR, "static")
-DATA_PATH = os.path.join(BASE_DIR, "data.json")
+STATIC_DIR = os.path.join(BASE_DIR, "docs")
+DATA_PATH = os.path.join(STATIC_DIR, "data.json")
 
 _lock = threading.Lock()
 
