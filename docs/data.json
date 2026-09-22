@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1790062181.9216142,
+  "fetched_at": 1790094121.1115153,
   "deals": [
     {
       "appid": 1426210,
@@ -12,6 +12,16 @@
       "url": "https://store.steampowered.com/app/1426210"
     },
     {
+      "appid": 3527290,
+      "name": "PEAK",
+      "discount_percent": 38,
+      "original_price": 8400.0,
+      "final_price": 5210.0,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1786470571",
+      "url": "https://store.steampowered.com/app/3527290"
+    },
+    {
       "appid": 2001120,
       "name": "Split Fiction",
       "discount_percent": 35,
@@ -22,16 +32,6 @@
       "url": "https://store.steampowered.com/app/2001120"
     },
     {
-      "appid": 2536520,
-      "name": "디아블로 II 레저렉션 - 지옥불 에디션",
-      "discount_percent": 30,
-      "original_price": 44900.0,
-      "final_price": 31430.0,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/5f37d1ee85f877e28ff9eb1e848c3610a8fd200e/header_koreana.jpg?t=1774399170",
-      "url": "https://store.steampowered.com/app/2536520"
-    },
-    {
       "appid": 1390270,
       "name": "디아블로® IV: 증오의 군주™ - 일반판",
       "discount_percent": 25,
@@ -40,6 +40,26 @@
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1390270/3a2c5f9cd776775fd309aa1357e31c768191295e/header_ratio.jpg?t=1789412857",
       "url": "https://store.steampowered.com/app/1390270"
+    },
+    {
+      "appid": 4108000,
+      "name": "Machine Party",
+      "discount_percent": 20,
+      "original_price": 8800.0,
+      "final_price": 7040.0,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/00ae7d0e0fd0ad72635bddb1dd80ee68cc94eed5/header.jpg?t=1786561627",
+      "url": "https://store.steampowered.com/app/4108000"
+    },
+    {
+      "appid": 3208930,
+      "name": "갈바테인 : 모험가 길드 사무소",
+      "discount_percent": 15,
+      "original_price": 14000.0,
+      "final_price": 11900.0,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3208930/851da294e1649588d0b1c9313bfea403b3f52b81/header_koreana.jpg?t=1790060446",
+      "url": "https://store.steampowered.com/app/3208930"
     },
     {
       "appid": 4019220,
@@ -80,26 +100,6 @@
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4575720/6ac7d48c87e74cddcf34201e8283c2b57c00dee8/header.jpg?t=1790011694",
       "url": "https://store.steampowered.com/app/4575720"
-    },
-    {
-      "appid": 1737084,
-      "name": "하늘의 궤적 the 2nd 디지털 디럭스 버전",
-      "discount_percent": 10,
-      "original_price": 118500.0,
-      "final_price": 106650.0,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1737084/3a200cdc3d8814ffd09e6b55e1abca3bebced5cc/header_ratio_koreana.jpg?t=1789606554",
-      "url": "https://store.steampowered.com/app/1737084"
-    },
-    {
-      "appid": 4090260,
-      "name": "라이프가드 홀릭",
-      "discount_percent": 10,
-      "original_price": 18000.0,
-      "final_price": 16200.0,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090260/19a1a87d1da7092c95c763aa80cb805798385d6d/header_koreana.jpg?t=1789610491",
-      "url": "https://store.steampowered.com/app/4090260"
     }
   ]
 }
