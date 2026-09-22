@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Steam 할인 목록</title>
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<header>
+  <h1>🎮 Steam 할인 게임</h1>
+  <div class="controls">
+    <input id="search" type="text" placeholder="게임 이름 검색...">
+    <select id="sort">
+      <option value="discount_desc">할인율 높은 순</option>
+      <option value="price_asc">가격 낮은 순</option>
+      <option value="price_desc">가격 높은 순</option>
+      <option value="name_asc">이름순</option>
+    </select>
+    <button id="refresh">새로고침</button>
+  </div>
+  <p id="meta" class="meta"></p>
+</header>
+<main id="grid" class="grid"></main>
+<p id="empty" class="empty" hidden>표시할 게임이 없습니다.</p>
+<script src="/app.js"></script>
+</body>
+</html>
