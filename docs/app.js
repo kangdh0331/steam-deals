@@ -31,16 +31,15 @@ function populateGenreFilter() {
 
 function render() {
   const q = search.value.trim().toLowerCase();
-  // 검색어가 없으면 세일 중인 게임만, 검색 중이면 세일 여부와 상관없이 전체에서 찾는다.
-  let list = q
-    ? deals.filter(d => d.name.toLowerCase().includes(q))
-    : deals.filter(d => d.on_sale);
-
   const genre = genreFilter.value;
+  // 검색어나 장르 필터가 없으면 세일 중인 게임만, 있으면 세일 여부와 상관없이 전체에서 찾는다.
+  let list = (q || genre) ? deals.slice() : deals.filter(d => d.on_sale);
+  if (q) list = list.filter(d => d.name.toLowerCase().includes(q));
   if (genre) list = list.filter(d => (d.genres || []).includes(genre));
 
   const sortKey = sortSelect.value;
   list = list.slice().sort((a, b) => {
+    if (a.on_sale !== b.on_sale) return a.on_sale ? -1 : 1; // 할인 중인 게임을 우선 표시
     switch (sortKey) {
       case 'price_asc': return a.final_price - b.final_price;
       case 'price_desc': return b.final_price - a.final_price;
