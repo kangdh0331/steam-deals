@@ -69,15 +69,52 @@ function populateGenreFilter() {
 function populatePublisherFilter() {
   const current = publisherFilter.value;
   publisherFilter.innerHTML = '<option value="">전체 개발사/배급사</option>';
+
+  const usedMatches = [];
+  const majorGroup = document.createElement('optgroup');
+  majorGroup.label = '주요 배급사';
   for (const p of MAJOR_PUBLISHERS) {
-    const has = deals.some(d => companyNames(d).includes(p.match));
-    if (!has) continue;
+    if (!deals.some(d => companyNames(d).includes(p.match))) continue;
     const opt = document.createElement('option');
     opt.value = p.match;
     opt.textContent = p.label;
-    publisherFilter.appendChild(opt);
+    majorGroup.appendChild(opt);
+    usedMatches.push(p.match);
   }
-  if ([...publisherFilter.options].some(o => o.value === current)) publisherFilter.value = current;
+  if (majorGroup.children.length) publisherFilter.appendChild(majorGroup);
+
+  // 큐레이션 목록에 없는 플랫폼(예: GMG)은 선택지가 너무 적어지므로,
+  // 데이터에 자주 나오는 개발사/배급사를 자동으로 뽑아 나머지 옵션으로 채운다.
+  const counts = new Map();
+  for (const d of deals) {
+    for (const name of [...(d.publishers || []), ...(d.developers || [])]) {
+      const trimmed = (name || '').trim();
+      if (!trimmed) continue;
+      const lower = trimmed.toLowerCase();
+      if (usedMatches.some(m => lower.includes(m))) continue;
+      counts.set(trimmed, (counts.get(trimmed) || 0) + 1);
+    }
+  }
+  const others = [...counts.entries()]
+    .filter(([, count]) => count >= 2)
+    .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0], 'ko'))
+    .slice(0, 30);
+
+  if (others.length) {
+    const otherGroup = document.createElement('optgroup');
+    otherGroup.label = '기타 배급사/개발사';
+    for (const [name] of others) {
+      const opt = document.createElement('option');
+      opt.value = name.toLowerCase();
+      opt.textContent = name;
+      otherGroup.appendChild(opt);
+    }
+    publisherFilter.appendChild(otherGroup);
+  }
+
+  if ([...publisherFilter.querySelectorAll('option')].some(o => o.value === current)) {
+    publisherFilter.value = current;
+  }
 }
 
 function render() {
