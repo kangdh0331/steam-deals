@@ -10,7 +10,7 @@ DETAILS_CACHE_PATH = "app_details_cache.json"
 DETAILS_FETCH_DELAY = 1.5
 PAGE_SIZE = 100
 MAX_PAGES = 10  # up to ~1000 deals
-CATALOG_MAX_PAGES = 5  # up to ~500 extra (non-sale) searchable games
+CATALOG_MAX_PAGES = 15  # up to ~1500 extra (non-sale) searchable games
 
 ROW_RE = re.compile(
     r'<a\s+href="https://store\.steampowered\.com/app/(?P<appid>\d+)/[^"]*"'
