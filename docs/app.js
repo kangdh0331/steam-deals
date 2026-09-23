@@ -189,8 +189,7 @@ genreFilter.addEventListener('change', render);
 publisherFilter.addEventListener('change', render);
 sortSelect.addEventListener('change', render);
 refreshBtn.addEventListener('click', () => load(true));
-homeLink.addEventListener('click', (e) => {
-  e.preventDefault();
+homeLink.addEventListener('click', () => {
   search.value = '';
   genreFilter.value = '';
   publisherFilter.value = '';
