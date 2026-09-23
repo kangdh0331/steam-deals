@@ -25,6 +25,7 @@ const search = document.getElementById('search');
 const genreFilter = document.getElementById('genreFilter');
 const publisherFilter = document.getElementById('publisherFilter');
 const sortSelect = document.getElementById('sort');
+const limitInput = document.getElementById('limitInput');
 const refreshBtn = document.getElementById('refresh');
 const homeLink = document.getElementById('homeLink');
 
@@ -89,11 +90,14 @@ function render() {
     }
   });
 
+  const limit = parseInt(limitInput.value, 10);
+  const shown = limit > 0 ? list.slice(0, limit) : list;
+
   grid.innerHTML = '';
-  empty.hidden = list.length > 0;
+  empty.hidden = shown.length > 0;
 
   const frag = document.createDocumentFragment();
-  for (const d of list) {
+  for (const d of shown) {
     const card = document.createElement('a');
     card.className = 'card';
     card.href = d.url;
@@ -197,12 +201,14 @@ search.addEventListener('input', render);
 genreFilter.addEventListener('change', render);
 publisherFilter.addEventListener('change', render);
 sortSelect.addEventListener('change', render);
+limitInput.addEventListener('input', render);
 refreshBtn.addEventListener('click', () => load(true));
 homeLink.addEventListener('click', () => {
   search.value = '';
   genreFilter.value = '';
   publisherFilter.value = '';
   sortSelect.value = 'discount_desc';
+  limitInput.value = '';
   render();
 });
 

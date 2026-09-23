@@ -58,6 +58,11 @@ h1 {
   min-width: 200px;
 }
 
+#limitInput {
+  flex: 0 0 140px;
+  min-width: 0;
+}
+
 .controls button {
   background: var(--accent);
   color: #08334f;
