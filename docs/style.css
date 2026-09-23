@@ -61,6 +61,17 @@ h1 {
   border-color: var(--accent);
 }
 
+.platform-notice {
+  margin: 0 0 16px;
+  padding: 10px 14px;
+  border-radius: 4px;
+  background: #4a3f1f;
+  border: 1px solid #6b5a2a;
+  color: #e0c789;
+  font-size: 13px;
+  line-height: 1.5;
+}
+
 .controls {
   display: flex;
   gap: 12px;

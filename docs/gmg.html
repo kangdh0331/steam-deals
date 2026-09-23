@@ -3,17 +3,21 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>GOG Finder</title>
+<title>GMG Finder</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <header>
-  <h1><span id="homeLink">🕹️ GOG Finder</span></h1>
+  <h1><span id="homeLink">🔑 GMG Finder</span></h1>
   <nav class="platform-nav">
     <a href="index.html">Steam</a>
-    <a href="gog.html" class="active">GOG</a>
-    <a href="gmg.html">GMG</a>
+    <a href="gog.html">GOG</a>
+    <a href="gmg.html" class="active">GMG</a>
   </nav>
+  <p class="platform-notice">
+    ℹ️ Green Man Gaming(GMG)은 게임을 직접 서비스하는 플랫폼이 아니라 <strong>정품 CD 키를 판매하는 리셀러 사이트</strong>입니다.
+    구매하면 키를 받아서 스팀 등 원래 플랫폼에 등록해 사용하는 방식이니 참고하세요.
+  </p>
   <div class="controls">
     <input id="search" type="text" placeholder="게임 이름 검색... (세일 안 하는 게임도 검색됩니다)">
     <select id="genreFilter">
@@ -27,7 +31,6 @@
       <option value="price_asc">가격 낮은 순</option>
       <option value="price_desc">가격 높은 순</option>
       <option value="name_asc">이름순</option>
-      <option value="review_desc">유저 평가 높은 순</option>
     </select>
     <input id="limitInput" type="number" min="1" step="1" placeholder="표시 개수 (전체)">
     <button id="refresh">새로고침</button>
@@ -38,9 +41,9 @@
 <p id="empty" class="empty" hidden>표시할 게임이 없습니다.</p>
 <script>
   window.SITE_CONFIG = {
-    dataUrl: 'gog_data.json',
-    refreshUrl: '/api/gog/refresh',
-    reviewTier: (rank) => (rank >= 40 ? 'good' : rank >= 25 ? 'mixed' : 'bad'),
+    dataUrl: 'gmg_data.json',
+    refreshUrl: '/api/gmg/refresh',
+    reviewTier: () => 'mixed',
   };
 </script>
 <script src="app.js"></script>

@@ -4,6 +4,7 @@ import threading
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from urllib.parse import urlparse
 
+import gmg_api
 import gog_api
 import steam_api
 
@@ -13,6 +14,7 @@ STATIC_DIR = os.path.join(BASE_DIR, "docs")
 PLATFORMS = {
     "steam": (steam_api, os.path.join(STATIC_DIR, "data.json")),
     "gog": (gog_api, os.path.join(STATIC_DIR, "gog_data.json")),
+    "gmg": (gmg_api, os.path.join(STATIC_DIR, "gmg_data.json")),
 }
 
 _lock = threading.Lock()
