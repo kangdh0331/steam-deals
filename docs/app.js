@@ -1,3 +1,9 @@
+const CONFIG = window.SITE_CONFIG || {
+  dataUrl: 'data.json',
+  refreshUrl: '/api/steam/refresh',
+  reviewTier: (rank) => (rank >= 6 ? 'good' : rank === 5 ? 'mixed' : 'bad'),
+};
+
 let deals = [];
 
 // 우선 지원하는 대형 개발사/배급사 목록. 실제 데이터에 게임이 있는 곳만 드롭다운에 표시된다.
@@ -33,9 +39,15 @@ function companyNames(d) {
   return [...(d.developers || []), ...(d.publishers || [])].join(' ').toLowerCase();
 }
 
+const CURRENCY_SYMBOLS = { USD: '$', EUR: '€', GBP: '£' };
+
 function formatPrice(value, currency) {
-  const formatted = new Intl.NumberFormat('ko-KR').format(Math.round(value));
-  return currency === 'KRW' ? `${formatted}원` : `${formatted} ${currency}`;
+  if (currency === 'KRW') {
+    return `${new Intl.NumberFormat('ko-KR').format(Math.round(value))}원`;
+  }
+  const formatted = new Intl.NumberFormat('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 }).format(value);
+  const symbol = CURRENCY_SYMBOLS[currency];
+  return symbol ? `${symbol}${formatted}` : `${formatted} ${currency}`;
 }
 
 function populateGenreFilter() {
@@ -138,7 +150,7 @@ function render() {
     let reviewEl = null;
     if (d.review_desc) {
       reviewEl = document.createElement('div');
-      const tier = d.review_rank >= 6 ? 'good' : d.review_rank === 5 ? 'mixed' : 'bad';
+      const tier = CONFIG.reviewTier(d.review_rank);
       reviewEl.className = `review review-${tier}`;
       reviewEl.textContent = d.review_desc;
     }
@@ -168,13 +180,13 @@ function render() {
 async function fetchDeals(forceRefresh) {
   if (forceRefresh) {
     try {
-      const res = await fetch('/api/refresh');
+      const res = await fetch(CONFIG.refreshUrl);
       if (res.ok) return res;
     } catch (err) {
       // 백엔드 없는 정적 배포(GitHub Pages)에서는 무시하고 data.json으로 대체
     }
   }
-  return fetch(`data.json?t=${Date.now()}`);
+  return fetch(`${CONFIG.dataUrl}?t=${Date.now()}`);
 }
 
 async function load(forceRefresh) {

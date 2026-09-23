@@ -1,4 +1,4 @@
-name: Update Steam Deals
+name: Update Game Deals
 
 on:
   schedule:
@@ -21,10 +21,13 @@ jobs:
       - name: Fetch latest Steam deals
         run: python steam_api.py
 
+      - name: Fetch latest GOG deals
+        run: python gog_api.py
+
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/data.json app_details_cache.json
+          git add docs/data.json docs/gog_data.json app_details_cache.json
           git diff --cached --quiet || git commit -m "Update deals data"
           git push

@@ -3,15 +3,15 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Steam Finder</title>
+<title>GOG Finder</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <header>
-  <h1><span id="homeLink">🎮 Steam Finder</span></h1>
+  <h1><span id="homeLink">🕹️ GOG Finder</span></h1>
   <nav class="platform-nav">
-    <a href="index.html" class="active">Steam</a>
-    <a href="gog.html">GOG</a>
+    <a href="index.html">Steam</a>
+    <a href="gog.html" class="active">GOG</a>
   </nav>
   <div class="controls">
     <input id="search" type="text" placeholder="게임 이름 검색... (세일 안 하는 게임도 검색됩니다)">
@@ -35,6 +35,13 @@
 </header>
 <main id="grid" class="grid"></main>
 <p id="empty" class="empty" hidden>표시할 게임이 없습니다.</p>
+<script>
+  window.SITE_CONFIG = {
+    dataUrl: 'gog_data.json',
+    refreshUrl: '/api/gog/refresh',
+    reviewTier: (rank) => (rank >= 40 ? 'good' : rank >= 25 ? 'mixed' : 'bad'),
+  };
+</script>
 <script src="app.js"></script>
 </body>
 </html>

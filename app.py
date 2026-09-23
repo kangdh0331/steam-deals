@@ -4,11 +4,16 @@ import threading
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from urllib.parse import urlparse
 
+import gog_api
 import steam_api
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 STATIC_DIR = os.path.join(BASE_DIR, "docs")
-DATA_PATH = os.path.join(STATIC_DIR, "data.json")
+
+PLATFORMS = {
+    "steam": (steam_api, os.path.join(STATIC_DIR, "data.json")),
+    "gog": (gog_api, os.path.join(STATIC_DIR, "gog_data.json")),
+}
 
 _lock = threading.Lock()
 
@@ -41,28 +46,29 @@ class Handler(BaseHTTPRequestHandler):
     def do_GET(self):
         path = urlparse(self.path).path
 
-        if path == "/api/deals":
-            with _lock:
-                if not os.path.exists(DATA_PATH):
+        for platform, (module, data_path) in PLATFORMS.items():
+            if path == f"/api/{platform}/deals":
+                with _lock:
+                    if not os.path.exists(data_path):
+                        try:
+                            module.fetch_and_save(data_path)
+                        except Exception as exc:
+                            self._send_json({"error": str(exc)}, status=502)
+                            return
+                    with open(data_path, "r", encoding="utf-8") as f:
+                        payload = json.load(f)
+                self._send_json(payload)
+                return
+
+            if path == f"/api/{platform}/refresh":
+                with _lock:
                     try:
-                        steam_api.fetch_and_save(DATA_PATH)
+                        payload = module.fetch_and_save(data_path)
                     except Exception as exc:
                         self._send_json({"error": str(exc)}, status=502)
                         return
-                with open(DATA_PATH, "r", encoding="utf-8") as f:
-                    payload = json.load(f)
-            self._send_json(payload)
-            return
-
-        if path == "/api/refresh":
-            with _lock:
-                try:
-                    payload = steam_api.fetch_and_save(DATA_PATH)
-                except Exception as exc:
-                    self._send_json({"error": str(exc)}, status=502)
-                    return
-            self._send_json(payload)
-            return
+                self._send_json(payload)
+                return
 
         if path == "/":
             path = "/index.html"
@@ -84,7 +90,7 @@ class Handler(BaseHTTPRequestHandler):
 def main():
     port = int(os.environ.get("PORT", 8000))
     server = ThreadingHTTPServer(("127.0.0.1", port), Handler)
-    print(f"Steam 할인 목록 서버 실행 중: http://127.0.0.1:{port}")
+    print(f"게임 할인 목록 서버 실행 중: http://127.0.0.1:{port}")
     try:
         server.serve_forever()
     except KeyboardInterrupt:
