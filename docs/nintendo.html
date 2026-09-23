@@ -3,20 +3,23 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>GOG Finder</title>
+<title>Nintendo Finder</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <header>
-  <h1><span id="homeLink">🕹️ GOG Finder</span></h1>
+  <h1><span id="homeLink">🍄 Nintendo Finder</span></h1>
   <nav class="platform-nav">
     <a href="index.html">Steam</a>
-    <a href="gog.html" class="active">GOG</a>
+    <a href="gog.html">GOG</a>
     <a href="gmg.html">GMG</a>
-    <a href="nintendo.html">Nintendo</a>
+    <a href="nintendo.html" class="active">Nintendo</a>
   </nav>
+  <p class="platform-notice">
+    ℹ️ 닌텐도 eShop은 세일 목록만 가져올 수 있는 소스라서, 다른 플랫폼과 달리 <strong>검색도 현재 할인 중인 게임 범위 안에서만</strong> 됩니다.
+  </p>
   <div class="controls">
-    <input id="search" type="text" placeholder="게임/개발사/장르 검색... (세일 안 하는 게임도 검색됩니다)">
+    <input id="search" type="text" placeholder="게임/개발사/장르 검색...">
     <select id="genreFilter">
       <option value="">전체 장르</option>
     </select>
@@ -35,7 +38,6 @@
       <option value="price_asc">가격 낮은 순</option>
       <option value="price_desc">가격 높은 순</option>
       <option value="name_asc">이름순</option>
-      <option value="review_desc">유저 평가 높은 순</option>
     </select>
     <input id="limitInput" type="number" min="1" step="1" placeholder="표시 개수 (전체)">
     <button id="refresh">새로고침</button>
@@ -46,9 +48,9 @@
 <p id="empty" class="empty" hidden>표시할 게임이 없습니다.</p>
 <script>
   window.SITE_CONFIG = {
-    dataUrl: 'gog_data.json',
-    refreshUrl: '/api/gog/refresh',
-    reviewTier: (rank) => (rank >= 40 ? 'good' : rank >= 25 ? 'mixed' : 'bad'),
+    dataUrl: 'nintendo_data.json',
+    refreshUrl: '/api/nintendo/refresh',
+    reviewTier: () => 'mixed',
   };
 </script>
 <script src="app.js"></script>

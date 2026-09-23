@@ -6,6 +6,7 @@ from urllib.parse import urlparse
 
 import gmg_api
 import gog_api
+import nintendo_api
 import steam_api
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -15,6 +16,7 @@ PLATFORMS = {
     "steam": (steam_api, os.path.join(STATIC_DIR, "data.json")),
     "gog": (gog_api, os.path.join(STATIC_DIR, "gog_data.json")),
     "gmg": (gmg_api, os.path.join(STATIC_DIR, "gmg_data.json")),
+    "nintendo": (nintendo_api, os.path.join(STATIC_DIR, "nintendo_data.json")),
 }
 
 _lock = threading.Lock()

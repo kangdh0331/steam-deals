@@ -27,10 +27,13 @@ jobs:
       - name: Fetch latest GMG deals
         run: python gmg_api.py
 
+      - name: Fetch latest Nintendo deals
+        run: python nintendo_api.py
+
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/data.json docs/gog_data.json docs/gmg_data.json app_details_cache.json
+          git add docs/data.json docs/gog_data.json docs/gmg_data.json docs/nintendo_data.json app_details_cache.json
           git diff --cached --quiet || git commit -m "Update deals data"
           git push
