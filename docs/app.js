@@ -4,6 +4,7 @@ const grid = document.getElementById('grid');
 const empty = document.getElementById('empty');
 const meta = document.getElementById('meta');
 const search = document.getElementById('search');
+const genreFilter = document.getElementById('genreFilter');
 const sortSelect = document.getElementById('sort');
 const refreshBtn = document.getElementById('refresh');
 
@@ -12,12 +13,31 @@ function formatPrice(value, currency) {
   return currency === 'KRW' ? `${formatted}원` : `${formatted} ${currency}`;
 }
 
+function populateGenreFilter() {
+  const genres = new Set();
+  for (const d of deals) {
+    for (const g of d.genres || []) genres.add(g);
+  }
+  const current = genreFilter.value;
+  genreFilter.innerHTML = '<option value="">전체 장르</option>';
+  for (const g of [...genres].sort((a, b) => a.localeCompare(b, 'ko'))) {
+    const opt = document.createElement('option');
+    opt.value = g;
+    opt.textContent = g;
+    genreFilter.appendChild(opt);
+  }
+  if (genres.has(current)) genreFilter.value = current;
+}
+
 function render() {
   const q = search.value.trim().toLowerCase();
   // 검색어가 없으면 세일 중인 게임만, 검색 중이면 세일 여부와 상관없이 전체에서 찾는다.
   let list = q
     ? deals.filter(d => d.name.toLowerCase().includes(q))
     : deals.filter(d => d.on_sale);
+
+  const genre = genreFilter.value;
+  if (genre) list = list.filter(d => (d.genres || []).includes(genre));
 
   const sortKey = sortSelect.value;
   list = list.slice().sort((a, b) => {
@@ -109,6 +129,7 @@ async function load(forceRefresh) {
       ? new Date(payload.fetched_at * 1000).toLocaleString('ko-KR')
       : '알 수 없음';
     meta.textContent = `할인 중인 게임 ${saleCount}개 (검색 가능 ${deals.length}개) · 마지막 갱신: ${fetchedAt}`;
+    populateGenreFilter();
     render();
   } catch (err) {
     meta.textContent = `불러오기 실패: ${err.message}`;
@@ -116,6 +137,7 @@ async function load(forceRefresh) {
 }
 
 search.addEventListener('input', render);
+genreFilter.addEventListener('change', render);
 sortSelect.addEventListener('change', render);
 refreshBtn.addEventListener('click', () => load(true));
 
