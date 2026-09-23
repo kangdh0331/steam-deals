@@ -30,6 +30,7 @@ const meta = document.getElementById('meta');
 const search = document.getElementById('search');
 const genreFilter = document.getElementById('genreFilter');
 const publisherFilter = document.getElementById('publisherFilter');
+const discountFilter = document.getElementById('discountFilter');
 const sortSelect = document.getElementById('sort');
 const limitInput = document.getElementById('limitInput');
 const refreshBtn = document.getElementById('refresh');
@@ -121,6 +122,7 @@ function render() {
   const q = search.value.trim().toLowerCase();
   const genre = genreFilter.value;
   const publisher = publisherFilter.value;
+  const minDiscount = parseInt(discountFilter.value, 10) || 0;
   // 검색어/장르/개발사 필터가 없으면 세일 중인 게임만, 있으면 세일 여부와 상관없이 전체에서 찾는다.
   let list = (q || genre || publisher) ? deals.slice() : deals.filter(d => d.on_sale);
   if (q) {
@@ -130,6 +132,7 @@ function render() {
       (d.genres || []).some(g => g.toLowerCase().includes(q))
     );
   }
+  if (minDiscount > 0) list = list.filter(d => d.discount_percent >= minDiscount);
   if (genre) list = list.filter(d => (d.genres || []).includes(genre));
   if (publisher) list = list.filter(d => companyNames(d).includes(publisher));
 
@@ -266,6 +269,7 @@ function debounce(fn, delayMs) {
 search.addEventListener('input', debounce(render, 150));
 genreFilter.addEventListener('change', render);
 publisherFilter.addEventListener('change', render);
+discountFilter.addEventListener('change', render);
 sortSelect.addEventListener('change', render);
 limitInput.addEventListener('input', render);
 refreshBtn.addEventListener('click', () => load(true));
@@ -273,6 +277,7 @@ homeLink.addEventListener('click', () => {
   search.value = '';
   genreFilter.value = '';
   publisherFilter.value = '';
+  discountFilter.value = '0';
   sortSelect.value = 'discount_desc';
   limitInput.value = '';
   render();
