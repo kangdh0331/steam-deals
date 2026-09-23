@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1790150457.6904213,
+  "fetched_at": 1790151341.8608844,
   "deals": [
     {
       "appid": 70050000032587,
@@ -11,6 +11,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000032587/1a8f025f0108206f4358eee82c0184f48827743c7d645ba814b79011e7a078db",
       "url": "https://www.nintendo.com/us/store/products/monster-hunter-rise-sunbreak-70050000032587-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -29,6 +30,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000013182/f729c1f54d37d36f3757a40ccac428807b564f00ed430d166251cae111ed3eb0",
       "url": "https://www.nintendo.com/us/store/products/the-kings-bird-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure"
@@ -52,6 +54,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000003203/1a1b296980398d1541b41b374e3eefc739355b496722fa13cf4c4f0a104f4097",
       "url": "https://www.nintendo.com/us/store/products/dragon-ball-fighterz-fighterz-edition-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -70,6 +73,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000009788/8e48851526632bc824e75fa5aacc52a75b2e8053af4d464c0052d47fb52f694f",
       "url": "https://www.nintendo.com/us/store/products/dragons-dogma-dark-arisen-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Role playing"
@@ -91,6 +95,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000013808/bfa77aafd990dcd2ad7e965cd5976d3c29fdbe3b1f5c47f32f69f89c69a11481",
       "url": "https://www.nintendo.com/us/store/products/monster-hunter-rise-plus-sunbreak-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -109,6 +114,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000019440/785ba42f91fb69f087d8848865dbf452e292a2c6641052b246a785d9853147bd",
       "url": "https://www.nintendo.com/us/store/products/dragon-ball-xenoverse-2-deluxe-edition-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -127,6 +133,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000001367/800b512924c41501b2c4a58f573beabf66565266747d6fe94bf7e138f0308f6a",
       "url": "https://www.nintendo.com/us/store/products/doom-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Shooting"
@@ -150,6 +157,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000006483/58a0c8956866ded5c4f84883a2982daebaa27237063b78e3c772229147dc24b9",
       "url": "https://www.nintendo.com/us/store/products/wolfenstein-youngblood-deluxe-edition-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -168,6 +176,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000056720/5c11c69795c8e5bdb95162c2598a44004f06ad7aa484bf742257a8126c395a87",
       "url": "https://www.nintendo.com/us/store/products/once-upon-a-jester-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Adventure"
       ],
@@ -190,6 +199,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000018642/822ef1e0f3f3c961b942ac036a9dcd034a610a07337be6be25674ed6a4d06f4e",
       "url": "https://www.nintendo.com/us/store/products/mousecraft-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Puzzle"
       ],
@@ -212,6 +222,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000035828/7d1d87710b6b4b652762a801970779e75f7ec2749062d8daf6f4ec20009cf210",
       "url": "https://www.nintendo.com/us/store/products/winds-of-change-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Narrative adventure",
         "Role playing"
@@ -235,6 +246,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000000906/3cfd83ae123e7d8f694039bd01adc4780d6b08d41a9321f16c35d96e13f3bc03",
       "url": "https://www.nintendo.com/us/store/products/lichtspeer-double-speer-edition-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action"
       ],
@@ -257,6 +269,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000013913/5836e0a4f9917d215f096ae671243f0dd5c495ebff42d0ba006b6a0c82a8dc05",
       "url": "https://www.nintendo.com/us/store/products/my-memory-of-us-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure"
@@ -280,6 +293,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000032689/d45f1f94df0ada787b400a7e170bb132564729a7fc7d459dd6a71c48e6b444e2",
       "url": "https://www.nintendo.com/us/store/products/bonkies-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Party",
@@ -304,6 +318,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000017337/51f75b4f4ae8047d258f80ce733833ac1677092ee67d11573a112e2fb1fcb760",
       "url": "https://www.nintendo.com/us/store/products/cinders-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Narrative adventure"
       ],
@@ -326,6 +341,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000000867/cc0ae8462863936f8caf53ba57c63b23a07d50cccf15b722efb895b85fe8d08c",
       "url": "https://www.nintendo.com/us/store/products/neversong-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure"
@@ -347,6 +363,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000003437/c42e8461023ec073a203970a3f6f573ddbca9983d09de5f0707fe684f5d949d5",
       "url": "https://www.nintendo.com/us/store/products/lifeless-planet-premiere-edition-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure"
@@ -370,6 +387,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000010700/e8e685bde6ef8b205d436430672676cba80a18ddde8dbc5c7a37a33636609948",
       "url": "https://www.nintendo.com/us/store/products/pinstripe-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure"
@@ -393,6 +411,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000019363/00415cd8f988be0e384ea47acc4b6abd3746c3f29490de54f8c622b7b4ddc62b",
       "url": "https://www.nintendo.com/us/store/products/where-the-water-tastes-like-wine-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Narrative adventure"
       ],
@@ -413,6 +432,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000018012/00eb74146245de66a74059b86a6449d500bf8334291c331fa14945ed96e898fb",
       "url": "https://www.nintendo.com/us/store/products/dragon-quest-monsters-the-dark-prince-digital-deluxe-edition-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -431,6 +451,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000019762/71ab52324b955ed6841a8bc48d52e5812feff6ed13d0ca1c237f73e01556ef11",
       "url": "https://www.nintendo.com/us/store/products/one-piece-pirate-warriors-4-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action"
       ],
@@ -453,6 +474,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000103343/25511d0c3928498a63b5ea0d20627311e8db0b2b63fddec0652f81c1cbe67e18",
       "url": "https://www.nintendo.com/us/store/products/one-piece-pirate-warriors-4-nintendo-switch-2-edition-switch-2/",
       "on_sale": true,
+      "platform": "Nintendo Switch 2",
       "genres": [
         "Action"
       ],
@@ -475,6 +497,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000004642/f4d5e5f0a8adb2a663d2763f2244e6ce5c5978034b992a15c16262391725f064",
       "url": "https://www.nintendo.com/us/store/products/monster-hunter-generations-ultimate-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action"
       ],
@@ -497,6 +520,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000011740/b1513b0afaa170f79b71d7552a193a99f89b28c8525c2fbb8673c8143cb79465",
       "url": "https://www.nintendo.com/us/store/products/darkwood-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure"
@@ -520,6 +544,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000055195/6fd3da5c255b76b46efede7a1aeff77f1da170a01a085dce8442a6cd29820ece",
       "url": "https://www.nintendo.com/us/store/products/nadir-a-grimdark-deck-builder-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Adventure",
         "Tabletop"
@@ -543,6 +568,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000077410/1b4fca60a8c75175287e0feabb4357f9f2749f54becb8b6cdbb641071b8f54f5",
       "url": "https://www.nintendo.com/us/store/products/the-gap-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Adventure"
       ],
@@ -565,6 +591,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000001432/be938594d612007b3c97bc5590af6bb635b5713918e3db66eb34ad37c088b980",
       "url": "https://www.nintendo.com/us/store/products/butcher-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Shooting"
       ],
@@ -587,6 +614,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000028371/dbc1489208e6cba7fe8803575994d7116cf28f593785075860de089b9ee5fcb0",
       "url": "https://www.nintendo.com/us/store/products/cyanide-and-happiness-freakpocalypse-episode-1-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure"
@@ -610,6 +638,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000065677/4ce26eb9732b6c4ef653414b648311fc450cfad48d4d22ab17eeca6cf8774b6e",
       "url": "https://www.nintendo.com/us/store/products/techno-banter-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Adventure"
       ],
@@ -632,6 +661,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000010582/55386ada9d124145f6112072d63958dc69982870a06e02cdef735abbfdba36e7",
       "url": "https://www.nintendo.com/us/store/products/final-fantasy-ix-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Role playing"
       ],
@@ -654,6 +684,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000036878/18b56214018a274fa4ac8bbf83933e4a8105282208b85cc831d96464bc3938a0",
       "url": "https://www.nintendo.com/us/store/products/neo-the-world-ends-with-you-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Role playing"
@@ -675,6 +706,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000010082/cfefe5e1230db0f80b364bd97797a0aa1a7daceb1a0ea44c4812dae7bad985a3",
       "url": "https://www.nintendo.com/us/store/products/one-piece-pirate-warriors-4-character-pass-70070000010082-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -693,6 +725,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000011026/8636ca8335c7b152dc41587d3005df022fb8794a8bbf302bd864a21a6ec4696a",
       "url": "https://www.nintendo.com/us/store/products/doom-eternal-deluxe-edition-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -711,6 +744,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000015846/a4f21c4638201d9b2037c0e3ead4e90a2f64b6f7af5a6909316daad44b3224b7",
       "url": "https://www.nintendo.com/us/store/products/phoenix-wright-ace-attorney-trilogy-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Adventure",
         "Simulation"
@@ -734,6 +768,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000076857/4fd7e53dbe85a51800342e51df4915a4df3e74164d3b3bf12d39f1ff690b51e4",
       "url": "https://www.nintendo.com/us/store/products/monster-hunter-stories-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Role playing"
       ],
@@ -756,6 +791,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000021423/a7942d1d2e37354670fc9c2b5bdadaea17fea1dafcf974ac88d612a1bd594ed4",
       "url": "https://www.nintendo.com/us/store/products/monster-hunter-stories-collection-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Role playing"
@@ -777,6 +813,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000022238/b701f07e3643c03aae11d946c535e3eb1d1e9b174532de837244176b7f30255b",
       "url": "https://www.nintendo.com/us/store/products/doom-anthology-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure",
@@ -800,6 +837,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000051772/dd10df542f7853bfa3142f0b770b67c97d22bbe3fe8f9b5d5a51bf0716bed97a",
       "url": "https://www.nintendo.com/us/store/products/virgo-versus-the-zodiac-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Role playing"
@@ -821,6 +859,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000028503/39d22dad288b3e3dd75f63b7f757202d25fc10bcdd527192cbd19bcbbff7da64",
       "url": "https://www.nintendo.com/us/store/products/monster-hunter-stories-2-wings-of-ruin-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Role playing"
@@ -844,6 +883,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000004681/c2ccfd835151eeb069ed96870b226d8314b9bdb4d292e70bbebce443fca7296e",
       "url": "https://www.nintendo.com/us/store/products/dragon-ball-fighterz-fighterz-pass-2-70070000004681-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -862,6 +902,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000047561/105d7cd7386ca93a904b492fe7b98a4e00f4c5c9ae41bc30e2b5bb5f541282dc",
       "url": "https://www.nintendo.com/us/store/products/taiko-no-tatsujin-rhythm-festival-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Music",
         "Party"
@@ -883,6 +924,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000001369/3a41386d4b0999365727a21cc5c13853cfc244abca39b689bb79a339601e48c3",
       "url": "https://www.nintendo.com/us/store/products/the-elder-scrolls-v-skyrim-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Role playing"
@@ -906,6 +948,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000020375/24247cfa65b4a2885ea4526a0564bd3f433564b916b1fc2555b547908b0aba5b",
       "url": "https://www.nintendo.com/us/store/products/quake-plus-quake-ii-enhanced-bundle-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Shooting"
@@ -927,6 +970,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000024294/56eeb1c13ac89988a1c9e8bda24c2deaa9cf33da0705b1de95b843ebe9b70f3a",
       "url": "https://www.nintendo.com/us/store/products/the-great-ace-attorney-chronicles-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Adventure",
         "Simulation"
@@ -950,6 +994,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000084172/f8f523fb3cd11ee698ff5430b02e713d56c31e60450c0a23076cf4e4803eb3a2",
       "url": "https://www.nintendo.com/us/store/products/kamikaze-lassplanes-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Narrative adventure",
         "Shooting"
@@ -973,6 +1018,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000017980/5cd18b818db3a96b32444b1c88cbaff777d01b488d2a06cf5124e5c556805ac0",
       "url": "https://www.nintendo.com/us/store/products/lisa-definitive-edition-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Role playing"
       ],
@@ -993,6 +1039,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000039392/a37cfcebe6ed78f686151cc2a84964b447b6a01e975381a9627963960862b31a",
       "url": "https://www.nintendo.com/us/store/products/arcadian-atlas-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Role playing",
         "Strategy"
@@ -1014,6 +1061,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000068151/edc11991fc87ec6b4b5b1004d58a3189a2eef7a80628868140eb65408401e229",
       "url": "https://www.nintendo.com/us/store/products/lisa-the-painful-definitive-edition-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Role playing"
       ],
@@ -1036,6 +1084,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000068153/7f45a15c2b12b2582e777bc19efe03504ea18b9b29c435fa1878d81c6749db32",
       "url": "https://www.nintendo.com/us/store/products/lisa-the-joyful-definitive-edition-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Role playing"
       ],
@@ -1056,6 +1105,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000032650/718759a53a0b804d4fb16080d210a44ea18a8bca3277bc3472a3b988f1a382ef",
       "url": "https://www.nintendo.com/us/store/products/chrono-cross-the-radical-dreamers-edition-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Narrative adventure",
         "Role playing"
@@ -1079,6 +1129,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000079157/0a3fd04d3dda2e664da4a47fabccddc60f9125111d97cd87f165a61955ff62d0",
       "url": "https://www.nintendo.com/us/store/products/fantasian-neo-dimension-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Role playing"
       ],
@@ -1101,6 +1152,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000027419/a138045cd1ef99d67758093e43de4a697591ef26a898e564d4dc2df08a8260b2",
       "url": "https://www.nintendo.com/us/store/products/final-fantasy-crystal-chronicles-remastered-edition-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Role playing"
@@ -1122,6 +1174,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000013197/24b0a5eb3cb807082cac29c409969b18426b74b87d172029373cfcff1feda755",
       "url": "https://www.nintendo.com/us/store/products/final-fantasy-vii-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Role playing"
       ],
@@ -1144,6 +1197,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000009443/5afcf38c004d0af5ac503dd1c41f56f29075188702ed672f4b898e27e185042f",
       "url": "https://www.nintendo.com/us/store/products/final-fantasy-xv-pocket-edition-hd-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Role playing"
@@ -1165,6 +1219,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000051139/77d06082ac9bc9dc6a00e8b559602d39808ccb6dde473db6e06f8128c28e0f4f",
       "url": "https://www.nintendo.com/us/store/products/harvestella-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Role playing",
@@ -1187,6 +1242,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000030586/0e5b67229e94d1258b2dd907045cffa244f39e604bfeaf59b79e721e4ea99998",
       "url": "https://www.nintendo.com/us/store/products/kingdom-hearts-melody-of-memory-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Music"
@@ -1210,6 +1266,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000034471/29c5b908f3d97b6facf88131933e7126893a17371225b09b310487b04e545596",
       "url": "https://www.nintendo.com/us/store/products/legend-of-mana-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Role playing"
@@ -1231,6 +1288,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000045182/74fb568c43f9c43895db89d4ebb2b510894de7141b066b953aebda427a46af87",
       "url": "https://www.nintendo.com/us/store/products/nier-automata-the-end-of-yorha-edition-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Role playing",
@@ -1255,6 +1313,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000067815/a884d75f6316622f3729feaf1f8ba4646bab301e0520ac091c1400532995e6e6",
       "url": "https://www.nintendo.com/us/store/products/romancing-saga-2-revenge-of-the-seven-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Role playing"
       ],
@@ -1275,6 +1334,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000077231/8e4f34c4cf8bc1c6a1c3f0816cfc62f8d33b3cf0f3fd9c17951a76ba92dfc38b",
       "url": "https://www.nintendo.com/us/store/products/saga-emerald-beyond-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Role playing"
       ],
@@ -1295,6 +1355,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000068928/a76be48735364428be3e481d8a81f0b29f39f6fdfb136bb8a237782d562a16d9",
       "url": "https://www.nintendo.com/us/store/products/long-gone-days-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Adventure",
         "Narrative adventure",
@@ -1317,6 +1378,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000048844/c342e40c849c5734e4c88116674cbf72019fb10a0f66a8420a6708fd4353139f",
       "url": "https://www.nintendo.com/us/store/products/dragon-ball-xenoverse-2-future-saga-chapter-1-70050000048844-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -1335,6 +1397,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000053077/d9153258d5de08c0cb88ef3912e0cfbad1afa104d963bb8798ba58af4077d336",
       "url": "https://www.nintendo.com/us/store/products/dragon-ball-xenoverse-2-future-saga-chapter-2-70050000053077-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -1353,6 +1416,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000064688/49092fc1331e94cab67cd2ff52b01b8255569782fe86cfffb5e67b5384103a14",
       "url": "https://www.nintendo.com/us/store/products/dragon-ball-xenoverse-2-future-saga-chapter-3-70050000064688-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -1371,6 +1435,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000029304/36654c0de42c7766ff514ebfbeac0c03d901f2d0cf3cdc24ba69e512e910e8fa",
       "url": "https://www.nintendo.com/us/store/products/dragon-ball-z-kakarot-plus-a-new-power-awakens-set-daima-edition-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -1389,6 +1454,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000016338/5c80aab1550452642f25c4f641c30f345f1859ec3a4e58e79e8b726fb85ed419",
       "url": "https://www.nintendo.com/us/store/products/dragon-ball-z-kakarot-plus-a-new-power-awakens-set-season-pass-2-70070000016338-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -1407,6 +1473,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000104292/b32d6d03395ffb764a8a2d0647da334910daab856ac0bffef9d77c6c28aaa1e0",
       "url": "https://www.nintendo.com/us/store/products/resident-evil-7-biohazard-gold-edition-switch-2/",
       "on_sale": true,
+      "platform": "Nintendo Switch 2",
       "genres": [
         "Action",
         "Adventure",
@@ -1429,6 +1496,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000015880/3c9c23a7d887db446ee201cd57e001919668b035d38c2994d9a9e65b689fb012",
       "url": "https://www.nintendo.com/us/store/products/resident-evil-6-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Shooting"
@@ -1452,6 +1520,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000015876/a650e2adb236297db985e1dba72867f4628ddecd2918abd462421355cb261954",
       "url": "https://www.nintendo.com/us/store/products/resident-evil-5-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure",
@@ -1476,6 +1545,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000012858/f4d4fd20c956621c4a342a8cade2e366f0e3cd43765bb52eccd0fea32b1606ce",
       "url": "https://www.nintendo.com/us/store/products/resident-evil-4-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure",
@@ -1500,6 +1570,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000012854/f7f8825f8345b738c83602b4ce36c0cc2ca70d5c36075d930bc6ccb8b19f5445",
       "url": "https://www.nintendo.com/us/store/products/resident-evil-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure",
@@ -1524,6 +1595,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000012850/75eb0b31887bf0d66a40553f978172ba49c8d1404016d5054a27995b9f45bc55",
       "url": "https://www.nintendo.com/us/store/products/resident-evil-0-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure",
@@ -1548,6 +1620,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000067777/a66014db42b305a43d8e09d04d77eaf4700774b66618097d8ce11fa232983b94",
       "url": "https://www.nintendo.com/us/store/products/apollo-justice-ace-attorney-trilogy-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Adventure",
         "Simulation"
@@ -1569,6 +1642,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000004346/0db8018ea1247e0af220c016bccdbfb511ee5a860e3189bb3d3fcbb5d81a8856",
       "url": "https://www.nintendo.com/us/store/products/onimusha-warlords-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action"
       ],
@@ -1591,6 +1665,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000083998/ba0445e3be0611ab700cdef7475901d42c560e000fd4b81f08f9ee413e1c7393",
       "url": "https://www.nintendo.com/us/store/products/onimusha-2-samurais-destiny-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure"
@@ -1614,6 +1689,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000017205/bbb89e6316321c6ace1090b8005769f011d3313e6fe34a61108f863f06d32f3e",
       "url": "https://www.nintendo.com/us/store/products/devil-may-cry-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action"
       ],
@@ -1634,6 +1710,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000017206/be8ee0d15e4e111ed18038a0bae25a287d788b2e50cab619d458c6f9fc245d29",
       "url": "https://www.nintendo.com/us/store/products/devil-may-cry-2-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action"
       ],
@@ -1656,6 +1733,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000017211/a867653e238e182ddc0807682c77a11d8784a723f0a0c968f6873b4858e848f6",
       "url": "https://www.nintendo.com/us/store/products/devil-may-cry-3-special-edition-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action"
       ],
@@ -1678,6 +1756,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000032542/173ad28aac591d863b7cf6a6852375100fe726d04832ffff18a9d8335c45caa7",
       "url": "https://www.nintendo.com/us/store/products/deaths-gambit-afterlife-ashes-of-vados-70050000032542-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -1696,6 +1775,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000053733/72a1abe08f06a46bef5363c46bd6f789d6694c828b510ea93fc85b3e1adf3e68",
       "url": "https://www.nintendo.com/us/store/products/smile-for-me-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Adventure"
       ],
@@ -1718,6 +1798,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000043149/9b2529da4ad26b6d575601f8aedbc5ca2b0dc9013e783a46b1e71d0a47aee87c",
       "url": "https://www.nintendo.com/us/store/products/deaths-gambit-afterlife-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Role playing"
@@ -1741,6 +1822,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000077709/20cc4f8e9e8fb5986c9f2bacb496f70780ae97a70d81a6f9f0dfd8e4d2a44b5f",
       "url": "https://www.nintendo.com/us/store/products/dragon-quest-iii-hd-2d-remake-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Role playing"
       ],
@@ -1761,6 +1843,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000060828/838ae820027dc893c7ca6200b3fe2dee39e79d42d396a3d5d8cf63e5dc82f119",
       "url": "https://www.nintendo.com/us/store/products/paranormasight-the-seven-mysteries-of-honjo-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Narrative adventure"
       ],
@@ -1781,6 +1864,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000015203/2a0e7357d3072968afa794fe05e127869447c2fd49eee3109e0c6a58996fea4e",
       "url": "https://www.nintendo.com/us/store/products/theatrhythm-final-bar-line-digital-deluxe-edition-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -1799,6 +1883,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000016082/b51727636809b7226b77d1ca19387b9e30d912036dc4f3eaa9ac1e6bace302fa",
       "url": "https://www.nintendo.com/us/store/products/voice-of-cards-trilogy-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Role playing",
         "Tabletop"
@@ -1820,6 +1905,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000016083/280c276ab9315b3d3a77c8b3e1ed6df69cb18b32a7491f70be55119f0104b5d4",
       "url": "https://www.nintendo.com/us/store/products/voice-of-cards-trilogy-plus-dlc-set-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Role playing",
         "Tabletop"
@@ -1841,6 +1927,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70070000029711/5072284b3e6dd3aed08733bf34d3150a2cfce9b3fb0149860dc01e106b0778c6",
       "url": "https://www.nintendo.com/us/store/products/pac-man-world-2-re-pac-deluxe-edition-switch-2/",
       "on_sale": true,
+      "platform": "Nintendo Switch 2",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -1859,6 +1946,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000029708/5072284b3e6dd3aed08733bf34d3150a2cfce9b3fb0149860dc01e106b0778c6",
       "url": "https://www.nintendo.com/us/store/products/pac-man-world-2-re-pac-deluxe-edition-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -1877,6 +1965,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000082315/92b7662d510fc6f1ee77bf74f27d9b09cfce044f6b84a943c417868ed78f9aaf",
       "url": "https://www.nintendo.com/us/store/products/keylocker-turn-based-cyberpunk-action-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Adventure",
         "Role playing"
@@ -1900,6 +1989,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000055671/de18362218786a478cc5d3b233ce967d7092ad4a74ff935dbc98a33dfcc0e4d7",
       "url": "https://www.nintendo.com/us/store/products/dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-part-1-70050000055671-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -1918,6 +2008,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70070000034153/a133d0bc278e03c63bf16a22cc90405ec7ff050e1d50e4f1b39a6769b775374e",
       "url": "https://www.nintendo.com/us/store/products/the-elder-scrolls-v-skyrim-anniversary-edition-plus-fallout-4-anniversary-edition-bundle-switch-2/",
       "on_sale": true,
+      "platform": "Nintendo Switch 2",
       "genres": [
         "Action",
         "Role playing",
@@ -1940,6 +2031,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000104301/eef30ef50fde7d3be49fcaeed06e2967442a8793081fa52feb11d2f18d536cad",
       "url": "https://www.nintendo.com/us/store/products/resident-evil-village-gold-edition-switch-2/",
       "on_sale": true,
+      "platform": "Nintendo Switch 2",
       "genres": [
         "Action",
         "Adventure",
@@ -1962,6 +2054,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000078415/1d26713c6f566a9ab6516bb92ae26f24c5078a9fe28b0c293d1910c83894f456",
       "url": "https://www.nintendo.com/us/store/products/ace-attorney-investigations-collection-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Adventure",
         "Simulation"
@@ -1985,6 +2078,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000078781/e001305486bc26974681721dd68012f8618a9bbd711d67ba8390733433f2cce0",
       "url": "https://www.nintendo.com/us/store/products/slay-the-princess-the-pristine-cut-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Narrative adventure"
       ],
@@ -2007,6 +2101,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000092001/f0d741e7dcfd575ea165814a9ea3aa9cd685dc7791307f26ef91312ed218ff7f",
       "url": "https://www.nintendo.com/us/store/products/noctuary-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Narrative adventure"
@@ -2030,6 +2125,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000090820/dd3362e96160ffeead6c88473369574d6f6e7c0ece1ef9c84803014abebbeeae",
       "url": "https://www.nintendo.com/us/store/products/cooking-companions-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Narrative adventure"
       ],
@@ -2052,6 +2148,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000081916/d945255e69a6f5a6a32bb9ec29f9325331d1a603973b3e0a19e788460905ce30",
       "url": "https://www.nintendo.com/us/store/products/centum-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Narrative adventure"
       ],
@@ -2074,6 +2171,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000017105/665dad530a02655c926000cca05aeeb1e182384a2f530c5b9d3525778673e631",
       "url": "https://www.nintendo.com/us/store/products/final-fantasy-i-vi-bundle-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Role playing"
       ],
@@ -2094,6 +2192,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000015381/d0268be3a717ed2ded03fa77aea451e4cb0e95045ad80da3a726439fe258eb88",
       "url": "https://www.nintendo.com/us/store/products/final-fantasy-x-x-2-hd-remaster-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Role playing"
       ],
@@ -2116,6 +2215,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000062079/cf5c6b1ef6ae06f2841170513e83d9f1322025375523052447b3debe607b59e6",
       "url": "https://www.nintendo.com/us/store/products/star-ocean-the-second-story-r-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Role playing"
@@ -2139,6 +2239,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70070000027440/e36b172d84d33306a6f7b75b5eb884fe815ea2f79ca76de1b815cf008792b0f7",
       "url": "https://www.nintendo.com/us/store/products/street-fighter-6-years-1-2-fighters-edition-switch-2/",
       "on_sale": true,
+      "platform": "Nintendo Switch 2",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -2157,6 +2258,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000086907/6ee60160f28fc95319e4b27e153cca75945a97717bb88772ed68e8642d400664",
       "url": "https://www.nintendo.com/us/store/products/bad-end-theater-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Narrative adventure"
       ],
@@ -2177,6 +2279,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000029670/55efad6dc29364c064f593c8bdc4e6a78ab6b5ca7a245da7f3e2de898b04eae2",
       "url": "https://www.nintendo.com/us/store/products/dragon-ball-sparking-zero-deluxe-edition-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -2195,6 +2298,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70070000029713/55efad6dc29364c064f593c8bdc4e6a78ab6b5ca7a245da7f3e2de898b04eae2",
       "url": "https://www.nintendo.com/us/store/products/dragon-ball-sparking-zero-deluxe-edition-switch-2/",
       "on_sale": true,
+      "platform": "Nintendo Switch 2",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -2213,6 +2317,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000090879/e308514158b5bdee6b21c5808dcac7e41b0c28acdd1b983bbdb9ba51bec3fdfe",
       "url": "https://www.nintendo.com/us/store/products/heretic-plus-hexen-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Shooting"
@@ -2234,6 +2339,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000026692/2375b80b78dbe8201f00467df0c8db09b15ae34208ab43e98286c407f72dd285",
       "url": "https://www.nintendo.com/us/store/products/monster-hunter-stories-2-wings-of-ruin-deluxe-kit-70050000026692-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -2252,6 +2358,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000042151/cfef7634adfd013fc6429f00e0284ddef85c0f857ed5da8d319710cbc249cac3",
       "url": "https://www.nintendo.com/us/store/products/doki-doki-literature-club-plus-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Narrative adventure",
         "Simulation"
@@ -2275,6 +2382,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000090478/7dddf60e888bb5d827dcfea9c69f89709f04b769041d2490ebd2bb8a7a87f4e0",
       "url": "https://www.nintendo.com/us/store/products/to-the-moon-sigmund-minisode-1-holiday-special-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Adventure"
       ],
@@ -2297,6 +2405,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000090480/028de264cc391cb39ee55be9a424f259a844ea727f50076f6a9fb49da6c93c4d",
       "url": "https://www.nintendo.com/us/store/products/to-the-moon-sigmund-minisode-2-holiday-special-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Adventure"
       ],
@@ -2319,6 +2428,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000016659/d1fbabdc6bdc5e9f43ab2bf9f92643ac360a289bb9a56666c56e2e0941695def",
       "url": "https://www.nintendo.com/us/store/products/mario-kart-8-deluxe-bundle-game-plus-booster-course-pass-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -2337,6 +2447,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000016660/97c3c33753986d8585adb8c29ac7742de61a76c880dd1a5c7c53d3325066e300",
       "url": "https://www.nintendo.com/us/store/products/animal-crossing-new-horizons-bundle-game-plus-dlc-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -2355,6 +2466,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000000783/3f5e3bdc13985085be376c34f993119838990863c05f331a2827f6d410daa609",
       "url": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-breath-of-the-wild-and-the-legend-of-zelda-breath-of-the-wild-expansion-pass-bundle-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -2373,6 +2485,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000063714/fb30eab428df3fc993b41c76e20f72e4d76d49734d17d31996b5ab61c414b117",
       "url": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-tears-of-the-kingdom-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure"
@@ -2394,6 +2507,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000084766/1bcf06d845f9027b4330e8d07658845a2fe3d66882bdaeb70325aeb35c54f1c9",
       "url": "https://www.nintendo.com/us/store/products/metroid-prime-4-beyond-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure",
@@ -2416,6 +2530,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000084608/ba0572bf9d840b03bf9958809943fb3c76c3adfd6d8f2704b0f1b766f8aa4027",
       "url": "https://www.nintendo.com/us/store/products/super-mario-party-jamboree-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Party",
@@ -2438,6 +2553,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000005308/43af89ed5bd76ac5ec6b367b4b53092f8bf94a1d1312fdfc1d4664329fd5077b",
       "url": "https://www.nintendo.com/us/store/products/pikmin-4-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure",
@@ -2460,6 +2576,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000046405/d1cf83dea46094b85247f40ca30ea4557730a319be0bfe544a4fa929144cf6c2",
       "url": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure"
@@ -2483,6 +2600,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000034635/ee0c49585083fda8cb072cf8bf9cb51ee46a0b19dadad02882bd8b4dc4ab8266",
       "url": "https://www.nintendo.com/us/store/products/kirby-fighters-2-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Fighting"
       ],
@@ -2503,6 +2621,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000042924/4f2c683f0196210ec212a2ab8bf6952223c0b88e827b820953407a2ba61c9cb2",
       "url": "https://www.nintendo.com/us/store/products/metroid-dread-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure",
@@ -2525,6 +2644,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000001339/d01cba67eb98fec32ac98027c07fa8d92dd52773565bfadc69f817c860e34b8a",
       "url": "https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action"
       ],
@@ -2547,6 +2667,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000049931/282ce6a96d5855d8b46aa9316314969f731a26ef9c7b2bc1e5aebe62dcf2ece2",
       "url": "https://www.nintendo.com/us/store/products/nintendo-switch-sports-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Party",
@@ -2571,6 +2692,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000001130/c42553b4fd0312c31e70ec7468c6c9bccd739f340152925b9600631f2d29f8b5",
       "url": "https://www.nintendo.com/us/store/products/super-mario-odyssey-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure"
@@ -2594,6 +2716,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000034439/ccb69a8bf2746b2dc0a9b11a9e48c9893baa1631486326f0d681b7a36385221f",
       "url": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure"
@@ -2615,6 +2738,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000068688/87e8aa5f1fdc950b88eae7d7c62ed185c8a6373c845090bbdb2e2cf039b38da1",
       "url": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action"
       ],
@@ -2637,6 +2761,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000014158/0ca41128bf40b7e0dc32a046a659ecdc69e4d7cc7a3257d6280be665d2f795b5",
       "url": "https://www.nintendo.com/us/store/products/super-mario-party-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Party",
@@ -2659,6 +2784,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000016793/07bf231db5b44048c4ba1a8874fd5495094243c88958ddfceb5430682c456c1e",
       "url": "https://www.nintendo.com/us/store/products/splatoon-3-bundle-game-plus-expansion-pass-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -2677,6 +2803,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000016787/3f73a471b117ebe6192ce32eb9ec6fc885e451103e783bcf572f16734b3bde80",
       "url": "https://www.nintendo.com/us/store/products/splatoon-3-expansion-pass-70070000016787-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -2695,6 +2822,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000046395/94a4095cda06c4d85c637d1af451979f9933302b6b17174d97c45de7a68584a2",
       "url": "https://www.nintendo.com/us/store/products/splatoon-3-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Shooting"
@@ -2718,6 +2846,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000038612/63595b0826bb6ece7b95e4eb2a33e5ad0559224b350a5e2974a44f772963ae59",
       "url": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-skyward-sword-hd-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure"
@@ -2739,6 +2868,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000084618/e3a49cf14180cec09c515595fb7121b048a0f8327eae2d248909d0f0c64a9dc9",
       "url": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-echoes-of-wisdom-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure"
@@ -2760,6 +2890,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000072957/fdd5d8ca46d7ea4e45397ae560e807742de2d7d744570297ddbabf69d6d23f33",
       "url": "https://www.nintendo.com/us/store/products/paper-mario-the-thousand-year-door-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Role playing"
@@ -2781,6 +2912,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000012376/11e25fa0d665851f561a070330161b339642f61df0335051e25f810468936f0c",
       "url": "https://www.nintendo.com/us/store/products/hyrule-warriors-age-of-calamity-plus-hyrule-warriors-age-of-calamity-expansion-pass-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -2799,6 +2931,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000006542/ed2194aa5ca7ecfe6e3d9e2ba60f99dfe2e2c417cd199292e793fd26d24b018e",
       "url": "https://www.nintendo.com/us/store/products/fire-emblem-three-houses-plus-expansion-pass-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -2817,6 +2950,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000029716/6d0cf8758e634a00d201ce0784e48f13c643b1b935f286d82689bf0a56a1f5e6",
       "url": "https://www.nintendo.com/us/store/products/clubhouse-games-51-worldwide-classics-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Party",
         "Puzzle",
@@ -2840,6 +2974,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000049936/c280b6843af262757f041d2aa3543992ec076b97545abea4dbadda797d9056fc",
       "url": "https://www.nintendo.com/us/store/products/mario-strikers-battle-league-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Sports"
@@ -2863,6 +2998,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000030770/0acaf709e29c57e125e90032853562562843757d238fec2815a52ec0409c6fd1",
       "url": "https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure"
@@ -2884,6 +3020,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000006411/73d58198e35bf94be752cf3d9ba0b44dea877cab1487e2cc1b7eeb02157f066f",
       "url": "https://www.nintendo.com/us/store/products/new-super-mario-bros-u-deluxe-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action"
       ],
@@ -2904,6 +3041,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000009533/fc6f62846c58b36f88038a114242cf46236b2c095a29f73d40e8946402083f49",
       "url": "https://www.nintendo.com/us/store/products/luigis-mansion-3-plus-multiplayer-pack-set-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -2922,6 +3060,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000018694/aac100206f1c50349fd2c48595e55603259ae60a4ab4eefc28e71f41efb78b97",
       "url": "https://www.nintendo.com/us/store/products/super-mario-maker-2-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action"
       ],
@@ -2942,6 +3081,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000038622/af5246b2f01dee8111a70bcb3f556e65a492801d6677d0ab0f17b566a7b0285b",
       "url": "https://www.nintendo.com/us/store/products/mario-golf-super-rush-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Party",
@@ -2966,6 +3106,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000029726/7f079a1e3927ea4752fb448ea7f2ccbd86933f5483ad9dd6de23ec96ed4df70b",
       "url": "https://www.nintendo.com/us/store/products/paper-mario-the-origami-king-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure"
@@ -2987,6 +3128,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000056620/3c95ab269b656931b9f8218ce6e48bec3d1f84d4b92f6c9ff9616b0f129c2a95",
       "url": "https://www.nintendo.com/us/store/products/kirbys-dream-buffet-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Racing"
@@ -3010,6 +3152,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000088832/d33ed7f51de601b10cafa5814fd786bbad317b0421a43d54917a2c647be2f23b",
       "url": "https://www.nintendo.com/us/store/products/xenoblade-chronicles-x-definitive-edition-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Role playing"
@@ -3031,6 +3174,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000063709/32b85837beea0eee31220a59e247219662de4011f7a8c18fce61cf99a4933eb7",
       "url": "https://www.nintendo.com/us/store/products/metroid-prime-remastered-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure",
@@ -3053,6 +3197,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000068683/fe4afe940b0e707798332e86f0af56cdbde48da59dc37cdfb8d59febb88ac72a",
       "url": "https://www.nintendo.com/us/store/products/super-mario-rpg-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Role playing"
@@ -3076,6 +3221,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000005022/45d91d342db7435bf142eb96e9abfe92500b21ec3130228e25b43c57cd580b78",
       "url": "https://www.nintendo.com/us/store/products/princess-peach-showtime-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure"
@@ -3097,6 +3243,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000084604/50b3b71a75022699ab39d631df7a6b1571df102f96d5f10e6267cbecadfa4cd6",
       "url": "https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action"
       ],
@@ -3117,6 +3264,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000042934/ae43ce2e25afbc4c069c2920075ead01a84f02dfe55b87876268409f6ccc0304",
       "url": "https://www.nintendo.com/us/store/products/mario-party-superstars-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Party",
@@ -3139,6 +3287,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000084613/9afc95d7bb55198b983e6942649af01932c45df112e8b8842e0578143dcdeaeb",
       "url": "https://www.nintendo.com/us/store/products/mario-and-luigi-brothership-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Role playing"
@@ -3160,6 +3309,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000058797/f37d3c4f766c56db53734e7b74328b66d2a1d9cf37257dcc623435862b145bad",
       "url": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action"
       ],
@@ -3182,6 +3332,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000072954/00eac347ef3029bfe156b030be64c0274cd5dea1df4df57b12855c823ef7deb4",
       "url": "https://www.nintendo.com/us/store/products/luigis-mansion-2-hd-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure"
@@ -3203,6 +3354,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000072191/2fda60f3007987817be456876e7755f5120522a75e477961fbb622fd32f9e588",
       "url": "https://www.nintendo.com/us/store/products/mario-vs-donkey-kong-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Puzzle"
@@ -3224,6 +3376,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000016571/affb46cbe64b3511c2587fa6eff86eeda4182d1dbece42d3bb8cb4bab1e0925d",
       "url": "https://www.nintendo.com/us/store/products/fire-emblem-engage-bundle-game-plus-expansion-pass-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -3242,6 +3395,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000104187/7ccc1c07ba3995da1dbd7320e726e063eaba9445a5741281d19c3b8fb1c144df",
       "url": "https://www.nintendo.com/us/store/products/super-mario-galaxy-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure"
@@ -3263,6 +3417,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000104192/5731782c9e89d2f492b44f1445f5df3d65660cdf75fe4f47a17e2bed7f82f99e",
       "url": "https://www.nintendo.com/us/store/products/super-mario-galaxy-2-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure"
@@ -3284,6 +3439,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000020033/df825d5fc6747b66b051f5d3ba6a412fe625ea7878b6a10c93bb8312195682b1",
       "url": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-links-awakening-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure"
@@ -3305,6 +3461,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000005302/a32f7ed0a032b291746ee878475521b685ef6c2b2de2caab3f8d40fec2d7ffce",
       "url": "https://www.nintendo.com/us/store/products/pikmin-3-deluxe-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure",
@@ -3327,6 +3484,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000000734/db8a252a84301594bdc4eed1be3dbd8d3de5086bc79f6ee1f8060c9a5630101f",
       "url": "https://www.nintendo.com/us/store/products/yoshis-crafted-world-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action"
       ],
@@ -3349,6 +3507,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000044951/474c3e7b2728a3826edf417a4bb0c3ab37ea9e10fb2ca752da7c8a2875e332e5",
       "url": "https://www.nintendo.com/us/store/products/big-brain-academy-brain-vs-brain-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Training"
       ],
@@ -3371,6 +3530,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000077705/6fa932eda55c5e713e339667c138a8a4009d439e5d983102cc53d4c0bb84a445",
       "url": "https://www.nintendo.com/us/store/products/endless-ocean-luminous-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Adventure"
       ],
@@ -3391,6 +3551,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000003889/7d4bb0a9ace1fb56a41aae8ef0d4ee806419e6187afdb4697a598458f02cd8e7",
       "url": "https://www.nintendo.com/us/store/products/mario-tennis-aces-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Party",
         "Sports"
@@ -3412,6 +3573,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000014933/4837f080f69dc2b25f950d9fdf20fd6ff5ae70dc9dce41d45232c65a608c0184",
       "url": "https://www.nintendo.com/us/store/products/xenoblade-chronicles-3-plus-xenoblade-chronicles-3-expansion-pass-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -3430,6 +3592,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000080664/aa0f9e570ce4b3907d2544376d1da43959e4bf0a7825e1377376a448f41b24e0",
       "url": "https://www.nintendo.com/us/store/products/nintendo-world-championships-nes-edition-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Party"
@@ -3451,6 +3614,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000002365/56eb33b93862176250495b53d3ad8fee4f84a73a5d99da99585260b403a6ec69",
       "url": "https://www.nintendo.com/us/store/products/kirby-star-allies-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action"
       ],
@@ -3473,6 +3637,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000068678/5b072b55e8a6993071b4cde9f74d9cf7aeac0b52141177efed6c8ce9b580a435",
       "url": "https://www.nintendo.com/us/store/products/warioware-move-it-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Party"
@@ -3496,6 +3661,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000042929/b572221a658515d2bf2c10961c049727eb147a75290b7a134d4d659f86dc6912",
       "url": "https://www.nintendo.com/us/store/products/warioware-get-it-together-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Party"
@@ -3517,6 +3683,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000050778/fbcfc3d8329a53a3922652262d1eed43f81769867716d27047323835ec796603",
       "url": "https://www.nintendo.com/us/store/products/fire-emblem-warriors-three-hopes-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Strategy"
@@ -3540,6 +3707,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000041267/5b083ee1bf52512ff0aaa70ec0a8f3a367210374c26f173df863ed60690de821",
       "url": "https://www.nintendo.com/us/store/products/game-builder-garage-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Application",
         "Education"
@@ -3561,6 +3729,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000018695/76f381cf2156c793d5f7a9e5c66f4d872b593d2e9d79ed8b84eb9827f32bb655",
       "url": "https://www.nintendo.com/us/store/products/astral-chain-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure"
@@ -3584,6 +3753,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000046400/0c47748b3a6f1b3a9fce87886c3dae2680f9990e27b2b6c8b029b6133f072477",
       "url": "https://www.nintendo.com/us/store/products/bayonetta-3-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure"
@@ -3607,6 +3777,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000089073/7e0635473cabaa01166b0efeef9ca58d1501aeda3d941d30cc9e6760e6af5a5e",
       "url": "https://www.nintendo.com/us/store/products/fitness-boxing-3-your-personal-trainer-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Sports",
         "Training"
@@ -3628,6 +3799,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000072196/84906698f4a1b4bd6e144beb0fab1883a8bb2397f59c249d39754ee1a4682e5b",
       "url": "https://www.nintendo.com/us/store/products/another-code-recollection-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Adventure"
       ],
@@ -3648,6 +3820,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000084623/e77a2f083946dba952940b8d6d9f146a8cd85b959b1e8060e62b65c4e4eba972",
       "url": "https://www.nintendo.com/us/store/products/emio-the-smiling-man-famicom-detective-club-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Adventure"
       ],
@@ -3668,6 +3841,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000006023/4b035b357b10e59dce73609dd071e61d131d90b2e477c29088f26fbe50b44d1b",
       "url": "https://www.nintendo.com/us/store/products/hyrule-warriors-definitive-edition-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action"
       ],
@@ -3690,6 +3864,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000005062/6f9a4a446deade14cd01e7dbb631430a8b518a8aa82b0bb08d6fbaef3fe846be",
       "url": "https://www.nintendo.com/us/store/products/captain-toad-treasure-tracker-and-captain-toad-treasure-tracker-special-episode-bundle-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -3708,6 +3883,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000000392/f904982d4ad208926f0ae354b7295548d37ae4389e78192fae941fbd0e94f46b",
       "url": "https://www.nintendo.com/us/store/products/arms-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Fighting"
       ],
@@ -3728,6 +3904,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000061846/73f01ba2458a1430673d64b58bd0b21e2cb6b3e64859a520bd0b93de615aed91",
       "url": "https://www.nintendo.com/us/store/products/bayonetta-origins-cereza-and-the-lost-demon-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure"
@@ -3751,6 +3928,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000000661/54c1bf81827fa82f8579cf6e21a862f986e45fc959ea416599d6390658164084",
       "url": "https://www.nintendo.com/us/store/products/xenoblade-chronicles-2-and-xenoblade-chronicles-2-expansion-pass-bundle-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -3769,6 +3947,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000036178/75a5df3b314531faa70f995fb295a963bea956b31beee73fdcdd18b67a6824dc",
       "url": "https://www.nintendo.com/us/store/products/part-time-ufo-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action"
       ],
@@ -3789,6 +3968,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000022886/4cc700847727251141aa17904ff38d3e7fcab78b3523fc4dc2de79b5244fd692",
       "url": "https://www.nintendo.com/us/store/products/tokyo-mirage-sessions-fe-encore-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Role playing"
       ],
@@ -3809,6 +3989,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000038617/826f45c7fa28f11053147cafe8f3a49133daa9febffeccda87841e7471daddf4",
       "url": "https://www.nintendo.com/us/store/products/miitopia-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Role playing"
       ],
@@ -3829,6 +4010,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000018692/ecd42f1587157db653aed3777cf0935b1e98154e7f15f82c4ba14932f3242209",
       "url": "https://www.nintendo.com/us/store/products/boxboy-plus-boxgirl-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Puzzle"
@@ -3852,6 +4034,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000001721/a85504b475761ae6a889366530dee7752f0c4987ff95182439a2d5f0bb8432e8",
       "url": "https://www.nintendo.com/us/store/products/snipperclips-cut-it-out-together-dlc-70050000001721-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -3870,6 +4053,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000022293/0c72861c5131fd5e3ed5cf54dbb18acc0b42b3065dec9187372bb1490a83318c",
       "url": "https://www.nintendo.com/us/store/products/cadence-of-hyrule-melody-pack-70050000022293-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -3888,6 +4072,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000022294/60bba59a645adcf55a7d106f1721c5329be44e070f8f7d28f77deb9dbf8e3589",
       "url": "https://www.nintendo.com/us/store/products/cadence-of-hyrule-symphony-of-the-mask-70050000022294-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -3906,6 +4091,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000010944/78c8efe437f5b22d1f63a695b23f17fbe46b181f38eadb5d8c7cbb509e677b99",
       "url": "https://www.nintendo.com/us/store/products/cadence-of-hyrule-season-pass-70070000010944-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -3924,6 +4110,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000000644/ae576c430a16ff5ba985307593d02b01f7f636c7959013413391b7dce4222e58",
       "url": "https://www.nintendo.com/us/store/products/xenoblade-chronicles-2-expansion-pass-70070000000644-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -3942,6 +4129,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000000707/4cd12c9f2233dc671d0ac2bc208f8551d1d0b62c956d6d477585bb42c1ef09ea",
       "url": "https://www.nintendo.com/us/store/products/xenoblade-chronicles-2-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Role playing"
@@ -3963,6 +4151,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000002722/7d17e538e855a6214e27ce1eb782068d09bffa6ccbc75fb7a4e61773040c1ab5",
       "url": "https://www.nintendo.com/us/store/products/captain-toad-treasure-tracker-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure",
@@ -3985,6 +4174,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000005061/9965d3b6705679296249992ccb9445edb68c46f00072ecb2fe89a132e7512c39",
       "url": "https://www.nintendo.com/us/store/products/captain-toad-treasure-tracker-special-episode-70070000005061-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -4003,6 +4193,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000014643/2cd6072f7ee702a04b90b3f7ddc3767101d1e7fdbfcafee70feb1ba98f7fe21a",
       "url": "https://www.nintendo.com/us/store/products/xenoblade-chronicles-3-expansion-pass-70070000014643-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -4021,6 +4212,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000027619/9989957eae3a6b545194c42fec2071675c34aadacd65e6b33fdfe7b3b6a86c3a",
       "url": "https://www.nintendo.com/us/store/products/animal-crossing-new-horizons-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Simulation"
       ],
@@ -4041,6 +4233,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000030669/0cc4c2382ba7c7d6a9f0471e9b8ab155ff754cc97735c32289133c8b83141eb5",
       "url": "https://www.nintendo.com/us/store/products/animal-crossing-new-horizons-happy-home-paradise-70050000030669-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -4059,6 +4252,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000000041/2e95a9a33f95a2c3efc7b695ca384d215e30dce6c49fac808cbb4965db288a3a",
       "url": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-breath-of-the-wild-expansion-pass-70070000000041-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -4077,6 +4271,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000000025/7137262b5a64d921e193653f8aa0b722925abc5680380ca0e18a5cfd91697f58",
       "url": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-breath-of-the-wild-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure"
@@ -4098,6 +4293,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000029721/9164bffd7430328a007d9fa1db59b331bcaea8a8c9b6fcc176f089a909a9da21",
       "url": "https://www.nintendo.com/us/store/products/good-job-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Puzzle"
@@ -4121,6 +4317,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000000141/ed7d64a9ec942a31e364c16d9501628216f835539ee05d1ff510b270d50b3d3b",
       "url": "https://www.nintendo.com/us/store/products/1-2-switch-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Party"
@@ -4142,6 +4339,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000068159/de4985f3b03b7b50565be4b906ded22186f8365cc8c25bcbe1ed76882df39a17",
       "url": "https://www.nintendo.com/us/store/products/everybody-1-2-switch-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Party"
@@ -4165,6 +4363,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000006263/a4fde9142e565a9134cdfa130dda541f9490ff91ece7bdc439e905c2afae9a69",
       "url": "https://www.nintendo.com/us/store/products/dragon-quest-builders-2-plus-season-pass-bundle-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -4183,6 +4382,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000009167/aa76ed4ae6eed8a8160643e1ff1b9f964468270b9ed6a26fdae8bb4f91576ba1",
       "url": "https://www.nintendo.com/us/store/products/dragon-quest-builders-2-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Role playing"
@@ -4206,6 +4406,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000013723/ba4f55994f843c768d99cfd84c3db85277d389fe13e19776e2a59c0d278ff9b4",
       "url": "https://www.nintendo.com/us/store/products/mario-kart-8-deluxe-booster-course-pass-70070000013723-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -4224,6 +4425,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000000153/de697f487a36d802dd9a5ff0341f717c8486221f2f1219b675af37aca63bc453",
       "url": "https://www.nintendo.com/us/store/products/mario-kart-8-deluxe-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Party",
         "Racing"
@@ -4245,6 +4447,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000011785/47a980ab559ada573b72477b65410ee3c0077e1bccab2a0bc0ada39671ffc55f",
       "url": "https://www.nintendo.com/us/store/products/hyrule-warriors-age-of-calamity-expansion-pass-70070000011785-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -4263,6 +4466,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000060109/1cb8edfcea881f4643f020317a7a2f46bafbc3fd5a7599d15b6fe3810301c6a8",
       "url": "https://www.nintendo.com/us/store/products/dragon-ball-sparking-zero-dragon-ball-daima-character-pack-1-70050000060109-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -4281,6 +4485,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70050000060110/19ae79b3ae3be7f27cc6f36fb62b11c9b17789ca4cf70b194fb2db2c9b2d409c",
       "url": "https://www.nintendo.com/us/store/products/dragon-ball-sparking-zero-dragon-ball-daima-character-pack-1-70050000060110-switch-2/",
       "on_sale": true,
+      "platform": "Nintendo Switch 2",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -4299,6 +4504,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000060111/882cc91ea70e4cd9410b2096b575ac6cedb20685fb64daa1c93aeb395e64f0f7",
       "url": "https://www.nintendo.com/us/store/products/dragon-ball-sparking-zero-dragon-ball-daima-character-pack-2-70050000060111-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -4317,6 +4523,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70050000060112/339325ed14d2617db059ea4e1b222582dca5396d9560555518f15ad4921e569c",
       "url": "https://www.nintendo.com/us/store/products/dragon-ball-sparking-zero-dragon-ball-daima-character-pack-2-70050000060112-switch-2/",
       "on_sale": true,
+      "platform": "Nintendo Switch 2",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -4335,6 +4542,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000060113/41e131683e1a249067e893d9baf5641a6e75d3a30555301e7b74321cf217a1b4",
       "url": "https://www.nintendo.com/us/store/products/dragon-ball-sparking-zero-shallot-dragon-ball-legends-70050000060113-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -4353,6 +4561,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70050000060114/f5ad6f5515f7869912ab10deeeb835a9b0d958c1efe7c602a276372ecd3eed5c",
       "url": "https://www.nintendo.com/us/store/products/dragon-ball-sparking-zero-shallot-dragon-ball-legends-70050000060114-switch-2/",
       "on_sale": true,
+      "platform": "Nintendo Switch 2",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -4371,6 +4580,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000110953/7c5bcf1b1cd2d27c72326bd6c6c6f7f631a7b968d9fbb429c0eed11849c8bc1d",
       "url": "https://www.nintendo.com/us/store/products/digimon-story-time-stranger-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Role playing"
       ],
@@ -4391,6 +4601,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000111119/7c5bcf1b1cd2d27c72326bd6c6c6f7f631a7b968d9fbb429c0eed11849c8bc1d",
       "url": "https://www.nintendo.com/us/store/products/digimon-story-time-stranger-switch-2/",
       "on_sale": true,
+      "platform": "Nintendo Switch 2",
       "genres": [
         "Role playing"
       ],
@@ -4411,6 +4622,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70070000034260/765736f9363724dcbb8893cd1c93280d19400a7b394b8ff39eb953ffa5557b27",
       "url": "https://www.nintendo.com/us/store/products/tales-of-arise-beyond-the-dawn-premium-edition-switch-2/",
       "on_sale": true,
+      "platform": "Nintendo Switch 2",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -4429,6 +4641,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70050000070403/16b77edff174912e5cfca8eacdeeb595a921a1f4e8a01c3b6b1d5c7d565756ef",
       "url": "https://www.nintendo.com/us/store/products/tales-of-arise-sao-collaboration-pack-70050000070403-switch-2/",
       "on_sale": true,
+      "platform": "Nintendo Switch 2",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -4447,6 +4660,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000055672/ecb8172ad1c1431d31b47b6bc3d0d3d660b5ec469e9975812a3cb40c0f4b7ea8",
       "url": "https://www.nintendo.com/us/store/products/dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-part-2-70050000055672-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -4465,6 +4679,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000012493/32161f9df4d4522f9537a090407837bdd28b040776badfce33986b7687019c84",
       "url": "https://www.nintendo.com/us/store/products/doom-eternal-the-ancient-gods-expansion-pass-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -4483,6 +4698,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000097756/29e212a61e622133e16904cc8dcb80fe1df1f52b3beb53d5e1ba5bc0d64736a6",
       "url": "https://www.nintendo.com/us/store/products/monster-hunter-stories-3-twisted-reflection-switch-2/",
       "on_sale": true,
+      "platform": "Nintendo Switch 2",
       "genres": [
         "Role playing"
       ],
@@ -4503,6 +4719,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000101675/b7c59ded4fdfce429349bbc9eaf83beb37fb3363c178091cf44c7df2e7e6d985",
       "url": "https://www.nintendo.com/us/store/products/resident-evil-requiem-switch-2/",
       "on_sale": true,
+      "platform": "Nintendo Switch 2",
       "genres": [
         "Action",
         "Adventure",
@@ -4527,6 +4744,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000015540/a1a56b7fbbf5b7a7278d3ae8251c7ec4ecce7e511b4ee4f9146079cde5c58416",
       "url": "https://www.nintendo.com/us/store/products/crisis-core-final-fantasy-vii-reunion-digital-deluxe-edition-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Application",
@@ -4549,6 +4767,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000033405/4201d7cdb64d8510b39f8f471a4ee3b7cec7e1c4d31cd1b3bbfd56d3b44bf9d2",
       "url": "https://www.nintendo.com/us/store/products/digimon-story-time-stranger-ultimate-edition-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -4567,6 +4786,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70070000033406/4201d7cdb64d8510b39f8f471a4ee3b7cec7e1c4d31cd1b3bbfd56d3b44bf9d2",
       "url": "https://www.nintendo.com/us/store/products/digimon-story-time-stranger-ultimate-edition-switch-2/",
       "on_sale": true,
+      "platform": "Nintendo Switch 2",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -4585,6 +4805,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000101665/3a8331b2f7b73d1fdb9b92dd9afdb2aff9602f1d89a9cfa171bf2561e480076e",
       "url": "https://www.nintendo.com/us/store/products/pragmata-switch-2/",
       "on_sale": true,
+      "platform": "Nintendo Switch 2",
       "genres": [
         "Action",
         "Adventure",
@@ -4609,6 +4830,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70070000032339/5d67556d0bd55ccc4d78079d2e8b6f5bb1e0fd8333bb1544a06309c461b7b7dd",
       "url": "https://www.nintendo.com/us/store/products/pragmata-deluxe-edition-switch-2/",
       "on_sale": true,
+      "platform": "Nintendo Switch 2",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -4627,6 +4849,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70050000064325/e10170ce5cfb83fe0588fe386addef5f282fa9160c7fea403ca0325090253d18",
       "url": "https://www.nintendo.com/us/store/products/resident-evil-requiem-deluxe-kit-70050000064325-switch-2/",
       "on_sale": true,
+      "platform": "Nintendo Switch 2",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -4645,6 +4868,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000125648/57100370fbd0513372146078e67daac7d1ca3574dd6439f6cca69cdb33aaf3ba",
       "url": "https://www.nintendo.com/us/store/products/puppergeist-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action"
       ],
@@ -4667,6 +4891,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70070000038015/d0c7d55aad14c2c8f9e4e361f17e10bdb5f39a04bf4dd4a5632229ca45189586",
       "url": "https://www.nintendo.com/us/store/products/the-elder-scrolls-iv-oblivion-remastered-deluxe-edition-switch-2/",
       "on_sale": true,
+      "platform": "Nintendo Switch 2",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -4685,6 +4910,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70050000061738/968a3f978570d7bd3e63d8fa99f22eac9d0322894ffa7406445444264237f87a",
       "url": "https://www.nintendo.com/us/store/products/the-elder-scrolls-iv-oblivion-remastered-deluxe-edition-upgrade-70050000061738-switch-2/",
       "on_sale": true,
+      "platform": "Nintendo Switch 2",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -4703,6 +4929,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000117868/a05f0c8aa2a167af9899efc78a498d69bc9e69dd30f38a490d79f83ed949ddbd",
       "url": "https://www.nintendo.com/us/store/products/fountains-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action"
       ],
@@ -4725,6 +4952,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000077738/bd05900c17c3c1f633f4a748bfd823203167cbf3833ac69f747aa43ac7f40699",
       "url": "https://www.nintendo.com/us/store/products/fountains-shattered-shape-70050000077738-switch/",
       "on_sale": true,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -4743,6 +4971,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000029035/52f1799d32072107f9f0ecad96fb833c4a0850b7e1cc6b1c7ca630b9f89dd2a0",
       "url": "https://www.nintendo.com/us/store/products/crash-bandicoot-4-its-about-time-switch/",
       "on_sale": false,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action"
       ],
@@ -4765,6 +4994,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000002090/ecfc64f339579b17ed8d12d5bdb4acd0cad2811cb2ff7dd0a02ce7e512c2d26a",
       "url": "https://www.nintendo.com/us/store/products/crash-bandicoot-n-sane-trilogy-switch/",
       "on_sale": false,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure"
@@ -4788,6 +5018,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000016211/54604e9a2dfd69c7cacef0faf07b2189b9f31c746655590e011a533eb7f79b8d",
       "url": "https://www.nintendo.com/us/store/products/crash-team-racing-nitro-fueled-switch/",
       "on_sale": false,
+      "platform": "Nintendo Switch",
       "genres": [
         "Party",
         "Racing"
@@ -4811,6 +5042,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000005723/da8fbfdb0b8106223e51bb6dd8dafe7c1836fac4e3458106a7ca2a8a9644acae",
       "url": "https://www.nintendo.com/us/store/products/crash-team-racing-nitro-fueled-nitros-oxide-edition-switch/",
       "on_sale": false,
+      "platform": "Nintendo Switch",
       "genres": [],
       "developers": [],
       "publishers": [
@@ -4829,6 +5061,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000012572/3bac8c579466c1ceff34d14281bf88cf4d7c354cdc9d37cac24782109c5853b5",
       "url": "https://www.nintendo.com/us/store/products/crash-bandicoot-crashiversary-bundle-switch/",
       "on_sale": false,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure",
@@ -4852,6 +5085,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000012571/ae6b305e4a916dcac621f47010120467c4269d6030afe58186d4a42d5e013901",
       "url": "https://www.nintendo.com/us/store/products/crash-bandicoot-quadrilogy-bundle-switch/",
       "on_sale": false,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Adventure"
@@ -4873,6 +5107,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000021451/f43df7d34be1b2a65c5cd1d14bd7c90737de956f06f2bb0a115a0cee5689481e",
       "url": "https://www.nintendo.com/us/store/products/dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition-switch/",
       "on_sale": false,
+      "platform": "Nintendo Switch",
       "genres": [
         "Role playing"
       ],
@@ -4893,6 +5128,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000047396/00199b0e5617a84abf68e8a03416fe68ab0230beb4c226d2673738eedc065dea",
       "url": "https://www.nintendo.com/us/store/products/kingdom-hearts-hd-1-5-plus-2-5-remix-cloud-version-switch/",
       "on_sale": false,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Role playing"
@@ -4914,6 +5150,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000047400/256ec222d21015df55ba8b50dde89e17155a3cfa262c1e91fe26e751a528928f",
       "url": "https://www.nintendo.com/us/store/products/kingdom-hearts-hd-2-8-final-chapter-prologue-cloud-version-switch/",
       "on_sale": false,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Role playing"
@@ -4935,6 +5172,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000013474/54474cc7851dc42811a0bb9f7ea0c05b213095a2c49dc7ec47b16fd86e0d2d9b",
       "url": "https://www.nintendo.com/us/store/products/kingdom-hearts-integrum-masterpiece-for-cloud-switch/",
       "on_sale": false,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Role playing"
@@ -4956,6 +5194,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000046804/f643f03970266f3feebae8d0803e7d3f5fe6b73386b35d819c2b11f4dba6eada",
       "url": "https://www.nintendo.com/us/store/products/kingdom-hearts-iii-plus-re-mind-dlc-cloud-version-switch/",
       "on_sale": false,
+      "platform": "Nintendo Switch",
       "genres": [
         "Action",
         "Role playing"
@@ -4977,6 +5216,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000001618/17b1bccde39bf55b302e5f9c0d69791f418bbd896243811ca3d129c5eab6426d",
       "url": "https://www.nintendo.com/us/store/products/octopath-traveler-switch/",
       "on_sale": false,
+      "platform": "Nintendo Switch",
       "genres": [
         "Role playing"
       ],
@@ -4999,6 +5239,7 @@
       "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000058128/1e6e0b547a00e768e9c67263fedd6c34be54521169b7eb597892767bc72113b4",
       "url": "https://www.nintendo.com/us/store/products/octopath-traveler-ii-switch/",
       "on_sale": false,
+      "platform": "Nintendo Switch",
       "genres": [
         "Role playing"
       ],

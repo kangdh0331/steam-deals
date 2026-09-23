@@ -30,6 +30,7 @@ const meta = document.getElementById('meta');
 const search = document.getElementById('search');
 const genreFilter = document.getElementById('genreFilter');
 const publisherFilter = document.getElementById('publisherFilter');
+const platformFilter = document.getElementById('platformFilter'); // 닌텐도 페이지에만 있음
 const discountFilter = document.getElementById('discountFilter');
 const sortSelect = document.getElementById('sort');
 const limitInput = document.getElementById('limitInput');
@@ -74,6 +75,23 @@ function populateGenreFilter() {
     genreFilter.appendChild(opt);
   }
   if (genres.has(current)) genreFilter.value = current;
+}
+
+function populatePlatformFilter() {
+  if (!platformFilter) return;
+  const platforms = new Set();
+  for (const d of deals) {
+    if (d.platform) platforms.add(d.platform);
+  }
+  const current = platformFilter.value;
+  platformFilter.innerHTML = '<option value="">전체 기종</option>';
+  for (const p of [...platforms].sort((a, b) => a.localeCompare(b, 'ko'))) {
+    const opt = document.createElement('option');
+    opt.value = p;
+    opt.textContent = p;
+    platformFilter.appendChild(opt);
+  }
+  if (platforms.has(current)) platformFilter.value = current;
 }
 
 function populatePublisherFilter() {
@@ -144,6 +162,7 @@ function render() {
   if (minDiscount > 0) list = list.filter(d => d.discount_percent >= minDiscount);
   if (genre) list = list.filter(d => (d.genres || []).includes(genre));
   if (publisher) list = list.filter(d => companyNames(d).includes(publisher));
+  if (platformFilter && platformFilter.value) list = list.filter(d => d.platform === platformFilter.value);
 
   const sortKey = sortSelect.value;
   list = list.slice().sort((a, b) => {
@@ -262,6 +281,7 @@ async function load(forceRefresh) {
     meta.textContent = `할인 중인 게임 ${saleCount}개 (검색 가능 ${deals.length}개) · 마지막 갱신: ${fetchedAt}`;
     populateGenreFilter();
     populatePublisherFilter();
+    populatePlatformFilter();
     render();
   } catch (err) {
     meta.textContent = `불러오기 실패: ${err.message}`;
@@ -279,6 +299,7 @@ function debounce(fn, delayMs) {
 search.addEventListener('input', debounce(render, 150));
 genreFilter.addEventListener('change', render);
 publisherFilter.addEventListener('change', render);
+if (platformFilter) platformFilter.addEventListener('change', render);
 discountFilter.addEventListener('change', render);
 sortSelect.addEventListener('change', render);
 limitInput.addEventListener('input', render);
@@ -287,6 +308,7 @@ homeLink.addEventListener('click', () => {
   search.value = '';
   genreFilter.value = '';
   publisherFilter.value = '';
+  if (platformFilter) platformFilter.value = '';
   discountFilter.value = '0';
   sortSelect.value = 'discount_desc';
   limitInput.value = '';

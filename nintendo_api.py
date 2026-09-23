@@ -43,6 +43,7 @@ def _parse_item(item):
         "image": f"{IMAGE_BASE}/{public_id}" if public_id else None,
         "url": f"{STORE_BASE}/{url_key}/" if url_key else STORE_BASE,
         "on_sale": bool(prices.get("discounted")) and discount_percent > 0,
+        "platform": item.get("fullNamePlatform") or item.get("platform") or "",
         "genres": item.get("gameGenreLabels") or [],
         "developers": [item["softwareDeveloper"]] if item.get("softwareDeveloper") else [],
         "publishers": [item["softwarePublisher"]] if item.get("softwarePublisher") else [],
