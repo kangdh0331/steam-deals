@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1790123189.0311933,
+  "fetched_at": 1790131845.7075765,
   "deals": [
     {
       "appid": 447040,
@@ -9,7 +9,11 @@
       "final_price": 3250,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447040/capsule_231x87.jpg?t=1751986887",
-      "url": "https://store.steampowered.com/app/447040"
+      "url": "https://store.steampowered.com/app/447040",
+      "genres": [
+        "액션",
+        "어드벤처"
+      ]
     },
     {
       "appid": 1924170,
@@ -19,7 +23,12 @@
       "final_price": 2650,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1924170/capsule_231x87.jpg?t=1764149285",
-      "url": "https://store.steampowered.com/app/1924170"
+      "url": "https://store.steampowered.com/app/1924170",
+      "genres": [
+        "레이싱",
+        "시뮬레이션",
+        "스포츠"
+      ]
     },
     {
       "appid": 460920,
@@ -29,7 +38,11 @@
       "final_price": 1650,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460920/capsule_231x87.jpg?t=1777994343",
-      "url": "https://store.steampowered.com/app/460920"
+      "url": "https://store.steampowered.com/app/460920",
+      "genres": [
+        "액션",
+        "스포츠"
+      ]
     },
     {
       "appid": 2369390,
@@ -39,7 +52,11 @@
       "final_price": 6500,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2369390/0155dcf6a44343b85e682b48648d95716f92a5c6/capsule_231x87.jpg?t=1785280646",
-      "url": "https://store.steampowered.com/app/2369390"
+      "url": "https://store.steampowered.com/app/2369390",
+      "genres": [
+        "액션",
+        "어드벤처"
+      ]
     },
     {
       "appid": 2221490,
@@ -49,7 +66,12 @@
       "final_price": 3400,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2221490/1685cec00a5ce1da5b0faac4f28bb32e10fc5230/capsule_231x87_alt_assets_10_koreana.jpg?t=1789663725",
-      "url": "https://store.steampowered.com/app/2221490"
+      "url": "https://store.steampowered.com/app/2221490",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ]
     },
     {
       "appid": 304390,
@@ -59,7 +81,10 @@
       "final_price": 3400,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304390/71e05e5cc0e04b93466aacbdb10525d0be730dd3/capsule_231x87_alt_assets_11.jpg?t=1790099226",
-      "url": "https://store.steampowered.com/app/304390"
+      "url": "https://store.steampowered.com/app/304390",
+      "genres": [
+        "액션"
+      ]
     },
     {
       "appid": 2290180,
@@ -69,7 +94,11 @@
       "final_price": 4550,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2290180/08b6b879baa6e345bd4f57ef656b35dffd4dc828/capsule_231x87.jpg?t=1782492474",
-      "url": "https://store.steampowered.com/app/2290180"
+      "url": "https://store.steampowered.com/app/2290180",
+      "genres": [
+        "대규모 멀티플레이어",
+        "스포츠"
+      ]
     },
     {
       "appid": 489630,
@@ -79,7 +108,10 @@
       "final_price": 4200,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489630/7db6a6cc6410a5d9e0c3c3b40a9ddb2b74bf575c/capsule_231x87.jpg?t=1779382255",
-      "url": "https://store.steampowered.com/app/489630"
+      "url": "https://store.steampowered.com/app/489630",
+      "genres": [
+        "전략"
+      ]
     },
     {
       "appid": 243470,
@@ -89,57 +121,11 @@
       "final_price": 2240,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/243470/capsule_231x87.jpg?t=1739177057",
-      "url": "https://store.steampowered.com/app/243470"
-    },
-    {
-      "appid": 960990,
-      "name": "Beyond: Two Souls",
-      "discount_percent": 90,
-      "original_price": 21500,
-      "final_price": 2150,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960990/capsule_231x87.jpg?t=1667468566",
-      "url": "https://store.steampowered.com/app/960990"
-    },
-    {
-      "appid": 1238810,
-      "name": "Battlefield™ V",
-      "discount_percent": 90,
-      "original_price": 55000,
-      "final_price": 5500,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/capsule_231x87.jpg?t=1772707365",
-      "url": "https://store.steampowered.com/app/1238810"
-    },
-    {
-      "appid": 397540,
-      "name": "보더랜드 3",
-      "discount_percent": 90,
-      "original_price": 64900,
-      "final_price": 6490,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397540/capsule_231x87.jpg?t=1750802377",
-      "url": "https://store.steampowered.com/app/397540"
-    },
-    {
-      "appid": 2221920,
-      "name": "Immortals Fenyx Rising",
-      "discount_percent": 90,
-      "original_price": 45500,
-      "final_price": 4550,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2221920/capsule_231x87.jpg?t=1778099749",
-      "url": "https://store.steampowered.com/app/2221920"
-    },
-    {
-      "appid": 1238840,
-      "name": "Battlefield™ 1",
-      "discount_percent": 90,
-      "original_price": 44000,
-      "final_price": 4400,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238840/capsule_231x87.jpg?t=1777324289",
-      "url": "https://store.steampowered.com/app/1238840"
+      "url": "https://store.steampowered.com/app/243470",
+      "genres": [
+        "액션",
+        "어드벤처"
+      ]
     },
     {
       "appid": 365590,
@@ -149,17 +135,12 @@
       "final_price": 3300,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365590/669d04e17f4f30a6e1eaab016956dc09ab23ea0d/capsule_231x87.jpg?t=1782421726",
-      "url": "https://store.steampowered.com/app/365590"
-    },
-    {
-      "appid": 1222680,
-      "name": "Need for Speed™ Heat",
-      "discount_percent": 90,
-      "original_price": 77000,
-      "final_price": 7700,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222680/capsule_231x87.jpg?t=1777414224",
-      "url": "https://store.steampowered.com/app/1222680"
+      "url": "https://store.steampowered.com/app/365590",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ]
     },
     {
       "appid": 1517290,
@@ -169,7 +150,98 @@
       "final_price": 6600,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/capsule_231x87.jpg?t=1777324359",
-      "url": "https://store.steampowered.com/app/1517290"
+      "url": "https://store.steampowered.com/app/1517290",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "캐주얼"
+      ]
+    },
+    {
+      "appid": 397540,
+      "name": "보더랜드 3",
+      "discount_percent": 90,
+      "original_price": 64900,
+      "final_price": 6490,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397540/capsule_231x87.jpg?t=1750802377",
+      "url": "https://store.steampowered.com/app/397540",
+      "genres": [
+        "액션",
+        "RPG"
+      ]
+    },
+    {
+      "appid": 1222680,
+      "name": "Need for Speed™ Heat",
+      "discount_percent": 90,
+      "original_price": 77000,
+      "final_price": 7700,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222680/capsule_231x87.jpg?t=1777414224",
+      "url": "https://store.steampowered.com/app/1222680",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "레이싱",
+        "스포츠"
+      ]
+    },
+    {
+      "appid": 960990,
+      "name": "Beyond: Two Souls",
+      "discount_percent": 90,
+      "original_price": 21500,
+      "final_price": 2150,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960990/capsule_231x87.jpg?t=1667468566",
+      "url": "https://store.steampowered.com/app/960990",
+      "genres": [
+        "액션",
+        "어드벤처"
+      ]
+    },
+    {
+      "appid": 1238810,
+      "name": "Battlefield™ V",
+      "discount_percent": 90,
+      "original_price": 55000,
+      "final_price": 5500,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/capsule_231x87.jpg?t=1772707365",
+      "url": "https://store.steampowered.com/app/1238810",
+      "genres": [
+        "액션"
+      ]
+    },
+    {
+      "appid": 1238840,
+      "name": "Battlefield™ 1",
+      "discount_percent": 90,
+      "original_price": 44000,
+      "final_price": 4400,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238840/capsule_231x87.jpg?t=1777324289",
+      "url": "https://store.steampowered.com/app/1238840",
+      "genres": [
+        "액션",
+        "대규모 멀티플레이어"
+      ]
+    },
+    {
+      "appid": 2221920,
+      "name": "Immortals Fenyx Rising",
+      "discount_percent": 90,
+      "original_price": 45500,
+      "final_price": 4550,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2221920/capsule_231x87.jpg?t=1778099749",
+      "url": "https://store.steampowered.com/app/2221920",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ]
     },
     {
       "appid": 960910,
@@ -179,7 +251,11 @@
       "final_price": 2150,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960910/capsule_231x87.jpg?t=1675271942",
-      "url": "https://store.steampowered.com/app/960910"
+      "url": "https://store.steampowered.com/app/960910",
+      "genres": [
+        "액션",
+        "어드벤처"
+      ]
     },
     {
       "appid": 466130,
@@ -189,7 +265,12 @@
       "final_price": 3200,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/466130/capsule_231x87.jpg?t=1741786299",
-      "url": "https://store.steampowered.com/app/466130"
+      "url": "https://store.steampowered.com/app/466130",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "인디"
+      ]
     },
     {
       "appid": 1238860,
@@ -199,7 +280,37 @@
       "final_price": 4400,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238860/capsule_231x87.jpg?t=1777391884",
-      "url": "https://store.steampowered.com/app/1238860"
+      "url": "https://store.steampowered.com/app/1238860",
+      "genres": [
+        "액션"
+      ]
+    },
+    {
+      "appid": 1577120,
+      "name": "쿼리",
+      "discount_percent": 90,
+      "original_price": 76000,
+      "final_price": 7600,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1577120/capsule_231x87.jpg?t=1730303267",
+      "url": "https://store.steampowered.com/app/1577120",
+      "genres": [
+        "어드벤처"
+      ]
+    },
+    {
+      "appid": 1846380,
+      "name": "Need for Speed™ Unbound",
+      "discount_percent": 86,
+      "original_price": 77000,
+      "final_price": 10780,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1846380/47534db1bb0532e01853242282f85ddfd37dee1a/capsule_231x87.jpg?t=1777394467",
+      "url": "https://store.steampowered.com/app/1846380",
+      "genres": [
+        "액션",
+        "레이싱"
+      ]
     },
     {
       "appid": 617290,
@@ -209,7 +320,12 @@
       "final_price": 6150,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617290/capsule_231x87.jpg?t=1764657526",
-      "url": "https://store.steampowered.com/app/617290"
+      "url": "https://store.steampowered.com/app/617290",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ]
     },
     {
       "appid": 582160,
@@ -219,7 +335,12 @@
       "final_price": 9750,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582160/capsule_231x87.jpg?t=1786633036",
-      "url": "https://store.steampowered.com/app/582160"
+      "url": "https://store.steampowered.com/app/582160",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ]
     },
     {
       "appid": 552520,
@@ -229,17 +350,11 @@
       "final_price": 9750,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/49aaa75a53de446d83429fe94920a8a9348ecf62/capsule_231x87.jpg?t=1785365694",
-      "url": "https://store.steampowered.com/app/552520"
-    },
-    {
-      "appid": 1237970,
-      "name": "Titanfall® 2",
-      "discount_percent": 85,
-      "original_price": 33000,
-      "final_price": 4950,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237970/capsule_231x87.jpg?t=1779987598",
-      "url": "https://store.steampowered.com/app/1237970"
+      "url": "https://store.steampowered.com/app/552520",
+      "genres": [
+        "액션",
+        "어드벤처"
+      ]
     },
     {
       "appid": 1774580,
@@ -249,7 +364,24 @@
       "final_price": 11550,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1774580/capsule_231x87.jpg?t=1788257050",
-      "url": "https://store.steampowered.com/app/1774580"
+      "url": "https://store.steampowered.com/app/1774580",
+      "genres": [
+        "액션",
+        "어드벤처"
+      ]
+    },
+    {
+      "appid": 1237970,
+      "name": "Titanfall® 2",
+      "discount_percent": 85,
+      "original_price": 33000,
+      "final_price": 4950,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237970/capsule_231x87.jpg?t=1779987598",
+      "url": "https://store.steampowered.com/app/1237970",
+      "genres": [
+        "액션"
+      ]
     },
     {
       "appid": 2239550,
@@ -259,7 +391,11 @@
       "final_price": 9750,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239550/capsule_231x87.jpg?t=1788548571",
-      "url": "https://store.steampowered.com/app/2239550"
+      "url": "https://store.steampowered.com/app/2239550",
+      "genres": [
+        "액션",
+        "어드벤처"
+      ]
     },
     {
       "appid": 1242980,
@@ -269,7 +405,27 @@
       "final_price": 3900,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1242980/capsule_231x87.jpg?t=1715615079",
-      "url": "https://store.steampowered.com/app/1242980"
+      "url": "https://store.steampowered.com/app/1242980",
+      "genres": [
+        "캐주얼",
+        "인디"
+      ]
+    },
+    {
+      "appid": 629820,
+      "name": "Maneater",
+      "discount_percent": 85,
+      "original_price": 41000,
+      "final_price": 6150,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629820/capsule_231x87.jpg?t=1789673023",
+      "url": "https://store.steampowered.com/app/629820",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "인디",
+        "RPG"
+      ]
     },
     {
       "appid": 1282100,
@@ -279,7 +435,12 @@
       "final_price": 10600,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1282100/capsule_231x87.jpg?t=1764659459",
-      "url": "https://store.steampowered.com/app/1282100"
+      "url": "https://store.steampowered.com/app/1282100",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ]
     },
     {
       "appid": 812140,
@@ -289,7 +450,12 @@
       "final_price": 13000,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812140/capsule_231x87.jpg?t=1786633104",
-      "url": "https://store.steampowered.com/app/812140"
+      "url": "https://store.steampowered.com/app/812140",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ]
     },
     {
       "appid": 1222140,
@@ -299,7 +465,11 @@
       "final_price": 9100,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/capsule_231x87.jpg?t=1667468479",
-      "url": "https://store.steampowered.com/app/1222140"
+      "url": "https://store.steampowered.com/app/1222140",
+      "genres": [
+        "액션",
+        "어드벤처"
+      ]
     },
     {
       "appid": 599140,
@@ -309,17 +479,13 @@
       "final_price": 4300,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/599140/cd8cb8097f236a6cfcaa2a08381f31775693fac1/capsule_231x87.jpg?t=1789490186",
-      "url": "https://store.steampowered.com/app/599140"
-    },
-    {
-      "appid": 2208920,
-      "name": "Assassin's Creed Valhalla",
-      "discount_percent": 80,
-      "original_price": 65000,
-      "final_price": 13000,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2208920/capsule_231x87.jpg?t=1786637382",
-      "url": "https://store.steampowered.com/app/2208920"
+      "url": "https://store.steampowered.com/app/599140",
+      "genres": [
+        "어드벤처",
+        "인디",
+        "RPG",
+        "시뮬레이션"
+      ]
     },
     {
       "appid": 534380,
@@ -329,7 +495,27 @@
       "final_price": 13200,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534380/e67370be55f518fbfb3dd41a6718e06ddcded4d2/capsule_231x87.jpg?t=1788258144",
-      "url": "https://store.steampowered.com/app/534380"
+      "url": "https://store.steampowered.com/app/534380",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ]
+    },
+    {
+      "appid": 2208920,
+      "name": "Assassin's Creed Valhalla",
+      "discount_percent": 80,
+      "original_price": 65000,
+      "final_price": 13000,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2208920/capsule_231x87.jpg?t=1786637382",
+      "url": "https://store.steampowered.com/app/2208920",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ]
     },
     {
       "appid": 460930,
@@ -339,7 +525,11 @@
       "final_price": 10960,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460930/068505b164cb0af9bd49aa0627c1dae4831d149b/capsule_231x87.jpg?t=1789566646",
-      "url": "https://store.steampowered.com/app/460930"
+      "url": "https://store.steampowered.com/app/460930",
+      "genres": [
+        "액션",
+        "어드벤처"
+      ]
     },
     {
       "appid": 2231380,
@@ -349,27 +539,11 @@
       "final_price": 13000,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231380/c3198d3208113c6ea52ff68f2ccda869a3716f94/capsule_231x87.jpg?t=1786026109",
-      "url": "https://store.steampowered.com/app/2231380"
-    },
-    {
-      "appid": 2698940,
-      "name": "The Crew Motorfest",
-      "discount_percent": 80,
-      "original_price": 79000,
-      "final_price": 15800,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698940/b10d861da7e81ea1ad0af0283e047c5d08ec86d7/capsule_231x87.jpg?t=1783516305",
-      "url": "https://store.steampowered.com/app/2698940"
-    },
-    {
-      "appid": 298110,
-      "name": "Far Cry® 4",
-      "discount_percent": 80,
-      "original_price": 33000,
-      "final_price": 6600,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/69d90231217655f7ec20b9592fa761b66fe1df65/capsule_231x87.jpg?t=1785362767",
-      "url": "https://store.steampowered.com/app/298110"
+      "url": "https://store.steampowered.com/app/2231380",
+      "genres": [
+        "액션",
+        "어드벤처"
+      ]
     },
     {
       "appid": 323190,
@@ -379,7 +553,38 @@
       "final_price": 6400,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323190/45bfdc7f6b60b2acab44cc96c488f938219c42fd/capsule_231x87.jpg?t=1784897899",
-      "url": "https://store.steampowered.com/app/323190"
+      "url": "https://store.steampowered.com/app/323190",
+      "genres": [
+        "시뮬레이션",
+        "전략"
+      ]
+    },
+    {
+      "appid": 2698940,
+      "name": "The Crew Motorfest",
+      "discount_percent": 80,
+      "original_price": 79000,
+      "final_price": 15800,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698940/b10d861da7e81ea1ad0af0283e047c5d08ec86d7/capsule_231x87.jpg?t=1783516305",
+      "url": "https://store.steampowered.com/app/2698940",
+      "genres": [
+        "레이싱"
+      ]
+    },
+    {
+      "appid": 298110,
+      "name": "Far Cry® 4",
+      "discount_percent": 80,
+      "original_price": 33000,
+      "final_price": 6600,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/69d90231217655f7ec20b9592fa761b66fe1df65/capsule_231x87.jpg?t=1785362767",
+      "url": "https://store.steampowered.com/app/298110",
+      "genres": [
+        "액션",
+        "어드벤처"
+      ]
     },
     {
       "appid": 368500,
@@ -389,27 +594,11 @@
       "final_price": 8800,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368500/capsule_231x87.jpg?t=1786632690",
-      "url": "https://store.steampowered.com/app/368500"
-    },
-    {
-      "appid": 527230,
-      "name": "For The King",
-      "discount_percent": 80,
-      "original_price": 20500,
-      "final_price": 4100,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527230/6fcff14bc11c14563d7b4fe3390c59ef193f4d05/capsule_231x87_alt_assets_14.jpg?t=1762445651",
-      "url": "https://store.steampowered.com/app/527230"
-    },
-    {
-      "appid": 346010,
-      "name": "Besiege",
-      "discount_percent": 80,
-      "original_price": 16500,
-      "final_price": 3300,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346010/c0baf8adef0b0c7221d0dc1a0ea7672554d6fa21/capsule_231x87.jpg?t=1785839167",
-      "url": "https://store.steampowered.com/app/346010"
+      "url": "https://store.steampowered.com/app/368500",
+      "genres": [
+        "액션",
+        "어드벤처"
+      ]
     },
     {
       "appid": 939960,
@@ -419,27 +608,41 @@
       "final_price": 9800,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939960/capsule_231x87.jpg?t=1750925197",
-      "url": "https://store.steampowered.com/app/939960"
+      "url": "https://store.steampowered.com/app/939960",
+      "genres": [
+        "액션",
+        "어드벤처"
+      ]
     },
     {
-      "appid": 2175540,
-      "name": "드래곤 퀘스트 몬스터즈 3 마족 왕자와 엘프의 여행",
+      "appid": 527230,
+      "name": "For The King",
       "discount_percent": 80,
-      "original_price": 49800,
-      "final_price": 9960,
+      "original_price": 20500,
+      "final_price": 4100,
       "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2175540/capsule_231x87_koreana.jpg?t=1775105751",
-      "url": "https://store.steampowered.com/app/2175540"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527230/6fcff14bc11c14563d7b4fe3390c59ef193f4d05/capsule_231x87_alt_assets_14.jpg?t=1762445651",
+      "url": "https://store.steampowered.com/app/527230",
+      "genres": [
+        "어드벤처",
+        "인디",
+        "RPG",
+        "전략"
+      ]
     },
     {
-      "appid": 2144740,
-      "name": "고스트러너 2 (Ghostrunner 2)",
+      "appid": 346010,
+      "name": "Besiege",
       "discount_percent": 80,
-      "original_price": 42000,
-      "final_price": 8400,
+      "original_price": 16500,
+      "final_price": 3300,
       "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2144740/capsule_231x87_koreana.jpg?t=1741369902",
-      "url": "https://store.steampowered.com/app/2144740"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346010/c0baf8adef0b0c7221d0dc1a0ea7672554d6fa21/capsule_231x87.jpg?t=1785839167",
+      "url": "https://store.steampowered.com/app/346010",
+      "genres": [
+        "인디",
+        "시뮬레이션"
+      ]
     },
     {
       "appid": 1824220,
@@ -449,7 +652,11 @@
       "final_price": 8200,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1824220/capsule_231x87.jpg?t=1744201613",
-      "url": "https://store.steampowered.com/app/1824220"
+      "url": "https://store.steampowered.com/app/1824220",
+      "genres": [
+        "액션",
+        "대규모 멀티플레이어"
+      ]
     },
     {
       "appid": 2821610,
@@ -459,7 +666,40 @@
       "final_price": 8120,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2821610/e0906141c579cee0ec28d8769838a860377787a4/capsule_231x87.jpg?t=1789052838",
-      "url": "https://store.steampowered.com/app/2821610"
+      "url": "https://store.steampowered.com/app/2821610",
+      "genres": [
+        "액션",
+        "어드벤처"
+      ]
+    },
+    {
+      "appid": 1172380,
+      "name": "스타워즈 제다이: 오더의 몰락™",
+      "discount_percent": 80,
+      "original_price": 44000,
+      "final_price": 8800,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172380/capsule_231x87.jpg?t=1788256986",
+      "url": "https://store.steampowered.com/app/1172380",
+      "genres": [
+        "액션",
+        "어드벤처"
+      ]
+    },
+    {
+      "appid": 2144740,
+      "name": "고스트러너 2 (Ghostrunner 2)",
+      "discount_percent": 80,
+      "original_price": 42000,
+      "final_price": 8400,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2144740/capsule_231x87_koreana.jpg?t=1741369902",
+      "url": "https://store.steampowered.com/app/2144740",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "전략"
+      ]
     },
     {
       "appid": 1525700,
@@ -469,7 +709,39 @@
       "final_price": 3100,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1525700/capsule_231x87.jpg?t=1760183607",
-      "url": "https://store.steampowered.com/app/1525700"
+      "url": "https://store.steampowered.com/app/1525700",
+      "genres": [
+        "시뮬레이션",
+        "전략"
+      ]
+    },
+    {
+      "appid": 990380,
+      "name": "METAL EDEN",
+      "discount_percent": 80,
+      "original_price": 20300,
+      "final_price": 4060,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990380/7351895b7c93b920b0e2861634e659187c6e760f/capsule_231x87.jpg?t=1760540216",
+      "url": "https://store.steampowered.com/app/990380",
+      "genres": [
+        "액션",
+        "어드벤처"
+      ]
+    },
+    {
+      "appid": 228200,
+      "name": "Company of Heroes",
+      "discount_percent": 80,
+      "original_price": 16100,
+      "final_price": 3220,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/228200/capsule_231x87.jpg?t=1777996337",
+      "url": "https://store.steampowered.com/app/228200",
+      "genres": [
+        "액션",
+        "전략"
+      ]
     },
     {
       "appid": 2344520,
@@ -479,7 +751,14 @@
       "final_price": 15600,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2344520/7086c858ce766d047bf357515805eda229d966b0/capsule_231x87.jpg?t=1789491624",
-      "url": "https://store.steampowered.com/app/2344520"
+      "url": "https://store.steampowered.com/app/2344520",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "캐주얼",
+        "대규모 멀티플레이어",
+        "RPG"
+      ]
     },
     {
       "appid": 400750,
@@ -489,17 +768,12 @@
       "final_price": 9370,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400750/518ba193aa22508abb7271d972098bbbc4f9a8d4/capsule_231x87.jpg?t=1764717941",
-      "url": "https://store.steampowered.com/app/400750"
-    },
-    {
-      "appid": 1462040,
-      "name": "FINAL FANTASY VII REMAKE INTERGRADE",
-      "discount_percent": 75,
-      "original_price": 49800,
-      "final_price": 12450,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/ec805ec87558eb40c712c7cca4eabc2e83cb57f7/capsule_231x87.jpg?t=1789446715",
-      "url": "https://store.steampowered.com/app/1462040"
+      "url": "https://store.steampowered.com/app/400750",
+      "genres": [
+        "액션",
+        "시뮬레이션",
+        "전략"
+      ]
     },
     {
       "appid": 728880,
@@ -509,7 +783,27 @@
       "final_price": 6500,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/728880/729e5b5ce6a2c529d104a37baec5bfe555c609e1/capsule_231x87.jpg?t=1789548883",
-      "url": "https://store.steampowered.com/app/728880"
+      "url": "https://store.steampowered.com/app/728880",
+      "genres": [
+        "액션",
+        "캐주얼",
+        "인디"
+      ]
+    },
+    {
+      "appid": 1462040,
+      "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "discount_percent": 75,
+      "original_price": 49800,
+      "final_price": 12450,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/ec805ec87558eb40c712c7cca4eabc2e83cb57f7/capsule_231x87.jpg?t=1789446715",
+      "url": "https://store.steampowered.com/app/1462040",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ]
     },
     {
       "appid": 916440,
@@ -519,7 +813,11 @@
       "final_price": 16250,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916440/capsule_231x87.jpg?t=1778771290",
-      "url": "https://store.steampowered.com/app/916440"
+      "url": "https://store.steampowered.com/app/916440",
+      "genres": [
+        "시뮬레이션",
+        "전략"
+      ]
     },
     {
       "appid": 1850570,
@@ -529,17 +827,11 @@
       "final_price": 11250,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1850570/f98586104479ed55cdb3de18c42b0dc6120691fe/capsule_231x87.jpg?t=1773400635",
-      "url": "https://store.steampowered.com/app/1850570"
-    },
-    {
-      "appid": 632470,
-      "name": "Disco Elysium - The Final Cut",
-      "discount_percent": 75,
-      "original_price": 41000,
-      "final_price": 10250,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/e2afca9fe9b3e70e0da58b3006c893f6d07d10d6/capsule_231x87.jpg?t=1780913406",
-      "url": "https://store.steampowered.com/app/632470"
+      "url": "https://store.steampowered.com/app/1850570",
+      "genres": [
+        "액션",
+        "어드벤처"
+      ]
     },
     {
       "appid": 805550,
@@ -549,17 +841,25 @@
       "final_price": 12000,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/805550/capsule_231x87.jpg?t=1766404577",
-      "url": "https://store.steampowered.com/app/805550"
+      "url": "https://store.steampowered.com/app/805550",
+      "genres": [
+        "레이싱",
+        "시뮬레이션",
+        "스포츠"
+      ]
     },
     {
-      "appid": 2842040,
-      "name": "Star Wars Outlaws",
+      "appid": 632470,
+      "name": "Disco Elysium - The Final Cut",
       "discount_percent": 75,
-      "original_price": 79000,
-      "final_price": 19750,
+      "original_price": 41000,
+      "final_price": 10250,
       "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2842040/9e887b6e39c690a305e509e598a125cbc6b2bd1c/capsule_231x87.jpg?t=1773407100",
-      "url": "https://store.steampowered.com/app/2842040"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/e2afca9fe9b3e70e0da58b3006c893f6d07d10d6/capsule_231x87.jpg?t=1780913406",
+      "url": "https://store.steampowered.com/app/632470",
+      "genres": [
+        "RPG"
+      ]
     },
     {
       "appid": 244210,
@@ -569,7 +869,27 @@
       "final_price": 5120,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244210/d63fc060c13548861637663b085339a4d9a37781/capsule_231x87.jpg?t=1782208838",
-      "url": "https://store.steampowered.com/app/244210"
+      "url": "https://store.steampowered.com/app/244210",
+      "genres": [
+        "인디",
+        "레이싱",
+        "시뮬레이션",
+        "스포츠"
+      ]
+    },
+    {
+      "appid": 2842040,
+      "name": "Star Wars Outlaws",
+      "discount_percent": 75,
+      "original_price": 79000,
+      "final_price": 19750,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2842040/9e887b6e39c690a305e509e598a125cbc6b2bd1c/capsule_231x87.jpg?t=1773407100",
+      "url": "https://store.steampowered.com/app/2842040",
+      "genres": [
+        "액션",
+        "어드벤처"
+      ]
     },
     {
       "appid": 2530980,
@@ -579,7 +899,11 @@
       "final_price": 12450,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2530980/e2c4a15a551332edede4f2c2a516c2ed1cbfd0ca/capsule_231x87_koreana.jpg?t=1739758056",
-      "url": "https://store.steampowered.com/app/2530980"
+      "url": "https://store.steampowered.com/app/2530980",
+      "genres": [
+        "액션",
+        "RPG"
+      ]
     },
     {
       "appid": 2447590,
@@ -589,27 +913,12 @@
       "final_price": 8000,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2447590/capsule_231x87.jpg?t=1762886220",
-      "url": "https://store.steampowered.com/app/2447590"
-    },
-    {
-      "appid": 1693980,
-      "name": "Dead Space",
-      "discount_percent": 75,
-      "original_price": 66000,
-      "final_price": 16500,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/capsule_231x87.jpg?t=1777396576",
-      "url": "https://store.steampowered.com/app/1693980"
-    },
-    {
-      "appid": 1245150,
-      "name": "Remnant: From the Ashes - Swamps of Corsus",
-      "discount_percent": 75,
-      "original_price": 10500,
-      "final_price": 2620,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245150/capsule_231x87.jpg?t=1764659111",
-      "url": "https://store.steampowered.com/app/1245150"
+      "url": "https://store.steampowered.com/app/2447590",
+      "genres": [
+        "액션",
+        "시뮬레이션",
+        "전략"
+      ]
     },
     {
       "appid": 1344680,
@@ -619,7 +928,41 @@
       "final_price": 2620,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1344680/capsule_231x87.jpg?t=1764659036",
-      "url": "https://store.steampowered.com/app/1344680"
+      "url": "https://store.steampowered.com/app/1344680",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ]
+    },
+    {
+      "appid": 1245150,
+      "name": "Remnant: From the Ashes - Swamps of Corsus",
+      "discount_percent": 75,
+      "original_price": 10500,
+      "final_price": 2620,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245150/capsule_231x87.jpg?t=1764659111",
+      "url": "https://store.steampowered.com/app/1245150",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ]
+    },
+    {
+      "appid": 1693980,
+      "name": "Dead Space",
+      "discount_percent": 75,
+      "original_price": 66000,
+      "final_price": 16500,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/capsule_231x87.jpg?t=1777396576",
+      "url": "https://store.steampowered.com/app/1693980",
+      "genres": [
+        "액션",
+        "어드벤처"
+      ]
     },
     {
       "appid": 289650,
@@ -629,17 +972,11 @@
       "final_price": 8250,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289650/capsule_231x87.jpg?t=1786632648",
-      "url": "https://store.steampowered.com/app/289650"
-    },
-    {
-      "appid": 48190,
-      "name": "Assassin’s Creed® Brotherhood",
-      "discount_percent": 75,
-      "original_price": 16500,
-      "final_price": 4120,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/48190/capsule_231x87.jpg?t=1786611524",
-      "url": "https://store.steampowered.com/app/48190"
+      "url": "https://store.steampowered.com/app/289650",
+      "genres": [
+        "액션",
+        "어드벤처"
+      ]
     },
     {
       "appid": 1911520,
@@ -649,7 +986,12 @@
       "final_price": 5370,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911520/capsule_231x87.jpg?t=1759916068",
-      "url": "https://store.steampowered.com/app/1911520"
+      "url": "https://store.steampowered.com/app/1911520",
+      "genres": [
+        "액션",
+        "시뮬레이션",
+        "전략"
+      ]
     },
     {
       "appid": 1498570,
@@ -659,37 +1001,10 @@
       "final_price": 7850,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1498570/capsule_231x87.jpg?t=1742873915",
-      "url": "https://store.steampowered.com/app/1498570"
-    },
-    {
-      "appid": 220240,
-      "name": "Far Cry 3",
-      "discount_percent": 75,
-      "original_price": 22000,
-      "final_price": 5500,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220240/ba51d74a29dc4f6167ff9410d5fe8ae42235fd68/capsule_231x87.jpg?t=1785282057",
-      "url": "https://store.steampowered.com/app/220240"
-    },
-    {
-      "appid": 371660,
-      "name": "Far Cry® Primal",
-      "discount_percent": 75,
-      "original_price": 34000,
-      "final_price": 8500,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371660/capsule_231x87.jpg?t=1772640435",
-      "url": "https://store.steampowered.com/app/371660"
-    },
-    {
-      "appid": 33230,
-      "name": "Assassin's Creed 2",
-      "discount_percent": 75,
-      "original_price": 11000,
-      "final_price": 2750,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/33230/capsule_231x87.jpg?t=1786611094",
-      "url": "https://store.steampowered.com/app/33230"
+      "url": "https://store.steampowered.com/app/1498570",
+      "genres": [
+        "액션"
+      ]
     },
     {
       "appid": 1286580,
@@ -699,7 +1014,25 @@
       "final_price": 11230,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286580/5883658263d933a406ffacbf0c3fec5bab6beb4e/capsule_231x87.jpg?t=1780480732",
-      "url": "https://store.steampowered.com/app/1286580"
+      "url": "https://store.steampowered.com/app/1286580",
+      "genres": [
+        "액션",
+        "인디"
+      ]
+    },
+    {
+      "appid": 371660,
+      "name": "Far Cry® Primal",
+      "discount_percent": 75,
+      "original_price": 34000,
+      "final_price": 8500,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371660/capsule_231x87.jpg?t=1772640435",
+      "url": "https://store.steampowered.com/app/371660",
+      "genres": [
+        "액션",
+        "어드벤처"
+      ]
     },
     {
       "appid": 2123890,
@@ -709,17 +1042,12 @@
       "final_price": 4120,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2123890/capsule_231x87.jpg?t=1750351990",
-      "url": "https://store.steampowered.com/app/2123890"
-    },
-    {
-      "appid": 2904660,
-      "name": "Call to Arms - Gates of Hell: Airborne",
-      "discount_percent": 75,
-      "original_price": 14500,
-      "final_price": 3620,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904660/capsule_231x87.jpg?t=1750352068",
-      "url": "https://store.steampowered.com/app/2904660"
+      "url": "https://store.steampowered.com/app/2123890",
+      "genres": [
+        "액션",
+        "시뮬레이션",
+        "전략"
+      ]
     },
     {
       "appid": 49520,
@@ -729,17 +1057,40 @@
       "final_price": 5250,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49520/capsule_231x87.jpg?t=1751931279",
-      "url": "https://store.steampowered.com/app/49520"
+      "url": "https://store.steampowered.com/app/49520",
+      "genres": [
+        "액션",
+        "RPG"
+      ]
     },
     {
-      "appid": 220200,
-      "name": "Kerbal Space Program",
+      "appid": 2904660,
+      "name": "Call to Arms - Gates of Hell: Airborne",
       "discount_percent": 75,
-      "original_price": 49500,
-      "final_price": 12370,
+      "original_price": 14500,
+      "final_price": 3620,
       "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/capsule_231x87.jpg?t=1738037585",
-      "url": "https://store.steampowered.com/app/220200"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904660/capsule_231x87.jpg?t=1750352068",
+      "url": "https://store.steampowered.com/app/2904660",
+      "genres": [
+        "액션",
+        "시뮬레이션",
+        "전략"
+      ]
+    },
+    {
+      "appid": 48190,
+      "name": "Assassin’s Creed® Brotherhood",
+      "discount_percent": 75,
+      "original_price": 16500,
+      "final_price": 4120,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/48190/capsule_231x87.jpg?t=1786611524",
+      "url": "https://store.steampowered.com/app/48190",
+      "genres": [
+        "액션",
+        "어드벤처"
+      ]
     },
     {
       "appid": 424840,
@@ -749,27 +1100,39 @@
       "final_price": 6200,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424840/2bdbdbe316dba829ab67ea61528ab87a156fc2ed/capsule_231x87.jpg?t=1773135169",
-      "url": "https://store.steampowered.com/app/424840"
+      "url": "https://store.steampowered.com/app/424840",
+      "genres": [
+        "어드벤처"
+      ]
     },
     {
-      "appid": 1335790,
-      "name": "Operation: Tango",
+      "appid": 220200,
+      "name": "Kerbal Space Program",
       "discount_percent": 75,
-      "original_price": 21500,
-      "final_price": 5370,
+      "original_price": 49500,
+      "final_price": 12370,
       "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1335790/capsule_231x87_koreana.jpg?t=1762781027",
-      "url": "https://store.steampowered.com/app/1335790"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/capsule_231x87.jpg?t=1738037585",
+      "url": "https://store.steampowered.com/app/220200",
+      "genres": [
+        "인디",
+        "시뮬레이션"
+      ]
     },
     {
-      "appid": 911400,
-      "name": "Assassin's Creed® III Remastered",
+      "appid": 692850,
+      "name": "Bloodstained: Ritual of the Night",
       "discount_percent": 75,
-      "original_price": 44000,
-      "final_price": 11000,
+      "original_price": 49800,
+      "final_price": 12450,
       "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/911400/capsule_231x87.jpg?t=1786631735",
-      "url": "https://store.steampowered.com/app/911400"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692850/5df6b92f8efa3304ded876cf3ab721b26afb69ce/capsule_231x87.jpg?t=1788970793",
+      "url": "https://store.steampowered.com/app/692850",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ]
     },
     {
       "appid": 780290,
@@ -779,27 +1142,12 @@
       "final_price": 10330,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780290/9ee373827c5426b8b765de12c656a3a2369bbfcc/capsule_231x87.jpg?t=1788792171",
-      "url": "https://store.steampowered.com/app/780290"
-    },
-    {
-      "appid": 1426210,
-      "name": "It Takes Two",
-      "discount_percent": 70,
-      "original_price": 44000,
-      "final_price": 13200,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/capsule_231x87.jpg?t=1777395376",
-      "url": "https://store.steampowered.com/app/1426210"
-    },
-    {
-      "appid": 2909400,
-      "name": "FINAL FANTASY VII REBIRTH",
-      "discount_percent": 70,
-      "original_price": 62800,
-      "final_price": 18840,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/61fda2e598f865ba6e985830661b98f3167e4ccc/capsule_231x87.jpg?t=1789446799",
-      "url": "https://store.steampowered.com/app/2909400"
+      "url": "https://store.steampowered.com/app/780290",
+      "genres": [
+        "어드벤처",
+        "RPG",
+        "전략"
+      ]
     },
     {
       "appid": 281990,
@@ -809,7 +1157,40 @@
       "final_price": 16500,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/6c503fdf87c9aea4c32fe39df8b0ccd43d4dd266/capsule_231x87_alt_assets_14_koreana.jpg?t=1790096152",
-      "url": "https://store.steampowered.com/app/281990"
+      "url": "https://store.steampowered.com/app/281990",
+      "genres": [
+        "시뮬레이션",
+        "전략"
+      ]
+    },
+    {
+      "appid": 1426210,
+      "name": "It Takes Two",
+      "discount_percent": 70,
+      "original_price": 44000,
+      "final_price": 13200,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/capsule_231x87.jpg?t=1777395376",
+      "url": "https://store.steampowered.com/app/1426210",
+      "genres": [
+        "액션",
+        "어드벤처"
+      ]
+    },
+    {
+      "appid": 2909400,
+      "name": "FINAL FANTASY VII REBIRTH",
+      "discount_percent": 70,
+      "original_price": 62800,
+      "final_price": 18840,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/61fda2e598f865ba6e985830661b98f3167e4ccc/capsule_231x87.jpg?t=1789446799",
+      "url": "https://store.steampowered.com/app/2909400",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ]
     },
     {
       "appid": 2552430,
@@ -819,7 +1200,12 @@
       "final_price": 16440,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2552430/capsule_231x87.jpg?t=1779418330",
-      "url": "https://store.steampowered.com/app/2552430"
+      "url": "https://store.steampowered.com/app/2552430",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ]
     },
     {
       "appid": 477160,
@@ -829,27 +1215,13 @@
       "final_price": 6150,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/477160/818d0be6795713f18b62d6a6a02740f7ede461d3/capsule_231x87_alt_assets_27.jpg?t=1789479416",
-      "url": "https://store.steampowered.com/app/477160"
-    },
-    {
-      "appid": 12210,
-      "name": "Grand Theft Auto IV: The Complete Edition",
-      "discount_percent": 70,
-      "original_price": 24400,
-      "final_price": 7320,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/capsule_231x87.jpg?t=1721061564",
-      "url": "https://store.steampowered.com/app/12210"
-    },
-    {
-      "appid": 3035570,
-      "name": "Assassin's Creed Mirage",
-      "discount_percent": 70,
-      "original_price": 54800,
-      "final_price": 16440,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035570/02aa5646231e38bfbd1d83964063a2d0521979b8/capsule_231x87.jpg?t=1786637416",
-      "url": "https://store.steampowered.com/app/3035570"
+      "url": "https://store.steampowered.com/app/477160",
+      "genres": [
+        "어드벤처",
+        "캐주얼",
+        "인디",
+        "시뮬레이션"
+      ]
     },
     {
       "appid": 921570,
@@ -859,77 +1231,38 @@
       "final_price": 14940,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/921570/capsule_231x87.jpg?t=1785812096",
-      "url": "https://store.steampowered.com/app/921570"
+      "url": "https://store.steampowered.com/app/921570",
+      "genres": [
+        "RPG"
+      ]
     },
     {
-      "appid": 1432860,
-      "name": "Sun Haven",
+      "appid": 12210,
+      "name": "Grand Theft Auto IV: The Complete Edition",
       "discount_percent": 70,
-      "original_price": 27000,
-      "final_price": 8100,
+      "original_price": 24400,
+      "final_price": 7320,
       "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432860/capsule_231x87.jpg?t=1741982676",
-      "url": "https://store.steampowered.com/app/1432860"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/capsule_231x87.jpg?t=1721061564",
+      "url": "https://store.steampowered.com/app/12210",
+      "genres": [
+        "액션",
+        "어드벤처"
+      ]
     },
     {
-      "appid": 1222700,
-      "name": "A Way Out",
+      "appid": 3035570,
+      "name": "Assassin's Creed Mirage",
       "discount_percent": 70,
-      "original_price": 33000,
-      "final_price": 9900,
+      "original_price": 54800,
+      "final_price": 16440,
       "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222700/capsule_231x87.jpg?t=1777323433",
-      "url": "https://store.steampowered.com/app/1222700"
-    },
-    {
-      "appid": 2751000,
-      "name": "페르시아의 왕자: 잃어버린 왕관",
-      "discount_percent": 70,
-      "original_price": 34000,
-      "final_price": 10200,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2751000/capsule_231x87.jpg?t=1777993930",
-      "url": "https://store.steampowered.com/app/2751000"
-    },
-    {
-      "appid": 1451090,
-      "name": "Tactics Ogre: Reborn",
-      "discount_percent": 70,
-      "original_price": 62000,
-      "final_price": 18600,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451090/capsule_231x87.jpg?t=1786031697",
-      "url": "https://store.steampowered.com/app/1451090"
-    },
-    {
-      "appid": 1358700,
-      "name": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
-      "discount_percent": 70,
-      "original_price": 45800,
-      "final_price": 13740,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1358700/capsule_231x87.jpg?t=1775030600",
-      "url": "https://store.steampowered.com/app/1358700"
-    },
-    {
-      "appid": 1020790,
-      "name": "나루토 X 보루토 나루티밋 스톰 커넥션즈",
-      "discount_percent": 70,
-      "original_price": 94800,
-      "final_price": 28440,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1020790/capsule_231x87_koreana.jpg?t=1727301927",
-      "url": "https://store.steampowered.com/app/1020790"
-    },
-    {
-      "appid": 1227890,
-      "name": "Summer Memories",
-      "discount_percent": 70,
-      "original_price": 20500,
-      "final_price": 6150,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1227890/capsule_231x87.jpg?t=1766085059",
-      "url": "https://store.steampowered.com/app/1227890"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035570/02aa5646231e38bfbd1d83964063a2d0521979b8/capsule_231x87.jpg?t=1786637416",
+      "url": "https://store.steampowered.com/app/3035570",
+      "genres": [
+        "액션",
+        "어드벤처"
+      ]
     },
     {
       "appid": 637650,
@@ -939,7 +1272,99 @@
       "final_price": 17820,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637650/capsule_231x87.jpg?t=1775105127",
-      "url": "https://store.steampowered.com/app/637650"
+      "url": "https://store.steampowered.com/app/637650",
+      "genres": [
+        "RPG"
+      ]
+    },
+    {
+      "appid": 1432860,
+      "name": "Sun Haven",
+      "discount_percent": 70,
+      "original_price": 27000,
+      "final_price": 8100,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432860/capsule_231x87.jpg?t=1741982676",
+      "url": "https://store.steampowered.com/app/1432860",
+      "genres": [
+        "어드벤처",
+        "캐주얼",
+        "인디",
+        "RPG",
+        "시뮬레이션"
+      ]
+    },
+    {
+      "appid": 2751000,
+      "name": "페르시아의 왕자: 잃어버린 왕관",
+      "discount_percent": 70,
+      "original_price": 34000,
+      "final_price": 10200,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2751000/capsule_231x87.jpg?t=1777993930",
+      "url": "https://store.steampowered.com/app/2751000",
+      "genres": [
+        "액션",
+        "어드벤처"
+      ]
+    },
+    {
+      "appid": 1222700,
+      "name": "A Way Out",
+      "discount_percent": 70,
+      "original_price": 33000,
+      "final_price": 9900,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222700/capsule_231x87.jpg?t=1777323433",
+      "url": "https://store.steampowered.com/app/1222700",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "인디"
+      ]
+    },
+    {
+      "appid": 1358700,
+      "name": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+      "discount_percent": 70,
+      "original_price": 45800,
+      "final_price": 13740,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1358700/capsule_231x87.jpg?t=1775030600",
+      "url": "https://store.steampowered.com/app/1358700",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ]
+    },
+    {
+      "appid": 1451090,
+      "name": "Tactics Ogre: Reborn",
+      "discount_percent": 70,
+      "original_price": 62000,
+      "final_price": 18600,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451090/capsule_231x87.jpg?t=1786031697",
+      "url": "https://store.steampowered.com/app/1451090",
+      "genres": [
+        "RPG",
+        "시뮬레이션"
+      ]
+    },
+    {
+      "appid": 1020790,
+      "name": "나루토 X 보루토 나루티밋 스톰 커넥션즈",
+      "discount_percent": 70,
+      "original_price": 94800,
+      "final_price": 28440,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1020790/capsule_231x87_koreana.jpg?t=1727301927",
+      "url": "https://store.steampowered.com/app/1020790",
+      "genres": [
+        "액션",
+        "어드벤처"
+      ]
     },
     {
       "appid": 2552450,
@@ -949,7 +1374,12 @@
       "final_price": 19320,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2552450/capsule_231x87.jpg?t=1779418883",
-      "url": "https://store.steampowered.com/app/2552450"
+      "url": "https://store.steampowered.com/app/2552450",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ]
     },
     {
       "appid": 751780,
@@ -959,7 +1389,27 @@
       "final_price": 6150,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/751780/capsule_231x87.jpg?t=1773692958",
-      "url": "https://store.steampowered.com/app/751780"
+      "url": "https://store.steampowered.com/app/751780",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "인디",
+        "시뮬레이션"
+      ]
+    },
+    {
+      "appid": 1227890,
+      "name": "Summer Memories",
+      "discount_percent": 70,
+      "original_price": 20500,
+      "final_price": 6150,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1227890/capsule_231x87.jpg?t=1766085059",
+      "url": "https://store.steampowered.com/app/1227890",
+      "genres": [
+        "어드벤처",
+        "RPG"
+      ]
     },
     {
       "appid": 790740,
@@ -969,17 +1419,12 @@
       "final_price": 1950,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/790740/capsule_231x87.jpg?t=1770948904",
-      "url": "https://store.steampowered.com/app/790740"
-    },
-    {
-      "appid": 1382070,
-      "name": "Viewfinder",
-      "discount_percent": 70,
-      "original_price": 27000,
-      "final_price": 8100,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/a93f2941173f1f5ed98a99f91638971d91abe69d/capsule_231x87.jpg?t=1764842475",
-      "url": "https://store.steampowered.com/app/1382070"
+      "url": "https://store.steampowered.com/app/790740",
+      "genres": [
+        "어드벤처",
+        "캐주얼",
+        "인디"
+      ]
     },
     {
       "appid": 1372280,
@@ -989,37 +1434,24 @@
       "final_price": 16440,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1372280/90b97096069131a7891b9855efd1d0bf144c72b2/capsule_231x87.jpg?t=1759740620",
-      "url": "https://store.steampowered.com/app/1372280"
+      "url": "https://store.steampowered.com/app/1372280",
+      "genres": [
+        "액션"
+      ]
     },
     {
-      "appid": 595520,
-      "name": "FINAL FANTASY XII THE ZODIAC AGE",
+      "appid": 1382070,
+      "name": "Viewfinder",
       "discount_percent": 70,
-      "original_price": 47900,
-      "final_price": 14370,
+      "original_price": 27000,
+      "final_price": 8100,
       "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/595520/capsule_231x87.jpg?t=1776159991",
-      "url": "https://store.steampowered.com/app/595520"
-    },
-    {
-      "appid": 201870,
-      "name": "Assassin's Creed® Revelations",
-      "discount_percent": 70,
-      "original_price": 16500,
-      "final_price": 4950,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201870/capsule_231x87.jpg?t=1739176298",
-      "url": "https://store.steampowered.com/app/201870"
-    },
-    {
-      "appid": 1351240,
-      "name": "Taxi Life: A City Driving Simulator",
-      "discount_percent": 68,
-      "original_price": 32000,
-      "final_price": 10240,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1351240/capsule_231x87.jpg?t=1775568873",
-      "url": "https://store.steampowered.com/app/1351240"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/a93f2941173f1f5ed98a99f91638971d91abe69d/capsule_231x87.jpg?t=1764842475",
+      "url": "https://store.steampowered.com/app/1382070",
+      "genres": [
+        "어드벤처",
+        "인디"
+      ]
     },
     {
       "appid": 1547000,
@@ -1029,7 +1461,11 @@
       "final_price": 21450,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1547000/capsule_231x87.jpg?t=1781138712",
-      "url": "https://store.steampowered.com/app/1547000"
+      "url": "https://store.steampowered.com/app/1547000",
+      "genres": [
+        "액션",
+        "어드벤처"
+      ]
     },
     {
       "appid": 1676840,
@@ -1039,7 +1475,13 @@
       "final_price": 10030,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1676840/capsule_231x87.jpg?t=1790106981",
-      "url": "https://store.steampowered.com/app/1676840"
+      "url": "https://store.steampowered.com/app/1676840",
+      "genres": [
+        "어드벤처",
+        "인디",
+        "RPG",
+        "전략"
+      ]
     },
     {
       "appid": 1451940,
@@ -1049,7 +1491,11 @@
       "final_price": 5610,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451940/capsule_231x87.jpg?t=1762834234",
-      "url": "https://store.steampowered.com/app/1451940"
+      "url": "https://store.steampowered.com/app/1451940",
+      "genres": [
+        "어드벤처",
+        "인디"
+      ]
     },
     {
       "appid": 2698780,
@@ -1059,7 +1505,12 @@
       "final_price": 3740,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698780/4a9e09d2dc1a9493f7425ae8e36555cd4ce67dbe/capsule_231x87.jpg?t=1789233418",
-      "url": "https://store.steampowered.com/app/2698780"
+      "url": "https://store.steampowered.com/app/2698780",
+      "genres": [
+        "캐주얼",
+        "인디",
+        "시뮬레이션"
+      ]
     },
     {
       "appid": 1172620,
@@ -1069,7 +1520,11 @@
       "final_price": 13960,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/5d210ce2851af775943157ce7e97dc5fc27e1d9d/capsule_231x87.jpg?t=1789650456",
-      "url": "https://store.steampowered.com/app/1172620"
+      "url": "https://store.steampowered.com/app/1172620",
+      "genres": [
+        "액션",
+        "어드벤처"
+      ]
     },
     {
       "appid": 1608070,
@@ -1079,7 +1534,11 @@
       "final_price": 17430,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608070/capsule_231x87.jpg?t=1777343206",
-      "url": "https://store.steampowered.com/app/1608070"
+      "url": "https://store.steampowered.com/app/1608070",
+      "genres": [
+        "액션",
+        "RPG"
+      ]
     },
     {
       "appid": 2073250,
@@ -1089,7 +1548,12 @@
       "final_price": 7520,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073250/501802a9dda1d83839f384f8591b77fd4b93deea/capsule_231x87_alt_assets_13_koreana.jpg?t=1789603642",
-      "url": "https://store.steampowered.com/app/2073250"
+      "url": "https://store.steampowered.com/app/2073250",
+      "genres": [
+        "액션",
+        "인디",
+        "RPG"
+      ]
     },
     {
       "appid": 3159330,
@@ -1099,7 +1563,12 @@
       "final_price": 31600,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3159330/fab6e3421c8f2ff2b68e6f7b8e634cdfe6417652/capsule_231x87_koreana.jpg?t=1789746114",
-      "url": "https://store.steampowered.com/app/3159330"
+      "url": "https://store.steampowered.com/app/3159330",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ]
     },
     {
       "appid": 1971650,
@@ -1109,7 +1578,10 @@
       "final_price": 19920,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1971650/capsule_231x87.jpg?t=1788247720",
-      "url": "https://store.steampowered.com/app/1971650"
+      "url": "https://store.steampowered.com/app/1971650",
+      "genres": [
+        "RPG"
+      ]
     },
     {
       "appid": 524220,
@@ -1119,7 +1591,11 @@
       "final_price": 17920,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524220/capsule_231x87.jpg?t=1785182957",
-      "url": "https://store.steampowered.com/app/524220"
+      "url": "https://store.steampowered.com/app/524220",
+      "genres": [
+        "액션",
+        "RPG"
+      ]
     },
     {
       "appid": 2455640,
@@ -1129,37 +1605,10 @@
       "final_price": 23920,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455640/cf9717456be8901aa8ac5d53233215b9eea912a0/capsule_231x87_koreana.jpg?t=1777013886",
-      "url": "https://store.steampowered.com/app/2455640"
-    },
-    {
-      "appid": 1677280,
-      "name": "Company of Heroes 3",
-      "discount_percent": 60,
-      "original_price": 59800,
-      "final_price": 23920,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677280/capsule_231x87.jpg?t=1787074089",
-      "url": "https://store.steampowered.com/app/1677280"
-    },
-    {
-      "appid": 2515020,
-      "name": "FINAL FANTASY XVI",
-      "discount_percent": 60,
-      "original_price": 58800,
-      "final_price": 23520,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515020/capsule_231x87.jpg?t=1773294537",
-      "url": "https://store.steampowered.com/app/2515020"
-    },
-    {
-      "appid": 3178350,
-      "name": "무쌍: 어비스",
-      "discount_percent": 60,
-      "original_price": 29800,
-      "final_price": 11920,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3178350/9dc6807b1f47a68b7050672bcda4852ba9b3ea8e/capsule_231x87_koreana.jpg?t=1775537715",
-      "url": "https://store.steampowered.com/app/3178350"
+      "url": "https://store.steampowered.com/app/2455640",
+      "genres": [
+        "RPG"
+      ]
     },
     {
       "appid": 1135690,
@@ -1169,57 +1618,40 @@
       "final_price": 8200,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1135690/capsule_231x87.jpg?t=1789426289",
-      "url": "https://store.steampowered.com/app/1135690"
+      "url": "https://store.steampowered.com/app/1135690",
+      "genres": [
+        "캐주얼",
+        "인디",
+        "시뮬레이션"
+      ]
     },
     {
-      "appid": 2688950,
-      "name": "플래닛 코스터 2",
+      "appid": 2515020,
+      "name": "FINAL FANTASY XVI",
       "discount_percent": 60,
-      "original_price": 68000,
-      "final_price": 27200,
+      "original_price": 58800,
+      "final_price": 23520,
       "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/capsule_231x87_koreana.jpg?t=1788781169",
-      "url": "https://store.steampowered.com/app/2688950"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515020/capsule_231x87.jpg?t=1773294537",
+      "url": "https://store.steampowered.com/app/2515020",
+      "genres": [
+        "액션",
+        "RPG"
+      ]
     },
     {
-      "appid": 2138720,
-      "name": "REMATCH",
+      "appid": 1677280,
+      "name": "Company of Heroes 3",
       "discount_percent": 60,
-      "original_price": 32000,
-      "final_price": 12800,
+      "original_price": 59800,
+      "final_price": 23920,
       "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138720/99d71852c4c1133b8483eb26d0632aa574c5ca82/capsule_231x87.jpg?t=1781682466",
-      "url": "https://store.steampowered.com/app/2138720"
-    },
-    {
-      "appid": 1629520,
-      "name": "A Little to the Left",
-      "discount_percent": 60,
-      "original_price": 16500,
-      "final_price": 6600,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1629520/capsule_231x87.jpg?t=1789552143",
-      "url": "https://store.steampowered.com/app/1629520"
-    },
-    {
-      "appid": 1850510,
-      "name": "TRIANGLE STRATEGY",
-      "discount_percent": 60,
-      "original_price": 69800,
-      "final_price": 27920,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1850510/9ccd5cf7c6863a1973a5f5fd43bf4e90d62a510d/capsule_231x87.jpg?t=1775028430",
-      "url": "https://store.steampowered.com/app/1850510"
-    },
-    {
-      "appid": 1325200,
-      "name": "Nioh 2 – The Complete Edition",
-      "discount_percent": 60,
-      "original_price": 54800,
-      "final_price": 21920,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325200/capsule_231x87.jpg?t=1775540023",
-      "url": "https://store.steampowered.com/app/1325200"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677280/capsule_231x87.jpg?t=1787074089",
+      "url": "https://store.steampowered.com/app/1677280",
+      "genres": [
+        "액션",
+        "전략"
+      ]
     },
     {
       "appid": 1369630,
@@ -1229,57 +1661,40 @@
       "final_price": 10600,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1369630/capsule_231x87.jpg?t=1788931074",
-      "url": "https://store.steampowered.com/app/1369630"
+      "url": "https://store.steampowered.com/app/1369630",
+      "genres": [
+        "액션",
+        "인디",
+        "RPG"
+      ]
     },
     {
-      "appid": 2814990,
-      "name": "Screamer",
+      "appid": 3178350,
+      "name": "무쌍: 어비스",
       "discount_percent": 60,
-      "original_price": 64800,
-      "final_price": 25920,
+      "original_price": 29800,
+      "final_price": 11920,
       "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2814990/274907193f54622df6f23ef2067702a570a215ab/capsule_231x87.jpg?t=1779457595",
-      "url": "https://store.steampowered.com/app/2814990"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3178350/9dc6807b1f47a68b7050672bcda4852ba9b3ea8e/capsule_231x87_koreana.jpg?t=1775537715",
+      "url": "https://store.steampowered.com/app/3178350",
+      "genres": [
+        "액션",
+        "RPG"
+      ]
     },
     {
-      "appid": 1113560,
-      "name": "NieR Replicant™ ver.1.22474487139...",
+      "appid": 1629520,
+      "name": "A Little to the Left",
       "discount_percent": 60,
-      "original_price": 69800,
-      "final_price": 27920,
+      "original_price": 16500,
+      "final_price": 6600,
       "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113560/capsule_231x87.jpg?t=1785182686",
-      "url": "https://store.steampowered.com/app/1113560"
-    },
-    {
-      "appid": 1210320,
-      "name": "Potion Craft: Alchemist Simulator",
-      "discount_percent": 60,
-      "original_price": 21500,
-      "final_price": 8600,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/capsule_231x87.jpg?t=1786023837",
-      "url": "https://store.steampowered.com/app/1210320"
-    },
-    {
-      "appid": 359870,
-      "name": "FINAL FANTASY X/X-2 HD Remaster",
-      "discount_percent": 60,
-      "original_price": 32000,
-      "final_price": 12800,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359870/capsule_231x87.jpg?t=1777343443",
-      "url": "https://store.steampowered.com/app/359870"
-    },
-    {
-      "appid": 1124180,
-      "name": "철도관제 시뮬레이터",
-      "discount_percent": 60,
-      "original_price": 27000,
-      "final_price": 10800,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124180/e4cbf925d52440fe65bc9235989bcbbdafbaab62/capsule_231x87_alt_assets_12_koreana.jpg?t=1785778348",
-      "url": "https://store.steampowered.com/app/1124180"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1629520/capsule_231x87.jpg?t=1789552143",
+      "url": "https://store.steampowered.com/app/1629520",
+      "genres": [
+        "캐주얼",
+        "인디"
+      ]
     },
     {
       "appid": 3155730,
@@ -1289,7 +1704,122 @@
       "final_price": 27920,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3155730/18db0f9eeef8c5cdfdecd6726027d9cb98aa077a/capsule_231x87.jpg?t=1769065449",
-      "url": "https://store.steampowered.com/app/3155730"
+      "url": "https://store.steampowered.com/app/3155730",
+      "genres": [
+        "어드벤처",
+        "캐주얼"
+      ]
+    },
+    {
+      "appid": 2138720,
+      "name": "REMATCH",
+      "discount_percent": 60,
+      "original_price": 32000,
+      "final_price": 12800,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138720/99d71852c4c1133b8483eb26d0632aa574c5ca82/capsule_231x87.jpg?t=1781682466",
+      "url": "https://store.steampowered.com/app/2138720",
+      "genres": [
+        "액션",
+        "인디",
+        "스포츠"
+      ]
+    },
+    {
+      "appid": 1850510,
+      "name": "TRIANGLE STRATEGY",
+      "discount_percent": 60,
+      "original_price": 69800,
+      "final_price": 27920,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1850510/9ccd5cf7c6863a1973a5f5fd43bf4e90d62a510d/capsule_231x87.jpg?t=1775028430",
+      "url": "https://store.steampowered.com/app/1850510",
+      "genres": [
+        "RPG",
+        "시뮬레이션",
+        "전략"
+      ]
+    },
+    {
+      "appid": 2688950,
+      "name": "플래닛 코스터 2",
+      "discount_percent": 60,
+      "original_price": 68000,
+      "final_price": 27200,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/capsule_231x87_koreana.jpg?t=1788781169",
+      "url": "https://store.steampowered.com/app/2688950",
+      "genres": [
+        "시뮬레이션",
+        "전략"
+      ]
+    },
+    {
+      "appid": 1210320,
+      "name": "Potion Craft: Alchemist Simulator",
+      "discount_percent": 60,
+      "original_price": 21500,
+      "final_price": 8600,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/capsule_231x87.jpg?t=1786023837",
+      "url": "https://store.steampowered.com/app/1210320",
+      "genres": [
+        "인디",
+        "시뮬레이션"
+      ]
+    },
+    {
+      "appid": 1325200,
+      "name": "Nioh 2 – The Complete Edition",
+      "discount_percent": 60,
+      "original_price": 54800,
+      "final_price": 21920,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325200/capsule_231x87.jpg?t=1775540023",
+      "url": "https://store.steampowered.com/app/1325200",
+      "genres": [
+        "액션",
+        "RPG"
+      ]
+    },
+    {
+      "appid": 359870,
+      "name": "FINAL FANTASY X/X-2 HD Remaster",
+      "discount_percent": 60,
+      "original_price": 32000,
+      "final_price": 12800,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359870/capsule_231x87.jpg?t=1777343443",
+      "url": "https://store.steampowered.com/app/359870",
+      "genres": [
+        "RPG"
+      ]
+    },
+    {
+      "appid": 1689620,
+      "name": "BLEACH 리버스 오브 소울즈",
+      "discount_percent": 60,
+      "original_price": 94800,
+      "final_price": 37920,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1689620/f0a139f63f9cdbae1fc809af6c1d0be46985ae28/capsule_231x87_koreana.jpg?t=1765454766",
+      "url": "https://store.steampowered.com/app/1689620",
+      "genres": [
+        "액션"
+      ]
+    },
+    {
+      "appid": 2814990,
+      "name": "Screamer",
+      "discount_percent": 60,
+      "original_price": 64800,
+      "final_price": 25920,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2814990/274907193f54622df6f23ef2067702a570a215ab/capsule_231x87.jpg?t=1779457595",
+      "url": "https://store.steampowered.com/app/2814990",
+      "genres": [
+        "레이싱"
+      ]
     },
     {
       "appid": 1054490,
@@ -1299,7 +1829,27 @@
       "final_price": 8600,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/d8ae378495f8b0f9d4bc2445c49ef251fa7144ea/capsule_231x87_koreana.jpg?t=1789657608",
-      "url": "https://store.steampowered.com/app/1054490"
+      "url": "https://store.steampowered.com/app/1054490",
+      "genres": [
+        "인디",
+        "전략"
+      ]
+    },
+    {
+      "appid": 1124180,
+      "name": "철도관제 시뮬레이터",
+      "discount_percent": 60,
+      "original_price": 27000,
+      "final_price": 10800,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124180/e4cbf925d52440fe65bc9235989bcbbdafbaab62/capsule_231x87_alt_assets_12_koreana.jpg?t=1785778348",
+      "url": "https://store.steampowered.com/app/1124180",
+      "genres": [
+        "캐주얼",
+        "인디",
+        "시뮬레이션",
+        "전략"
+      ]
     },
     {
       "appid": 1689910,
@@ -1309,7 +1859,11 @@
       "final_price": 8200,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1689910/capsule_231x87.jpg?t=1789434815",
-      "url": "https://store.steampowered.com/app/1689910"
+      "url": "https://store.steampowered.com/app/1689910",
+      "genres": [
+        "어드벤처",
+        "시뮬레이션"
+      ]
     },
     {
       "appid": 2490990,
@@ -1319,7 +1873,11 @@
       "final_price": 27920,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2490990/capsule_231x87_koreana.jpg?t=1775807904",
-      "url": "https://store.steampowered.com/app/2490990"
+      "url": "https://store.steampowered.com/app/2490990",
+      "genres": [
+        "액션",
+        "RPG"
+      ]
     },
     {
       "appid": 1285190,
@@ -1329,7 +1887,12 @@
       "final_price": 41930,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/5dff7c40650197bdf05b6665736c71a4d0667ee1/capsule_231x87_alt_assets_4_koreana.jpg?t=1789422727",
-      "url": "https://store.steampowered.com/app/1285190"
+      "url": "https://store.steampowered.com/app/1285190",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ]
     },
     {
       "appid": 1149620,
@@ -1339,7 +1902,12 @@
       "final_price": 9670,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/bfb3a18c743afda684929759fd8d5ff713c866c6/capsule_231x87.jpg?t=1790009533",
-      "url": "https://store.steampowered.com/app/1149620"
+      "url": "https://store.steampowered.com/app/1149620",
+      "genres": [
+        "캐주얼",
+        "인디",
+        "시뮬레이션"
+      ]
     },
     {
       "appid": 837470,
@@ -1349,7 +1917,11 @@
       "final_price": 9670,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/837470/capsule_231x87.jpg?t=1699052664",
-      "url": "https://store.steampowered.com/app/837470"
+      "url": "https://store.steampowered.com/app/837470",
+      "genres": [
+        "액션",
+        "인디"
+      ]
     },
     {
       "appid": 2385530,
@@ -1359,7 +1931,12 @@
       "final_price": 32850,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2385530/0da4393a00dc8bbf857cd725fb45814be20546a7/capsule_231x87.jpg?t=1783526355",
-      "url": "https://store.steampowered.com/app/2385530"
+      "url": "https://store.steampowered.com/app/2385530",
+      "genres": [
+        "RPG",
+        "시뮬레이션",
+        "스포츠"
+      ]
     },
     {
       "appid": 2820820,
@@ -1369,17 +1946,12 @@
       "final_price": 9760,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2820820/4c85e844a4561e5f7fd4a4ae0646625b50d223da/capsule_231x87_koreana.jpg?t=1789633603",
-      "url": "https://store.steampowered.com/app/2820820"
-    },
-    {
-      "appid": 1172710,
-      "name": "Dune: Awakening 듄 ：어웨이크닝",
-      "discount_percent": 50,
-      "original_price": 49900,
-      "final_price": 24950,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172710/aaf0ce6c719fc5df5496d461bac1d604cb87a59a/capsule_231x87_alt_assets_9_koreana.jpg?t=1790078722",
-      "url": "https://store.steampowered.com/app/1172710"
+      "url": "https://store.steampowered.com/app/2820820",
+      "genres": [
+        "액션",
+        "인디",
+        "RPG"
+      ]
     },
     {
       "appid": 3008130,
@@ -1389,17 +1961,28 @@
       "final_price": 32900,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3008130/05b270c6a7ea4f3afc5adf92bfb35501e46e7b6a/capsule_231x87.jpg?t=1789646537",
-      "url": "https://store.steampowered.com/app/3008130"
+      "url": "https://store.steampowered.com/app/3008130",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ]
     },
     {
-      "appid": 252490,
-      "name": "Rust",
+      "appid": 1172710,
+      "name": "Dune: Awakening 듄 ：어웨이크닝",
       "discount_percent": 50,
-      "original_price": 42000,
-      "final_price": 21000,
+      "original_price": 49900,
+      "final_price": 24950,
       "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/21aac0b6e20e1ba12f635e7deb730e32a51afbd5/capsule_231x87.jpg?t=1781536981",
-      "url": "https://store.steampowered.com/app/252490"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172710/aaf0ce6c719fc5df5496d461bac1d604cb87a59a/capsule_231x87_alt_assets_9_koreana.jpg?t=1790078722",
+      "url": "https://store.steampowered.com/app/1172710",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "대규모 멀티플레이어",
+        "RPG"
+      ]
     },
     {
       "appid": 1260320,
@@ -1409,7 +1992,29 @@
       "final_price": 12950,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260320/ca03736b198d1b4812b0ac11a78b7384149791db/capsule_231x87_alt_assets_10.jpg?t=1789480764",
-      "url": "https://store.steampowered.com/app/1260320"
+      "url": "https://store.steampowered.com/app/1260320",
+      "genres": [
+        "액션",
+        "캐주얼",
+        "인디"
+      ]
+    },
+    {
+      "appid": 252490,
+      "name": "Rust",
+      "discount_percent": 50,
+      "original_price": 42000,
+      "final_price": 21000,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/21aac0b6e20e1ba12f635e7deb730e32a51afbd5/capsule_231x87.jpg?t=1781536981",
+      "url": "https://store.steampowered.com/app/252490",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "인디",
+        "대규모 멀티플레이어",
+        "RPG"
+      ]
     },
     {
       "appid": 1435790,
@@ -1419,7 +2024,13 @@
       "final_price": 9950,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1435790/45a7f618deb1486f4819e27d4b0d007fdcb5f4f3/capsule_231x87.jpg?t=1782813501",
-      "url": "https://store.steampowered.com/app/1435790"
+      "url": "https://store.steampowered.com/app/1435790",
+      "genres": [
+        "어드벤처",
+        "캐주얼",
+        "인디",
+        "시뮬레이션"
+      ]
     },
     {
       "appid": 3407390,
@@ -1429,7 +2040,12 @@
       "final_price": 24950,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407390/f609552ab6f5575ed37be22d45e1605a2d404426/capsule_231x87_koreana.jpg?t=1789669890",
-      "url": "https://store.steampowered.com/app/3407390"
+      "url": "https://store.steampowered.com/app/3407390",
+      "genres": [
+        "RPG",
+        "시뮬레이션",
+        "전략"
+      ]
     },
     {
       "appid": 2668510,
@@ -1439,27 +2055,10 @@
       "final_price": 31000,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668510/9341221bd8121ab5e6de1af0b800199a2680115c/capsule_231x87_koreana.jpg?t=1781132266",
-      "url": "https://store.steampowered.com/app/2668510"
-    },
-    {
-      "appid": 3691330,
-      "name": "Call to Arms - Gates of Hell: Finest Hour",
-      "discount_percent": 50,
-      "original_price": 32000,
-      "final_price": 16000,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3691330/40c69c462f596723506a1521558cbef5af47d8ad/capsule_231x87.jpg?t=1764698595",
-      "url": "https://store.steampowered.com/app/3691330"
-    },
-    {
-      "appid": 1669000,
-      "name": "Age of Wonders 4",
-      "discount_percent": 50,
-      "original_price": 55000,
-      "final_price": 27500,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669000/6a0ead8a0addec6bd4b7f5984b3e767e8a1ffde7/capsule_231x87.jpg?t=1782398714",
-      "url": "https://store.steampowered.com/app/1669000"
+      "url": "https://store.steampowered.com/app/2668510",
+      "genres": [
+        "액션"
+      ]
     },
     {
       "appid": 1845250,
@@ -1469,17 +2068,41 @@
       "final_price": 17320,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845250/401457b2d67df30e7a1e987a60fe2cc0af2074b4/capsule_231x87_koreana.jpg?t=1789708829",
-      "url": "https://store.steampowered.com/app/1845250"
+      "url": "https://store.steampowered.com/app/1845250",
+      "genres": [
+        "액션",
+        "인디",
+        "RPG"
+      ]
     },
     {
-      "appid": 3058360,
-      "name": "프랑스 브라세리 시뮬레이터",
+      "appid": 3691330,
+      "name": "Call to Arms - Gates of Hell: Finest Hour",
       "discount_percent": 50,
-      "original_price": 24300,
-      "final_price": 12150,
+      "original_price": 32000,
+      "final_price": 16000,
       "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3058360/e16497ed1083b3a1d8a80b57f7ded70af3fe4f7e/capsule_231x87_koreana.jpg?t=1789878950",
-      "url": "https://store.steampowered.com/app/3058360"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3691330/40c69c462f596723506a1521558cbef5af47d8ad/capsule_231x87.jpg?t=1764698595",
+      "url": "https://store.steampowered.com/app/3691330",
+      "genres": [
+        "액션",
+        "시뮬레이션",
+        "전략"
+      ]
+    },
+    {
+      "appid": 1669000,
+      "name": "Age of Wonders 4",
+      "discount_percent": 50,
+      "original_price": 55000,
+      "final_price": 27500,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669000/6a0ead8a0addec6bd4b7f5984b3e767e8a1ffde7/capsule_231x87.jpg?t=1782398714",
+      "url": "https://store.steampowered.com/app/1669000",
+      "genres": [
+        "RPG",
+        "전략"
+      ]
     },
     {
       "appid": 1295510,
@@ -1489,7 +2112,27 @@
       "final_price": 24900,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295510/capsule_231x87_koreana.jpg?t=1774588986",
-      "url": "https://store.steampowered.com/app/1295510"
+      "url": "https://store.steampowered.com/app/1295510",
+      "genres": [
+        "어드벤처",
+        "RPG"
+      ]
+    },
+    {
+      "appid": 3058360,
+      "name": "프랑스 브라세리 시뮬레이터",
+      "discount_percent": 50,
+      "original_price": 24300,
+      "final_price": 12150,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3058360/e16497ed1083b3a1d8a80b57f7ded70af3fe4f7e/capsule_231x87_koreana.jpg?t=1789878950",
+      "url": "https://store.steampowered.com/app/3058360",
+      "genres": [
+        "캐주얼",
+        "인디",
+        "시뮬레이션",
+        "전략"
+      ]
     },
     {
       "appid": 2052410,
@@ -1499,57 +2142,10 @@
       "final_price": 31500,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052410/capsule_231x87.jpg?t=1753952335",
-      "url": "https://store.steampowered.com/app/2052410"
-    },
-    {
-      "appid": 1601580,
-      "name": "프로스트펑크2",
-      "discount_percent": 50,
-      "original_price": 47000,
-      "final_price": 23500,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601580/2c5b053c630a9cb57fa71e6eb018c2a0b008c05b/capsule_231x87.jpg?t=1788264833",
-      "url": "https://store.steampowered.com/app/1601580"
-    },
-    {
-      "appid": 1801110,
-      "name": "다른 겨울의 우리들",
-      "discount_percent": 50,
-      "original_price": 6250,
-      "final_price": 3120,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1801110/capsule_231x87_koreana.jpg?t=1788100714",
-      "url": "https://store.steampowered.com/app/1801110"
-    },
-    {
-      "appid": 2238900,
-      "name": "STAR OCEAN THE SECOND STORY R",
-      "discount_percent": 50,
-      "original_price": 49800,
-      "final_price": 24900,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2238900/capsule_231x87.jpg?t=1782353780",
-      "url": "https://store.steampowered.com/app/2238900"
-    },
-    {
-      "appid": 1448440,
-      "name": "Wo Long: Fallen Dynasty",
-      "discount_percent": 50,
-      "original_price": 49800,
-      "final_price": 24900,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1448440/6ede9cdaae075ff79ba6194d1475be7a2b9aa4a0/capsule_231x87.jpg?t=1780891625",
-      "url": "https://store.steampowered.com/app/1448440"
-    },
-    {
-      "appid": 895870,
-      "name": "Project Wingman",
-      "discount_percent": 50,
-      "original_price": 26000,
-      "final_price": 13000,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/895870/capsule_231x87.jpg?t=1773695705",
-      "url": "https://store.steampowered.com/app/895870"
+      "url": "https://store.steampowered.com/app/2052410",
+      "genres": [
+        "어드벤처"
+      ]
     },
     {
       "appid": 3123410,
@@ -1559,77 +2155,12 @@
       "final_price": 39900,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123410/83069226da8078b5fb4e6ab8a1ebd42054cdf190/capsule_231x87_koreana.jpg?t=1784250872",
-      "url": "https://store.steampowered.com/app/3123410"
-    },
-    {
-      "appid": 1072420,
-      "name": "드래곤 퀘스트 빌더즈 2 파괴신 시도와 텅 빈 섬",
-      "discount_percent": 50,
-      "original_price": 54900,
-      "final_price": 27450,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072420/capsule_231x87_koreana.jpg?t=1775724306",
-      "url": "https://store.steampowered.com/app/1072420"
-    },
-    {
-      "appid": 1989270,
-      "name": "Slay the Princess — The Pristine Cut",
-      "discount_percent": 50,
-      "original_price": 19300,
-      "final_price": 9650,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1989270/90faf29da4637bbf2e935d6b587b34fd01e16799/capsule_231x87.jpg?t=1775751748",
-      "url": "https://store.steampowered.com/app/1989270"
-    },
-    {
-      "appid": 602960,
-      "name": "Barotrauma",
-      "discount_percent": 50,
-      "original_price": 40000,
-      "final_price": 20000,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602960/capsule_231x87.jpg?t=1789478081",
-      "url": "https://store.steampowered.com/app/602960"
-    },
-    {
-      "appid": 1669480,
-      "name": "Firefighting Simulator: Ignite",
-      "discount_percent": 50,
-      "original_price": 37500,
-      "final_price": 18750,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669480/b431a153a3f2c79b99004c32189bfd0c54c09858/capsule_231x87.jpg?t=1784796095",
-      "url": "https://store.steampowered.com/app/1669480"
-    },
-    {
-      "appid": 2815310,
-      "name": "The Sims™ 4 취미와 사업 확장팩",
-      "discount_percent": 50,
-      "original_price": 44000,
-      "final_price": 22000,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2815310/0d11a4fc3310c435b77169f197b7353037c7dd80/capsule_231x87.jpg?t=1775765698",
-      "url": "https://store.steampowered.com/app/2815310"
-    },
-    {
-      "appid": 1176470,
-      "name": "Terra Invicta 테라 인빅타",
-      "discount_percent": 50,
-      "original_price": 39900,
-      "final_price": 19950,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1176470/c5876e4158d21bc4f416db16625efc1fcf9b56d7/capsule_231x87_koreana.jpg?t=1789669783",
-      "url": "https://store.steampowered.com/app/1176470"
-    },
-    {
-      "appid": 1562430,
-      "name": "DREDGE",
-      "discount_percent": 50,
-      "original_price": 45000,
-      "final_price": 22500,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/d6c28e6402e85395421ac06ac86cdb0e28b48e27/capsule_231x87.jpg?t=1780479732",
-      "url": "https://store.steampowered.com/app/1562430"
+      "url": "https://store.steampowered.com/app/3123410",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ]
     },
     {
       "appid": 2190220,
@@ -1639,67 +2170,86 @@
       "final_price": 10750,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190220/5739105901cabf087fa87a89be3562ee21d4e6a8/capsule_231x87_koreana.jpg?t=1784265916",
-      "url": "https://store.steampowered.com/app/2190220"
+      "url": "https://store.steampowered.com/app/2190220",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "캐주얼",
+        "인디"
+      ]
     },
     {
-      "appid": 1566690,
-      "name": "Outpost: Infinity Siege",
+      "appid": 1601580,
+      "name": "프로스트펑크2",
       "discount_percent": 50,
-      "original_price": 27000,
-      "final_price": 13500,
+      "original_price": 47000,
+      "final_price": 23500,
       "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1566690/capsule_231x87.jpg?t=1747043120",
-      "url": "https://store.steampowered.com/app/1566690"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601580/2c5b053c630a9cb57fa71e6eb018c2a0b008c05b/capsule_231x87.jpg?t=1788264833",
+      "url": "https://store.steampowered.com/app/1601580",
+      "genres": [
+        "시뮬레이션",
+        "전략"
+      ]
     },
     {
-      "appid": 2106840,
-      "name": "PARANORMASIGHT: The Seven Mysteries of Honjo",
+      "appid": 2840100,
+      "name": "Stellaris: The Machine Age",
       "discount_percent": 50,
-      "original_price": 24800,
-      "final_price": 12400,
+      "original_price": 28000,
+      "final_price": 14000,
       "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2106840/capsule_231x87.jpg?t=1776154854",
-      "url": "https://store.steampowered.com/app/2106840"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2840100/capsule_231x87.jpg?t=1737536356",
+      "url": "https://store.steampowered.com/app/2840100",
+      "genres": [
+        "시뮬레이션",
+        "전략"
+      ]
     },
     {
-      "appid": 3690030,
-      "name": "최후의 주유소",
+      "appid": 2238900,
+      "name": "STAR OCEAN THE SECOND STORY R",
       "discount_percent": 50,
-      "original_price": 15000,
-      "final_price": 7500,
+      "original_price": 49800,
+      "final_price": 24900,
       "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690030/897ada24db39a276ccb818828b03436aeda8bba4/capsule_231x87_alt_assets_4_koreana.jpg?t=1789640705",
-      "url": "https://store.steampowered.com/app/3690030"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2238900/capsule_231x87.jpg?t=1782353780",
+      "url": "https://store.steampowered.com/app/2238900",
+      "genres": [
+        "액션",
+        "RPG"
+      ]
     },
     {
-      "appid": 253230,
-      "name": "A Hat in Time",
+      "appid": 1801110,
+      "name": "다른 겨울의 우리들",
       "discount_percent": 50,
-      "original_price": 32000,
-      "final_price": 16000,
+      "original_price": 6250,
+      "final_price": 3120,
       "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253230/capsule_231x87.jpg?t=1787678027",
-      "url": "https://store.steampowered.com/app/253230"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1801110/capsule_231x87_koreana.jpg?t=1788100714",
+      "url": "https://store.steampowered.com/app/1801110",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "캐주얼",
+        "인디"
+      ]
     },
     {
-      "appid": 3314070,
-      "name": "The Sims™ 2 레거시 컬렉션",
+      "appid": 2815310,
+      "name": "The Sims™ 4 취미와 사업 확장팩",
       "discount_percent": 50,
-      "original_price": 33000,
-      "final_price": 16500,
+      "original_price": 44000,
+      "final_price": 22000,
       "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314070/7b54b88f4c6cf2fd15f5c5aa6a646aa1e368fb7f/capsule_231x87.jpg?t=1777389714",
-      "url": "https://store.steampowered.com/app/3314070"
-    },
-    {
-      "appid": 1358750,
-      "name": "드래곤 퀘스트 X 다섯 종족의 각성 오프라인",
-      "discount_percent": 50,
-      "original_price": 64800,
-      "final_price": 32400,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1358750/capsule_231x87_koreana.jpg?t=1724988177",
-      "url": "https://store.steampowered.com/app/1358750"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2815310/0d11a4fc3310c435b77169f197b7353037c7dd80/capsule_231x87.jpg?t=1775765698",
+      "url": "https://store.steampowered.com/app/2815310",
+      "genres": [
+        "어드벤처",
+        "캐주얼",
+        "시뮬레이션"
+      ]
     },
     {
       "appid": 613830,
@@ -1709,17 +2259,200 @@
       "final_price": 7250,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613830/capsule_231x87.jpg?t=1785246249",
-      "url": "https://store.steampowered.com/app/613830"
+      "url": "https://store.steampowered.com/app/613830",
+      "genres": [
+        "RPG"
+      ]
     },
     {
-      "appid": 2701660,
-      "name": "드래곤 퀘스트 III HD-2D Remake",
+      "appid": 1448440,
+      "name": "Wo Long: Fallen Dynasty",
       "discount_percent": 50,
-      "original_price": 69800,
-      "final_price": 34900,
+      "original_price": 49800,
+      "final_price": 24900,
       "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701660/capsule_231x87_koreana.jpg?t=1785184720",
-      "url": "https://store.steampowered.com/app/2701660"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1448440/6ede9cdaae075ff79ba6194d1475be7a2b9aa4a0/capsule_231x87.jpg?t=1780891625",
+      "url": "https://store.steampowered.com/app/1448440",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ]
+    },
+    {
+      "appid": 1566690,
+      "name": "Outpost: Infinity Siege",
+      "discount_percent": 50,
+      "original_price": 27000,
+      "final_price": 13500,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1566690/capsule_231x87.jpg?t=1747043120",
+      "url": "https://store.steampowered.com/app/1566690",
+      "genres": [
+        "액션",
+        "전략"
+      ]
+    },
+    {
+      "appid": 1989270,
+      "name": "Slay the Princess — The Pristine Cut",
+      "discount_percent": 50,
+      "original_price": 19300,
+      "final_price": 9650,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1989270/90faf29da4637bbf2e935d6b587b34fd01e16799/capsule_231x87.jpg?t=1775751748",
+      "url": "https://store.steampowered.com/app/1989270",
+      "genres": [
+        "어드벤처",
+        "인디",
+        "RPG",
+        "시뮬레이션"
+      ]
+    },
+    {
+      "appid": 895870,
+      "name": "Project Wingman",
+      "discount_percent": 50,
+      "original_price": 26000,
+      "final_price": 13000,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/895870/capsule_231x87.jpg?t=1773695705",
+      "url": "https://store.steampowered.com/app/895870",
+      "genres": [
+        "액션",
+        "인디",
+        "시뮬레이션"
+      ]
+    },
+    {
+      "appid": 1072420,
+      "name": "드래곤 퀘스트 빌더즈 2 파괴신 시도와 텅 빈 섬",
+      "discount_percent": 50,
+      "original_price": 54900,
+      "final_price": 27450,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072420/capsule_231x87_koreana.jpg?t=1775724306",
+      "url": "https://store.steampowered.com/app/1072420",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ]
+    },
+    {
+      "appid": 3314070,
+      "name": "The Sims™ 2 레거시 컬렉션",
+      "discount_percent": 50,
+      "original_price": 33000,
+      "final_price": 16500,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314070/7b54b88f4c6cf2fd15f5c5aa6a646aa1e368fb7f/capsule_231x87.jpg?t=1777389714",
+      "url": "https://store.steampowered.com/app/3314070",
+      "genres": [
+        "시뮬레이션"
+      ]
+    },
+    {
+      "appid": 1663220,
+      "name": "Coffee Talk Episode 2: Hibiscus &amp; Butterfly",
+      "discount_percent": 50,
+      "original_price": 16500,
+      "final_price": 8250,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1663220/capsule_231x87.jpg?t=1789739968",
+      "url": "https://store.steampowered.com/app/1663220",
+      "genres": [
+        "어드벤처",
+        "캐주얼",
+        "인디",
+        "시뮬레이션"
+      ]
+    },
+    {
+      "appid": 1669480,
+      "name": "Firefighting Simulator: Ignite",
+      "discount_percent": 50,
+      "original_price": 37500,
+      "final_price": 18750,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669480/b431a153a3f2c79b99004c32189bfd0c54c09858/capsule_231x87.jpg?t=1784796095",
+      "url": "https://store.steampowered.com/app/1669480",
+      "genres": [
+        "액션",
+        "시뮬레이션"
+      ]
+    },
+    {
+      "appid": 1562430,
+      "name": "DREDGE",
+      "discount_percent": 50,
+      "original_price": 45000,
+      "final_price": 22500,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/d6c28e6402e85395421ac06ac86cdb0e28b48e27/capsule_231x87.jpg?t=1780479732",
+      "url": "https://store.steampowered.com/app/1562430",
+      "genres": [
+        "어드벤처",
+        "RPG"
+      ]
+    },
+    {
+      "appid": 2106840,
+      "name": "PARANORMASIGHT: The Seven Mysteries of Honjo",
+      "discount_percent": 50,
+      "original_price": 24800,
+      "final_price": 12400,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2106840/capsule_231x87.jpg?t=1776154854",
+      "url": "https://store.steampowered.com/app/2106840",
+      "genres": [
+        "어드벤처",
+        "RPG",
+        "시뮬레이션"
+      ]
+    },
+    {
+      "appid": 1176470,
+      "name": "Terra Invicta 테라 인빅타",
+      "discount_percent": 50,
+      "original_price": 39900,
+      "final_price": 19950,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1176470/c5876e4158d21bc4f416db16625efc1fcf9b56d7/capsule_231x87_koreana.jpg?t=1789669783",
+      "url": "https://store.steampowered.com/app/1176470",
+      "genres": [
+        "시뮬레이션",
+        "전략"
+      ]
+    },
+    {
+      "appid": 253230,
+      "name": "A Hat in Time",
+      "discount_percent": 50,
+      "original_price": 32000,
+      "final_price": 16000,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253230/capsule_231x87.jpg?t=1787678027",
+      "url": "https://store.steampowered.com/app/253230",
+      "genres": [
+        "어드벤처",
+        "인디"
+      ]
+    },
+    {
+      "appid": 914800,
+      "name": "Coffee Talk",
+      "discount_percent": 50,
+      "original_price": 14500,
+      "final_price": 7250,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914800/capsule_231x87.jpg?t=1789739649",
+      "url": "https://store.steampowered.com/app/914800",
+      "genres": [
+        "어드벤처",
+        "캐주얼",
+        "인디"
+      ]
     },
     {
       "appid": 3947460,
@@ -1729,7 +2462,11 @@
       "final_price": 8940,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947460/3317d2949f2dee274d549ecc16e7bd4e90b7b21e/capsule_231x87_koreana.jpg?t=1789982716",
-      "url": "https://store.steampowered.com/app/3947460"
+      "url": "https://store.steampowered.com/app/3947460",
+      "genres": [
+        "RPG",
+        "시뮬레이션"
+      ]
     },
     {
       "appid": 2399420,
@@ -1739,7 +2476,12 @@
       "final_price": 30250,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399420/2da0772b63dcb1b58d3dea234fb578de1880f9c3/capsule_231x87.jpg?t=1790071212",
-      "url": "https://store.steampowered.com/app/2399420"
+      "url": "https://store.steampowered.com/app/2399420",
+      "genres": [
+        "레이싱",
+        "시뮬레이션",
+        "스포츠"
+      ]
     },
     {
       "appid": 3985950,
@@ -1749,7 +2491,12 @@
       "final_price": 12570,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985950/96153ff75aed4abbee04ecd7d0350423bd9bf050/capsule_231x87_alt_assets_5_koreana.jpg?t=1789518622",
-      "url": "https://store.steampowered.com/app/3985950"
+      "url": "https://store.steampowered.com/app/3985950",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "캐주얼"
+      ]
     },
     {
       "appid": 2840770,
@@ -1759,17 +2506,11 @@
       "final_price": 18700,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2840770/cc7f801396b237394d4e014e03cb0d5cac04cc22/capsule_231x87.jpg?t=1778598692",
-      "url": "https://store.steampowered.com/app/2840770"
-    },
-    {
-      "appid": 3717070,
-      "name": "WWE 2K26",
-      "discount_percent": 45,
-      "original_price": 118900,
-      "final_price": 65390,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717070/342d1122301dfd3420850f9fb504061353dce122/capsule_231x87_alt_assets_1.jpg?t=1788973299",
-      "url": "https://store.steampowered.com/app/3717070"
+      "url": "https://store.steampowered.com/app/2840770",
+      "genres": [
+        "액션",
+        "어드벤처"
+      ]
     },
     {
       "appid": 2725260,
@@ -1779,7 +2520,25 @@
       "final_price": 14850,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2725260/capsule_231x87.jpg?t=1740447961",
-      "url": "https://store.steampowered.com/app/2725260"
+      "url": "https://store.steampowered.com/app/2725260",
+      "genres": [
+        "액션",
+        "RPG"
+      ]
+    },
+    {
+      "appid": 3717070,
+      "name": "WWE 2K26",
+      "discount_percent": 45,
+      "original_price": 118900,
+      "final_price": 65390,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717070/342d1122301dfd3420850f9fb504061353dce122/capsule_231x87_alt_assets_1.jpg?t=1788973299",
+      "url": "https://store.steampowered.com/app/3717070",
+      "genres": [
+        "시뮬레이션",
+        "스포츠"
+      ]
     },
     {
       "appid": 1202130,
@@ -1789,7 +2548,10 @@
       "final_price": 17600,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1202130/76300e6dbe533297063a1060abcb5c5e6c745189/capsule_231x87.jpg?t=1779812017",
-      "url": "https://store.steampowered.com/app/1202130"
+      "url": "https://store.steampowered.com/app/1202130",
+      "genres": [
+        "전략"
+      ]
     },
     {
       "appid": 3681010,
@@ -1799,7 +2561,24 @@
       "final_price": 45490,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/19b0758706fefb5c06a6183365fd62dafe2bf914/capsule_231x87.jpg?t=1772090941",
-      "url": "https://store.steampowered.com/app/3681010"
+      "url": "https://store.steampowered.com/app/3681010",
+      "genres": [
+        "액션",
+        "RPG"
+      ]
+    },
+    {
+      "appid": 3259600,
+      "name": "진홍의 연금술사와 순백의 수호자 ~레슬레리아나의 아틀리에~",
+      "discount_percent": 43,
+      "original_price": 69800,
+      "final_price": 39790,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3259600/cfb7cbdb801b31bb499bd2e1e33570d95d809f5f/capsule_231x87_koreana.jpg?t=1781064401",
+      "url": "https://store.steampowered.com/app/3259600",
+      "genres": [
+        "RPG"
+      ]
     },
     {
       "appid": 1392860,
@@ -1809,7 +2588,10 @@
       "final_price": 40480,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1392860/2b03892beff89119d8f8a531835871f711ace063/capsule_231x87_koreana.jpg?t=1790067028",
-      "url": "https://store.steampowered.com/app/1392860"
+      "url": "https://store.steampowered.com/app/1392860",
+      "genres": [
+        "어드벤처"
+      ]
     },
     {
       "appid": 1984270,
@@ -1819,7 +2601,10 @@
       "final_price": 59880,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984270/53a20c1734b00992616fe2a976a0e269174608a8/capsule_231x87_koreana.jpg?t=1787032079",
-      "url": "https://store.steampowered.com/app/1984270"
+      "url": "https://store.steampowered.com/app/1984270",
+      "genres": [
+        "RPG"
+      ]
     },
     {
       "appid": 3949040,
@@ -1829,47 +2614,12 @@
       "final_price": 5340,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/87c1df082a7b29a7ffd7f32ab03d0d9d12e0f876/capsule_231x87_alt_assets_0.jpg?t=1789134289",
-      "url": "https://store.steampowered.com/app/3949040"
-    },
-    {
-      "appid": 2408820,
-      "name": "루마섬",
-      "discount_percent": 40,
-      "original_price": 20500,
-      "final_price": 12300,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2408820/f5b651d9a31486e818e2d1abf4f2649bce93f40a/capsule_231x87.jpg?t=1786439749",
-      "url": "https://store.steampowered.com/app/2408820"
-    },
-    {
-      "appid": 1757300,
-      "name": "Jump Space",
-      "discount_percent": 40,
-      "original_price": 21500,
-      "final_price": 12900,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1757300/1e9f4d495d47613f00335226caa8ec20c0771299/capsule_231x87_alt_assets_4.jpg?t=1789645435",
-      "url": "https://store.steampowered.com/app/1757300"
-    },
-    {
-      "appid": 3014320,
-      "name": "옥토패스 트래블러 0 (OCTOPATH TRAVELER 0)",
-      "discount_percent": 40,
-      "original_price": 59800,
-      "final_price": 35880,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014320/67b817b83633861c6330061838917bcc07be9852/capsule_231x87.jpg?t=1779854659",
-      "url": "https://store.steampowered.com/app/3014320"
-    },
-    {
-      "appid": 1839950,
-      "name": "Terminator: Dark Fate - Defiance",
-      "discount_percent": 40,
-      "original_price": 42000,
-      "final_price": 25200,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1839950/230affc1b3c99c304523d43caa80ba0de13c9143/capsule_231x87_alt_assets_2.jpg?t=1790086370",
-      "url": "https://store.steampowered.com/app/1839950"
+      "url": "https://store.steampowered.com/app/3949040",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "인디"
+      ]
     },
     {
       "appid": 1004640,
@@ -1879,17 +2629,28 @@
       "final_price": 35880,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1004640/12bdfff11d35dbd64055124bcdbf690f49d6ce46/capsule_231x87.jpg?t=1789614656",
-      "url": "https://store.steampowered.com/app/1004640"
+      "url": "https://store.steampowered.com/app/1004640",
+      "genres": [
+        "RPG",
+        "전략"
+      ]
     },
     {
-      "appid": 1790600,
-      "name": "드래곤볼 스파킹! 제로",
+      "appid": 2408820,
+      "name": "루마섬",
       "discount_percent": 40,
-      "original_price": 59800,
-      "final_price": 35880,
+      "original_price": 20500,
+      "final_price": 12300,
       "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/capsule_231x87.jpg?t=1785726916",
-      "url": "https://store.steampowered.com/app/1790600"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2408820/f5b651d9a31486e818e2d1abf4f2649bce93f40a/capsule_231x87.jpg?t=1786439749",
+      "url": "https://store.steampowered.com/app/2408820",
+      "genres": [
+        "어드벤처",
+        "캐주얼",
+        "인디",
+        "RPG",
+        "시뮬레이션"
+      ]
     },
     {
       "appid": 1909950,
@@ -1899,17 +2660,67 @@
       "final_price": 47880,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1909950/4bbf32c6d4b4c7a11f555321aa1e7b64f91bf4ea/capsule_231x87_koreana.jpg?t=1788165639",
-      "url": "https://store.steampowered.com/app/1909950"
+      "url": "https://store.steampowered.com/app/1909950",
+      "genres": [
+        "RPG",
+        "시뮬레이션",
+        "전략"
+      ]
     },
     {
-      "appid": 3405340,
-      "name": "Megabonk",
+      "appid": 3014320,
+      "name": "옥토패스 트래블러 0 (OCTOPATH TRAVELER 0)",
       "discount_percent": 40,
-      "original_price": 11000,
-      "final_price": 6600,
+      "original_price": 59800,
+      "final_price": 35880,
       "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405340/d6e1b8b1fff6b5b6da2aadedac6626a658ed0ec4/capsule_231x87.jpg?t=1760445338",
-      "url": "https://store.steampowered.com/app/3405340"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014320/67b817b83633861c6330061838917bcc07be9852/capsule_231x87.jpg?t=1779854659",
+      "url": "https://store.steampowered.com/app/3014320",
+      "genres": [
+        "RPG"
+      ]
+    },
+    {
+      "appid": 1839950,
+      "name": "Terminator: Dark Fate - Defiance",
+      "discount_percent": 40,
+      "original_price": 42000,
+      "final_price": 25200,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1839950/230affc1b3c99c304523d43caa80ba0de13c9143/capsule_231x87_alt_assets_2.jpg?t=1790086370",
+      "url": "https://store.steampowered.com/app/1839950",
+      "genres": [
+        "전략"
+      ]
+    },
+    {
+      "appid": 1757300,
+      "name": "Jump Space",
+      "discount_percent": 40,
+      "original_price": 21500,
+      "final_price": 12900,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1757300/1e9f4d495d47613f00335226caa8ec20c0771299/capsule_231x87_alt_assets_4.jpg?t=1789645435",
+      "url": "https://store.steampowered.com/app/1757300",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "인디",
+        "앞서 해보기"
+      ]
+    },
+    {
+      "appid": 1790600,
+      "name": "드래곤볼 스파킹! 제로",
+      "discount_percent": 40,
+      "original_price": 59800,
+      "final_price": 35880,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/capsule_231x87.jpg?t=1785726916",
+      "url": "https://store.steampowered.com/app/1790600",
+      "genres": [
+        "액션"
+      ]
     },
     {
       "appid": 669330,
@@ -1919,27 +2730,14 @@
       "final_price": 9900,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/669330/9589e2238e72134cadc9de6ff396b3f2c0186b9c/capsule_231x87_alt_assets_2.jpg?t=1790094413",
-      "url": "https://store.steampowered.com/app/669330"
-    },
-    {
-      "appid": 1158160,
-      "name": "Coral Island",
-      "discount_percent": 40,
-      "original_price": 35000,
-      "final_price": 21000,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158160/153ddc8eb755eaa1b94b592b5316a972acb715e5/capsule_231x87.jpg?t=1781768008",
-      "url": "https://store.steampowered.com/app/1158160"
-    },
-    {
-      "appid": 2101960,
-      "name": "Cronos: The New Dawn",
-      "discount_percent": 40,
-      "original_price": 64900,
-      "final_price": 38940,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2101960/a9c0e9e0e5ed7b191b8efc25d496003c4296bc76/capsule_231x87.jpg?t=1777385995",
-      "url": "https://store.steampowered.com/app/2101960"
+      "url": "https://store.steampowered.com/app/669330",
+      "genres": [
+        "액션",
+        "인디",
+        "대규모 멀티플레이어",
+        "시뮬레이션",
+        "전략"
+      ]
     },
     {
       "appid": 3417840,
@@ -1949,7 +2747,84 @@
       "final_price": 16800,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417840/7d563926937a3509603e67e39f39f4d940484894/capsule_231x87.jpg?t=1768991147",
-      "url": "https://store.steampowered.com/app/3417840"
+      "url": "https://store.steampowered.com/app/3417840",
+      "genres": [
+        "시뮬레이션",
+        "전략"
+      ]
+    },
+    {
+      "appid": 1158160,
+      "name": "Coral Island",
+      "discount_percent": 40,
+      "original_price": 35000,
+      "final_price": 21000,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158160/153ddc8eb755eaa1b94b592b5316a972acb715e5/capsule_231x87.jpg?t=1781768008",
+      "url": "https://store.steampowered.com/app/1158160",
+      "genres": [
+        "어드벤처",
+        "캐주얼",
+        "인디",
+        "RPG",
+        "시뮬레이션",
+        "전략"
+      ]
+    },
+    {
+      "appid": 3405340,
+      "name": "Megabonk",
+      "discount_percent": 40,
+      "original_price": 11000,
+      "final_price": 6600,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405340/d6e1b8b1fff6b5b6da2aadedac6626a658ed0ec4/capsule_231x87.jpg?t=1760445338",
+      "url": "https://store.steampowered.com/app/3405340",
+      "genres": [
+        "액션",
+        "캐주얼",
+        "인디"
+      ]
+    },
+    {
+      "appid": 3417850,
+      "name": "Stellaris: Shadows of the Shroud",
+      "discount_percent": 40,
+      "original_price": 22000,
+      "final_price": 13200,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417850/894ae0c7f83466e10a68e8f4102703d61bcdf2bd/capsule_231x87.jpg?t=1768991185",
+      "url": "https://store.steampowered.com/app/3417850",
+      "genres": [
+        "시뮬레이션",
+        "전략"
+      ]
+    },
+    {
+      "appid": 2101960,
+      "name": "Cronos: The New Dawn",
+      "discount_percent": 40,
+      "original_price": 64900,
+      "final_price": 38940,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2101960/a9c0e9e0e5ed7b191b8efc25d496003c4296bc76/capsule_231x87.jpg?t=1777385995",
+      "url": "https://store.steampowered.com/app/2101960",
+      "genres": [
+        "액션"
+      ]
+    },
+    {
+      "appid": 3682050,
+      "name": "두 사람의 여름의 소리",
+      "discount_percent": 40,
+      "original_price": 21500,
+      "final_price": 12900,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682050/8120ed17be75f9d46cf04b771c77cb6029a16b73/capsule_231x87_koreana.jpg?t=1751094481",
+      "url": "https://store.steampowered.com/app/3682050",
+      "genres": [
+        "캐주얼"
+      ]
     },
     {
       "appid": 2815070,
@@ -1959,17 +2834,12 @@
       "final_price": 38880,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2815070/b290e24a665ae6036c432f5c2a16989fde222628/capsule_231x87.jpg?t=1789659039",
-      "url": "https://store.steampowered.com/app/2815070"
-    },
-    {
-      "appid": 2878420,
-      "name": "옛날 재래시장 시뮬레이터",
-      "discount_percent": 40,
-      "original_price": 11000,
-      "final_price": 6600,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878420/9d67b1a622ca711b00ae5ea11ac77d839098eb3b/capsule_231x87_koreana.jpg?t=1789573378",
-      "url": "https://store.steampowered.com/app/2878420"
+      "url": "https://store.steampowered.com/app/2815070",
+      "genres": [
+        "레이싱",
+        "시뮬레이션",
+        "스포츠"
+      ]
     },
     {
       "appid": 3527290,
@@ -1979,7 +2849,12 @@
       "final_price": 5210,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/1844964d7a353e50eb3cc979ea922729d8c1b0ad/capsule_231x87.jpg?t=1786470571",
-      "url": "https://store.steampowered.com/app/3527290"
+      "url": "https://store.steampowered.com/app/3527290",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "인디"
+      ]
     },
     {
       "appid": 2001120,
@@ -1989,27 +2864,11 @@
       "final_price": 36400,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/1988bcdc421d71cbe4c8c07940967e7a0cd752be/capsule_231x87.jpg?t=1763484567",
-      "url": "https://store.steampowered.com/app/2001120"
-    },
-    {
-      "appid": 4557380,
-      "name": "Batomon Showdown",
-      "discount_percent": 35,
-      "original_price": 16000,
-      "final_price": 10400,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4557380/b40dccb71e0f4917c751b4ee7c44eecfde1316be/capsule_231x87.jpg?t=1789470804",
-      "url": "https://store.steampowered.com/app/4557380"
-    },
-    {
-      "appid": 2893570,
-      "name": "드래곤 퀘스트 I &amp; II HD-2D Remake",
-      "discount_percent": 35,
-      "original_price": 69800,
-      "final_price": 45370,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2893570/5c7a8234ebe48592b124ea7504deb899729b22f5/capsule_231x87_koreana.jpg?t=1773044632",
-      "url": "https://store.steampowered.com/app/2893570"
+      "url": "https://store.steampowered.com/app/2001120",
+      "genres": [
+        "액션",
+        "어드벤처"
+      ]
     },
     {
       "appid": 2499860,
@@ -2019,7 +2878,26 @@
       "final_price": 45370,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499860/0030d8bcb4de121d285fbaf2540997601ed15b9d/capsule_231x87_koreana.jpg?t=1785474787",
-      "url": "https://store.steampowered.com/app/2499860"
+      "url": "https://store.steampowered.com/app/2499860",
+      "genres": [
+        "어드벤처",
+        "RPG"
+      ]
+    },
+    {
+      "appid": 4557380,
+      "name": "Batomon Showdown",
+      "discount_percent": 35,
+      "original_price": 16000,
+      "final_price": 10400,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4557380/b40dccb71e0f4917c751b4ee7c44eecfde1316be/capsule_231x87.jpg?t=1789470804",
+      "url": "https://store.steampowered.com/app/4557380",
+      "genres": [
+        "캐주얼",
+        "인디",
+        "전략"
+      ]
     },
     {
       "appid": 3274580,
@@ -2029,7 +2907,24 @@
       "final_price": 44850,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274580/2981c24990a28e39bee6737ac7ad0b7e9dc82276/capsule_231x87_koreana.jpg?t=1789639365",
-      "url": "https://store.steampowered.com/app/3274580"
+      "url": "https://store.steampowered.com/app/3274580",
+      "genres": [
+        "시뮬레이션",
+        "전략"
+      ]
+    },
+    {
+      "appid": 2893570,
+      "name": "드래곤 퀘스트 I &amp; II HD-2D Remake",
+      "discount_percent": 35,
+      "original_price": 69800,
+      "final_price": 45370,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2893570/5c7a8234ebe48592b124ea7504deb899729b22f5/capsule_231x87_koreana.jpg?t=1773044632",
+      "url": "https://store.steampowered.com/app/2893570",
+      "genres": [
+        "RPG"
+      ]
     },
     {
       "appid": 1169040,
@@ -2039,7 +2934,13 @@
       "final_price": 10720,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1169040/2221d66e7576c197c3d360257d70614ccc2afb8e/capsule_231x87_alt_assets_5.jpg?t=1785482841",
-      "url": "https://store.steampowered.com/app/1169040"
+      "url": "https://store.steampowered.com/app/1169040",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "인디",
+        "RPG"
+      ]
     },
     {
       "appid": 3124340,
@@ -2049,17 +2950,13 @@
       "final_price": 20800,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124340/86251cb11fc185efda55bb8390e362527400fdb7/capsule_231x87.jpg?t=1790085805",
-      "url": "https://store.steampowered.com/app/3124340"
-    },
-    {
-      "appid": 3260810,
-      "name": "Le Mans Ultimate - 2024 Pack 3",
-      "discount_percent": 35,
-      "original_price": 25220,
-      "final_price": 16390,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3260810/203b12531f90e793566f9d009ac50a2017340aaf/capsule_231x87.jpg?t=1761211244",
-      "url": "https://store.steampowered.com/app/3260810"
+      "url": "https://store.steampowered.com/app/3124340",
+      "genres": [
+        "어드벤처",
+        "인디",
+        "RPG",
+        "전략"
+      ]
     },
     {
       "appid": 3453910,
@@ -2069,17 +2966,26 @@
       "final_price": 6820,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3453910/82f49306f782189b4ee78fc69ac219774f75b67f/capsule_231x87.jpg?t=1790015027",
-      "url": "https://store.steampowered.com/app/3453910"
+      "url": "https://store.steampowered.com/app/3453910",
+      "genres": [
+        "인디",
+        "시뮬레이션"
+      ]
     },
     {
-      "appid": 1468810,
-      "name": "鬼谷八荒 Tale of Immortal",
+      "appid": 3260810,
+      "name": "Le Mans Ultimate - 2024 Pack 3",
       "discount_percent": 35,
-      "original_price": 20500,
-      "final_price": 13320,
+      "original_price": 25220,
+      "final_price": 16390,
       "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1468810/capsule_231x87.jpg?t=1769479020",
-      "url": "https://store.steampowered.com/app/1468810"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3260810/203b12531f90e793566f9d009ac50a2017340aaf/capsule_231x87.jpg?t=1761211244",
+      "url": "https://store.steampowered.com/app/3260810",
+      "genres": [
+        "레이싱",
+        "시뮬레이션",
+        "스포츠"
+      ]
     },
     {
       "appid": 2062430,
@@ -2089,7 +2995,11 @@
       "final_price": 10890,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062430/1e8d4bf2436238c808fb805e2f4e3edd30d6b8b3/capsule_231x87_alt_assets_2.jpg?t=1789453342",
-      "url": "https://store.steampowered.com/app/2062430"
+      "url": "https://store.steampowered.com/app/2062430",
+      "genres": [
+        "액션",
+        "인디"
+      ]
     },
     {
       "appid": 2958130,
@@ -2099,7 +3009,11 @@
       "final_price": 42210,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2958130/52e10a1e80a03df837094cbe22c084197e082d05/capsule_231x87_koreana.jpg?t=1790072620",
-      "url": "https://store.steampowered.com/app/2958130"
+      "url": "https://store.steampowered.com/app/2958130",
+      "genres": [
+        "시뮬레이션",
+        "전략"
+      ]
     },
     {
       "appid": 1388880,
@@ -2109,7 +3023,11 @@
       "final_price": 13400,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1388880/68f86b3672d4c01a0b8bba990f5e9b7ef3c5e937/capsule_231x87.jpg?t=1769459840",
-      "url": "https://store.steampowered.com/app/1388880"
+      "url": "https://store.steampowered.com/app/1388880",
+      "genres": [
+        "캐주얼",
+        "인디"
+      ]
     },
     {
       "appid": 2879840,
@@ -2119,7 +3037,15 @@
       "final_price": 13930,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2879840/a41c68c227b6d6dce8bbcc1685afb944dcf10719/capsule_231x87_alt_assets_3.jpg?t=1790013058",
-      "url": "https://store.steampowered.com/app/2879840"
+      "url": "https://store.steampowered.com/app/2879840",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "캐주얼",
+        "인디",
+        "대규모 멀티플레이어",
+        "시뮬레이션"
+      ]
     },
     {
       "appid": 2536520,
@@ -2129,7 +3055,12 @@
       "final_price": 31430,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/a219ff92567ee7c6b2c734577c579a165c6c63bf/capsule_231x87_koreana.jpg?t=1774399170",
-      "url": "https://store.steampowered.com/app/2536520"
+      "url": "https://store.steampowered.com/app/2536520",
+      "genres": [
+        "액션",
+        "RPG",
+        "전략"
+      ]
     },
     {
       "appid": 2444750,
@@ -2139,7 +3070,13 @@
       "final_price": 18900,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2444750/244d00ca528830d5b29ecec839d40b1658843a56/capsule_231x87_alt_assets_5.jpg?t=1789985975",
-      "url": "https://store.steampowered.com/app/2444750"
+      "url": "https://store.steampowered.com/app/2444750",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "인디",
+        "RPG"
+      ]
     },
     {
       "appid": 2384580,
@@ -2149,7 +3086,12 @@
       "final_price": 55860,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2384580/6a28fdb6ab3fc1d7a4c1859314bab76cd6d43ce1/capsule_231x87_koreana.jpg?t=1775536473",
-      "url": "https://store.steampowered.com/app/2384580"
+      "url": "https://store.steampowered.com/app/2384580",
+      "genres": [
+        "액션",
+        "RPG",
+        "전략"
+      ]
     },
     {
       "appid": 2827200,
@@ -2159,37 +3101,14 @@
       "final_price": 7700,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827200/93d9d7a43e68c4f8e96664cec3bbff4b27ffa48a/capsule_231x87.jpg?t=1789724731",
-      "url": "https://store.steampowered.com/app/2827200"
-    },
-    {
-      "appid": 3072450,
-      "name": "FAKEBOOK : 페이크북",
-      "discount_percent": 30,
-      "original_price": 16500,
-      "final_price": 11550,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3072450/6c4117b248a015136a83ba5892bf16bda31d43b5/capsule_231x87_koreana.jpg?t=1789476373",
-      "url": "https://store.steampowered.com/app/3072450"
-    },
-    {
-      "appid": 1217060,
-      "name": "Gunfire Reborn",
-      "discount_percent": 30,
-      "original_price": 20500,
-      "final_price": 14350,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1217060/7ec98316698083a83078163141f54e75db91b41c/capsule_231x87.jpg?t=1789092024",
-      "url": "https://store.steampowered.com/app/1217060"
-    },
-    {
-      "appid": 2572040,
-      "name": "Woodo",
-      "discount_percent": 30,
-      "original_price": 14000,
-      "final_price": 9800,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2572040/4cf29e23f78049bdaef4873865f0c765eff0753e/capsule_231x87.jpg?t=1790090594",
-      "url": "https://store.steampowered.com/app/2572040"
+      "url": "https://store.steampowered.com/app/2827200",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "캐주얼",
+        "인디",
+        "앞서 해보기"
+      ]
     },
     {
       "appid": 2891020,
@@ -2199,7 +3118,58 @@
       "final_price": 7700,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891020/9ab7ae95ade99cb91db1dafc5ded4f200a58eeb4/capsule_231x87.jpg?t=1789740108",
-      "url": "https://store.steampowered.com/app/2891020"
+      "url": "https://store.steampowered.com/app/2891020",
+      "genres": [
+        "캐주얼",
+        "인디",
+        "시뮬레이션"
+      ]
+    },
+    {
+      "appid": 3072450,
+      "name": "FAKEBOOK : 페이크북",
+      "discount_percent": 30,
+      "original_price": 16500,
+      "final_price": 11550,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3072450/6c4117b248a015136a83ba5892bf16bda31d43b5/capsule_231x87_koreana.jpg?t=1789476373",
+      "url": "https://store.steampowered.com/app/3072450",
+      "genres": [
+        "어드벤처",
+        "캐주얼",
+        "인디",
+        "시뮬레이션"
+      ]
+    },
+    {
+      "appid": 1217060,
+      "name": "Gunfire Reborn",
+      "discount_percent": 30,
+      "original_price": 20500,
+      "final_price": 14350,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1217060/7ec98316698083a83078163141f54e75db91b41c/capsule_231x87.jpg?t=1789092024",
+      "url": "https://store.steampowered.com/app/1217060",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "인디",
+        "RPG"
+      ]
+    },
+    {
+      "appid": 2572040,
+      "name": "Woodo",
+      "discount_percent": 30,
+      "original_price": 14000,
+      "final_price": 9800,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2572040/4cf29e23f78049bdaef4873865f0c765eff0753e/capsule_231x87.jpg?t=1790090594",
+      "url": "https://store.steampowered.com/app/2572040",
+      "genres": [
+        "캐주얼",
+        "인디"
+      ]
     },
     {
       "appid": 4187140,
@@ -2209,7 +3179,10 @@
       "final_price": 4550,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187140/ccdaf99818ba87da0a2460085e8712c5fc2ed3a5/capsule_231x87_koreana.jpg?t=1780587338",
-      "url": "https://store.steampowered.com/app/4187140"
+      "url": "https://store.steampowered.com/app/4187140",
+      "genres": [
+        "인디"
+      ]
     },
     {
       "appid": 2445690,
@@ -2219,17 +3192,13 @@
       "final_price": 13650,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/14535dafc14272e5a4c3e29f9f5153ce1a7bc8e3/capsule_231x87.jpg?t=1790073019",
-      "url": "https://store.steampowered.com/app/2445690"
-    },
-    {
-      "appid": 1863430,
-      "name": "Dragonkin: The Banished",
-      "discount_percent": 30,
-      "original_price": 27000,
-      "final_price": 18900,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1863430/d8c8cea57fcea83f395058927091a0ac8bb90d62/capsule_231x87.jpg?t=1785140153",
-      "url": "https://store.steampowered.com/app/1863430"
+      "url": "https://store.steampowered.com/app/2445690",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "인디",
+        "RPG"
+      ]
     },
     {
       "appid": 3589510,
@@ -2239,7 +3208,25 @@
       "final_price": 7700,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589510/956c49e1e691bc3dc0d7162cbe64b2d0d4afb95d/capsule_231x87.jpg?t=1790090948",
-      "url": "https://store.steampowered.com/app/3589510"
+      "url": "https://store.steampowered.com/app/3589510",
+      "genres": [
+        "캐주얼",
+        "시뮬레이션",
+        "앞서 해보기"
+      ]
+    },
+    {
+      "appid": 1863430,
+      "name": "Dragonkin: The Banished",
+      "discount_percent": 30,
+      "original_price": 27000,
+      "final_price": 18900,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1863430/d8c8cea57fcea83f395058927091a0ac8bb90d62/capsule_231x87.jpg?t=1785140153",
+      "url": "https://store.steampowered.com/app/1863430",
+      "genres": [
+        "액션"
+      ]
     },
     {
       "appid": 1465460,
@@ -2249,17 +3236,14 @@
       "final_price": 18200,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465460/761d81a0d8fe6b163b5aa84c6391217e5aef47b9/capsule_231x87_alt_assets_4.jpg?t=1789486550",
-      "url": "https://store.steampowered.com/app/1465460"
-    },
-    {
-      "appid": 813230,
-      "name": "ANIMAL WELL",
-      "discount_percent": 30,
-      "original_price": 25000,
-      "final_price": 17500,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813230/capsule_231x87.jpg?t=1788379439",
-      "url": "https://store.steampowered.com/app/813230"
+      "url": "https://store.steampowered.com/app/1465460",
+      "genres": [
+        "액션",
+        "인디",
+        "시뮬레이션",
+        "전략",
+        "앞서 해보기"
+      ]
     },
     {
       "appid": 1262350,
@@ -2269,47 +3253,12 @@
       "final_price": 14350,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262350/capsule_231x87.jpg?t=1773697315",
-      "url": "https://store.steampowered.com/app/1262350"
-    },
-    {
-      "appid": 2701440,
-      "name": "PARANORMASIGHT: The Mermaid's Curse",
-      "discount_percent": 30,
-      "original_price": 31000,
-      "final_price": 21700,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/298bee104c997551207baab4ccc7265a0cc64963/capsule_231x87.jpg?t=1789527688",
-      "url": "https://store.steampowered.com/app/2701440"
-    },
-    {
-      "appid": 3367500,
-      "name": "뚱땅뚱땅 보물 회수 컴퍼니",
-      "discount_percent": 30,
-      "original_price": 10000,
-      "final_price": 7000,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3367500/365240cb820730dbf9b0932d9a61ae074015b46d/capsule_231x87.jpg?t=1783597266",
-      "url": "https://store.steampowered.com/app/3367500"
-    },
-    {
-      "appid": 252530,
-      "name": "OMSI 2: Steam Edition",
-      "discount_percent": 30,
-      "original_price": 32000,
-      "final_price": 22400,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252530/capsule_231x87.jpg?t=1784012447",
-      "url": "https://store.steampowered.com/app/252530"
-    },
-    {
-      "appid": 2495450,
-      "name": "Winter Memories",
-      "discount_percent": 30,
-      "original_price": 20500,
-      "final_price": 14350,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2495450/capsule_231x87.jpg?t=1755877347",
-      "url": "https://store.steampowered.com/app/2495450"
+      "url": "https://store.steampowered.com/app/1262350",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "인디"
+      ]
     },
     {
       "appid": 4300090,
@@ -2319,7 +3268,57 @@
       "final_price": 7000,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300090/b7c73f74cd58a84e004df6669967142e8b3ff066/capsule_231x87_koreana.jpg?t=1789812983",
-      "url": "https://store.steampowered.com/app/4300090"
+      "url": "https://store.steampowered.com/app/4300090",
+      "genres": [
+        "캐주얼",
+        "인디",
+        "시뮬레이션"
+      ]
+    },
+    {
+      "appid": 3367500,
+      "name": "뚱땅뚱땅 보물 회수 컴퍼니",
+      "discount_percent": 30,
+      "original_price": 10000,
+      "final_price": 7000,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3367500/365240cb820730dbf9b0932d9a61ae074015b46d/capsule_231x87.jpg?t=1783597266",
+      "url": "https://store.steampowered.com/app/3367500",
+      "genres": [
+        "액션",
+        "앞서 해보기"
+      ]
+    },
+    {
+      "appid": 2495450,
+      "name": "Winter Memories",
+      "discount_percent": 30,
+      "original_price": 20500,
+      "final_price": 14350,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2495450/capsule_231x87.jpg?t=1755877347",
+      "url": "https://store.steampowered.com/app/2495450",
+      "genres": [
+        "어드벤처",
+        "캐주얼",
+        "RPG",
+        "시뮬레이션"
+      ]
+    },
+    {
+      "appid": 2277560,
+      "name": "명말: 공허의 깃털",
+      "discount_percent": 30,
+      "original_price": 59800,
+      "final_price": 41860,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277560/fa5030e6bfd2281a9c0d920a99a60fdb9a1fae3c/capsule_231x87_koreana.jpg?t=1784896573",
+      "url": "https://store.steampowered.com/app/2277560",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ]
     },
     {
       "appid": 3560670,
@@ -2329,7 +3328,13 @@
       "final_price": 5400,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560670/abceed7207978dbb610bf7ae303d7283cbb0f8d8/capsule_231x87.jpg?t=1789729231",
-      "url": "https://store.steampowered.com/app/3560670"
+      "url": "https://store.steampowered.com/app/3560670",
+      "genres": [
+        "인디",
+        "대규모 멀티플레이어",
+        "전략",
+        "앞서 해보기"
+      ]
     },
     {
       "appid": 2772990,
@@ -2339,7 +3344,12 @@
       "final_price": 7560,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772990/a281cff0b762bdb257a63035723667e2230aaa4a/capsule_231x87.jpg?t=1786649840",
-      "url": "https://store.steampowered.com/app/2772990"
+      "url": "https://store.steampowered.com/app/2772990",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "인디"
+      ]
     },
     {
       "appid": 620980,
@@ -2349,7 +3359,10 @@
       "final_price": 23100,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620980/1835eec84d486fd58cdc54ae900ade0b69b70a75/capsule_231x87.jpg?t=1789636674",
-      "url": "https://store.steampowered.com/app/620980"
+      "url": "https://store.steampowered.com/app/620980",
+      "genres": [
+        "인디"
+      ]
     },
     {
       "appid": 2950790,
@@ -2359,7 +3372,12 @@
       "final_price": 14920,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950790/922472560f653fd897313ab7a10dd86b018d373f/capsule_231x87.jpg?t=1789499918",
-      "url": "https://store.steampowered.com/app/2950790"
+      "url": "https://store.steampowered.com/app/2950790",
+      "genres": [
+        "액션",
+        "인디",
+        "시뮬레이션"
+      ]
     },
     {
       "appid": 4466620,
@@ -2369,17 +3387,13 @@
       "final_price": 12000,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4466620/eba9adccccb566c72b998cfe15ae3008eaa00ff7/capsule_231x87.jpg?t=1786771936",
-      "url": "https://store.steampowered.com/app/4466620"
-    },
-    {
-      "appid": 3483510,
-      "name": "모험가 엘리엇의 천 년 이야기",
-      "discount_percent": 25,
-      "original_price": 72800,
-      "final_price": 54600,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483510/46b47440dd3713d99661faf35d6de8f851d1f41b/capsule_231x87_koreana.jpg?t=1789463096",
-      "url": "https://store.steampowered.com/app/3483510"
+      "url": "https://store.steampowered.com/app/4466620",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "인디",
+        "RPG"
+      ]
     },
     {
       "appid": 1368140,
@@ -2389,27 +3403,26 @@
       "final_price": 29920,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1368140/01f0072bb7199150b5caa432353eea51ec8eb4f5/capsule_231x87_koreana.jpg?t=1789670492",
-      "url": "https://store.steampowered.com/app/1368140"
+      "url": "https://store.steampowered.com/app/1368140",
+      "genres": [
+        "시뮬레이션",
+        "전략"
+      ]
     },
     {
-      "appid": 2747330,
-      "name": "Species: Unknown",
+      "appid": 3483510,
+      "name": "모험가 엘리엇의 천 년 이야기",
       "discount_percent": 25,
-      "original_price": 11000,
-      "final_price": 8250,
+      "original_price": 72800,
+      "final_price": 54600,
       "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2747330/21bcdd3233eb73c96739ac25bba5c9c9a7724107/capsule_231x87_alt_assets_4.jpg?t=1790005206",
-      "url": "https://store.steampowered.com/app/2747330"
-    },
-    {
-      "appid": 851850,
-      "name": "드래곤볼 Z 카카로트",
-      "discount_percent": 25,
-      "original_price": 29800,
-      "final_price": 22350,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851850/capsule_231x87.jpg?t=1769139697",
-      "url": "https://store.steampowered.com/app/851850"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483510/46b47440dd3713d99661faf35d6de8f851d1f41b/capsule_231x87_koreana.jpg?t=1789463096",
+      "url": "https://store.steampowered.com/app/3483510",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ]
     },
     {
       "appid": 4038930,
@@ -2419,17 +3432,27 @@
       "final_price": 30530,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4038930/987255728da4de5f6ec73d97c5f522729de2159b/capsule_231x87_koreana.jpg?t=1773623419",
-      "url": "https://store.steampowered.com/app/4038930"
+      "url": "https://store.steampowered.com/app/4038930",
+      "genres": [
+        "액션",
+        "RPG",
+        "전략"
+      ]
     },
     {
-      "appid": 1229490,
-      "name": "ULTRAKILL",
+      "appid": 2747330,
+      "name": "Species: Unknown",
       "discount_percent": 25,
-      "original_price": 24500,
-      "final_price": 18370,
+      "original_price": 11000,
+      "final_price": 8250,
       "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229490/capsule_231x87.jpg?t=1783942574",
-      "url": "https://store.steampowered.com/app/1229490"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2747330/21bcdd3233eb73c96739ac25bba5c9c9a7724107/capsule_231x87_alt_assets_4.jpg?t=1790005206",
+      "url": "https://store.steampowered.com/app/2747330",
+      "genres": [
+        "액션",
+        "인디",
+        "앞서 해보기"
+      ]
     },
     {
       "appid": 2103140,
@@ -2439,7 +3462,42 @@
       "final_price": 13120,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2103140/067d934619f9b8244b618c95aadf0dcf8e8ef5b3/capsule_231x87.jpg?t=1790072393",
-      "url": "https://store.steampowered.com/app/2103140"
+      "url": "https://store.steampowered.com/app/2103140",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "인디",
+        "RPG"
+      ]
+    },
+    {
+      "appid": 851850,
+      "name": "드래곤볼 Z 카카로트",
+      "discount_percent": 25,
+      "original_price": 29800,
+      "final_price": 22350,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851850/capsule_231x87.jpg?t=1769139697",
+      "url": "https://store.steampowered.com/app/851850",
+      "genres": [
+        "액션",
+        "RPG"
+      ]
+    },
+    {
+      "appid": 1229490,
+      "name": "ULTRAKILL",
+      "discount_percent": 25,
+      "original_price": 24500,
+      "final_price": 18370,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229490/capsule_231x87.jpg?t=1783942574",
+      "url": "https://store.steampowered.com/app/1229490",
+      "genres": [
+        "액션",
+        "인디",
+        "앞서 해보기"
+      ]
     },
     {
       "appid": 4108000,
@@ -2449,7 +3507,11 @@
       "final_price": 7040,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/5986ba4057fa210d0f96bd470e41a0dd439ed6fb/capsule_231x87.jpg?t=1786561627",
-      "url": "https://store.steampowered.com/app/4108000"
+      "url": "https://store.steampowered.com/app/4108000",
+      "genres": [
+        "액션",
+        "인디"
+      ]
     },
     {
       "appid": 1903340,
@@ -2459,7 +3521,11 @@
       "final_price": 43840,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/001d4a5d81e4bb9055b789240e78e04ef6e6da38/capsule_231x87.jpg?t=1782830877",
-      "url": "https://store.steampowered.com/app/1903340"
+      "url": "https://store.steampowered.com/app/1903340",
+      "genres": [
+        "액션",
+        "RPG"
+      ]
     },
     {
       "appid": 2285550,
@@ -2469,27 +3535,14 @@
       "final_price": 16000,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2285550/fbfa4b19c9766fa6645b80a047233f62ed86892f/capsule_231x87_alt_assets_1_koreana.jpg?t=1788425486",
-      "url": "https://store.steampowered.com/app/2285550"
-    },
-    {
-      "appid": 1943950,
-      "name": "Escape the Backrooms",
-      "discount_percent": 20,
-      "original_price": 10500,
-      "final_price": 8400,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943950/a710121afef37a7df5954d270a8639e66d26a2bb/capsule_231x87_alt_assets_3.jpg?t=1789378450",
-      "url": "https://store.steampowered.com/app/1943950"
-    },
-    {
-      "appid": 3768760,
-      "name": "007 퍼스트 라이트",
-      "discount_percent": 20,
-      "original_price": 89000,
-      "final_price": 71200,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/8993dce3ee7913bcd95967c0dd46e6896b313890/capsule_231x87_alt_assets_3.jpg?t=1790084095",
-      "url": "https://store.steampowered.com/app/3768760"
+      "url": "https://store.steampowered.com/app/2285550",
+      "genres": [
+        "어드벤처",
+        "캐주얼",
+        "인디",
+        "RPG",
+        "시뮬레이션"
+      ]
     },
     {
       "appid": 2710040,
@@ -2499,17 +3552,28 @@
       "final_price": 10000,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2710040/dbc96623bbd53a057f23a7b55ff29b71cd9a1a21/capsule_231x87.jpg?t=1790022667",
-      "url": "https://store.steampowered.com/app/2710040"
+      "url": "https://store.steampowered.com/app/2710040",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "인디",
+        "RPG",
+        "앞서 해보기"
+      ]
     },
     {
-      "appid": 1097580,
-      "name": "CUSTOM ORDER MAID 3D2 It's a Night Magic",
+      "appid": 1943950,
+      "name": "Escape the Backrooms",
       "discount_percent": 20,
-      "original_price": 41000,
-      "final_price": 32800,
+      "original_price": 10500,
+      "final_price": 8400,
       "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097580/capsule_231x87.jpg?t=1704419810",
-      "url": "https://store.steampowered.com/app/1097580"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943950/a710121afef37a7df5954d270a8639e66d26a2bb/capsule_231x87_alt_assets_3.jpg?t=1789378450",
+      "url": "https://store.steampowered.com/app/1943950",
+      "genres": [
+        "액션",
+        "인디"
+      ]
     },
     {
       "appid": 4800590,
@@ -2519,7 +3583,40 @@
       "final_price": 3920,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4800590/953eedcc10362f97e3ebbfd8b21d0fcf6c7dccc7/capsule_231x87.jpg?t=1787575741",
-      "url": "https://store.steampowered.com/app/4800590"
+      "url": "https://store.steampowered.com/app/4800590",
+      "genres": [
+        "인디",
+        "시뮬레이션"
+      ]
+    },
+    {
+      "appid": 3768760,
+      "name": "007 퍼스트 라이트",
+      "discount_percent": 20,
+      "original_price": 89000,
+      "final_price": 71200,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/8993dce3ee7913bcd95967c0dd46e6896b313890/capsule_231x87_alt_assets_3.jpg?t=1790084095",
+      "url": "https://store.steampowered.com/app/3768760",
+      "genres": [
+        "액션",
+        "어드벤처"
+      ]
+    },
+    {
+      "appid": 1097580,
+      "name": "CUSTOM ORDER MAID 3D2 It's a Night Magic",
+      "discount_percent": 20,
+      "original_price": 41000,
+      "final_price": 32800,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097580/capsule_231x87.jpg?t=1704419810",
+      "url": "https://store.steampowered.com/app/1097580",
+      "genres": [
+        "어드벤처",
+        "인디",
+        "시뮬레이션"
+      ]
     },
     {
       "appid": 4421010,
@@ -2529,7 +3626,14 @@
       "final_price": 6080,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421010/f05b830114ae149d5c1cbdb4b80ed60a6c74dc74/capsule_231x87.jpg?t=1789127109",
-      "url": "https://store.steampowered.com/app/4421010"
+      "url": "https://store.steampowered.com/app/4421010",
+      "genres": [
+        "액션",
+        "캐주얼",
+        "인디",
+        "시뮬레이션",
+        "전략"
+      ]
     },
     {
       "appid": 4513060,
@@ -2539,67 +3643,11 @@
       "final_price": 6080,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4513060/b23c658e8fdc7e538aa009b56594aa4c213f5991/capsule_231x87_koreana.jpg?t=1789973956",
-      "url": "https://store.steampowered.com/app/4513060"
-    },
-    {
-      "appid": 2060160,
-      "name": "농부는 대체되었다",
-      "discount_percent": 20,
-      "original_price": 11000,
-      "final_price": 8800,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060160/f2a7d2b1c75c8f4adb0dc12ea136a1ea6253c0a4/capsule_231x87_koreana.jpg?t=1788960388",
-      "url": "https://store.steampowered.com/app/2060160"
-    },
-    {
-      "appid": 2863680,
-      "name": "ZERO PARADES: For Dead Spies",
-      "discount_percent": 20,
-      "original_price": 39900,
-      "final_price": 31920,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2863680/2a6e743aeefc8b71d220125a26e017a885b2362e/capsule_231x87.jpg?t=1786953986",
-      "url": "https://store.steampowered.com/app/2863680"
-    },
-    {
-      "appid": 4131670,
-      "name": "Jurassic World Evolution 3: Rebirth Expansion",
-      "discount_percent": 20,
-      "original_price": 27000,
-      "final_price": 21600,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131670/5fb9208ff205812feba32cac2429453dfcb85608/capsule_231x87_koreana.jpg?t=1781615080",
-      "url": "https://store.steampowered.com/app/4131670"
-    },
-    {
-      "appid": 2067780,
-      "name": "Your Turn To Die -Death Game By Majority-",
-      "discount_percent": 20,
-      "original_price": 18500,
-      "final_price": 14800,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067780/capsule_231x87.jpg?t=1749009769",
-      "url": "https://store.steampowered.com/app/2067780"
-    },
-    {
-      "appid": 4753760,
-      "name": "니 여친",
-      "discount_percent": 20,
-      "original_price": 4300,
-      "final_price": 3440,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4753760/5c548ab6299f9928b316c15d04ac6555e5213591/capsule_231x87.jpg?t=1789661941",
-      "url": "https://store.steampowered.com/app/4753760"
-    },
-    {
-      "appid": 3058630,
-      "name": "아세토 코르사 에보 Assetto Corsa EVO",
-      "discount_percent": 20,
-      "original_price": 44800,
-      "final_price": 35840,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3058630/5622d5f05a1d4d82ec0b0569cccb952bca549e59/capsule_231x87_alt_assets_7.jpg?t=1788533400",
-      "url": "https://store.steampowered.com/app/3058630"
+      "url": "https://store.steampowered.com/app/4513060",
+      "genres": [
+        "액션",
+        "인디"
+      ]
     },
     {
       "appid": 2416450,
@@ -2609,7 +3657,27 @@
       "final_price": 25600,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2416450/772ae02fc6ab5734887bc6621ed5cf7bcc739050/capsule_231x87.jpg?t=1789672242",
-      "url": "https://store.steampowered.com/app/2416450"
+      "url": "https://store.steampowered.com/app/2416450",
+      "genres": [
+        "액션",
+        "인디"
+      ]
+    },
+    {
+      "appid": 2060160,
+      "name": "농부는 대체되었다",
+      "discount_percent": 20,
+      "original_price": 11000,
+      "final_price": 8800,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060160/f2a7d2b1c75c8f4adb0dc12ea136a1ea6253c0a4/capsule_231x87_koreana.jpg?t=1788960388",
+      "url": "https://store.steampowered.com/app/2060160",
+      "genres": [
+        "캐주얼",
+        "인디",
+        "시뮬레이션",
+        "전략"
+      ]
     },
     {
       "appid": 2195120,
@@ -2619,27 +3687,27 @@
       "final_price": 24000,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2195120/bf14bb60cc213a4f1ebb1f1981e4ed1e19238e89/capsule_231x87_alt_assets_5.jpg?t=1789448180",
-      "url": "https://store.steampowered.com/app/2195120"
+      "url": "https://store.steampowered.com/app/2195120",
+      "genres": [
+        "캐주얼",
+        "인디",
+        "시뮬레이션",
+        "전략"
+      ]
     },
     {
-      "appid": 3709430,
-      "name": "마녀: 종말의 여행",
+      "appid": 2863680,
+      "name": "ZERO PARADES: For Dead Spies",
       "discount_percent": 20,
-      "original_price": 9850,
-      "final_price": 7890,
+      "original_price": 39900,
+      "final_price": 31920,
       "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3709430/a3db3fc779e15c5f8513a62bd40bc4bd99fc69fc/capsule_231x87_koreana.jpg?t=1789468857",
-      "url": "https://store.steampowered.com/app/3709430"
-    },
-    {
-      "appid": 3917090,
-      "name": "아세토 코르사 랠리 Assetto Corsa Rally",
-      "discount_percent": 20,
-      "original_price": 32000,
-      "final_price": 25600,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917090/8fc2959eec961ec240d334fecc6a2fc3afe7ea34/capsule_231x87_alt_assets_6.jpg?t=1789133423",
-      "url": "https://store.steampowered.com/app/3917090"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2863680/2a6e743aeefc8b71d220125a26e017a885b2362e/capsule_231x87.jpg?t=1786953986",
+      "url": "https://store.steampowered.com/app/2863680",
+      "genres": [
+        "인디",
+        "RPG"
+      ]
     },
     {
       "appid": 3201730,
@@ -2649,17 +3717,114 @@
       "final_price": 17200,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201730/93fce0df52540726735b9eb2b1c204f1991fe0cb/capsule_231x87_koreana.jpg?t=1789716651",
-      "url": "https://store.steampowered.com/app/3201730"
+      "url": "https://store.steampowered.com/app/3201730",
+      "genres": [
+        "캐주얼",
+        "인디",
+        "전략"
+      ]
     },
     {
-      "appid": 4271160,
-      "name": "Zero Stress King: Idle Defense",
+      "appid": 4131670,
+      "name": "Jurassic World Evolution 3: Rebirth Expansion",
       "discount_percent": 20,
-      "original_price": 5450,
-      "final_price": 4360,
+      "original_price": 27000,
+      "final_price": 21600,
       "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271160/d9396b7a2c8149a6b038b6198b5d813f1c59e19c/capsule_231x87_alt_assets_0.jpg?t=1789988613",
-      "url": "https://store.steampowered.com/app/4271160"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131670/5fb9208ff205812feba32cac2429453dfcb85608/capsule_231x87_koreana.jpg?t=1781615080",
+      "url": "https://store.steampowered.com/app/4131670",
+      "genres": [
+        "시뮬레이션",
+        "전략"
+      ]
+    },
+    {
+      "appid": 3917090,
+      "name": "아세토 코르사 랠리 Assetto Corsa Rally",
+      "discount_percent": 20,
+      "original_price": 32000,
+      "final_price": 25600,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917090/8fc2959eec961ec240d334fecc6a2fc3afe7ea34/capsule_231x87_alt_assets_6.jpg?t=1789133423",
+      "url": "https://store.steampowered.com/app/3917090",
+      "genres": [
+        "레이싱",
+        "앞서 해보기"
+      ]
+    },
+    {
+      "appid": 3709430,
+      "name": "마녀: 종말의 여행",
+      "discount_percent": 20,
+      "original_price": 9850,
+      "final_price": 7890,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3709430/a3db3fc779e15c5f8513a62bd40bc4bd99fc69fc/capsule_231x87_koreana.jpg?t=1789468857",
+      "url": "https://store.steampowered.com/app/3709430",
+      "genres": [
+        "인디",
+        "RPG",
+        "전략"
+      ]
+    },
+    {
+      "appid": 3548690,
+      "name": "The Sims™ 4 왕실과 유산 확장팩",
+      "discount_percent": 20,
+      "original_price": 44000,
+      "final_price": 35200,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3548690/5212c845438718964aacd05e218fc86bcb9522af/capsule_231x87_koreana.jpg?t=1782316978",
+      "url": "https://store.steampowered.com/app/3548690",
+      "genres": [
+        "시뮬레이션",
+        "전략"
+      ]
+    },
+    {
+      "appid": 4753760,
+      "name": "니 여친",
+      "discount_percent": 20,
+      "original_price": 4300,
+      "final_price": 3440,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4753760/5c548ab6299f9928b316c15d04ac6555e5213591/capsule_231x87.jpg?t=1789661941",
+      "url": "https://store.steampowered.com/app/4753760",
+      "genres": [
+        "캐주얼",
+        "인디"
+      ]
+    },
+    {
+      "appid": 2067780,
+      "name": "Your Turn To Die -Death Game By Majority-",
+      "discount_percent": 20,
+      "original_price": 18500,
+      "final_price": 14800,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067780/capsule_231x87.jpg?t=1749009769",
+      "url": "https://store.steampowered.com/app/2067780",
+      "genres": [
+        "어드벤처",
+        "인디",
+        "앞서 해보기"
+      ]
+    },
+    {
+      "appid": 3058630,
+      "name": "아세토 코르사 에보 Assetto Corsa EVO",
+      "discount_percent": 20,
+      "original_price": 44800,
+      "final_price": 35840,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3058630/5622d5f05a1d4d82ec0b0569cccb952bca549e59/capsule_231x87_alt_assets_7.jpg?t=1788533400",
+      "url": "https://store.steampowered.com/app/3058630",
+      "genres": [
+        "레이싱",
+        "시뮬레이션",
+        "스포츠",
+        "앞서 해보기"
+      ]
     },
     {
       "appid": 3208930,
@@ -2669,7 +3834,13 @@
       "final_price": 11900,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3208930/5fc6de42ce3425f1dceb4e31423f30fb7084270d/capsule_231x87_koreana.jpg?t=1790060446",
-      "url": "https://store.steampowered.com/app/3208930"
+      "url": "https://store.steampowered.com/app/3208930",
+      "genres": [
+        "캐주얼",
+        "인디",
+        "시뮬레이션",
+        "앞서 해보기"
+      ]
     },
     {
       "appid": 2459550,
@@ -2679,7 +3850,12 @@
       "final_price": 18270,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2459550/3d606cad784750be3406ec9668ee128883fedd79/capsule_231x87.jpg?t=1790056350",
-      "url": "https://store.steampowered.com/app/2459550"
+      "url": "https://store.steampowered.com/app/2459550",
+      "genres": [
+        "인디",
+        "전략",
+        "무료 플레이"
+      ]
     },
     {
       "appid": 3699590,
@@ -2689,7 +3865,13 @@
       "final_price": 14020,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3699590/ab956a6e275e2ab5909ffd811a057035eddd042c/capsule_231x87.jpg?t=1790089193",
-      "url": "https://store.steampowered.com/app/3699590"
+      "url": "https://store.steampowered.com/app/3699590",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "인디",
+        "RPG"
+      ]
     },
     {
       "appid": 3255500,
@@ -2699,7 +3881,12 @@
       "final_price": 16150,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3255500/6fbfc5de6ba7ea95104dcfe92b23156ed62aa48e/capsule_231x87.jpg?t=1790095757",
-      "url": "https://store.steampowered.com/app/3255500"
+      "url": "https://store.steampowered.com/app/3255500",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ]
     },
     {
       "appid": 3070070,
@@ -2709,7 +3896,10 @@
       "final_price": 17850,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/5c2ce0a6c3455d49ce536cf054a85266363b0dc2/capsule_231x87_alt_assets_0.jpg?t=1789528213",
-      "url": "https://store.steampowered.com/app/3070070"
+      "url": "https://store.steampowered.com/app/3070070",
+      "genres": [
+        "시뮬레이션"
+      ]
     },
     {
       "appid": 4310440,
@@ -2719,7 +3909,13 @@
       "final_price": 8410,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310440/0dc98ce581e1818d37f981768bbf5962c4bf6bd1/capsule_231x87.jpg?t=1790011496",
-      "url": "https://store.steampowered.com/app/4310440"
+      "url": "https://store.steampowered.com/app/4310440",
+      "genres": [
+        "액션",
+        "캐주얼",
+        "시뮬레이션",
+        "전략"
+      ]
     },
     {
       "appid": 3430470,
@@ -2729,17 +3925,8 @@
       "final_price": 21160,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3430470/10e24c1cfc8744de9047535f0e3d2c81fb87bcbb/capsule_231x87_alt_assets_0.jpg?t=1789121700",
-      "url": "https://store.steampowered.com/app/3430470"
-    },
-    {
-      "appid": 4553980,
-      "name": "Jurassic World Evolution 3: Crocodilia Coast",
-      "discount_percent": 15,
-      "original_price": 16500,
-      "final_price": 14020,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4553980/00111bc96e810694b504c20ccc4346052bf2c57f/capsule_231x87_koreana.jpg?t=1786614164",
-      "url": "https://store.steampowered.com/app/4553980"
+      "url": "https://store.steampowered.com/app/3430470",
+      "genres": []
     },
     {
       "appid": 4450620,
@@ -2749,17 +3936,26 @@
       "final_price": 9940,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4450620/4cbcd93991fb6ca72c0fdc637c6f7580453c55c3/capsule_231x87.jpg?t=1786114521",
-      "url": "https://store.steampowered.com/app/4450620"
+      "url": "https://store.steampowered.com/app/4450620",
+      "genres": [
+        "액션",
+        "인디",
+        "시뮬레이션"
+      ]
     },
     {
-      "appid": 2403830,
-      "name": "Brave New Wonders",
+      "appid": 4553980,
+      "name": "Jurassic World Evolution 3: Crocodilia Coast",
       "discount_percent": 15,
-      "original_price": 26500,
-      "final_price": 22520,
+      "original_price": 16500,
+      "final_price": 14020,
       "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2403830/7982979edd919148df54bf569425a3eb37ba60ac/capsule_231x87.jpg?t=1790022131",
-      "url": "https://store.steampowered.com/app/2403830"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4553980/00111bc96e810694b504c20ccc4346052bf2c57f/capsule_231x87_koreana.jpg?t=1786614164",
+      "url": "https://store.steampowered.com/app/4553980",
+      "genres": [
+        "시뮬레이션",
+        "전략"
+      ]
     },
     {
       "appid": 3837350,
@@ -2769,7 +3965,11 @@
       "final_price": 28160,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3837350/475240a9cf008d360f7d592857607079e175c685/capsule_231x87_koreana.jpg?t=1789104811",
-      "url": "https://store.steampowered.com/app/3837350"
+      "url": "https://store.steampowered.com/app/3837350",
+      "genres": [
+        "어드벤처",
+        "인디"
+      ]
     },
     {
       "appid": 4225980,
@@ -2779,7 +3979,12 @@
       "final_price": 77310,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225980/412f203f3637694d273b4e761ac9493328867776/capsule_231x87_koreana.jpg?t=1789409245",
-      "url": "https://store.steampowered.com/app/4225980"
+      "url": "https://store.steampowered.com/app/4225980",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ]
     },
     {
       "appid": 4019220,
@@ -2789,7 +3994,11 @@
       "final_price": 14400,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/7f07d1dd7a97e00694481ee7747940989dc5820c/capsule_231x87.jpg?t=1790009899",
-      "url": "https://store.steampowered.com/app/4019220"
+      "url": "https://store.steampowered.com/app/4019220",
+      "genres": [
+        "캐주얼",
+        "시뮬레이션"
+      ]
     },
     {
       "appid": 4575720,
@@ -2799,7 +4008,13 @@
       "final_price": 5760,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4575720/a41516835e8c07068a414dffa16a4eccfaf2092c/capsule_231x87.jpg?t=1790011694",
-      "url": "https://store.steampowered.com/app/4575720"
+      "url": "https://store.steampowered.com/app/4575720",
+      "genres": [
+        "어드벤처",
+        "캐주얼",
+        "인디",
+        "시뮬레이션"
+      ]
     },
     {
       "appid": 3751950,
@@ -2809,7 +4024,11 @@
       "final_price": 62100,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/5a6ddc67b60961a6ae921e468860e4507c711888/capsule_231x87_koreana.jpg?t=1787915122",
-      "url": "https://store.steampowered.com/app/3751950"
+      "url": "https://store.steampowered.com/app/3751950",
+      "genres": [
+        "액션",
+        "어드벤처"
+      ]
     },
     {
       "appid": 5201910,
@@ -2819,7 +4038,13 @@
       "final_price": 17820,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5201910/56dcecfa7d80473019c7dc2553d2a3ed739a7abb/capsule_231x87.jpg?t=1789630249",
-      "url": "https://store.steampowered.com/app/5201910"
+      "url": "https://store.steampowered.com/app/5201910",
+      "genres": [
+        "액션",
+        "캐주얼",
+        "레이싱",
+        "스포츠"
+      ]
     },
     {
       "appid": 4364730,
@@ -2829,7 +4054,12 @@
       "final_price": 9000,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4364730/b5205e8b60c46e15efd61ed1225e32dd0cbb8454/capsule_231x87_koreana.jpg?t=1789991871",
-      "url": "https://store.steampowered.com/app/4364730"
+      "url": "https://store.steampowered.com/app/4364730",
+      "genres": [
+        "어드벤처",
+        "인디",
+        "시뮬레이션"
+      ]
     },
     {
       "appid": 4094660,
@@ -2839,7 +4069,11 @@
       "final_price": 23850,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4094660/792f0425d745f42e7f4d2d419c755fa737532c5c/capsule_231x87_alt_assets_1.jpg?t=1790085874",
-      "url": "https://store.steampowered.com/app/4094660"
+      "url": "https://store.steampowered.com/app/4094660",
+      "genres": [
+        "어드벤처",
+        "인디"
+      ]
     },
     {
       "appid": 5120650,
@@ -2849,7 +4083,12 @@
       "final_price": 4900,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5120650/74c2555a2b9ab3fe919b9c77a91fbe19b1eb6c63/capsule_231x87_koreana.jpg?t=1789743649",
-      "url": "https://store.steampowered.com/app/5120650"
+      "url": "https://store.steampowered.com/app/5120650",
+      "genres": [
+        "캐주얼",
+        "인디",
+        "시뮬레이션"
+      ]
     },
     {
       "appid": 3328490,
@@ -2859,47 +4098,12 @@
       "final_price": 46350,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3328490/7c90b08fb35641cd7ba2f8855692c3e6d12151cb/capsule_231x87.jpg?t=1790053210",
-      "url": "https://store.steampowered.com/app/3328490"
-    },
-    {
-      "appid": 4594150,
-      "name": "대장님, 오크가 몰려옵니다",
-      "discount_percent": 10,
-      "original_price": 9900,
-      "final_price": 8910,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594150/6450ed07d4c55cde27a797bca9a43292a3326091/capsule_231x87.jpg?t=1789985685",
-      "url": "https://store.steampowered.com/app/4594150"
-    },
-    {
-      "appid": 3971950,
-      "name": "In Falsus",
-      "discount_percent": 10,
-      "original_price": 44000,
-      "final_price": 39600,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3971950/66a587ac94f822cbe272f6cbf3b0ec9d1a344947/capsule_231x87.jpg?t=1789039342",
-      "url": "https://store.steampowered.com/app/3971950"
-    },
-    {
-      "appid": 4694200,
-      "name": "Le Mans Ultimate - US Track Pack 2",
-      "discount_percent": 10,
-      "original_price": 30400,
-      "final_price": 27360,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4694200/1924cf833557253a1026c7b82c107e686cde7377/capsule_231x87.jpg?t=1790069287",
-      "url": "https://store.steampowered.com/app/4694200"
-    },
-    {
-      "appid": 1374860,
-      "name": "Nocturne",
-      "discount_percent": 10,
-      "original_price": 21000,
-      "final_price": 18900,
-      "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/16a68851c20bce42525409495afa4cc29d82d123/capsule_231x87.jpg?t=1790105784",
-      "url": "https://store.steampowered.com/app/1374860"
+      "url": "https://store.steampowered.com/app/3328490",
+      "genres": [
+        "시뮬레이션",
+        "전략",
+        "앞서 해보기"
+      ]
     },
     {
       "appid": 2538870,
@@ -2909,17 +4113,57 @@
       "final_price": 18900,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2538870/5fffba9781e0dcb44d2c5bc3fb788dacf0c7961f/capsule_231x87.jpg?t=1790085742",
-      "url": "https://store.steampowered.com/app/2538870"
+      "url": "https://store.steampowered.com/app/2538870",
+      "genres": [
+        "액션",
+        "어드벤처",
+        "인디",
+        "RPG"
+      ]
     },
     {
-      "appid": 1221950,
-      "name": "Nighthawks",
+      "appid": 3971950,
+      "name": "In Falsus",
       "discount_percent": 10,
-      "original_price": 20500,
-      "final_price": 18450,
+      "original_price": 44000,
+      "final_price": 39600,
       "currency": "KRW",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1221950/ca1448f7930b6481385eca59032cd4befaf73e2d/capsule_231x87.jpg?t=1790085705",
-      "url": "https://store.steampowered.com/app/1221950"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3971950/66a587ac94f822cbe272f6cbf3b0ec9d1a344947/capsule_231x87.jpg?t=1789039342",
+      "url": "https://store.steampowered.com/app/3971950",
+      "genres": [
+        "액션",
+        "인디"
+      ]
+    },
+    {
+      "appid": 4594150,
+      "name": "대장님, 오크가 몰려옵니다",
+      "discount_percent": 10,
+      "original_price": 9900,
+      "final_price": 8910,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594150/6450ed07d4c55cde27a797bca9a43292a3326091/capsule_231x87.jpg?t=1789985685",
+      "url": "https://store.steampowered.com/app/4594150",
+      "genres": [
+        "인디",
+        "시뮬레이션",
+        "전략"
+      ]
+    },
+    {
+      "appid": 4694200,
+      "name": "Le Mans Ultimate - US Track Pack 2",
+      "discount_percent": 10,
+      "original_price": 30400,
+      "final_price": 27360,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4694200/1924cf833557253a1026c7b82c107e686cde7377/capsule_231x87.jpg?t=1790069287",
+      "url": "https://store.steampowered.com/app/4694200",
+      "genres": [
+        "레이싱",
+        "시뮬레이션",
+        "스포츠"
+      ]
     },
     {
       "appid": 3002740,
@@ -2929,7 +4173,13 @@
       "final_price": 9450,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3002740/c4a4bace7ce00579240fb2b7ee0852f6abf5a772/capsule_231x87_koreana.jpg?t=1789963956",
-      "url": "https://store.steampowered.com/app/3002740"
+      "url": "https://store.steampowered.com/app/3002740",
+      "genres": [
+        "캐주얼",
+        "인디",
+        "RPG",
+        "전략"
+      ]
     },
     {
       "appid": 3195440,
@@ -2939,7 +4189,45 @@
       "final_price": 17100,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195440/87679730eaad41a36418de1c4f0e3738b4c8d541/capsule_231x87.jpg?t=1789053771",
-      "url": "https://store.steampowered.com/app/3195440"
+      "url": "https://store.steampowered.com/app/3195440",
+      "genres": [
+        "어드벤처",
+        "캐주얼",
+        "인디",
+        "RPG",
+        "시뮬레이션",
+        "전략"
+      ]
+    },
+    {
+      "appid": 1221950,
+      "name": "Nighthawks",
+      "discount_percent": 10,
+      "original_price": 20500,
+      "final_price": 18450,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1221950/ca1448f7930b6481385eca59032cd4befaf73e2d/capsule_231x87.jpg?t=1790085705",
+      "url": "https://store.steampowered.com/app/1221950",
+      "genres": [
+        "어드벤처",
+        "인디",
+        "RPG"
+      ]
+    },
+    {
+      "appid": 4274990,
+      "name": "Minibus Simulator",
+      "discount_percent": 10,
+      "original_price": 16000,
+      "final_price": 14400,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4274990/178232bca25bad9b0aa6f32e0afacdd8c2ccc669/capsule_231x87.jpg?t=1790094662",
+      "url": "https://store.steampowered.com/app/4274990",
+      "genres": [
+        "인디",
+        "시뮬레이션",
+        "앞서 해보기"
+      ]
     },
     {
       "appid": 3983860,
@@ -2949,7 +4237,74 @@
       "final_price": 15300,
       "currency": "KRW",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3983860/711ca60d16532485489a353f2897505fe32b577b/capsule_231x87.jpg?t=1789743607",
-      "url": "https://store.steampowered.com/app/3983860"
+      "url": "https://store.steampowered.com/app/3983860",
+      "genres": [
+        "어드벤처",
+        "캐주얼",
+        "인디",
+        "시뮬레이션",
+        "전략"
+      ]
+    },
+    {
+      "appid": 3202030,
+      "name": "龙胤立志传",
+      "discount_percent": 10,
+      "original_price": 21500,
+      "final_price": 19350,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3202030/3d12ccfdfba2170f3e2acc5aec22d54c50336619/capsule_231x87_alt_assets_2.jpg?t=1786432843",
+      "url": "https://store.steampowered.com/app/3202030",
+      "genres": [
+        "인디",
+        "RPG",
+        "시뮬레이션",
+        "전략"
+      ]
+    },
+    {
+      "appid": 3613050,
+      "name": "Gravebound",
+      "discount_percent": 10,
+      "original_price": 16500,
+      "final_price": 14850,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3613050/f0f5029cb376804be6051e5dba67a13a013caa70/capsule_231x87.jpg?t=1790074817",
+      "url": "https://store.steampowered.com/app/3613050",
+      "genres": [
+        "액션",
+        "앞서 해보기"
+      ]
+    },
+    {
+      "appid": 1374860,
+      "name": "Nocturne",
+      "discount_percent": 10,
+      "original_price": 21000,
+      "final_price": 18900,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374860/16a68851c20bce42525409495afa4cc29d82d123/capsule_231x87.jpg?t=1790105784",
+      "url": "https://store.steampowered.com/app/1374860",
+      "genres": [
+        "어드벤처",
+        "인디",
+        "RPG"
+      ]
+    },
+    {
+      "appid": 4030150,
+      "name": "환세록 리메이크",
+      "discount_percent": 10,
+      "original_price": 21900,
+      "final_price": 19710,
+      "currency": "KRW",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4030150/60083c0d62503d9ba3428fe7f7df86b4018b39cc/capsule_231x87.jpg?t=1789633396",
+      "url": "https://store.steampowered.com/app/4030150",
+      "genres": [
+        "어드벤처",
+        "RPG",
+        "전략"
+      ]
     }
   ]
 }

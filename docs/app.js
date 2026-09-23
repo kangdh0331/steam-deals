@@ -51,6 +51,15 @@ function render() {
     title.textContent = d.name;
     title.title = d.name;
 
+    const genres = document.createElement('div');
+    genres.className = 'genres';
+    for (const g of d.genres || []) {
+      const tag = document.createElement('span');
+      tag.className = 'genre-tag';
+      tag.textContent = g;
+      genres.appendChild(tag);
+    }
+
     const priceRow = document.createElement('div');
     priceRow.className = 'price-row';
     const discountEl = document.createElement('span');
@@ -64,7 +73,7 @@ function render() {
     finalEl.textContent = formatPrice(d.final_price, d.currency);
 
     priceRow.append(discountEl, originalEl, finalEl);
-    body.append(title, priceRow);
+    body.append(title, genres, priceRow);
     card.append(thumb, body);
     frag.appendChild(card);
   }

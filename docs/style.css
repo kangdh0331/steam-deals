@@ -126,6 +126,22 @@ h1 {
   text-overflow: ellipsis;
 }
 
+.genres {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 0 0 10px;
+}
+
+.genre-tag {
+  background: var(--bg-elevated);
+  color: var(--accent);
+  font-size: 11px;
+  padding: 3px 7px;
+  border-radius: 10px;
+  border: 1px solid #3c5265;
+}
+
 .price-row {
   display: flex;
   align-items: center;
