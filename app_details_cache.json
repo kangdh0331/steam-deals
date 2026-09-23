@@ -19991,5 +19991,80 @@
     "publishers": [
       "2K"
     ]
+  },
+  "1372110": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "CyberConnect2 Co. Ltd."
+    ],
+    "publishers": [
+      "Bandai Namco Entertainment"
+    ]
+  },
+  "1620730": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Rogue Factor"
+    ],
+    "publishers": [
+      "Nacon"
+    ]
+  },
+  "1894430": {
+    "genres": [
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Gaddy Games"
+    ],
+    "publishers": [
+      "Gaddy Games"
+    ]
+  },
+  "3431300": {
+    "genres": [
+      "캐주얼",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Topograph Interactive"
+    ],
+    "publishers": [
+      "Topograph Interactive"
+    ]
+  },
+  "1890310": {
+    "genres": [
+      "액션",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "CodeRadGames"
+    ],
+    "publishers": [
+      "CodeRadGames"
+    ]
+  },
+  "1188930": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "Al Fine"
+    ],
+    "publishers": [
+      "Al Fine"
+    ]
   }
 }
