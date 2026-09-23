@@ -26,6 +26,7 @@ const genreFilter = document.getElementById('genreFilter');
 const publisherFilter = document.getElementById('publisherFilter');
 const sortSelect = document.getElementById('sort');
 const refreshBtn = document.getElementById('refresh');
+const homeLink = document.getElementById('homeLink');
 
 function companyNames(d) {
   return [...(d.developers || []), ...(d.publishers || [])].join(' ').toLowerCase();
@@ -188,5 +189,13 @@ genreFilter.addEventListener('change', render);
 publisherFilter.addEventListener('change', render);
 sortSelect.addEventListener('change', render);
 refreshBtn.addEventListener('click', () => load(true));
+homeLink.addEventListener('click', (e) => {
+  e.preventDefault();
+  search.value = '';
+  genreFilter.value = '';
+  publisherFilter.value = '';
+  sortSelect.value = 'discount_desc';
+  render();
+});
 
 load(false);
