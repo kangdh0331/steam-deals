@@ -84,6 +84,7 @@ function render() {
       case 'price_asc': return a.final_price - b.final_price;
       case 'price_desc': return b.final_price - a.final_price;
       case 'name_asc': return a.name.localeCompare(b.name, 'ko');
+      case 'review_desc': return b.review_rank - a.review_rank;
       default: return b.discount_percent - a.discount_percent;
     }
   });
@@ -130,6 +131,14 @@ function render() {
       studioEl.textContent = studio;
     }
 
+    let reviewEl = null;
+    if (d.review_desc) {
+      reviewEl = document.createElement('div');
+      const tier = d.review_rank >= 6 ? 'good' : d.review_rank === 5 ? 'mixed' : 'bad';
+      reviewEl.className = `review review-${tier}`;
+      reviewEl.textContent = d.review_desc;
+    }
+
     const priceRow = document.createElement('div');
     priceRow.className = 'price-row';
     if (d.on_sale) {
@@ -145,7 +154,7 @@ function render() {
     finalEl.className = 'final';
     finalEl.textContent = formatPrice(d.final_price, d.currency);
     priceRow.append(finalEl);
-    body.append(title, ...(studioEl ? [studioEl] : []), genres, priceRow);
+    body.append(title, ...(studioEl ? [studioEl] : []), genres, ...(reviewEl ? [reviewEl] : []), priceRow);
     card.append(thumb, body);
     frag.appendChild(card);
   }

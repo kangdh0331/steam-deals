@@ -24,6 +24,21 @@ IMAGE_RE = re.compile(r'<img src="([^"]*)"')
 DISCOUNT_RE = re.compile(r'data-discount="(\d+)"')
 ORIGINAL_PRICE_RE = re.compile(r'discount_original_price">([^<]*)</div>')
 FINAL_PRICE_RE = re.compile(r'discount_final_price">([^<]*)</div>')
+REVIEW_DESC_RE = re.compile(r'search_review_summary [a-z_]+" data-tooltip-html="([^"&]*)')
+
+# 스팀 평가 등급 (숫자가 클수록 긍정적). 리뷰 수가 적은 게임엔 수식어 없는
+# "긍정적"/"부정적" 등급이 붙는데, 이것도 순서상 자리를 맞춰준다.
+REVIEW_RANK = {
+    "압도적으로 긍정적": 9,
+    "매우 긍정적": 8,
+    "대체로 긍정적": 7,
+    "긍정적": 6,
+    "복합적": 5,
+    "부정적": 4,
+    "대체로 부정적": 3,
+    "매우 부정적": 2,
+    "압도적으로 부정적": 1,
+}
 
 
 def _parse_price(text):
@@ -52,10 +67,12 @@ def _parse_rows(html):
             continue
         original_m = ORIGINAL_PRICE_RE.search(body)
         image_m = IMAGE_RE.search(body)
+        review_m = REVIEW_DESC_RE.search(body)
         appid = match.group("appid")
         final_price = _parse_price(final_m.group(1))
         original_price = _parse_price(original_m.group(1)) if original_m else final_price
         discount_percent = int(discount_m.group(1))
+        review_desc = review_m.group(1).strip() if review_m else None
         deals.append({
             "appid": int(appid),
             "name": name_m.group(1).strip(),
@@ -66,6 +83,8 @@ def _parse_rows(html):
             "image": image_m.group(1) if image_m else None,
             "url": f"https://store.steampowered.com/app/{appid}",
             "on_sale": discount_percent > 0,
+            "review_desc": review_desc,
+            "review_rank": REVIEW_RANK.get(review_desc, 0),
         })
     return deals, row_count
 

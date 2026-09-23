@@ -147,6 +147,30 @@ h1 {
   margin: 0 0 10px;
 }
 
+.review {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 600;
+  padding: 3px 7px;
+  border-radius: 2px;
+  margin: 0 0 10px;
+}
+
+.review-good {
+  color: #a4d007;
+  background: #354a1b;
+}
+
+.review-mixed {
+  color: #e0c04c;
+  background: #4a4322;
+}
+
+.review-bad {
+  color: #e06c6c;
+  background: #4a2626;
+}
+
 .genre-tag {
   background: var(--bg-elevated);
   color: var(--accent);
