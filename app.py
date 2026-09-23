@@ -76,7 +76,8 @@ class Handler(BaseHTTPRequestHandler):
             path = "/index.html"
 
         file_path = os.path.normpath(os.path.join(STATIC_DIR, path.lstrip("/")))
-        if not file_path.startswith(STATIC_DIR) or not os.path.isfile(file_path):
+        is_inside_static = file_path == STATIC_DIR or file_path.startswith(STATIC_DIR + os.sep)
+        if not is_inside_static or not os.path.isfile(file_path):
             self.send_response(404)
             self.end_headers()
             self.wfile.write(b"Not found")
