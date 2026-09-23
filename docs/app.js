@@ -122,6 +122,7 @@ function render() {
     img.src = d.image || '';
     img.alt = d.name;
     img.loading = 'lazy';
+    img.decoding = 'async';
     thumb.appendChild(img);
 
     const body = document.createElement('div');
@@ -186,7 +187,9 @@ async function fetchDeals(forceRefresh) {
       // 백엔드 없는 정적 배포(GitHub Pages)에서는 무시하고 data.json으로 대체
     }
   }
-  return fetch(`${CONFIG.dataUrl}?t=${Date.now()}`);
+  // 캐시 버스팅 없이 요청 -> 데이터는 6시간마다만 바뀌므로 브라우저/CDN 캐시를 그대로 활용한다.
+  // (강제 새로고침은 위에서 이미 refreshUrl로 처리됨)
+  return fetch(CONFIG.dataUrl);
 }
 
 async function load(forceRefresh) {
@@ -209,7 +212,15 @@ async function load(forceRefresh) {
   }
 }
 
-search.addEventListener('input', render);
+function debounce(fn, delayMs) {
+  let timer = null;
+  return (...args) => {
+    clearTimeout(timer);
+    timer = setTimeout(() => fn(...args), delayMs);
+  };
+}
+
+search.addEventListener('input', debounce(render, 150));
 genreFilter.addEventListener('change', render);
 publisherFilter.addEventListener('change', render);
 sortSelect.addEventListener('change', render);
