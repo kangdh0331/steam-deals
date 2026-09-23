@@ -19738,5 +19738,258 @@
     "publishers": [
       "CI Games"
     ]
+  },
+  "1641700": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "SMG Studio",
+      "Devm Games"
+    ],
+    "publishers": [
+      "Team17"
+    ]
+  },
+  "1458150": {
+    "genres": [
+      "캐주얼",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Maxis"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ]
+  },
+  "2700600": {
+    "genres": [
+      "레이싱",
+      "시뮬레이션",
+      "스포츠"
+    ],
+    "developers": [
+      "Kunos Simulazioni"
+    ],
+    "publishers": [
+      "505 Games"
+    ]
+  },
+  "3936270": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Buma Games"
+    ],
+    "publishers": [
+      "Buma Games",
+      "SpaceJazz"
+    ]
+  },
+  "2157560": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Cygames, Inc.",
+      "Arc System Works"
+    ],
+    "publishers": [
+      "Cygames, Inc."
+    ]
+  },
+  "3417140": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "IGS(台灣鈊象電子)"
+    ],
+    "publishers": [
+      "H2 Interactive Co., Ltd."
+    ]
+  },
+  "4190710": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "GAZE IN GAMES"
+    ],
+    "publishers": [
+      "GAZE IN GAMES"
+    ]
+  },
+  "1000360": {
+    "genres": [
+      "액션",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Kubold"
+    ],
+    "publishers": [
+      "Kubold"
+    ]
+  },
+  "1424800": {
+    "genres": [
+      "액션",
+      "RPG",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "KOEI TECMO GAMES CO., LTD."
+    ],
+    "publishers": [
+      "KOEI TECMO GAMES CO., LTD."
+    ]
+  },
+  "314650": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Cosmographic Software"
+    ],
+    "publishers": [
+      "Cosmographic Software"
+    ]
+  },
+  "5126960": {
+    "genres": [
+      "액션",
+      "RPG",
+      "무료 플레이"
+    ],
+    "developers": [
+      "Digital Extremes"
+    ],
+    "publishers": [
+      "Digital Extremes"
+    ]
+  },
+  "2742830": {
+    "genres": [
+      "인디",
+      "전략"
+    ],
+    "developers": [
+      "Shiny Shoe"
+    ],
+    "publishers": [
+      "Big Fan Games"
+    ]
+  },
+  "341800": {
+    "genres": [
+      "인디"
+    ],
+    "developers": [
+      "Steel Crate Games"
+    ],
+    "publishers": [
+      "Steel Crate Games"
+    ]
+  },
+  "1809700": {
+    "genres": [
+      "어드벤처",
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "ATLUS"
+    ],
+    "publishers": [
+      "SEGA"
+    ]
+  },
+  "219740": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Klei Entertainment"
+    ],
+    "publishers": [
+      "Klei Entertainment"
+    ]
+  },
+  "5131900": {
+    "genres": [
+      "액션",
+      "RPG",
+      "무료 플레이"
+    ],
+    "developers": [
+      "Digital Extremes"
+    ],
+    "publishers": []
+  },
+  "412830": {
+    "genres": [
+      "어드벤처"
+    ],
+    "developers": [
+      "MAGES. Inc."
+    ],
+    "publishers": [
+      "Spike Chunsoft Co., Ltd."
+    ]
+  },
+  "4252290": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Lazy Turtle Games"
+    ],
+    "publishers": [
+      "Polden Publishing"
+    ]
+  },
+  "1607890": {
+    "genres": [
+      "액션",
+      "인디"
+    ],
+    "developers": [
+      "Hopoo Games"
+    ],
+    "publishers": [
+      "Gearbox Publishing",
+      "2K"
+    ]
+  },
+  "1030840": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Hangar 13"
+    ],
+    "publishers": [
+      "2K"
+    ]
   }
 }

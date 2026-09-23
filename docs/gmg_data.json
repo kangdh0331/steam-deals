@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1790160878.0030715,
+  "fetched_at": 1790180017.6372094,
   "deals": [
     {
       "appid": 12077,
@@ -18628,6 +18628,27 @@
       "review_rank": 0
     },
     {
+      "appid": 46667,
+      "name": "The Forest Cathedral",
+      "discount_percent": 79,
+      "original_price": 15500.0,
+      "final_price": 3300.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/9b3008aad4df42cf8c9422891e2febb0/5ed91c68716d4dc286269e112edf516f.jpg",
+      "url": "https://www.greenmangaming.com/games/the-forest-cathedral-pc/",
+      "on_sale": true,
+      "genres": [
+        "어드벤처",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Plug-in Digital"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 52099,
       "name": "Void Prison",
       "discount_percent": 78,
@@ -20831,28 +20852,6 @@
       "review_rank": 0
     },
     {
-      "appid": 60078,
-      "name": "Graveyard Keeper 2",
-      "discount_percent": 20,
-      "original_price": 26500.0,
-      "final_price": 21200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/15f821c22f0d4e5cb09c1d4a11dec82b/d53c4f74aa834efa8902f34d79d45c51.jpg",
-      "url": "https://www.greenmangaming.com/games/graveyard-keeper-2-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "시뮬레이션",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "tinyBuild Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 59933,
       "name": "Crown Of Hispania",
       "discount_percent": 20,
@@ -21449,6 +21448,28 @@
       "developers": [],
       "publishers": [
         "Square Enix"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60078,
+      "name": "Graveyard Keeper 2",
+      "discount_percent": 0,
+      "original_price": 26500.0,
+      "final_price": 26500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/15f821c22f0d4e5cb09c1d4a11dec82b/d53c4f74aa834efa8902f34d79d45c51.jpg",
+      "url": "https://www.greenmangaming.com/games/graveyard-keeper-2-pc/",
+      "on_sale": false,
+      "genres": [
+        "어드벤처",
+        "시뮬레이션",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "tinyBuild Games"
       ],
       "review_desc": null,
       "review_rank": 0
