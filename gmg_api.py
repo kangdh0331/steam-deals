@@ -1,6 +1,7 @@
 import json
 import time
-import urllib.request
+
+import esd_common
 
 # GMG's own storefront uses this Algolia search-only key client-side (visible in
 # the page source of https://www.greenmangaming.com/all-games/on-sale/). It's
@@ -23,7 +24,7 @@ def _fetch_page(page, discounted_only):
     body = {"query": "", "hitsPerPage": PAGE_SIZE, "page": page}
     if discounted_only:
         body["filters"] = "Regions.KR.IsOnSale:true"
-    req = urllib.request.Request(
+    return esd_common.fetch_json(
         QUERY_URL,
         data=json.dumps(body).encode("utf-8"),
         headers={
@@ -34,8 +35,6 @@ def _fetch_page(page, discounted_only):
             "X-Algolia-API-Key": ALGOLIA_API_KEY,
         },
     )
-    with urllib.request.urlopen(req, timeout=15) as resp:
-        return json.load(resp)
 
 
 def _parse_hit(hit):
@@ -107,23 +106,12 @@ def fetch_catalog(max_pages=CATALOG_MAX_PAGES):
 
 
 def fetch_all_games():
-    by_appid = {}
-    for item in fetch_catalog():
-        by_appid[item["appid"]] = item
-    for deal in fetch_specials():
-        by_appid[deal["appid"]] = deal  # specials data wins (accurate discount info)
-
-    games = list(by_appid.values())
-    games.sort(key=lambda g: (not g["on_sale"], -g["discount_percent"]))
-    return games
+    return esd_common.merge_catalog_and_specials(fetch_catalog, fetch_specials)
 
 
 def fetch_and_save(path="data.json"):
     games = fetch_all_games()
-    payload = {"fetched_at": time.time(), "deals": games}
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(payload, f, ensure_ascii=False, indent=2)
-    return payload
+    return esd_common.save_games(path, games)
 
 
 if __name__ == "__main__":

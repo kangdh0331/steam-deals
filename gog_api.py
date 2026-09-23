@@ -1,7 +1,7 @@
-import json
 import re
 import time
-import urllib.request
+
+import esd_common
 
 CATALOG_URL = "https://catalog.gog.com/v1/catalog"
 PAGE_SIZE = 100
@@ -16,9 +16,7 @@ def _fetch_page(page, discounted_only):
     )
     if discounted_only:
         params += "&discounted=true"
-    req = urllib.request.Request(f"{CATALOG_URL}?{params}", headers={"User-Agent": "Mozilla/5.0"})
-    with urllib.request.urlopen(req, timeout=15) as resp:
-        return json.load(resp)
+    return esd_common.fetch_json(f"{CATALOG_URL}?{params}", headers={"User-Agent": "Mozilla/5.0"})
 
 
 def _parse_discount(discount_text):
@@ -98,23 +96,12 @@ def fetch_catalog(max_pages=CATALOG_MAX_PAGES):
 
 
 def fetch_all_games():
-    by_appid = {}
-    for item in fetch_catalog():
-        by_appid[item["appid"]] = item
-    for deal in fetch_specials():
-        by_appid[deal["appid"]] = deal  # specials data wins (accurate discount info)
-
-    games = list(by_appid.values())
-    games.sort(key=lambda g: (not g["on_sale"], -g["discount_percent"]))
-    return games
+    return esd_common.merge_catalog_and_specials(fetch_catalog, fetch_specials)
 
 
 def fetch_and_save(path="data.json"):
     games = fetch_all_games()
-    payload = {"fetched_at": time.time(), "deals": games}
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(payload, f, ensure_ascii=False, indent=2)
-    return payload
+    return esd_common.save_games(path, games)
 
 
 if __name__ == "__main__":

@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1790142939.0578287,
+  "fetched_at": 1790144359.6525729,
   "deals": [
     {
       "appid": 2137859649,
@@ -24,6 +24,30 @@
       ],
       "review_desc": "3.6★",
       "review_rank": 36
+    },
+    {
+      "appid": 1254210921,
+      "name": "The Black Within",
+      "discount_percent": 95,
+      "original_price": 9.99,
+      "final_price": 0.49,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/262b0d8e8b804ce84f62db51e51ad336db43a54ba68f008fc03de7c90ba3683b.png",
+      "url": "https://www.gog.com/en/game/the_black_within",
+      "on_sale": true,
+      "genres": [
+        "Simulation",
+        "Horror",
+        "Adventure"
+      ],
+      "developers": [
+        "waleedzo"
+      ],
+      "publishers": [
+        "waleedzo"
+      ],
+      "review_desc": "3.2★",
+      "review_rank": 32
     },
     {
       "appid": 2147483119,
@@ -72,30 +96,6 @@
       ],
       "review_desc": "3.5★",
       "review_rank": 35
-    },
-    {
-      "appid": 1254210921,
-      "name": "The Black Within",
-      "discount_percent": 95,
-      "original_price": 9.99,
-      "final_price": 0.49,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/262b0d8e8b804ce84f62db51e51ad336db43a54ba68f008fc03de7c90ba3683b.png",
-      "url": "https://www.gog.com/en/game/the_black_within",
-      "on_sale": true,
-      "genres": [
-        "Simulation",
-        "Horror",
-        "Adventure"
-      ],
-      "developers": [
-        "waleedzo"
-      ],
-      "publishers": [
-        "waleedzo"
-      ],
-      "review_desc": "3.2★",
-      "review_rank": 32
     },
     {
       "appid": 1810099340,
@@ -435,6 +435,54 @@
       "review_rank": 42
     },
     {
+      "appid": 1207658944,
+      "name": "Atlantis: The Lost Tales",
+      "discount_percent": 90,
+      "original_price": 5.99,
+      "final_price": 0.59,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/1947f35aeea790355353ceeece81298f516ddad32936dbe14c7d0a07ffdbb19a.png",
+      "url": "https://www.gog.com/en/game/atlantis_the_lost_tales",
+      "on_sale": true,
+      "genres": [
+        "FPP",
+        "Adventure",
+        "Puzzle"
+      ],
+      "developers": [
+        "Cryo Interactive"
+      ],
+      "publishers": [
+        "Microids"
+      ],
+      "review_desc": "3.8★",
+      "review_rank": 38
+    },
+    {
+      "appid": 1459426075,
+      "name": "Train Life - A Railway Simulator",
+      "discount_percent": 90,
+      "original_price": 19.99,
+      "final_price": 1.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/5de3f5f6b2215ad8a6931ccb815ec0bbb3fe775eae48550b2c34b05dc8cda338.png",
+      "url": "https://www.gog.com/en/game/train_life_a_railway_simulator",
+      "on_sale": true,
+      "genres": [
+        "Strategy",
+        "Simulation",
+        "Managerial"
+      ],
+      "developers": [
+        "Simteract"
+      ],
+      "publishers": [
+        "Nacon"
+      ],
+      "review_desc": "3.6★",
+      "review_rank": 36
+    },
+    {
       "appid": 1410163695,
       "name": "Insurmountable",
       "discount_percent": 90,
@@ -505,6 +553,30 @@
       ],
       "review_desc": "3.5★",
       "review_rank": 35
+    },
+    {
+      "appid": 1576137547,
+      "name": "Yoku's Island Express",
+      "discount_percent": 90,
+      "original_price": 19.99,
+      "final_price": 1.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/a8551f70913f96c52ec575ef5bb07bbe4ab9d7c28015efedc6f31bee415561ed.png",
+      "url": "https://www.gog.com/en/game/yokus_island_express",
+      "on_sale": true,
+      "genres": [
+        "Adventure",
+        "Pinball",
+        "Metroidvania"
+      ],
+      "developers": [
+        "Villa Gorilla"
+      ],
+      "publishers": [
+        "Team17 Digital LTD."
+      ],
+      "review_desc": "4.6★",
+      "review_rank": 46
     },
     {
       "appid": 1839766730,
@@ -601,54 +673,6 @@
       ],
       "review_desc": "3.5★",
       "review_rank": 35
-    },
-    {
-      "appid": 1207658944,
-      "name": "Atlantis: The Lost Tales",
-      "discount_percent": 90,
-      "original_price": 5.99,
-      "final_price": 0.59,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/1947f35aeea790355353ceeece81298f516ddad32936dbe14c7d0a07ffdbb19a.png",
-      "url": "https://www.gog.com/en/game/atlantis_the_lost_tales",
-      "on_sale": true,
-      "genres": [
-        "FPP",
-        "Adventure",
-        "Puzzle"
-      ],
-      "developers": [
-        "Cryo Interactive"
-      ],
-      "publishers": [
-        "Microids"
-      ],
-      "review_desc": "3.8★",
-      "review_rank": 38
-    },
-    {
-      "appid": 1459426075,
-      "name": "Train Life - A Railway Simulator",
-      "discount_percent": 90,
-      "original_price": 19.99,
-      "final_price": 1.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/5de3f5f6b2215ad8a6931ccb815ec0bbb3fe775eae48550b2c34b05dc8cda338.png",
-      "url": "https://www.gog.com/en/game/train_life_a_railway_simulator",
-      "on_sale": true,
-      "genres": [
-        "Strategy",
-        "Simulation",
-        "Managerial"
-      ],
-      "developers": [
-        "Simteract"
-      ],
-      "publishers": [
-        "Nacon"
-      ],
-      "review_desc": "3.6★",
-      "review_rank": 36
     },
     {
       "appid": 1430061181,
@@ -819,30 +843,6 @@
       "review_rank": 38
     },
     {
-      "appid": 1576137547,
-      "name": "Yoku's Island Express",
-      "discount_percent": 90,
-      "original_price": 19.99,
-      "final_price": 1.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/a8551f70913f96c52ec575ef5bb07bbe4ab9d7c28015efedc6f31bee415561ed.png",
-      "url": "https://www.gog.com/en/game/yokus_island_express",
-      "on_sale": true,
-      "genres": [
-        "Adventure",
-        "Pinball",
-        "Metroidvania"
-      ],
-      "developers": [
-        "Villa Gorilla"
-      ],
-      "publishers": [
-        "Team17 Digital LTD."
-      ],
-      "review_desc": "4.6★",
-      "review_rank": 46
-    },
-    {
       "appid": 1421993477,
       "name": "Pizza Connection 3",
       "discount_percent": 90,
@@ -940,6 +940,31 @@
       "review_rank": 35
     },
     {
+      "appid": 2057001589,
+      "name": "Europa Universalis IV",
+      "discount_percent": 90,
+      "original_price": 49.99,
+      "final_price": 4.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/7ad313a667408815f790f13597c61895942e7bb6e05a63cb4cf2b974d21d6447.png",
+      "url": "https://www.gog.com/en/game/europa_universalis_iv",
+      "on_sale": true,
+      "genres": [
+        "Strategy",
+        "Real-time",
+        "Historical"
+      ],
+      "developers": [
+        "Paradox Development Studio",
+        "Paradox Tinto"
+      ],
+      "publishers": [
+        "Paradox Interactive"
+      ],
+      "review_desc": "3.3★",
+      "review_rank": 33
+    },
+    {
       "appid": 1207659150,
       "name": "A New Beginning: Final Cut",
       "discount_percent": 90,
@@ -1010,6 +1035,32 @@
       ],
       "review_desc": "3.8★",
       "review_rank": 38
+    },
+    {
+      "appid": 1909925234,
+      "name": "Rise Eterna 2",
+      "discount_percent": 90,
+      "original_price": 19.99,
+      "final_price": 1.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/d456f92bb50356eb3022e34a04a9a4872b1c6d86a43fe7b0e125ff94a9fc2e61.png",
+      "url": "https://www.gog.com/en/game/rise_eterna_2",
+      "on_sale": true,
+      "genres": [
+        "Strategy",
+        "Tactical",
+        "Role-playing"
+      ],
+      "developers": [
+        "Forever Entertainment S. A.",
+        "Makee Games",
+        "Ricci Cedric Design"
+      ],
+      "publishers": [
+        "Forever Entertainment S. A."
+      ],
+      "review_desc": "3.9★",
+      "review_rank": 39
     },
     {
       "appid": 1101195027,
@@ -1133,6 +1184,30 @@
       "review_rank": 19
     },
     {
+      "appid": 1613568205,
+      "name": "Onde",
+      "discount_percent": 90,
+      "original_price": 13.99,
+      "final_price": 1.39,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/edb847b211fdf1c66fab2cb91267c7ef24aa0928e530477e43680fdfb86ff42c.png",
+      "url": "https://www.gog.com/en/game/onde",
+      "on_sale": true,
+      "genres": [
+        "Arcade",
+        "Adventure"
+      ],
+      "developers": [
+        "Lance",
+        "3-50"
+      ],
+      "publishers": [
+        "Assemble Entertainment"
+      ],
+      "review_desc": "4.3★",
+      "review_rank": 43
+    },
+    {
       "appid": 1426240474,
       "name": "The Whisperer",
       "discount_percent": 90,
@@ -1227,6 +1302,30 @@
       ],
       "review_desc": "3.5★",
       "review_rank": 35
+    },
+    {
+      "appid": 1825987761,
+      "name": "The Surge 2",
+      "discount_percent": 90,
+      "original_price": 29.99,
+      "final_price": 2.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/d02887cdaace36e80d01198fd6580ee75fca26c6494bed7a14da8b833dc3a5df.png",
+      "url": "https://www.gog.com/en/game/the_surge_2",
+      "on_sale": true,
+      "genres": [
+        "Action",
+        "Sci-fi",
+        "Role-playing"
+      ],
+      "developers": [
+        "Deck13"
+      ],
+      "publishers": [
+        "Focus Entertainment"
+      ],
+      "review_desc": "3.6★",
+      "review_rank": 36
     },
     {
       "appid": 1290147220,
@@ -1614,29 +1713,28 @@
       "review_rank": 40
     },
     {
-      "appid": 2057001589,
-      "name": "Europa Universalis IV",
+      "appid": 1207659803,
+      "name": "Memoria",
       "discount_percent": 90,
-      "original_price": 49.99,
-      "final_price": 4.99,
+      "original_price": 19.99,
+      "final_price": 1.99,
       "currency": "USD",
-      "image": "https://images.gog-statics.com/7ad313a667408815f790f13597c61895942e7bb6e05a63cb4cf2b974d21d6447.png",
-      "url": "https://www.gog.com/en/game/europa_universalis_iv",
+      "image": "https://images.gog-statics.com/8cd8ee0340dc6ef06126ad97dadeb91206fde33fadc1371f26fe917c1e76d3e3.png",
+      "url": "https://www.gog.com/en/game/memoria",
       "on_sale": true,
       "genres": [
-        "Strategy",
-        "Real-time",
-        "Historical"
+        "Fantasy",
+        "Adventure",
+        "Point-and-click"
       ],
       "developers": [
-        "Paradox Development Studio",
-        "Paradox Tinto"
+        "Daedalic Entertainment"
       ],
       "publishers": [
-        "Paradox Interactive"
+        "Daedalic Entertainment"
       ],
-      "review_desc": "3.3★",
-      "review_rank": 33
+      "review_desc": "4.4★",
+      "review_rank": 44
     },
     {
       "appid": 1207659236,
@@ -1903,32 +2001,6 @@
       "review_rank": 42
     },
     {
-      "appid": 1909925234,
-      "name": "Rise Eterna 2",
-      "discount_percent": 90,
-      "original_price": 19.99,
-      "final_price": 1.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/d456f92bb50356eb3022e34a04a9a4872b1c6d86a43fe7b0e125ff94a9fc2e61.png",
-      "url": "https://www.gog.com/en/game/rise_eterna_2",
-      "on_sale": true,
-      "genres": [
-        "Strategy",
-        "Tactical",
-        "Role-playing"
-      ],
-      "developers": [
-        "Forever Entertainment S. A.",
-        "Makee Games",
-        "Ricci Cedric Design"
-      ],
-      "publishers": [
-        "Forever Entertainment S. A."
-      ],
-      "review_desc": "3.9★",
-      "review_rank": 39
-    },
-    {
       "appid": 1855748232,
       "name": "Blocky Farm",
       "discount_percent": 90,
@@ -2192,30 +2264,6 @@
       ],
       "review_desc": "3.5★",
       "review_rank": 35
-    },
-    {
-      "appid": 1613568205,
-      "name": "Onde",
-      "discount_percent": 90,
-      "original_price": 13.99,
-      "final_price": 1.39,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/edb847b211fdf1c66fab2cb91267c7ef24aa0928e530477e43680fdfb86ff42c.png",
-      "url": "https://www.gog.com/en/game/onde",
-      "on_sale": true,
-      "genres": [
-        "Arcade",
-        "Adventure"
-      ],
-      "developers": [
-        "Lance",
-        "3-50"
-      ],
-      "publishers": [
-        "Assemble Entertainment"
-      ],
-      "review_desc": "4.3★",
-      "review_rank": 43
     },
     {
       "appid": 1952724415,
@@ -2672,30 +2720,6 @@
       ],
       "review_desc": "3.1★",
       "review_rank": 31
-    },
-    {
-      "appid": 1825987761,
-      "name": "The Surge 2",
-      "discount_percent": 90,
-      "original_price": 29.99,
-      "final_price": 2.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/d02887cdaace36e80d01198fd6580ee75fca26c6494bed7a14da8b833dc3a5df.png",
-      "url": "https://www.gog.com/en/game/the_surge_2",
-      "on_sale": true,
-      "genres": [
-        "Action",
-        "Sci-fi",
-        "Role-playing"
-      ],
-      "developers": [
-        "Deck13"
-      ],
-      "publishers": [
-        "Focus Entertainment"
-      ],
-      "review_desc": "3.6★",
-      "review_rank": 36
     },
     {
       "appid": 2022391210,
@@ -3489,30 +3513,6 @@
       ],
       "review_desc": "3.6★",
       "review_rank": 36
-    },
-    {
-      "appid": 1207659803,
-      "name": "Memoria",
-      "discount_percent": 90,
-      "original_price": 19.99,
-      "final_price": 1.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/8cd8ee0340dc6ef06126ad97dadeb91206fde33fadc1371f26fe917c1e76d3e3.png",
-      "url": "https://www.gog.com/en/game/memoria",
-      "on_sale": true,
-      "genres": [
-        "Fantasy",
-        "Adventure",
-        "Point-and-click"
-      ],
-      "developers": [
-        "Daedalic Entertainment"
-      ],
-      "publishers": [
-        "Daedalic Entertainment"
-      ],
-      "review_desc": "4.4★",
-      "review_rank": 44
     },
     {
       "appid": 1207659218,
@@ -4550,6 +4550,30 @@
       "review_rank": 37
     },
     {
+      "appid": 1207659128,
+      "name": "Lucius",
+      "discount_percent": 85,
+      "original_price": 19.99,
+      "final_price": 2.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/05388776ee02859db223cb16b8d6d2e553997ad43220cf264b6401792a613d15.png",
+      "url": "https://www.gog.com/en/game/lucius",
+      "on_sale": true,
+      "genres": [
+        "TPP",
+        "Horror",
+        "Adventure"
+      ],
+      "developers": [
+        "Shiver Games"
+      ],
+      "publishers": [
+        "Shiver Games"
+      ],
+      "review_desc": "3.1★",
+      "review_rank": 31
+    },
+    {
       "appid": 1133833550,
       "name": "Alien Earth",
       "discount_percent": 85,
@@ -5155,30 +5179,6 @@
       "review_rank": 41
     },
     {
-      "appid": 1207659128,
-      "name": "Lucius",
-      "discount_percent": 85,
-      "original_price": 19.99,
-      "final_price": 2.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/05388776ee02859db223cb16b8d6d2e553997ad43220cf264b6401792a613d15.png",
-      "url": "https://www.gog.com/en/game/lucius",
-      "on_sale": true,
-      "genres": [
-        "TPP",
-        "Horror",
-        "Adventure"
-      ],
-      "developers": [
-        "Shiver Games"
-      ],
-      "publishers": [
-        "Shiver Games"
-      ],
-      "review_desc": "3.1★",
-      "review_rank": 31
-    },
-    {
       "appid": 1196011241,
       "name": "Lost Horizon",
       "discount_percent": 85,
@@ -5587,54 +5587,6 @@
       "review_rank": 44
     },
     {
-      "appid": 2078272297,
-      "name": "GRIS",
-      "discount_percent": 80,
-      "original_price": 14.99,
-      "final_price": 2.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/2711f1155f42d68a57c9ad2fb755a49839e6bc17a22b4a0bc262b0e35cb73115.png",
-      "url": "https://www.gog.com/en/game/gris",
-      "on_sale": true,
-      "genres": [
-        "Platformer",
-        "Adventure",
-        "Puzzle"
-      ],
-      "developers": [
-        "Nomada Studio"
-      ],
-      "publishers": [
-        "Devolver Digital"
-      ],
-      "review_desc": "4.6★",
-      "review_rank": 46
-    },
-    {
-      "appid": 1426252678,
-      "name": "Wings of Prey: Special Edition",
-      "discount_percent": 80,
-      "original_price": 9.99,
-      "final_price": 1.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/26d5ed2ed8d5424cfde5b58f1027fe3c88878f2327ca81d782e6cafbaaeb47a0.png",
-      "url": "https://www.gog.com/en/game/wings_of_prey_complete",
-      "on_sale": true,
-      "genres": [
-        "Simulation",
-        "Combat",
-        "Historical"
-      ],
-      "developers": [
-        "Gaijin Entertainment"
-      ],
-      "publishers": [
-        "Gaijin Entertainment"
-      ],
-      "review_desc": "3.8★",
-      "review_rank": 38
-    },
-    {
       "appid": 1207660523,
       "name": "FlatOut 2",
       "discount_percent": 80,
@@ -5683,6 +5635,54 @@
       "review_rank": 42
     },
     {
+      "appid": 2078272297,
+      "name": "GRIS",
+      "discount_percent": 80,
+      "original_price": 14.99,
+      "final_price": 2.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/2711f1155f42d68a57c9ad2fb755a49839e6bc17a22b4a0bc262b0e35cb73115.png",
+      "url": "https://www.gog.com/en/game/gris",
+      "on_sale": true,
+      "genres": [
+        "Platformer",
+        "Adventure",
+        "Puzzle"
+      ],
+      "developers": [
+        "Nomada Studio"
+      ],
+      "publishers": [
+        "Devolver Digital"
+      ],
+      "review_desc": "4.6★",
+      "review_rank": 46
+    },
+    {
+      "appid": 1426252678,
+      "name": "Wings of Prey: Special Edition",
+      "discount_percent": 80,
+      "original_price": 9.99,
+      "final_price": 1.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/26d5ed2ed8d5424cfde5b58f1027fe3c88878f2327ca81d782e6cafbaaeb47a0.png",
+      "url": "https://www.gog.com/en/game/wings_of_prey_complete",
+      "on_sale": true,
+      "genres": [
+        "Simulation",
+        "Combat",
+        "Historical"
+      ],
+      "developers": [
+        "Gaijin Entertainment"
+      ],
+      "publishers": [
+        "Gaijin Entertainment"
+      ],
+      "review_desc": "3.8★",
+      "review_rank": 38
+    },
+    {
       "appid": 1580081235,
       "name": "HunieCam Studio",
       "discount_percent": 80,
@@ -5704,6 +5704,30 @@
       ],
       "review_desc": "3.2★",
       "review_rank": 32
+    },
+    {
+      "appid": 2073786542,
+      "name": "The Cave",
+      "discount_percent": 80,
+      "original_price": 14.99,
+      "final_price": 2.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/bdad77cf52af1f71ac4a5a68b62e743c1b364398ceaa6e7b98b0e1a207a0b50a.png",
+      "url": "https://www.gog.com/en/game/the_cave",
+      "on_sale": true,
+      "genres": [
+        "Platformer",
+        "Adventure",
+        "Puzzle"
+      ],
+      "developers": [
+        "Double Fine Productions"
+      ],
+      "publishers": [
+        "Double Fine Productions"
+      ],
+      "review_desc": "4.1★",
+      "review_rank": 41
     },
     {
       "appid": 2068170636,
@@ -5802,28 +5826,28 @@
       "review_rank": 42
     },
     {
-      "appid": 2073786542,
-      "name": "The Cave",
+      "appid": 1207666183,
+      "name": "The Void",
       "discount_percent": 80,
-      "original_price": 14.99,
-      "final_price": 2.99,
+      "original_price": 9.99,
+      "final_price": 1.99,
       "currency": "USD",
-      "image": "https://images.gog-statics.com/bdad77cf52af1f71ac4a5a68b62e743c1b364398ceaa6e7b98b0e1a207a0b50a.png",
-      "url": "https://www.gog.com/en/game/the_cave",
+      "image": "https://images.gog-statics.com/71be357a057077d55fe61826d0c588ee898bfe5bc0a71acbe37dcc934ee84ff4.png",
+      "url": "https://www.gog.com/en/game/void_the",
       "on_sale": true,
       "genres": [
-        "Platformer",
-        "Adventure",
-        "Puzzle"
+        "FPP",
+        "Horror",
+        "Adventure"
       ],
       "developers": [
-        "Double Fine Productions"
+        "Ice-Pick Lodge"
       ],
       "publishers": [
-        "Double Fine Productions"
+        "Ice-Pick Lodge"
       ],
-      "review_desc": "4.1★",
-      "review_rank": 41
+      "review_desc": "4.3★",
+      "review_rank": 43
     },
     {
       "appid": 1825685277,
@@ -5946,6 +5970,30 @@
       "review_rank": 0
     },
     {
+      "appid": 1186580639,
+      "name": "Saimin Gakushū: Secret Desire",
+      "discount_percent": 80,
+      "original_price": 19.99,
+      "final_price": 3.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/b14d96ab4464dc4ec2103c354fcfc027b209b3554b9aa2071808376305f737bf.png",
+      "url": "https://www.gog.com/en/game/saimin_gakushu_secret_desire",
+      "on_sale": true,
+      "genres": [
+        "Sci-fi",
+        "Adventure",
+        "Visual Novel"
+      ],
+      "developers": [
+        "Dark One!"
+      ],
+      "publishers": [
+        "Shiravune"
+      ],
+      "review_desc": "4.1★",
+      "review_rank": 41
+    },
+    {
       "appid": 1567269698,
       "name": "Hero of the Kingdom: The Lost Tales 1",
       "discount_percent": 80,
@@ -5994,6 +6042,30 @@
       "review_rank": 33
     },
     {
+      "appid": 1223053864,
+      "name": "Overcooked: Gourmet Edition",
+      "discount_percent": 80,
+      "original_price": 20.0,
+      "final_price": 3.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/3de511f611d938f1a877fb2d244e1c9403ce41bc6007263fc440c80ecb75df9b.png",
+      "url": "https://www.gog.com/en/game/overcooked_gourmet_edition",
+      "on_sale": true,
+      "genres": [
+        "Simulation",
+        "Action",
+        "Comedy"
+      ],
+      "developers": [
+        "Ghost Town Games Ltd."
+      ],
+      "publishers": [
+        "Team17 Digital LTD."
+      ],
+      "review_desc": "4.5★",
+      "review_rank": 45
+    },
+    {
       "appid": 1432297044,
       "name": "Crypt of the NecroDancer",
       "discount_percent": 80,
@@ -6040,6 +6112,30 @@
       ],
       "review_desc": "4.3★",
       "review_rank": 43
+    },
+    {
+      "appid": 1207664803,
+      "name": "Xenonauts",
+      "discount_percent": 80,
+      "original_price": 24.99,
+      "final_price": 4.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/56febf3ac5222f34bfdf9b4e8eae47fa9b25041cd5ef78e75e91dd62f2a49528.png",
+      "url": "https://www.gog.com/en/game/xenonauts",
+      "on_sale": true,
+      "genres": [
+        "Strategy",
+        "Turn-based",
+        "Sci-fi"
+      ],
+      "developers": [
+        "Goldhawk Interactive"
+      ],
+      "publishers": [
+        "Goldhawk Interactive"
+      ],
+      "review_desc": "4.0★",
+      "review_rank": 40
     },
     {
       "appid": 1207662943,
@@ -6112,30 +6208,6 @@
       ],
       "review_desc": "4.1★",
       "review_rank": 41
-    },
-    {
-      "appid": 1207666183,
-      "name": "The Void",
-      "discount_percent": 80,
-      "original_price": 9.99,
-      "final_price": 1.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/71be357a057077d55fe61826d0c588ee898bfe5bc0a71acbe37dcc934ee84ff4.png",
-      "url": "https://www.gog.com/en/game/void_the",
-      "on_sale": true,
-      "genres": [
-        "FPP",
-        "Horror",
-        "Adventure"
-      ],
-      "developers": [
-        "Ice-Pick Lodge"
-      ],
-      "publishers": [
-        "Ice-Pick Lodge"
-      ],
-      "review_desc": "4.3★",
-      "review_rank": 43
     },
     {
       "appid": 1663498890,
@@ -6427,6 +6499,30 @@
       "review_rank": 40
     },
     {
+      "appid": 1545133940,
+      "name": "Nope Nope Nurses",
+      "discount_percent": 80,
+      "original_price": 19.99,
+      "final_price": 3.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/362262f2237050433c042cc97b4c404a66a85edd7201bc189b38edb0d3e613db.png",
+      "url": "https://www.gog.com/en/game/nope_nope_nurses",
+      "on_sale": true,
+      "genres": [
+        "Horror",
+        "Adventure",
+        "Visual Novel"
+      ],
+      "developers": [
+        "Dark One!"
+      ],
+      "publishers": [
+        "Shiravune"
+      ],
+      "review_desc": "3.8★",
+      "review_rank": 38
+    },
+    {
       "appid": 1276542245,
       "name": "Before Your Eyes",
       "discount_percent": 80,
@@ -6448,30 +6544,6 @@
       ],
       "review_desc": "4.3★",
       "review_rank": 43
-    },
-    {
-      "appid": 1186580639,
-      "name": "Saimin Gakushū: Secret Desire",
-      "discount_percent": 80,
-      "original_price": 19.99,
-      "final_price": 3.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/b14d96ab4464dc4ec2103c354fcfc027b209b3554b9aa2071808376305f737bf.png",
-      "url": "https://www.gog.com/en/game/saimin_gakushu_secret_desire",
-      "on_sale": true,
-      "genres": [
-        "Sci-fi",
-        "Adventure",
-        "Visual Novel"
-      ],
-      "developers": [
-        "Dark One!"
-      ],
-      "publishers": [
-        "Shiravune"
-      ],
-      "review_desc": "4.1★",
-      "review_rank": 41
     },
     {
       "appid": 1247772513,
@@ -6642,30 +6714,6 @@
       "review_rank": 33
     },
     {
-      "appid": 1223053864,
-      "name": "Overcooked: Gourmet Edition",
-      "discount_percent": 80,
-      "original_price": 20.0,
-      "final_price": 3.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/3de511f611d938f1a877fb2d244e1c9403ce41bc6007263fc440c80ecb75df9b.png",
-      "url": "https://www.gog.com/en/game/overcooked_gourmet_edition",
-      "on_sale": true,
-      "genres": [
-        "Simulation",
-        "Action",
-        "Comedy"
-      ],
-      "developers": [
-        "Ghost Town Games Ltd."
-      ],
-      "publishers": [
-        "Team17 Digital LTD."
-      ],
-      "review_desc": "4.5★",
-      "review_rank": 45
-    },
-    {
       "appid": 1433157800,
       "name": "Armikrog",
       "discount_percent": 80,
@@ -6832,30 +6880,6 @@
       ],
       "review_desc": "4.2★",
       "review_rank": 42
-    },
-    {
-      "appid": 1207664803,
-      "name": "Xenonauts",
-      "discount_percent": 80,
-      "original_price": 24.99,
-      "final_price": 4.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/56febf3ac5222f34bfdf9b4e8eae47fa9b25041cd5ef78e75e91dd62f2a49528.png",
-      "url": "https://www.gog.com/en/game/xenonauts",
-      "on_sale": true,
-      "genres": [
-        "Strategy",
-        "Turn-based",
-        "Sci-fi"
-      ],
-      "developers": [
-        "Goldhawk Interactive"
-      ],
-      "publishers": [
-        "Goldhawk Interactive"
-      ],
-      "review_desc": "4.0★",
-      "review_rank": 40
     },
     {
       "appid": 1096313866,
@@ -8298,30 +8322,6 @@
       "review_rank": 34
     },
     {
-      "appid": 1545133940,
-      "name": "Nope Nope Nurses",
-      "discount_percent": 80,
-      "original_price": 19.99,
-      "final_price": 3.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/362262f2237050433c042cc97b4c404a66a85edd7201bc189b38edb0d3e613db.png",
-      "url": "https://www.gog.com/en/game/nope_nope_nurses",
-      "on_sale": true,
-      "genres": [
-        "Horror",
-        "Adventure",
-        "Visual Novel"
-      ],
-      "developers": [
-        "Dark One!"
-      ],
-      "publishers": [
-        "Shiravune"
-      ],
-      "review_desc": "3.8★",
-      "review_rank": 38
-    },
-    {
       "appid": 1094441612,
       "name": "Super Huey™ 1 & 2 Airdrop",
       "discount_percent": 80,
@@ -8869,8 +8869,8 @@
       "publishers": [
         "Bloober Team NA"
       ],
-      "review_desc": "3.3★",
-      "review_rank": 33
+      "review_desc": "3.2★",
+      "review_rank": 32
     },
     {
       "appid": 1362698324,
@@ -11443,6 +11443,54 @@
       "review_rank": 39
     },
     {
+      "appid": 1465434701,
+      "name": "Wife Quest",
+      "discount_percent": 75,
+      "original_price": 5.99,
+      "final_price": 1.49,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/de227701684612d0d11aa4cb66109599e27b11c5944febba3cafbf1f098f137b.png",
+      "url": "https://www.gog.com/en/game/wife_quest",
+      "on_sale": true,
+      "genres": [
+        "Action",
+        "Platformer",
+        "Adventure"
+      ],
+      "developers": [
+        "Pippin Games"
+      ],
+      "publishers": [
+        "Top Hat Studios, Inc."
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 1459259227,
+      "name": "Slime Rancher",
+      "discount_percent": 75,
+      "original_price": 19.99,
+      "final_price": 4.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/7b379c67f964c72ce151226fbc3d5a5dcabfde89575a338996b0da82b19c0a78.png",
+      "url": "https://www.gog.com/en/game/slime_rancher",
+      "on_sale": true,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sandbox"
+      ],
+      "developers": [
+        "Monomi Park"
+      ],
+      "publishers": [
+        "Monomi Park"
+      ],
+      "review_desc": "4.1★",
+      "review_rank": 41
+    },
+    {
       "appid": 1207658900,
       "name": "Broken Sword: Director's Cut",
       "discount_percent": 75,
@@ -11465,6 +11513,30 @@
       ],
       "review_desc": "4.6★",
       "review_rank": 46
+    },
+    {
+      "appid": 1207658951,
+      "name": "Atlantis 2: Beyond Atlantis",
+      "discount_percent": 75,
+      "original_price": 3.99,
+      "final_price": 0.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/b83253ff298ad5830587e0940cc95f060b8d9d183df914f1632701900b45fffd.png",
+      "url": "https://www.gog.com/en/game/atlantis_2_beyond_atlantis",
+      "on_sale": true,
+      "genres": [
+        "FPP",
+        "Adventure",
+        "Puzzle"
+      ],
+      "developers": [
+        "Cryo Interactive"
+      ],
+      "publishers": [
+        "Microids"
+      ],
+      "review_desc": "3.4★",
+      "review_rank": 34
     },
     {
       "appid": 1605503821,
@@ -11491,30 +11563,6 @@
       "review_rank": 44
     },
     {
-      "appid": 1465434701,
-      "name": "Wife Quest",
-      "discount_percent": 75,
-      "original_price": 5.99,
-      "final_price": 1.49,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/de227701684612d0d11aa4cb66109599e27b11c5944febba3cafbf1f098f137b.png",
-      "url": "https://www.gog.com/en/game/wife_quest",
-      "on_sale": true,
-      "genres": [
-        "Action",
-        "Platformer",
-        "Adventure"
-      ],
-      "developers": [
-        "Pippin Games"
-      ],
-      "publishers": [
-        "Top Hat Studios, Inc."
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 1403677436,
       "name": "Summer Memories Deluxe Edition",
       "discount_percent": 75,
@@ -11539,28 +11587,52 @@
       "review_rank": 43
     },
     {
-      "appid": 1459259227,
-      "name": "Slime Rancher",
+      "appid": 1683316495,
+      "name": "Port Royale 3 Gold",
       "discount_percent": 75,
       "original_price": 19.99,
       "final_price": 4.99,
       "currency": "USD",
-      "image": "https://images.gog-statics.com/7b379c67f964c72ce151226fbc3d5a5dcabfde89575a338996b0da82b19c0a78.png",
-      "url": "https://www.gog.com/en/game/slime_rancher",
+      "image": "https://images.gog-statics.com/6dfb64f24f39daacc716609156fff80b08d2625f725a6b9649567ade86bbbb8d.png",
+      "url": "https://www.gog.com/en/game/port_royale_3",
       "on_sale": true,
       "genres": [
         "Action",
-        "Adventure",
-        "Sandbox"
+        "Simulation",
+        "Tactical"
       ],
       "developers": [
-        "Monomi Park"
+        "Gaming Minds Studios"
       ],
       "publishers": [
-        "Monomi Park"
+        "Kalypso Media Digital"
       ],
-      "review_desc": "4.1★",
-      "review_rank": 41
+      "review_desc": "3.9★",
+      "review_rank": 39
+    },
+    {
+      "appid": 1207659153,
+      "name": "Imperialism 2: The Age of Exploration",
+      "discount_percent": 75,
+      "original_price": 5.99,
+      "final_price": 1.49,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/7510772f0a5fea2154e4a5d92a826f9ba310f6d58fa8c95dfe40271f755cd36a.png",
+      "url": "https://www.gog.com/en/game/imperialism_2_the_age_of_exploration",
+      "on_sale": true,
+      "genres": [
+        "Strategy",
+        "Turn-based",
+        "Historical"
+      ],
+      "developers": [
+        "Frog City Software"
+      ],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": "4.5★",
+      "review_rank": 45
     },
     {
       "appid": 1443433575,
@@ -11731,6 +11803,30 @@
       "review_rank": 40
     },
     {
+      "appid": 1950069341,
+      "name": "Coromon",
+      "discount_percent": 75,
+      "original_price": 19.99,
+      "final_price": 4.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/9e2fb1698fb7887d058f26daa3441927dda314004a324e241fba5aa0e24c5990.png",
+      "url": "https://www.gog.com/en/game/coromon",
+      "on_sale": true,
+      "genres": [
+        "Adventure",
+        "Role-playing",
+        "Exploration"
+      ],
+      "developers": [
+        "TRAGsoft"
+      ],
+      "publishers": [
+        "indie.io"
+      ],
+      "review_desc": "4.4★",
+      "review_rank": 44
+    },
+    {
       "appid": 1957528513,
       "name": "Ghostrunner",
       "discount_percent": 75,
@@ -11756,6 +11852,30 @@
       ],
       "review_desc": "4.0★",
       "review_rank": 40
+    },
+    {
+      "appid": 1918301028,
+      "name": "Age of Wonders: Planetfall",
+      "discount_percent": 75,
+      "original_price": 49.99,
+      "final_price": 12.49,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/99d70701b054fc897ae895392ca22369ccc4d84120d74906d41a91e9c68bb0a0.png",
+      "url": "https://www.gog.com/en/game/age_of_wonders_planetfall",
+      "on_sale": true,
+      "genres": [
+        "Strategy",
+        "Turn-based",
+        "Sci-fi"
+      ],
+      "developers": [
+        "Triumph Studios"
+      ],
+      "publishers": [
+        "Paradox Interactive"
+      ],
+      "review_desc": "3.9★",
+      "review_rank": 39
     },
     {
       "appid": 1482783682,
@@ -11830,30 +11950,6 @@
       "review_rank": 41
     },
     {
-      "appid": 1683316495,
-      "name": "Port Royale 3 Gold",
-      "discount_percent": 75,
-      "original_price": 19.99,
-      "final_price": 4.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/6dfb64f24f39daacc716609156fff80b08d2625f725a6b9649567ade86bbbb8d.png",
-      "url": "https://www.gog.com/en/game/port_royale_3",
-      "on_sale": true,
-      "genres": [
-        "Action",
-        "Simulation",
-        "Tactical"
-      ],
-      "developers": [
-        "Gaming Minds Studios"
-      ],
-      "publishers": [
-        "Kalypso Media Digital"
-      ],
-      "review_desc": "3.9★",
-      "review_rank": 39
-    },
-    {
       "appid": 1207658792,
       "name": "Mobile Forces",
       "discount_percent": 75,
@@ -11902,28 +11998,28 @@
       "review_rank": 32
     },
     {
-      "appid": 1207658951,
-      "name": "Atlantis 2: Beyond Atlantis",
+      "appid": 1438597383,
+      "name": "Shadow Watch",
       "discount_percent": 75,
-      "original_price": 3.99,
-      "final_price": 0.99,
+      "original_price": 5.99,
+      "final_price": 1.49,
       "currency": "USD",
-      "image": "https://images.gog-statics.com/b83253ff298ad5830587e0940cc95f060b8d9d183df914f1632701900b45fffd.png",
-      "url": "https://www.gog.com/en/game/atlantis_2_beyond_atlantis",
+      "image": "https://images.gog-statics.com/611244d55232d16a850bcdd4dc13ff5e4a30a1dee362f11abde327efca7dbadd.png",
+      "url": "https://www.gog.com/en/game/shadow_watch",
       "on_sale": true,
       "genres": [
-        "FPP",
-        "Adventure",
-        "Puzzle"
+        "Strategy",
+        "Turn-based",
+        "Tactical"
       ],
       "developers": [
-        "Cryo Interactive"
+        "Red Storm Entertainment"
       ],
       "publishers": [
-        "Microids"
+        "Ubisoft"
       ],
-      "review_desc": "3.4★",
-      "review_rank": 34
+      "review_desc": "3.8★",
+      "review_rank": 38
     },
     {
       "appid": 1207658866,
@@ -11948,30 +12044,6 @@
       ],
       "review_desc": "3.9★",
       "review_rank": 39
-    },
-    {
-      "appid": 1207659153,
-      "name": "Imperialism 2: The Age of Exploration",
-      "discount_percent": 75,
-      "original_price": 5.99,
-      "final_price": 1.49,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/7510772f0a5fea2154e4a5d92a826f9ba310f6d58fa8c95dfe40271f755cd36a.png",
-      "url": "https://www.gog.com/en/game/imperialism_2_the_age_of_exploration",
-      "on_sale": true,
-      "genres": [
-        "Strategy",
-        "Turn-based",
-        "Historical"
-      ],
-      "developers": [
-        "Frog City Software"
-      ],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": "4.5★",
-      "review_rank": 45
     },
     {
       "appid": 1207658972,
@@ -12070,30 +12142,6 @@
       ],
       "review_desc": "4.2★",
       "review_rank": 42
-    },
-    {
-      "appid": 1950069341,
-      "name": "Coromon",
-      "discount_percent": 75,
-      "original_price": 19.99,
-      "final_price": 4.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/9e2fb1698fb7887d058f26daa3441927dda314004a324e241fba5aa0e24c5990.png",
-      "url": "https://www.gog.com/en/game/coromon",
-      "on_sale": true,
-      "genres": [
-        "Adventure",
-        "Role-playing",
-        "Exploration"
-      ],
-      "developers": [
-        "TRAGsoft"
-      ],
-      "publishers": [
-        "indie.io"
-      ],
-      "review_desc": "4.4★",
-      "review_rank": 44
     },
     {
       "appid": 1994849124,
@@ -12312,30 +12360,6 @@
       "review_rank": 43
     },
     {
-      "appid": 1918301028,
-      "name": "Age of Wonders: Planetfall",
-      "discount_percent": 75,
-      "original_price": 49.99,
-      "final_price": 12.49,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/99d70701b054fc897ae895392ca22369ccc4d84120d74906d41a91e9c68bb0a0.png",
-      "url": "https://www.gog.com/en/game/age_of_wonders_planetfall",
-      "on_sale": true,
-      "genres": [
-        "Strategy",
-        "Turn-based",
-        "Sci-fi"
-      ],
-      "developers": [
-        "Triumph Studios"
-      ],
-      "publishers": [
-        "Paradox Interactive"
-      ],
-      "review_desc": "3.9★",
-      "review_rank": 39
-    },
-    {
       "appid": 2104548474,
       "name": "Breathedge",
       "discount_percent": 75,
@@ -12528,6 +12552,55 @@
       "review_rank": 39
     },
     {
+      "appid": 1771535160,
+      "name": "A.I.M.: Artificial Intelligence Machine",
+      "discount_percent": 75,
+      "original_price": 2.99,
+      "final_price": 0.75,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/6eaf3b92a17974aadb1459b3673292615e1bc6abe3aa7c8c64ebcdd6214d11da.png",
+      "url": "https://www.gog.com/en/game/aim_artificial_intelligence_machine",
+      "on_sale": true,
+      "genres": [
+        "Tactical",
+        "Adventure",
+        "Role-playing"
+      ],
+      "developers": [
+        "SkyRiver Studios"
+      ],
+      "publishers": [
+        "Fulqrum Publishing"
+      ],
+      "review_desc": "4.2★",
+      "review_rank": 42
+    },
+    {
+      "appid": 1637871883,
+      "name": "Industry Giant 2",
+      "discount_percent": 75,
+      "original_price": 5.99,
+      "final_price": 1.49,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/85af99980a3d58e4a32e96974fd10d20d3e94b61f99f9fa6708cc761e605ff28.png",
+      "url": "https://www.gog.com/en/game/industry_giant_ii",
+      "on_sale": true,
+      "genres": [
+        "Strategy",
+        "Simulation",
+        "Managerial"
+      ],
+      "developers": [
+        "Fancy Bytes",
+        "Reactor"
+      ],
+      "publishers": [
+        "Toplitz Productions"
+      ],
+      "review_desc": "4.1★",
+      "review_rank": 41
+    },
+    {
       "appid": 1428922775,
       "name": "Europa Universalis II",
       "discount_percent": 75,
@@ -12600,28 +12673,76 @@
       "review_rank": 38
     },
     {
-      "appid": 1438597383,
-      "name": "Shadow Watch",
+      "appid": 1308814788,
+      "name": "Outwars",
       "discount_percent": 75,
       "original_price": 5.99,
       "final_price": 1.49,
       "currency": "USD",
-      "image": "https://images.gog-statics.com/611244d55232d16a850bcdd4dc13ff5e4a30a1dee362f11abde327efca7dbadd.png",
-      "url": "https://www.gog.com/en/game/shadow_watch",
+      "image": "https://images.gog-statics.com/eb643b7f300ccd3e765983c0b0feae1fd6526183f3f070aa01c40b01c739fad3.png",
+      "url": "https://www.gog.com/en/game/outwars",
+      "on_sale": true,
+      "genres": [
+        "Shooter",
+        "TPP",
+        "Sci-fi"
+      ],
+      "developers": [
+        "SingleTrac"
+      ],
+      "publishers": [
+        "Ziggurat Interactive"
+      ],
+      "review_desc": "4.4★",
+      "review_rank": 44
+    },
+    {
+      "appid": 1207659139,
+      "name": "Imperialism",
+      "discount_percent": 75,
+      "original_price": 5.99,
+      "final_price": 1.49,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/524b5380904505b10a551e2f9a7ff44cfe43972507aed1397286adf7b224b06f.png",
+      "url": "https://www.gog.com/en/game/imperialism",
       "on_sale": true,
       "genres": [
         "Strategy",
         "Turn-based",
-        "Tactical"
+        "Historical"
       ],
       "developers": [
-        "Red Storm Entertainment"
+        "Frog City Software"
       ],
       "publishers": [
         "Ubisoft"
       ],
-      "review_desc": "3.8★",
-      "review_rank": 38
+      "review_desc": "4.6★",
+      "review_rank": 46
+    },
+    {
+      "appid": 1187016819,
+      "name": "Industry Giant",
+      "discount_percent": 75,
+      "original_price": 5.99,
+      "final_price": 1.49,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/ce311a39996824cee3d109288b2c1f35355ff0322cdfe42c5de8f45bc7400c83.png",
+      "url": "https://www.gog.com/en/game/industry_giant",
+      "on_sale": true,
+      "genres": [
+        "Strategy",
+        "Simulation",
+        "Managerial"
+      ],
+      "developers": [
+        "QLOC"
+      ],
+      "publishers": [
+        "Toplitz Productions"
+      ],
+      "review_desc": "3.3★",
+      "review_rank": 33
     },
     {
       "appid": 1855221507,
@@ -14476,30 +14597,6 @@
       "review_rank": 40
     },
     {
-      "appid": 1771535160,
-      "name": "A.I.M.: Artificial Intelligence Machine",
-      "discount_percent": 75,
-      "original_price": 2.99,
-      "final_price": 0.75,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/6eaf3b92a17974aadb1459b3673292615e1bc6abe3aa7c8c64ebcdd6214d11da.png",
-      "url": "https://www.gog.com/en/game/aim_artificial_intelligence_machine",
-      "on_sale": true,
-      "genres": [
-        "Tactical",
-        "Adventure",
-        "Role-playing"
-      ],
-      "developers": [
-        "SkyRiver Studios"
-      ],
-      "publishers": [
-        "Fulqrum Publishing"
-      ],
-      "review_desc": "4.2★",
-      "review_rank": 42
-    },
-    {
       "appid": 1423477291,
       "name": "Hearts of Iron",
       "discount_percent": 75,
@@ -14522,31 +14619,6 @@
       ],
       "review_desc": "3.6★",
       "review_rank": 36
-    },
-    {
-      "appid": 1637871883,
-      "name": "Industry Giant 2",
-      "discount_percent": 75,
-      "original_price": 5.99,
-      "final_price": 1.49,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/85af99980a3d58e4a32e96974fd10d20d3e94b61f99f9fa6708cc761e605ff28.png",
-      "url": "https://www.gog.com/en/game/industry_giant_ii",
-      "on_sale": true,
-      "genres": [
-        "Strategy",
-        "Simulation",
-        "Managerial"
-      ],
-      "developers": [
-        "Fancy Bytes",
-        "Reactor"
-      ],
-      "publishers": [
-        "Toplitz Productions"
-      ],
-      "review_desc": "4.1★",
-      "review_rank": 41
     },
     {
       "appid": 1698260742,
@@ -14742,30 +14814,6 @@
       "review_rank": 29
     },
     {
-      "appid": 1308814788,
-      "name": "Outwars",
-      "discount_percent": 75,
-      "original_price": 5.99,
-      "final_price": 1.49,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/eb643b7f300ccd3e765983c0b0feae1fd6526183f3f070aa01c40b01c739fad3.png",
-      "url": "https://www.gog.com/en/game/outwars",
-      "on_sale": true,
-      "genres": [
-        "Shooter",
-        "TPP",
-        "Sci-fi"
-      ],
-      "developers": [
-        "SingleTrac"
-      ],
-      "publishers": [
-        "Ziggurat Interactive"
-      ],
-      "review_desc": "4.4★",
-      "review_rank": 44
-    },
-    {
       "appid": 1947156754,
       "name": "Robo Rumble",
       "discount_percent": 75,
@@ -14788,54 +14836,6 @@
       ],
       "review_desc": "4.1★",
       "review_rank": 41
-    },
-    {
-      "appid": 1207659139,
-      "name": "Imperialism",
-      "discount_percent": 75,
-      "original_price": 5.99,
-      "final_price": 1.49,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/524b5380904505b10a551e2f9a7ff44cfe43972507aed1397286adf7b224b06f.png",
-      "url": "https://www.gog.com/en/game/imperialism",
-      "on_sale": true,
-      "genres": [
-        "Strategy",
-        "Turn-based",
-        "Historical"
-      ],
-      "developers": [
-        "Frog City Software"
-      ],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": "4.6★",
-      "review_rank": 46
-    },
-    {
-      "appid": 1187016819,
-      "name": "Industry Giant",
-      "discount_percent": 75,
-      "original_price": 5.99,
-      "final_price": 1.49,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/ce311a39996824cee3d109288b2c1f35355ff0322cdfe42c5de8f45bc7400c83.png",
-      "url": "https://www.gog.com/en/game/industry_giant",
-      "on_sale": true,
-      "genres": [
-        "Strategy",
-        "Simulation",
-        "Managerial"
-      ],
-      "developers": [
-        "QLOC"
-      ],
-      "publishers": [
-        "Toplitz Productions"
-      ],
-      "review_desc": "3.3★",
-      "review_rank": 33
     },
     {
       "appid": 1207658949,
@@ -15707,6 +15707,30 @@
       "review_rank": 41
     },
     {
+      "appid": 1508702879,
+      "name": "Stellaris",
+      "discount_percent": 70,
+      "original_price": 49.99,
+      "final_price": 14.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/68fcbbb9274fdf572aff2d0115a8c0dae91c28c04d6e73aa11ec4d92706fc90d.png",
+      "url": "https://www.gog.com/en/game/stellaris",
+      "on_sale": true,
+      "genres": [
+        "Strategy",
+        "Real-time",
+        "Sci-fi"
+      ],
+      "developers": [
+        "Paradox Development Studio"
+      ],
+      "publishers": [
+        "Paradox Interactive"
+      ],
+      "review_desc": "3.8★",
+      "review_rank": 38
+    },
+    {
       "appid": 1207659953,
       "name": "Democracy 3",
       "discount_percent": 70,
@@ -15781,28 +15805,28 @@
       "review_rank": 40
     },
     {
-      "appid": 1508702879,
-      "name": "Stellaris",
+      "appid": 1554263611,
+      "name": "World Racing 2 - Champion Edition",
       "discount_percent": 70,
-      "original_price": 49.99,
-      "final_price": 14.99,
+      "original_price": 9.99,
+      "final_price": 2.99,
       "currency": "USD",
-      "image": "https://images.gog-statics.com/68fcbbb9274fdf572aff2d0115a8c0dae91c28c04d6e73aa11ec4d92706fc90d.png",
-      "url": "https://www.gog.com/en/game/stellaris",
+      "image": "https://images.gog-statics.com/1d2bd719ed0c25df7e2e6434f4f6aaab179ceb6b116ff78e02a89d17c081d0bd.png",
+      "url": "https://www.gog.com/en/game/world_racing_2_champion_edition",
       "on_sale": true,
       "genres": [
-        "Strategy",
-        "Real-time",
-        "Sci-fi"
+        "Racing",
+        "Arcade",
+        "Sandbox"
       ],
       "developers": [
-        "Paradox Development Studio"
+        "Synetic GmbH"
       ],
       "publishers": [
-        "Paradox Interactive"
+        "UniqueGames Publishing GmbH"
       ],
-      "review_desc": "3.8★",
-      "review_rank": 38
+      "review_desc": "3.9★",
+      "review_rank": 39
     },
     {
       "appid": 1392294208,
@@ -15827,6 +15851,30 @@
       ],
       "review_desc": "4.2★",
       "review_rank": 42
+    },
+    {
+      "appid": 1590878628,
+      "name": "NUKITASHI",
+      "discount_percent": 70,
+      "original_price": 24.99,
+      "final_price": 7.49,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/b92697d60d7c3e970c40ee3f1a5d07503a11b3943155fb55d6a6b7f758de81a1.png",
+      "url": "https://www.gog.com/en/game/nukitashi",
+      "on_sale": true,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Visual Novel"
+      ],
+      "developers": [
+        "Qruppo"
+      ],
+      "publishers": [
+        "Shiravune"
+      ],
+      "review_desc": "4.1★",
+      "review_rank": 41
     },
     {
       "appid": 1133536995,
@@ -15972,30 +16020,6 @@
       "review_rank": 49
     },
     {
-      "appid": 1554263611,
-      "name": "World Racing 2 - Champion Edition",
-      "discount_percent": 70,
-      "original_price": 9.99,
-      "final_price": 2.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/1d2bd719ed0c25df7e2e6434f4f6aaab179ceb6b116ff78e02a89d17c081d0bd.png",
-      "url": "https://www.gog.com/en/game/world_racing_2_champion_edition",
-      "on_sale": true,
-      "genres": [
-        "Racing",
-        "Arcade",
-        "Sandbox"
-      ],
-      "developers": [
-        "Synetic GmbH"
-      ],
-      "publishers": [
-        "UniqueGames Publishing GmbH"
-      ],
-      "review_desc": "3.9★",
-      "review_rank": 39
-    },
-    {
       "appid": 1508621918,
       "name": "Axe Cop",
       "discount_percent": 70,
@@ -16068,28 +16092,28 @@
       "review_rank": 35
     },
     {
-      "appid": 1590878628,
-      "name": "NUKITASHI",
+      "appid": 1365195229,
+      "name": "True Fear: Forsaken Souls Part 2",
       "discount_percent": 70,
-      "original_price": 24.99,
-      "final_price": 7.49,
+      "original_price": 9.99,
+      "final_price": 2.99,
       "currency": "USD",
-      "image": "https://images.gog-statics.com/b92697d60d7c3e970c40ee3f1a5d07503a11b3943155fb55d6a6b7f758de81a1.png",
-      "url": "https://www.gog.com/en/game/nukitashi",
+      "image": "https://images.gog-statics.com/878fa42d86465d6da8e8070d210adeaed7a54ea623cd63ec9a29ccbef6c18080.png",
+      "url": "https://www.gog.com/en/game/true_fear_forsaken_souls_part_2",
       "on_sale": true,
       "genres": [
         "Adventure",
-        "Comedy",
-        "Visual Novel"
+        "Puzzle",
+        "Hidden Object"
       ],
       "developers": [
-        "Qruppo"
+        "Goblinz Enterprises Ltd"
       ],
       "publishers": [
-        "Shiravune"
+        "The Digital Lounge"
       ],
-      "review_desc": "4.1★",
-      "review_rank": 41
+      "review_desc": "4.3★",
+      "review_rank": 43
     },
     {
       "appid": 1391063890,
@@ -16114,6 +16138,30 @@
       ],
       "review_desc": "3.4★",
       "review_rank": 34
+    },
+    {
+      "appid": 1719675091,
+      "name": "True Fear: Forsaken Souls Part 1",
+      "discount_percent": 70,
+      "original_price": 8.99,
+      "final_price": 2.69,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/8232c34724cdf71ecbd551c401c680558097391a961b2ade1bc5aa1f08335149.png",
+      "url": "https://www.gog.com/en/game/true_fear_forsaken_souls",
+      "on_sale": true,
+      "genres": [
+        "Adventure",
+        "Puzzle",
+        "Hidden Object"
+      ],
+      "developers": [
+        "Goblinz Enterprises Ltd"
+      ],
+      "publishers": [
+        "The Digital Lounge"
+      ],
+      "review_desc": "4.3★",
+      "review_rank": 43
     },
     {
       "appid": 1207659056,
@@ -16162,6 +16210,30 @@
       ],
       "review_desc": "3.8★",
       "review_rank": 38
+    },
+    {
+      "appid": 1747488431,
+      "name": "Nitro Racers",
+      "discount_percent": 70,
+      "original_price": 6.99,
+      "final_price": 2.09,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/1c8407f828401ce42ba941fe08ef1cf39d25435c64fd5997a3b798ac39dd878d.png",
+      "url": "https://www.gog.com/en/game/nitro_racers",
+      "on_sale": true,
+      "genres": [
+        "Racing",
+        "Arcade",
+        "Off-road"
+      ],
+      "developers": [
+        "Torc Interactive"
+      ],
+      "publishers": [
+        "Ziggurat Interactive"
+      ],
+      "review_desc": "4.3★",
+      "review_rank": 43
     },
     {
       "appid": 1559996859,
@@ -17760,30 +17832,6 @@
       "review_rank": 44
     },
     {
-      "appid": 1365195229,
-      "name": "True Fear: Forsaken Souls Part 2",
-      "discount_percent": 70,
-      "original_price": 9.99,
-      "final_price": 2.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/878fa42d86465d6da8e8070d210adeaed7a54ea623cd63ec9a29ccbef6c18080.png",
-      "url": "https://www.gog.com/en/game/true_fear_forsaken_souls_part_2",
-      "on_sale": true,
-      "genres": [
-        "Adventure",
-        "Puzzle",
-        "Hidden Object"
-      ],
-      "developers": [
-        "Goblinz Enterprises Ltd"
-      ],
-      "publishers": [
-        "The Digital Lounge"
-      ],
-      "review_desc": "4.3★",
-      "review_rank": 43
-    },
-    {
       "appid": 1852287124,
       "name": "Victory at Sea Pacific",
       "discount_percent": 70,
@@ -17974,30 +18022,6 @@
       ],
       "review_desc": "3.1★",
       "review_rank": 31
-    },
-    {
-      "appid": 1719675091,
-      "name": "True Fear: Forsaken Souls Part 1",
-      "discount_percent": 70,
-      "original_price": 8.99,
-      "final_price": 2.69,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/8232c34724cdf71ecbd551c401c680558097391a961b2ade1bc5aa1f08335149.png",
-      "url": "https://www.gog.com/en/game/true_fear_forsaken_souls",
-      "on_sale": true,
-      "genres": [
-        "Adventure",
-        "Puzzle",
-        "Hidden Object"
-      ],
-      "developers": [
-        "Goblinz Enterprises Ltd"
-      ],
-      "publishers": [
-        "The Digital Lounge"
-      ],
-      "review_desc": "4.3★",
-      "review_rank": 43
     },
     {
       "appid": 1434435597,
@@ -18502,30 +18526,6 @@
       ],
       "review_desc": "3.0★",
       "review_rank": 30
-    },
-    {
-      "appid": 1747488431,
-      "name": "Nitro Racers",
-      "discount_percent": 70,
-      "original_price": 6.99,
-      "final_price": 2.09,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/1c8407f828401ce42ba941fe08ef1cf39d25435c64fd5997a3b798ac39dd878d.png",
-      "url": "https://www.gog.com/en/game/nitro_racers",
-      "on_sale": true,
-      "genres": [
-        "Racing",
-        "Arcade",
-        "Off-road"
-      ],
-      "developers": [
-        "Torc Interactive"
-      ],
-      "publishers": [
-        "Ziggurat Interactive"
-      ],
-      "review_desc": "4.3★",
-      "review_rank": 43
     },
     {
       "appid": 2078964469,
@@ -19250,6 +19250,30 @@
       "review_rank": 38
     },
     {
+      "appid": 1797227701,
+      "name": "Cossacks 3",
+      "discount_percent": 66,
+      "original_price": 19.99,
+      "final_price": 6.79,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/287b5895cd23924f3425b91c983ef97361d4b4123d989a0d8acd5f301d377464.png",
+      "url": "https://www.gog.com/en/game/cossacks_3",
+      "on_sale": true,
+      "genres": [
+        "Strategy",
+        "Real-time",
+        "Historical"
+      ],
+      "developers": [
+        "GSC Game World"
+      ],
+      "publishers": [
+        "GSC Game World"
+      ],
+      "review_desc": "3.5★",
+      "review_rank": 35
+    },
+    {
       "appid": 1538573490,
       "name": "Nice Day for Fishing",
       "discount_percent": 66,
@@ -19344,30 +19368,6 @@
       ],
       "review_desc": "4.5★",
       "review_rank": 45
-    },
-    {
-      "appid": 1797227701,
-      "name": "Cossacks 3",
-      "discount_percent": 66,
-      "original_price": 19.99,
-      "final_price": 6.79,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/287b5895cd23924f3425b91c983ef97361d4b4123d989a0d8acd5f301d377464.png",
-      "url": "https://www.gog.com/en/game/cossacks_3",
-      "on_sale": true,
-      "genres": [
-        "Strategy",
-        "Real-time",
-        "Historical"
-      ],
-      "developers": [
-        "GSC Game World"
-      ],
-      "publishers": [
-        "GSC Game World"
-      ],
-      "review_desc": "3.5★",
-      "review_rank": 35
     },
     {
       "appid": 1260292611,
@@ -19535,6 +19535,30 @@
       ],
       "review_desc": "3.1★",
       "review_rank": 31
+    },
+    {
+      "appid": 2068318498,
+      "name": "Nope Nope Nope Nurses",
+      "discount_percent": 65,
+      "original_price": 11.99,
+      "final_price": 4.19,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/ff0b5396400e0df83eabe1368667e9bc897c5c98e0eaa555d18956587880bb11.png",
+      "url": "https://www.gog.com/en/game/nope_nope_nope_nurses",
+      "on_sale": true,
+      "genres": [
+        "Horror",
+        "Adventure",
+        "Visual Novel"
+      ],
+      "developers": [
+        "Dark One!"
+      ],
+      "publishers": [
+        "Shiravune"
+      ],
+      "review_desc": "4.2★",
+      "review_rank": 42
     },
     {
       "appid": 1207666433,
@@ -19991,30 +20015,6 @@
       ],
       "review_desc": "4.3★",
       "review_rank": 43
-    },
-    {
-      "appid": 2068318498,
-      "name": "Nope Nope Nope Nurses",
-      "discount_percent": 65,
-      "original_price": 11.99,
-      "final_price": 4.19,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/ff0b5396400e0df83eabe1368667e9bc897c5c98e0eaa555d18956587880bb11.png",
-      "url": "https://www.gog.com/en/game/nope_nope_nope_nurses",
-      "on_sale": true,
-      "genres": [
-        "Horror",
-        "Adventure",
-        "Visual Novel"
-      ],
-      "developers": [
-        "Dark One!"
-      ],
-      "publishers": [
-        "Shiravune"
-      ],
-      "review_desc": "4.2★",
-      "review_rank": 42
     },
     {
       "appid": 2129197835,
@@ -20924,6 +20924,54 @@
       "review_rank": 45
     },
     {
+      "appid": 1224800338,
+      "name": "Inscryption",
+      "discount_percent": 60,
+      "original_price": 19.99,
+      "final_price": 7.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/d632a349e49e3a81a4b84a794aec16c266427ec4e9c03751c2e24de30aa6b762.png",
+      "url": "https://www.gog.com/en/game/inscryption",
+      "on_sale": true,
+      "genres": [
+        "Horror",
+        "Adventure",
+        "Card Game"
+      ],
+      "developers": [
+        "Daniel Mullins Games"
+      ],
+      "publishers": [
+        "Devolver Digital"
+      ],
+      "review_desc": "4.6★",
+      "review_rank": 46
+    },
+    {
+      "appid": 2019945836,
+      "name": "NUKITASHI 2",
+      "discount_percent": 60,
+      "original_price": 24.99,
+      "final_price": 9.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/b7e621de2a8e1d4efbc1b705c94642c8d1ac035f8dc4ba200b505ce270e65287.png",
+      "url": "https://www.gog.com/en/game/nukitashi_2",
+      "on_sale": true,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Visual Novel"
+      ],
+      "developers": [
+        "Qruppo"
+      ],
+      "publishers": [
+        "Shiravune"
+      ],
+      "review_desc": "4.0★",
+      "review_rank": 40
+    },
+    {
       "appid": 1744110647,
       "name": "DREDGE",
       "discount_percent": 60,
@@ -21164,30 +21212,6 @@
       "review_rank": 0
     },
     {
-      "appid": 2019945836,
-      "name": "NUKITASHI 2",
-      "discount_percent": 60,
-      "original_price": 24.99,
-      "final_price": 9.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/b7e621de2a8e1d4efbc1b705c94642c8d1ac035f8dc4ba200b505ce270e65287.png",
-      "url": "https://www.gog.com/en/game/nukitashi_2",
-      "on_sale": true,
-      "genres": [
-        "Adventure",
-        "Comedy",
-        "Visual Novel"
-      ],
-      "developers": [
-        "Qruppo"
-      ],
-      "publishers": [
-        "Shiravune"
-      ],
-      "review_desc": "4.0★",
-      "review_rank": 40
-    },
-    {
       "appid": 1909436284,
       "name": "Love Tavern",
       "discount_percent": 60,
@@ -21212,6 +21236,30 @@
       "review_rank": 33
     },
     {
+      "appid": 1556523808,
+      "name": "Nope Nope Nope Nope Nurses",
+      "discount_percent": 60,
+      "original_price": 19.99,
+      "final_price": 7.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/d4fb0f08025245e7ee433f141a5eae1700640b0295c60a12e0ca1f30905f3985.png",
+      "url": "https://www.gog.com/en/game/nope_nope_nope_nope_nurses",
+      "on_sale": true,
+      "genres": [
+        "Horror",
+        "Adventure",
+        "Visual Novel"
+      ],
+      "developers": [
+        "Dark One!"
+      ],
+      "publishers": [
+        "Shiravune"
+      ],
+      "review_desc": "4.2★",
+      "review_rank": 42
+    },
+    {
       "appid": 1574775422,
       "name": "Warsim: The Realm of Aslona",
       "discount_percent": 60,
@@ -21234,6 +21282,29 @@
       ],
       "review_desc": "4.3★",
       "review_rank": 43
+    },
+    {
+      "appid": 1375812220,
+      "name": "Potion Craft: Alchemist Simulator",
+      "discount_percent": 60,
+      "original_price": 19.99,
+      "final_price": 7.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/3495297496db70f65ba5a7cd619809026c73dd48e154ab4cc758b0afcf0e23e0.png",
+      "url": "https://www.gog.com/en/game/potion_craft_alchemist_simulator",
+      "on_sale": true,
+      "genres": [
+        "Simulation",
+        "Role-playing"
+      ],
+      "developers": [
+        "niceplay games"
+      ],
+      "publishers": [
+        "tinyBuild"
+      ],
+      "review_desc": "4.4★",
+      "review_rank": 44
     },
     {
       "appid": 1781309427,
@@ -21310,28 +21381,28 @@
       "review_rank": 39
     },
     {
-      "appid": 1224800338,
-      "name": "Inscryption",
+      "appid": 1468265243,
+      "name": "Evening Starter",
       "discount_percent": 60,
-      "original_price": 19.99,
-      "final_price": 7.99,
+      "original_price": 14.99,
+      "final_price": 5.99,
       "currency": "USD",
-      "image": "https://images.gog-statics.com/d632a349e49e3a81a4b84a794aec16c266427ec4e9c03751c2e24de30aa6b762.png",
-      "url": "https://www.gog.com/en/game/inscryption",
+      "image": "https://images.gog-statics.com/084d25585a728adae88bfe99bccf9ed37f6ac7a857af15c348217762a2aace9f.png",
+      "url": "https://www.gog.com/en/game/evening_starter",
       "on_sale": true,
       "genres": [
-        "Horror",
+        "Role-playing",
         "Adventure",
-        "Card Game"
+        "Narrative"
       ],
       "developers": [
-        "Daniel Mullins Games"
+        "baron sengia"
       ],
       "publishers": [
-        "Devolver Digital"
+        "Kagura Games"
       ],
-      "review_desc": "4.6★",
-      "review_rank": 46
+      "review_desc": "3.9★",
+      "review_rank": 39
     },
     {
       "appid": 1918604546,
@@ -22200,30 +22271,6 @@
       "review_rank": 30
     },
     {
-      "appid": 1556523808,
-      "name": "Nope Nope Nope Nope Nurses",
-      "discount_percent": 60,
-      "original_price": 19.99,
-      "final_price": 7.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/d4fb0f08025245e7ee433f141a5eae1700640b0295c60a12e0ca1f30905f3985.png",
-      "url": "https://www.gog.com/en/game/nope_nope_nope_nope_nurses",
-      "on_sale": true,
-      "genres": [
-        "Horror",
-        "Adventure",
-        "Visual Novel"
-      ],
-      "developers": [
-        "Dark One!"
-      ],
-      "publishers": [
-        "Shiravune"
-      ],
-      "review_desc": "4.2★",
-      "review_rank": 42
-    },
-    {
       "appid": 1785508203,
       "name": "LunarLux",
       "discount_percent": 60,
@@ -22491,29 +22538,6 @@
       "review_rank": 31
     },
     {
-      "appid": 1375812220,
-      "name": "Potion Craft: Alchemist Simulator",
-      "discount_percent": 60,
-      "original_price": 19.99,
-      "final_price": 7.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/3495297496db70f65ba5a7cd619809026c73dd48e154ab4cc758b0afcf0e23e0.png",
-      "url": "https://www.gog.com/en/game/potion_craft_alchemist_simulator",
-      "on_sale": true,
-      "genres": [
-        "Simulation",
-        "Role-playing"
-      ],
-      "developers": [
-        "niceplay games"
-      ],
-      "publishers": [
-        "tinyBuild"
-      ],
-      "review_desc": "4.4★",
-      "review_rank": 44
-    },
-    {
       "appid": 1360951571,
       "name": "FAITH: The Unholy Trinity",
       "discount_percent": 60,
@@ -22747,30 +22771,6 @@
       ],
       "publishers": [
         "FreeMind S.A."
-      ],
-      "review_desc": "3.9★",
-      "review_rank": 39
-    },
-    {
-      "appid": 1468265243,
-      "name": "Evening Starter",
-      "discount_percent": 60,
-      "original_price": 14.99,
-      "final_price": 5.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/084d25585a728adae88bfe99bccf9ed37f6ac7a857af15c348217762a2aace9f.png",
-      "url": "https://www.gog.com/en/game/evening_starter",
-      "on_sale": true,
-      "genres": [
-        "Role-playing",
-        "Adventure",
-        "Narrative"
-      ],
-      "developers": [
-        "baron sengia"
-      ],
-      "publishers": [
-        "Kagura Games"
       ],
       "review_desc": "3.9★",
       "review_rank": 39
@@ -24927,6 +24927,30 @@
       "review_rank": 40
     },
     {
+      "appid": 1412583633,
+      "name": "Xenonauts 2",
+      "discount_percent": 50,
+      "original_price": 39.99,
+      "final_price": 19.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/d698889ec03175f26d5283f6d0be6d078a3c8cd4963258922abcba1bc3feca5d.png",
+      "url": "https://www.gog.com/en/game/xenonauts_2",
+      "on_sale": true,
+      "genres": [
+        "Strategy",
+        "Turn-based",
+        "Sci-fi"
+      ],
+      "developers": [
+        "Goldhawk Interactive"
+      ],
+      "publishers": [
+        "Hooded Horse"
+      ],
+      "review_desc": "4.3★",
+      "review_rank": 43
+    },
+    {
       "appid": 1882985557,
       "name": "The Planet Crafter",
       "discount_percent": 50,
@@ -25048,30 +25072,6 @@
       "review_rank": 43
     },
     {
-      "appid": 1412583633,
-      "name": "Xenonauts 2",
-      "discount_percent": 50,
-      "original_price": 39.99,
-      "final_price": 19.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/d698889ec03175f26d5283f6d0be6d078a3c8cd4963258922abcba1bc3feca5d.png",
-      "url": "https://www.gog.com/en/game/xenonauts_2",
-      "on_sale": true,
-      "genres": [
-        "Strategy",
-        "Turn-based",
-        "Sci-fi"
-      ],
-      "developers": [
-        "Goldhawk Interactive"
-      ],
-      "publishers": [
-        "Hooded Horse"
-      ],
-      "review_desc": "4.3★",
-      "review_rank": 43
-    },
-    {
       "appid": 1849781464,
       "name": "Legends of Amberland II: The Song of Trees",
       "discount_percent": 50,
@@ -25118,6 +25118,30 @@
       ],
       "review_desc": "3.5★",
       "review_rank": 35
+    },
+    {
+      "appid": 1224667888,
+      "name": "Medieval Dynasty",
+      "discount_percent": 50,
+      "original_price": 34.99,
+      "final_price": 17.49,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/9d30a6fd322305adb20cb43dd3397eb90315841cc00b0d31badf0ac941621419.png",
+      "url": "https://www.gog.com/en/game/medieval_dynasty",
+      "on_sale": true,
+      "genres": [
+        "Adventure",
+        "Role-playing",
+        "Survival"
+      ],
+      "developers": [
+        "Render Cube"
+      ],
+      "publishers": [
+        "Toplitz Productions"
+      ],
+      "review_desc": "4.0★",
+      "review_rank": 40
     },
     {
       "appid": 1381752221,
@@ -25240,6 +25264,30 @@
       "review_rank": 44
     },
     {
+      "appid": 1825087693,
+      "name": "Strategic Command: American Civil War",
+      "discount_percent": 50,
+      "original_price": 39.99,
+      "final_price": 19.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/cde01da44ce822486b436e8fe2ebb015fd4e2f194a7aac4922cbe42c408c14ad.png",
+      "url": "https://www.gog.com/en/game/strategic_command_american_civil_war",
+      "on_sale": true,
+      "genres": [
+        "Strategy",
+        "Turn-based",
+        "Historical"
+      ],
+      "developers": [
+        "Fury Software"
+      ],
+      "publishers": [
+        "Slitherine Ltd."
+      ],
+      "review_desc": "4.1★",
+      "review_rank": 41
+    },
+    {
       "appid": 1584255185,
       "name": "Blacksmith of the Sand Kingdom",
       "discount_percent": 50,
@@ -25262,30 +25310,6 @@
       ],
       "review_desc": "4.1★",
       "review_rank": 41
-    },
-    {
-      "appid": 1224667888,
-      "name": "Medieval Dynasty",
-      "discount_percent": 50,
-      "original_price": 34.99,
-      "final_price": 17.49,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/9d30a6fd322305adb20cb43dd3397eb90315841cc00b0d31badf0ac941621419.png",
-      "url": "https://www.gog.com/en/game/medieval_dynasty",
-      "on_sale": true,
-      "genres": [
-        "Adventure",
-        "Role-playing",
-        "Survival"
-      ],
-      "developers": [
-        "Render Cube"
-      ],
-      "publishers": [
-        "Toplitz Productions"
-      ],
-      "review_desc": "4.0★",
-      "review_rank": 40
     },
     {
       "appid": 1207658991,
@@ -25432,6 +25456,30 @@
       "review_rank": 41
     },
     {
+      "appid": 1245507805,
+      "name": "Shift 87",
+      "discount_percent": 50,
+      "original_price": 4.99,
+      "final_price": 2.49,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/8ce9b85b8facf55e0758ef4943fbf8c291fae541a21f76b00a9362a34abab33f.png",
+      "url": "https://www.gog.com/en/game/shift_87",
+      "on_sale": true,
+      "genres": [
+        "Simulation",
+        "Horror",
+        "Adventure"
+      ],
+      "developers": [
+        "Pixelsplit"
+      ],
+      "publishers": [
+        "Daedalic Entertainment"
+      ],
+      "review_desc": "4.0★",
+      "review_rank": 40
+    },
+    {
       "appid": 1944811685,
       "name": "NYO-NIN-JIMA -My New Life in Charge of a Tropical Island-",
       "discount_percent": 50,
@@ -25480,6 +25528,54 @@
       "review_rank": 39
     },
     {
+      "appid": 1976813610,
+      "name": "Isekai Rondo",
+      "discount_percent": 50,
+      "original_price": 14.99,
+      "final_price": 7.49,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/2b8a452f92cf07cf7c8407e00b578285858e42b4b3fb9aa8bcb7ce0a2594ae68.png",
+      "url": "https://www.gog.com/en/game/isekai_rondo",
+      "on_sale": true,
+      "genres": [
+        "Role-playing",
+        "Turn-based",
+        "JRPG"
+      ],
+      "developers": [
+        "Exe Create Inc."
+      ],
+      "publishers": [
+        "KEMCO"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 1313754214,
+      "name": "Love and Sex: Second Base",
+      "discount_percent": 50,
+      "original_price": 19.99,
+      "final_price": 9.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/cc6a23c010b227e96b7c04d91fe149effb91db368d543edb3a9ee4a3b9867617.png",
+      "url": "https://www.gog.com/en/game/love_sex_second_base",
+      "on_sale": true,
+      "genres": [
+        "Simulation",
+        "Adventure",
+        "Narrative"
+      ],
+      "developers": [
+        "Andrealphus Games"
+      ],
+      "publishers": [
+        "Andrealphus Games"
+      ],
+      "review_desc": "4.0★",
+      "review_rank": 40
+    },
+    {
       "appid": 2034949552,
       "name": "Cult of the Lamb",
       "discount_percent": 50,
@@ -25504,28 +25600,28 @@
       "review_rank": 41
     },
     {
-      "appid": 1825087693,
-      "name": "Strategic Command: American Civil War",
+      "appid": 2142385424,
+      "name": "Castaway of the Ardusta Sea",
       "discount_percent": 50,
-      "original_price": 39.99,
-      "final_price": 19.99,
+      "original_price": 14.99,
+      "final_price": 7.49,
       "currency": "USD",
-      "image": "https://images.gog-statics.com/cde01da44ce822486b436e8fe2ebb015fd4e2f194a7aac4922cbe42c408c14ad.png",
-      "url": "https://www.gog.com/en/game/strategic_command_american_civil_war",
+      "image": "https://images.gog-statics.com/86352ffa779f133ef7815f57377397cb4fa17602d4c59103aad4c5fab720662e.png",
+      "url": "https://www.gog.com/en/game/castaway_of_the_ardusta_sea",
       "on_sale": true,
       "genres": [
-        "Strategy",
-        "Turn-based",
-        "Historical"
+        "Role-playing",
+        "Adventure",
+        "Narrative"
       ],
       "developers": [
-        "Fury Software"
+        "baron sengia"
       ],
       "publishers": [
-        "Slitherine Ltd."
+        "Kagura Games"
       ],
-      "review_desc": "4.1★",
-      "review_rank": 41
+      "review_desc": "3.2★",
+      "review_rank": 32
     },
     {
       "appid": 1101011608,
@@ -25672,6 +25768,30 @@
       "review_rank": 40
     },
     {
+      "appid": 1351624781,
+      "name": "Planetbase",
+      "discount_percent": 50,
+      "original_price": 14.99,
+      "final_price": 7.49,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/e5e7d724b2a069925b7a1bd868c06ad8b75464a4d8ba80d9117ba8bd7d7275a9.png",
+      "url": "https://www.gog.com/en/game/planetbase",
+      "on_sale": true,
+      "genres": [
+        "Strategy",
+        "Sci-fi",
+        "Building"
+      ],
+      "developers": [
+        "Madruga Works"
+      ],
+      "publishers": [
+        "Madruga Works"
+      ],
+      "review_desc": "3.8★",
+      "review_rank": 38
+    },
+    {
       "appid": 1444053723,
       "name": "Little Inferno",
       "discount_percent": 50,
@@ -25742,6 +25862,30 @@
       ],
       "review_desc": "3.8★",
       "review_rank": 38
+    },
+    {
+      "appid": 1435224812,
+      "name": "TrickStyle",
+      "discount_percent": 50,
+      "original_price": 5.99,
+      "final_price": 2.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/a4873120a3993b683d0c886ca2e6e529d2eeedd75527c7de4800986b9b27f516.png",
+      "url": "https://www.gog.com/en/game/trickstyle",
+      "on_sale": true,
+      "genres": [
+        "Racing",
+        "Arcade",
+        "Sci-fi"
+      ],
+      "developers": [
+        "Criterion Software"
+      ],
+      "publishers": [
+        "Throwback Entertainment"
+      ],
+      "review_desc": "4.2★",
+      "review_rank": 42
     },
     {
       "appid": 1433928487,
@@ -25959,6 +26103,30 @@
       ],
       "review_desc": "4.2★",
       "review_rank": 42
+    },
+    {
+      "appid": 1207665313,
+      "name": "The Hugo Trilogy",
+      "discount_percent": 50,
+      "original_price": 5.99,
+      "final_price": 2.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/f49680369cf6cba8b407c33926bb7231737b1b55fd0e4c35d530bb065666eaa9.png",
+      "url": "https://www.gog.com/en/game/the_hugo_trilogy",
+      "on_sale": true,
+      "genres": [
+        "Horror",
+        "Adventure",
+        "Point-and-click"
+      ],
+      "developers": [
+        "Gray Design Associates"
+      ],
+      "publishers": [
+        "Gray Design Associates"
+      ],
+      "review_desc": "3.5★",
+      "review_rank": 35
     },
     {
       "appid": 1862276614,
@@ -26830,30 +26998,6 @@
       "review_rank": 37
     },
     {
-      "appid": 1245507805,
-      "name": "Shift 87",
-      "discount_percent": 50,
-      "original_price": 4.99,
-      "final_price": 2.49,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/8ce9b85b8facf55e0758ef4943fbf8c291fae541a21f76b00a9362a34abab33f.png",
-      "url": "https://www.gog.com/en/game/shift_87",
-      "on_sale": true,
-      "genres": [
-        "Simulation",
-        "Horror",
-        "Adventure"
-      ],
-      "developers": [
-        "Pixelsplit"
-      ],
-      "publishers": [
-        "Daedalic Entertainment"
-      ],
-      "review_desc": "4.0★",
-      "review_rank": 40
-    },
-    {
       "appid": 1161315595,
       "name": "Real Anime Situation! 2",
       "discount_percent": 50,
@@ -27454,30 +27598,6 @@
       "review_rank": 34
     },
     {
-      "appid": 1976813610,
-      "name": "Isekai Rondo",
-      "discount_percent": 50,
-      "original_price": 14.99,
-      "final_price": 7.49,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/2b8a452f92cf07cf7c8407e00b578285858e42b4b3fb9aa8bcb7ce0a2594ae68.png",
-      "url": "https://www.gog.com/en/game/isekai_rondo",
-      "on_sale": true,
-      "genres": [
-        "Role-playing",
-        "Turn-based",
-        "JRPG"
-      ],
-      "developers": [
-        "Exe Create Inc."
-      ],
-      "publishers": [
-        "KEMCO"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 1397903409,
       "name": "Swipepi",
       "discount_percent": 50,
@@ -27571,30 +27691,6 @@
       ],
       "review_desc": "3.9★",
       "review_rank": 39
-    },
-    {
-      "appid": 1313754214,
-      "name": "Love and Sex: Second Base",
-      "discount_percent": 50,
-      "original_price": 19.99,
-      "final_price": 9.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/cc6a23c010b227e96b7c04d91fe149effb91db368d543edb3a9ee4a3b9867617.png",
-      "url": "https://www.gog.com/en/game/love_sex_second_base",
-      "on_sale": true,
-      "genres": [
-        "Simulation",
-        "Adventure",
-        "Narrative"
-      ],
-      "developers": [
-        "Andrealphus Games"
-      ],
-      "publishers": [
-        "Andrealphus Games"
-      ],
-      "review_desc": "4.0★",
-      "review_rank": 40
     },
     {
       "appid": 1383151060,
@@ -28149,30 +28245,6 @@
       ],
       "review_desc": "3.4★",
       "review_rank": 34
-    },
-    {
-      "appid": 2142385424,
-      "name": "Castaway of the Ardusta Sea",
-      "discount_percent": 50,
-      "original_price": 14.99,
-      "final_price": 7.49,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/86352ffa779f133ef7815f57377397cb4fa17602d4c59103aad4c5fab720662e.png",
-      "url": "https://www.gog.com/en/game/castaway_of_the_ardusta_sea",
-      "on_sale": true,
-      "genres": [
-        "Role-playing",
-        "Adventure",
-        "Narrative"
-      ],
-      "developers": [
-        "baron sengia"
-      ],
-      "publishers": [
-        "Kagura Games"
-      ],
-      "review_desc": "3.2★",
-      "review_rank": 32
     },
     {
       "appid": 1113686198,
@@ -29913,30 +29985,6 @@
       "review_rank": 44
     },
     {
-      "appid": 1351624781,
-      "name": "Planetbase",
-      "discount_percent": 50,
-      "original_price": 14.99,
-      "final_price": 7.49,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/e5e7d724b2a069925b7a1bd868c06ad8b75464a4d8ba80d9117ba8bd7d7275a9.png",
-      "url": "https://www.gog.com/en/game/planetbase",
-      "on_sale": true,
-      "genres": [
-        "Strategy",
-        "Sci-fi",
-        "Building"
-      ],
-      "developers": [
-        "Madruga Works"
-      ],
-      "publishers": [
-        "Madruga Works"
-      ],
-      "review_desc": "3.8★",
-      "review_rank": 38
-    },
-    {
       "appid": 1444812654,
       "name": "Human Resource Machine",
       "discount_percent": 50,
@@ -30342,30 +30390,6 @@
       ],
       "review_desc": null,
       "review_rank": 0
-    },
-    {
-      "appid": 1435224812,
-      "name": "TrickStyle",
-      "discount_percent": 50,
-      "original_price": 5.99,
-      "final_price": 2.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/a4873120a3993b683d0c886ca2e6e529d2eeedd75527c7de4800986b9b27f516.png",
-      "url": "https://www.gog.com/en/game/trickstyle",
-      "on_sale": true,
-      "genres": [
-        "Racing",
-        "Arcade",
-        "Sci-fi"
-      ],
-      "developers": [
-        "Criterion Software"
-      ],
-      "publishers": [
-        "Throwback Entertainment"
-      ],
-      "review_desc": "4.2★",
-      "review_rank": 42
     },
     {
       "appid": 1443606025,
@@ -30823,30 +30847,6 @@
       ],
       "review_desc": "2.9★",
       "review_rank": 29
-    },
-    {
-      "appid": 1207665313,
-      "name": "The Hugo Trilogy",
-      "discount_percent": 50,
-      "original_price": 5.99,
-      "final_price": 2.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/f49680369cf6cba8b407c33926bb7231737b1b55fd0e4c35d530bb065666eaa9.png",
-      "url": "https://www.gog.com/en/game/the_hugo_trilogy",
-      "on_sale": true,
-      "genres": [
-        "Horror",
-        "Adventure",
-        "Point-and-click"
-      ],
-      "developers": [
-        "Gray Design Associates"
-      ],
-      "publishers": [
-        "Gray Design Associates"
-      ],
-      "review_desc": "3.5★",
-      "review_rank": 35
     },
     {
       "appid": 1413773160,
@@ -31618,6 +31618,30 @@
       "review_rank": 45
     },
     {
+      "appid": 2068599938,
+      "name": "Citadelum",
+      "discount_percent": 40,
+      "original_price": 24.99,
+      "final_price": 14.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/3f799b5a6f362ea7778fee11b4df8a8054e707a0e70b7f35ec8ba1fd1c4d4d91.png",
+      "url": "https://www.gog.com/en/game/citadelum",
+      "on_sale": true,
+      "genres": [
+        "Simulation",
+        "Historical",
+        "Strategy"
+      ],
+      "developers": [
+        "Abylight Barcelona"
+      ],
+      "publishers": [
+        "Abylight Studios"
+      ],
+      "review_desc": "4.3★",
+      "review_rank": 43
+    },
+    {
       "appid": 1612971969,
       "name": "Broken Sword - Shadow of the Templars: Reforged",
       "discount_percent": 40,
@@ -31709,30 +31733,6 @@
       ],
       "publishers": [
         "Shiravune"
-      ],
-      "review_desc": "4.3★",
-      "review_rank": 43
-    },
-    {
-      "appid": 2068599938,
-      "name": "Citadelum",
-      "discount_percent": 40,
-      "original_price": 24.99,
-      "final_price": 14.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/3f799b5a6f362ea7778fee11b4df8a8054e707a0e70b7f35ec8ba1fd1c4d4d91.png",
-      "url": "https://www.gog.com/en/game/citadelum",
-      "on_sale": true,
-      "genres": [
-        "Simulation",
-        "Historical",
-        "Strategy"
-      ],
-      "developers": [
-        "Abylight Barcelona"
-      ],
-      "publishers": [
-        "Abylight Studios"
       ],
       "review_desc": "4.3★",
       "review_rank": 43
@@ -31856,6 +31856,30 @@
       ],
       "review_desc": "3.9★",
       "review_rank": 39
+    },
+    {
+      "appid": 1714577252,
+      "name": "Close Combat 4: The Battle of the Bulge",
+      "discount_percent": 40,
+      "original_price": 5.99,
+      "final_price": 3.59,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/8e83d67772dd8fafc6ab0da0ea562b68673a84e0567d2bbf71b1a9df1a4bf074.png",
+      "url": "https://www.gog.com/en/game/close_combat_4_the_battle_of_the_bulge",
+      "on_sale": true,
+      "genres": [
+        "Strategy",
+        "Real-time",
+        "Historical"
+      ],
+      "developers": [
+        "Atomic Games, Inc."
+      ],
+      "publishers": [
+        "Slitherine Ltd."
+      ],
+      "review_desc": "4.1★",
+      "review_rank": 41
     },
     {
       "appid": 2125520369,
@@ -33376,30 +33400,6 @@
       "review_rank": 41
     },
     {
-      "appid": 1714577252,
-      "name": "Close Combat 4: The Battle of the Bulge",
-      "discount_percent": 40,
-      "original_price": 5.99,
-      "final_price": 3.59,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/8e83d67772dd8fafc6ab0da0ea562b68673a84e0567d2bbf71b1a9df1a4bf074.png",
-      "url": "https://www.gog.com/en/game/close_combat_4_the_battle_of_the_bulge",
-      "on_sale": true,
-      "genres": [
-        "Strategy",
-        "Real-time",
-        "Historical"
-      ],
-      "developers": [
-        "Atomic Games, Inc."
-      ],
-      "publishers": [
-        "Slitherine Ltd."
-      ],
-      "review_desc": "4.1★",
-      "review_rank": 41
-    },
-    {
       "appid": 1649233263,
       "name": "Close Combat 2: A Bridge Too Far",
       "discount_percent": 40,
@@ -33592,6 +33592,30 @@
       "review_rank": 48
     },
     {
+      "appid": 1924240273,
+      "name": "Whiskerwood",
+      "discount_percent": 35,
+      "original_price": 29.99,
+      "final_price": 19.49,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/d41847a82ef9f2d16131c21fd7783cf92593913da7c0e360e87247076d3ca3fa.png",
+      "url": "https://www.gog.com/en/game/whiskerwood",
+      "on_sale": true,
+      "genres": [
+        "Simulation",
+        "Historical",
+        "Strategy"
+      ],
+      "developers": [
+        "Minakata Dynamics"
+      ],
+      "publishers": [
+        "Hooded Horse"
+      ],
+      "review_desc": "4.5★",
+      "review_rank": 45
+    },
+    {
       "appid": 1212103132,
       "name": "Rusty Lake Hotel",
       "discount_percent": 35,
@@ -33707,30 +33731,6 @@
       ],
       "publishers": [
         "Three River Games (3RG)"
-      ],
-      "review_desc": "4.5★",
-      "review_rank": 45
-    },
-    {
-      "appid": 1924240273,
-      "name": "Whiskerwood",
-      "discount_percent": 35,
-      "original_price": 29.99,
-      "final_price": 19.49,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/d41847a82ef9f2d16131c21fd7783cf92593913da7c0e360e87247076d3ca3fa.png",
-      "url": "https://www.gog.com/en/game/whiskerwood",
-      "on_sale": true,
-      "genres": [
-        "Simulation",
-        "Historical",
-        "Strategy"
-      ],
-      "developers": [
-        "Minakata Dynamics"
-      ],
-      "publishers": [
-        "Hooded Horse"
       ],
       "review_desc": "4.5★",
       "review_rank": 45
@@ -34672,6 +34672,30 @@
       "review_rank": 40
     },
     {
+      "appid": 1678779214,
+      "name": "Terminator: Dark Fate - Defiance",
+      "discount_percent": 30,
+      "original_price": 39.99,
+      "final_price": 27.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/98e208d3b7fba8a5a8601aa515690fa37a83308637da579665f485e63e0935a0.png",
+      "url": "https://www.gog.com/en/game/terminator_dark_fate_defiance",
+      "on_sale": true,
+      "genres": [
+        "Strategy",
+        "Real-time",
+        "Tactical"
+      ],
+      "developers": [
+        "Slitherine Ltd."
+      ],
+      "publishers": [
+        "Slitherine Ltd."
+      ],
+      "review_desc": "3.7★",
+      "review_rank": 37
+    },
+    {
       "appid": 1296823600,
       "name": "Warhammer 40,000: Dawn of War - Definitive Edition",
       "discount_percent": 30,
@@ -34742,30 +34766,6 @@
       ],
       "review_desc": "4.8★",
       "review_rank": 48
-    },
-    {
-      "appid": 1678779214,
-      "name": "Terminator: Dark Fate - Defiance",
-      "discount_percent": 30,
-      "original_price": 39.99,
-      "final_price": 27.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/98e208d3b7fba8a5a8601aa515690fa37a83308637da579665f485e63e0935a0.png",
-      "url": "https://www.gog.com/en/game/terminator_dark_fate_defiance",
-      "on_sale": true,
-      "genres": [
-        "Strategy",
-        "Real-time",
-        "Tactical"
-      ],
-      "developers": [
-        "Slitherine Ltd."
-      ],
-      "publishers": [
-        "Slitherine Ltd."
-      ],
-      "review_desc": "3.7★",
-      "review_rank": 37
     },
     {
       "appid": 2053145869,
@@ -34912,6 +34912,30 @@
       ],
       "review_desc": "4.1★",
       "review_rank": 41
+    },
+    {
+      "appid": 2046486768,
+      "name": "Starcom: Unknown Space",
+      "discount_percent": 30,
+      "original_price": 24.99,
+      "final_price": 17.49,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/f6fe5abcf8d42284e8249fdbb30cd982e3d29723041c9e612e8a7c9277f58437.png",
+      "url": "https://www.gog.com/en/game/starcom_unknown_space",
+      "on_sale": true,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-fi"
+      ],
+      "developers": [
+        "Wx3 Labs"
+      ],
+      "publishers": [
+        "Wx3 Labs"
+      ],
+      "review_desc": "4.6★",
+      "review_rank": 46
     },
     {
       "appid": 1184941116,
@@ -35610,30 +35634,6 @@
       ],
       "review_desc": "4.2★",
       "review_rank": 42
-    },
-    {
-      "appid": 2046486768,
-      "name": "Starcom: Unknown Space",
-      "discount_percent": 30,
-      "original_price": 24.99,
-      "final_price": 17.49,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/f6fe5abcf8d42284e8249fdbb30cd982e3d29723041c9e612e8a7c9277f58437.png",
-      "url": "https://www.gog.com/en/game/starcom_unknown_space",
-      "on_sale": true,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Sci-fi"
-      ],
-      "developers": [
-        "Wx3 Labs"
-      ],
-      "publishers": [
-        "Wx3 Labs"
-      ],
-      "review_desc": "4.6★",
-      "review_rank": 46
     },
     {
       "appid": 1517216562,
@@ -37492,30 +37492,6 @@
       "review_rank": 43
     },
     {
-      "appid": 1432087047,
-      "name": "Foolish Mortals",
-      "discount_percent": 20,
-      "original_price": 19.99,
-      "final_price": 15.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/eed9013ee674e6738dfc1ab57d978ea10b1ad944aee54800ec4621364ab2334c.png",
-      "url": "https://www.gog.com/en/game/foolish_mortals",
-      "on_sale": true,
-      "genres": [
-        "Adventure",
-        "Point-and-click",
-        "Puzzle"
-      ],
-      "developers": [
-        "Inklingwood Studios"
-      ],
-      "publishers": [
-        "Inklingwood Studios"
-      ],
-      "review_desc": "4.8★",
-      "review_rank": 48
-    },
-    {
       "appid": 1940169827,
       "name": "Puzzle Quest: Immortal Edition",
       "discount_percent": 20,
@@ -37538,6 +37514,54 @@
       ],
       "review_desc": "4.2★",
       "review_rank": 42
+    },
+    {
+      "appid": 2063530062,
+      "name": "Niramare Quest: Saving a World That Loves Hating Me",
+      "discount_percent": 20,
+      "original_price": 14.99,
+      "final_price": 11.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/de8e0d1f8ca1d8e6ad7975bb80be9b1f5b7e11bcb0006d47e25c2af8067baeff.png",
+      "url": "https://www.gog.com/en/game/niramare_quest_saving_a_world_that_loves_hating_me",
+      "on_sale": true,
+      "genres": [
+        "Adventure",
+        "Virtual life",
+        "Visual Novel"
+      ],
+      "developers": [
+        "Seguzecute"
+      ],
+      "publishers": [
+        "Kagura Games"
+      ],
+      "review_desc": "3.2★",
+      "review_rank": 32
+    },
+    {
+      "appid": 1432087047,
+      "name": "Foolish Mortals",
+      "discount_percent": 20,
+      "original_price": 19.99,
+      "final_price": 15.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/eed9013ee674e6738dfc1ab57d978ea10b1ad944aee54800ec4621364ab2334c.png",
+      "url": "https://www.gog.com/en/game/foolish_mortals",
+      "on_sale": true,
+      "genres": [
+        "Adventure",
+        "Point-and-click",
+        "Puzzle"
+      ],
+      "developers": [
+        "Inklingwood Studios"
+      ],
+      "publishers": [
+        "Inklingwood Studios"
+      ],
+      "review_desc": "4.8★",
+      "review_rank": 48
     },
     {
       "appid": 1870238222,
@@ -37588,6 +37612,55 @@
       "review_rank": 47
     },
     {
+      "appid": 1686311938,
+      "name": "Ostriv",
+      "discount_percent": 20,
+      "original_price": 24.99,
+      "final_price": 19.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/49e059e2fc1efdd7b5175fe3b3315cf2a2a107fcc90bf59ebabad5c88341d60b.png",
+      "url": "https://www.gog.com/en/game/ostriv",
+      "on_sale": true,
+      "genres": [
+        "Strategy",
+        "Building",
+        "Managerial"
+      ],
+      "developers": [
+        "yevhen8"
+      ],
+      "publishers": [
+        "yevhen8"
+      ],
+      "review_desc": "4.4★",
+      "review_rank": 44
+    },
+    {
+      "appid": 2120510293,
+      "name": "Heavenly Island",
+      "discount_percent": 20,
+      "original_price": 14.99,
+      "final_price": 11.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/11823ef4ab3cae04b6825896509ed2d507125eee8a5b8d07222d08dbd56ceade.png",
+      "url": "https://www.gog.com/en/game/heavenly_island",
+      "on_sale": true,
+      "genres": [
+        "Adventure",
+        "Exploration",
+        "Visual Novel"
+      ],
+      "developers": [
+        "TechnoBrake"
+      ],
+      "publishers": [
+        "Shiravune",
+        "Co-FUN Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 1562153725,
       "name": "Holy Valkyrie ExS-TIA F Parallel Episode 2: Reunion",
       "discount_percent": 20,
@@ -37610,30 +37683,6 @@
       ],
       "review_desc": null,
       "review_rank": 0
-    },
-    {
-      "appid": 2063530062,
-      "name": "Niramare Quest: Saving a World That Loves Hating Me",
-      "discount_percent": 20,
-      "original_price": 14.99,
-      "final_price": 11.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/de8e0d1f8ca1d8e6ad7975bb80be9b1f5b7e11bcb0006d47e25c2af8067baeff.png",
-      "url": "https://www.gog.com/en/game/niramare_quest_saving_a_world_that_loves_hating_me",
-      "on_sale": true,
-      "genres": [
-        "Adventure",
-        "Virtual life",
-        "Visual Novel"
-      ],
-      "developers": [
-        "Seguzecute"
-      ],
-      "publishers": [
-        "Kagura Games"
-      ],
-      "review_desc": "3.2★",
-      "review_rank": 32
     },
     {
       "appid": 1300489906,
@@ -37830,30 +37879,6 @@
       "review_rank": 36
     },
     {
-      "appid": 1686311938,
-      "name": "Ostriv",
-      "discount_percent": 20,
-      "original_price": 24.99,
-      "final_price": 19.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/49e059e2fc1efdd7b5175fe3b3315cf2a2a107fcc90bf59ebabad5c88341d60b.png",
-      "url": "https://www.gog.com/en/game/ostriv",
-      "on_sale": true,
-      "genres": [
-        "Strategy",
-        "Building",
-        "Managerial"
-      ],
-      "developers": [
-        "yevhen8"
-      ],
-      "publishers": [
-        "yevhen8"
-      ],
-      "review_desc": "4.4★",
-      "review_rank": 44
-    },
-    {
       "appid": 1886767424,
       "name": "Emperor of the Fading Suns Enhanced",
       "discount_percent": 20,
@@ -37969,31 +37994,6 @@
       ],
       "publishers": [
         "Polden Publishing"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 2120510293,
-      "name": "Heavenly Island",
-      "discount_percent": 20,
-      "original_price": 14.99,
-      "final_price": 11.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/11823ef4ab3cae04b6825896509ed2d507125eee8a5b8d07222d08dbd56ceade.png",
-      "url": "https://www.gog.com/en/game/heavenly_island",
-      "on_sale": true,
-      "genres": [
-        "Adventure",
-        "Exploration",
-        "Visual Novel"
-      ],
-      "developers": [
-        "TechnoBrake"
-      ],
-      "publishers": [
-        "Shiravune",
-        "Co-FUN Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -40212,6 +40212,30 @@
       "review_rank": 42
     },
     {
+      "appid": 1207658997,
+      "name": "Thief™ Gold",
+      "discount_percent": 0,
+      "original_price": 6.99,
+      "final_price": 6.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/ad68a58a4dcc05edbe97edc0370cc4865ba09327cf47a68e47d214c6e4f4a1d4.png",
+      "url": "https://www.gog.com/en/game/thief_bundle",
+      "on_sale": false,
+      "genres": [
+        "Action",
+        "Simulation",
+        "Stealth"
+      ],
+      "developers": [
+        "Looking Glass Studios"
+      ],
+      "publishers": [
+        "Eidos Interactive Corporation"
+      ],
+      "review_desc": "4.8★",
+      "review_rank": 48
+    },
+    {
       "appid": 1724969043,
       "name": "Tomb Raider GOTY",
       "discount_percent": 0,
@@ -40258,54 +40282,6 @@
       ],
       "review_desc": "4.7★",
       "review_rank": 47
-    },
-    {
-      "appid": 1141086411,
-      "name": "Silent Hill 4: The Room",
-      "discount_percent": 0,
-      "original_price": 9.99,
-      "final_price": 9.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/90a13d2a30fdd3b3da2ccd06a592ba4eb6c25e8bf7d6121eb88b6b6460ae4058.png",
-      "url": "https://www.gog.com/en/game/silent_hill_4_the_room",
-      "on_sale": false,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Horror"
-      ],
-      "developers": [
-        "Team Silent"
-      ],
-      "publishers": [
-        "KONAMI"
-      ],
-      "review_desc": "4.5★",
-      "review_rank": 45
-    },
-    {
-      "appid": 1207658947,
-      "name": "Rayman 3: Hoodlum Havoc",
-      "discount_percent": 0,
-      "original_price": 5.99,
-      "final_price": 5.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/7776ac03bba9015d3141eb5cb0f07ef3acd0abd4c04f3d70d82de074784e77f3.png",
-      "url": "https://www.gog.com/en/game/rayman_3_hoodlum_havoc",
-      "on_sale": false,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Platformer"
-      ],
-      "developers": [
-        "Ubisoft"
-      ],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": "4.2★",
-      "review_rank": 42
     },
     {
       "appid": 1207658957,
@@ -40356,6 +40332,102 @@
       "review_rank": 43
     },
     {
+      "appid": 1430740458,
+      "name": "Saints Row 2",
+      "discount_percent": 0,
+      "original_price": 9.99,
+      "final_price": 9.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/e5054aacbe4d66cc91783dfe5d2eb996e49d08523f8ed6f2cb07bd9cc747aed2.png",
+      "url": "https://www.gog.com/en/game/saints_row_2",
+      "on_sale": false,
+      "genres": [
+        "Action",
+        "TPP",
+        "Modern"
+      ],
+      "developers": [
+        "Volition"
+      ],
+      "publishers": [
+        "Deep Silver"
+      ],
+      "review_desc": "3.9★",
+      "review_rank": 39
+    },
+    {
+      "appid": 1141086411,
+      "name": "Silent Hill 4: The Room",
+      "discount_percent": 0,
+      "original_price": 9.99,
+      "final_price": 9.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/90a13d2a30fdd3b3da2ccd06a592ba4eb6c25e8bf7d6121eb88b6b6460ae4058.png",
+      "url": "https://www.gog.com/en/game/silent_hill_4_the_room",
+      "on_sale": false,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Horror"
+      ],
+      "developers": [
+        "Team Silent"
+      ],
+      "publishers": [
+        "KONAMI"
+      ],
+      "review_desc": "4.5★",
+      "review_rank": 45
+    },
+    {
+      "appid": 1207658947,
+      "name": "Rayman 3: Hoodlum Havoc",
+      "discount_percent": 0,
+      "original_price": 5.99,
+      "final_price": 5.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/7776ac03bba9015d3141eb5cb0f07ef3acd0abd4c04f3d70d82de074784e77f3.png",
+      "url": "https://www.gog.com/en/game/rayman_3_hoodlum_havoc",
+      "on_sale": false,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Platformer"
+      ],
+      "developers": [
+        "Ubisoft"
+      ],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": "4.2★",
+      "review_rank": 42
+    },
+    {
+      "appid": 1456460669,
+      "name": "Baldur's Gate 3",
+      "discount_percent": 0,
+      "original_price": 59.99,
+      "final_price": 59.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/0a805be8cf3d0848483595fb492b2f99d6def432e2fb9ed42c029cb38f9ccfdd.png",
+      "url": "https://www.gog.com/en/game/baldurs_gate_iii",
+      "on_sale": false,
+      "genres": [
+        "Role-playing",
+        "Turn-based",
+        "Fantasy"
+      ],
+      "developers": [
+        "Larian Studios"
+      ],
+      "publishers": [
+        "Larian Studios"
+      ],
+      "review_desc": "4.6★",
+      "review_rank": 46
+    },
+    {
       "appid": 1207659240,
       "name": "Vampire®: The Masquerade - Bloodlines™",
       "discount_percent": 0,
@@ -40404,30 +40476,6 @@
       "review_rank": 44
     },
     {
-      "appid": 1207658997,
-      "name": "Thief™ Gold",
-      "discount_percent": 0,
-      "original_price": 6.99,
-      "final_price": 6.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/ad68a58a4dcc05edbe97edc0370cc4865ba09327cf47a68e47d214c6e4f4a1d4.png",
-      "url": "https://www.gog.com/en/game/thief_bundle",
-      "on_sale": false,
-      "genres": [
-        "Action",
-        "Simulation",
-        "Stealth"
-      ],
-      "developers": [
-        "Looking Glass Studios"
-      ],
-      "publishers": [
-        "Eidos Interactive Corporation"
-      ],
-      "review_desc": "4.8★",
-      "review_rank": 48
-    },
-    {
       "appid": 1207658969,
       "name": "SimCity™ 2000 Special Edition",
       "discount_percent": 0,
@@ -40450,30 +40498,6 @@
       ],
       "review_desc": "4.5★",
       "review_rank": 45
-    },
-    {
-      "appid": 1456460669,
-      "name": "Baldur's Gate 3",
-      "discount_percent": 0,
-      "original_price": 59.99,
-      "final_price": 59.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/0a805be8cf3d0848483595fb492b2f99d6def432e2fb9ed42c029cb38f9ccfdd.png",
-      "url": "https://www.gog.com/en/game/baldurs_gate_iii",
-      "on_sale": false,
-      "genres": [
-        "Role-playing",
-        "Turn-based",
-        "Fantasy"
-      ],
-      "developers": [
-        "Larian Studios"
-      ],
-      "publishers": [
-        "Larian Studios"
-      ],
-      "review_desc": "4.6★",
-      "review_rank": 46
     },
     {
       "appid": 1094900565,
@@ -40500,6 +40524,30 @@
       "review_rank": 45
     },
     {
+      "appid": 1453298883,
+      "name": "Project Zomboid",
+      "discount_percent": 0,
+      "original_price": 24.99,
+      "final_price": 24.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/997a880a5624334e379dfe5bfc63191f8af379937de97d821c6ccba044899c2a.png",
+      "url": "https://www.gog.com/en/game/project_zomboid",
+      "on_sale": false,
+      "genres": [
+        "Action",
+        "Simulation",
+        "Open World"
+      ],
+      "developers": [
+        "The Indie Stone"
+      ],
+      "publishers": [
+        "The Indie Stone"
+      ],
+      "review_desc": "4.1★",
+      "review_rank": 41
+    },
+    {
       "appid": 1949616134,
       "name": "Dragon Age™: Origins - Ultimate Edition",
       "discount_percent": 0,
@@ -40522,30 +40570,6 @@
       ],
       "review_desc": "4.5★",
       "review_rank": 45
-    },
-    {
-      "appid": 1430740458,
-      "name": "Saints Row 2",
-      "discount_percent": 0,
-      "original_price": 9.99,
-      "final_price": 9.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/e5054aacbe4d66cc91783dfe5d2eb996e49d08523f8ed6f2cb07bd9cc747aed2.png",
-      "url": "https://www.gog.com/en/game/saints_row_2",
-      "on_sale": false,
-      "genres": [
-        "Action",
-        "TPP",
-        "Modern"
-      ],
-      "developers": [
-        "Volition"
-      ],
-      "publishers": [
-        "Deep Silver"
-      ],
-      "review_desc": "3.9★",
-      "review_rank": 39
     },
     {
       "appid": 1207658924,
@@ -40572,6 +40596,30 @@
       "review_rank": 46
     },
     {
+      "appid": 1207658844,
+      "name": "Empire Earth 2 Gold Edition",
+      "discount_percent": 0,
+      "original_price": 9.99,
+      "final_price": 9.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/3a21d52fd60b3122d144714f32b58e905bac9d3d497f0e1bca46b89cc1bf2a49.png",
+      "url": "https://www.gog.com/en/game/empire_earth_2_gold",
+      "on_sale": false,
+      "genres": [
+        "Strategy",
+        "Real-time",
+        "Historical"
+      ],
+      "developers": [
+        "Mad Doc Software"
+      ],
+      "publishers": [
+        "Rebellion"
+      ],
+      "review_desc": "4.3★",
+      "review_rank": 43
+    },
+    {
       "appid": 1207659126,
       "name": "Medal of Honor: Allied Assault War Chest",
       "discount_percent": 0,
@@ -40594,6 +40642,30 @@
       ],
       "review_desc": "4.4★",
       "review_rank": 44
+    },
+    {
+      "appid": 1228964594,
+      "name": "Soldier of Fortune II: Double Helix - Gold Edition",
+      "discount_percent": 0,
+      "original_price": 9.99,
+      "final_price": 9.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/9766f6e6a86f9d2b69eb6d2b305de862a57d7ec14fde83cbe837ea321e1d7028.png",
+      "url": "https://www.gog.com/en/game/soldier_of_fortune_ii_double_helix_gold_edition",
+      "on_sale": false,
+      "genres": [
+        "Shooter",
+        "FPP",
+        "Modern"
+      ],
+      "developers": [
+        "Raven Software"
+      ],
+      "publishers": [
+        "Activision"
+      ],
+      "review_desc": "3.8★",
+      "review_rank": 38
     },
     {
       "appid": 1207658918,
@@ -40690,6 +40762,54 @@
       ],
       "review_desc": "3.9★",
       "review_rank": 39
+    },
+    {
+      "appid": 1207659026,
+      "name": "Theme Hospital",
+      "discount_percent": 0,
+      "original_price": 5.99,
+      "final_price": 5.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/e179e3bc09e944c3d148c439b4d4af579ed24d4b3a7fbd16c1be108c8450a0af.png",
+      "url": "https://www.gog.com/en/game/theme_hospital",
+      "on_sale": false,
+      "genres": [
+        "Strategy",
+        "Building",
+        "Managerial"
+      ],
+      "developers": [
+        "Bullfrog Productions"
+      ],
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "review_desc": "4.7★",
+      "review_rank": 47
+    },
+    {
+      "appid": 1993442013,
+      "name": "Dungeons & Dragons Neverwinter Nights 2: Enhanced Edition",
+      "discount_percent": 0,
+      "original_price": 29.99,
+      "final_price": 29.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/8427fe05ff030b02c326f0345448c2138218b210aeee794b6e445b0d721e538c.png",
+      "url": "https://www.gog.com/en/game/dungeons_dragons_neverwinter_nights_2_enhanced_edition",
+      "on_sale": false,
+      "genres": [
+        "Role-playing",
+        "Adventure",
+        "Fantasy"
+      ],
+      "developers": [
+        "Aspyr"
+      ],
+      "publishers": [
+        "Aspyr"
+      ],
+      "review_desc": "2.9★",
+      "review_rank": 29
     },
     {
       "appid": 2033799141,
@@ -40860,30 +40980,6 @@
       "review_rank": 43
     },
     {
-      "appid": 1453298883,
-      "name": "Project Zomboid",
-      "discount_percent": 0,
-      "original_price": 24.99,
-      "final_price": 24.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/997a880a5624334e379dfe5bfc63191f8af379937de97d821c6ccba044899c2a.png",
-      "url": "https://www.gog.com/en/game/project_zomboid",
-      "on_sale": false,
-      "genres": [
-        "Action",
-        "Simulation",
-        "Open World"
-      ],
-      "developers": [
-        "The Indie Stone"
-      ],
-      "publishers": [
-        "The Indie Stone"
-      ],
-      "review_desc": "4.1★",
-      "review_rank": 41
-    },
-    {
       "appid": 1207659209,
       "name": "Papers, Please",
       "discount_percent": 0,
@@ -40932,28 +41028,28 @@
       "review_rank": 40
     },
     {
-      "appid": 1207658844,
-      "name": "Empire Earth 2 Gold Edition",
+      "appid": 1207659162,
+      "name": "Neverwinter Nights 2 Complete",
       "discount_percent": 0,
-      "original_price": 9.99,
-      "final_price": 9.99,
+      "original_price": 19.99,
+      "final_price": 19.99,
       "currency": "USD",
-      "image": "https://images.gog-statics.com/3a21d52fd60b3122d144714f32b58e905bac9d3d497f0e1bca46b89cc1bf2a49.png",
-      "url": "https://www.gog.com/en/game/empire_earth_2_gold",
+      "image": "https://images.gog-statics.com/6765258c586b4397ea7e05273f20b59693cdbea84a7d96af102c35cab07c6339.png",
+      "url": "https://www.gog.com/en/game/neverwinter_nights_2_complete",
       "on_sale": false,
       "genres": [
-        "Strategy",
-        "Real-time",
-        "Historical"
+        "Role-playing",
+        "Adventure",
+        "Fantasy"
       ],
       "developers": [
-        "Mad Doc Software"
+        "Obsidian Entertainment"
       ],
       "publishers": [
-        "Rebellion"
+        "Hasbro Inc."
       ],
-      "review_desc": "4.3★",
-      "review_rank": 43
+      "review_desc": "4.4★",
+      "review_rank": 44
     },
     {
       "appid": 1207658747,
@@ -41002,30 +41098,6 @@
       ],
       "review_desc": "4.0★",
       "review_rank": 40
-    },
-    {
-      "appid": 1228964594,
-      "name": "Soldier of Fortune II: Double Helix - Gold Edition",
-      "discount_percent": 0,
-      "original_price": 9.99,
-      "final_price": 9.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/9766f6e6a86f9d2b69eb6d2b305de862a57d7ec14fde83cbe837ea321e1d7028.png",
-      "url": "https://www.gog.com/en/game/soldier_of_fortune_ii_double_helix_gold_edition",
-      "on_sale": false,
-      "genres": [
-        "Shooter",
-        "FPP",
-        "Modern"
-      ],
-      "developers": [
-        "Raven Software"
-      ],
-      "publishers": [
-        "Activision"
-      ],
-      "review_desc": "3.8★",
-      "review_rank": 38
     },
     {
       "appid": 1207658891,
@@ -41196,6 +41268,30 @@
       "review_rank": 46
     },
     {
+      "appid": 1207659094,
+      "name": "Lands of Lore 3",
+      "discount_percent": 0,
+      "original_price": 5.99,
+      "final_price": 5.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/be04bb43ebd975632580b38906e2b2bf922a1c07fc5f664c46e39ec8abda6e45.png",
+      "url": "https://www.gog.com/en/game/lands_of_lore_3",
+      "on_sale": false,
+      "genres": [
+        "Role-playing",
+        "FPP",
+        "Fantasy"
+      ],
+      "developers": [
+        "Westwood Studios"
+      ],
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "review_desc": "4.0★",
+      "review_rank": 40
+    },
+    {
       "appid": 1207658819,
       "name": "Riven (1997)",
       "discount_percent": 0,
@@ -41239,30 +41335,6 @@
       ],
       "publishers": [
         "Alcon Interactive Group"
-      ],
-      "review_desc": "4.7★",
-      "review_rank": 47
-    },
-    {
-      "appid": 1207659026,
-      "name": "Theme Hospital",
-      "discount_percent": 0,
-      "original_price": 5.99,
-      "final_price": 5.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/e179e3bc09e944c3d148c439b4d4af579ed24d4b3a7fbd16c1be108c8450a0af.png",
-      "url": "https://www.gog.com/en/game/theme_hospital",
-      "on_sale": false,
-      "genres": [
-        "Strategy",
-        "Building",
-        "Managerial"
-      ],
-      "developers": [
-        "Bullfrog Productions"
-      ],
-      "publishers": [
-        "Electronic Arts"
       ],
       "review_desc": "4.7★",
       "review_rank": 47
@@ -41533,6 +41605,30 @@
       "review_rank": 44
     },
     {
+      "appid": 1793206276,
+      "name": "Tales From The Unending Void: Season 2",
+      "discount_percent": 0,
+      "original_price": 14.99,
+      "final_price": 14.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/a20b061dc020fac997030f7ba636083ea476b1febb1e512613ba161198e341f4.png",
+      "url": "https://www.gog.com/en/game/tales_from_the_unending_void_season_2",
+      "on_sale": false,
+      "genres": [
+        "Sci-fi",
+        "Adventure",
+        "Visual Novel"
+      ],
+      "developers": [
+        "Perverteer Games"
+      ],
+      "publishers": [
+        "Perverteer Games"
+      ],
+      "review_desc": "4.5★",
+      "review_rank": 45
+    },
+    {
       "appid": 1428536898,
       "name": "Keeper",
       "discount_percent": 0,
@@ -41555,30 +41651,6 @@
       ],
       "review_desc": "4.3★",
       "review_rank": 43
-    },
-    {
-      "appid": 1993442013,
-      "name": "Dungeons & Dragons Neverwinter Nights 2: Enhanced Edition",
-      "discount_percent": 0,
-      "original_price": 29.99,
-      "final_price": 29.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/8427fe05ff030b02c326f0345448c2138218b210aeee794b6e445b0d721e538c.png",
-      "url": "https://www.gog.com/en/game/dungeons_dragons_neverwinter_nights_2_enhanced_edition",
-      "on_sale": false,
-      "genres": [
-        "Role-playing",
-        "Adventure",
-        "Fantasy"
-      ],
-      "developers": [
-        "Aspyr"
-      ],
-      "publishers": [
-        "Aspyr"
-      ],
-      "review_desc": "2.9★",
-      "review_rank": 29
     },
     {
       "appid": 1456444623,
@@ -42711,6 +42783,30 @@
       "review_rank": 43
     },
     {
+      "appid": 1459256379,
+      "name": "Firewatch",
+      "discount_percent": 0,
+      "original_price": 19.99,
+      "final_price": 19.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/ea5dfc6d442698e70d3a5a0bf65ea17eb2703c4d727aa09f8b20f07bbc227b48.png",
+      "url": "https://www.gog.com/en/game/firewatch",
+      "on_sale": false,
+      "genres": [
+        "Simulation",
+        "Adventure",
+        "Mystery"
+      ],
+      "developers": [
+        "Campo Santo"
+      ],
+      "publishers": [
+        "Campo Santo"
+      ],
+      "review_desc": "3.9★",
+      "review_rank": 39
+    },
+    {
       "appid": 1457519353,
       "name": "Oxenfree",
       "discount_percent": 0,
@@ -42733,6 +42829,30 @@
       ],
       "review_desc": "4.1★",
       "review_rank": 41
+    },
+    {
+      "appid": 1998527297,
+      "name": "Fallout 4: Game of the Year Edition",
+      "discount_percent": 0,
+      "original_price": 39.99,
+      "final_price": 39.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/8b074a51347f0377d0a60ac241e8c5535d829540fe9c2e7ddf9277e4cc6d53d1.png",
+      "url": "https://www.gog.com/en/game/fallout_4_game_of_the_year_edition",
+      "on_sale": false,
+      "genres": [
+        "Role-playing",
+        "Action",
+        "Open World"
+      ],
+      "developers": [
+        "Bethesda Game Studios"
+      ],
+      "publishers": [
+        "Bethesda Softworks LLC"
+      ],
+      "review_desc": "4.0★",
+      "review_rank": 40
     },
     {
       "appid": 1456487183,
@@ -42805,6 +42925,30 @@
       ],
       "review_desc": "3.0★",
       "review_rank": 30
+    },
+    {
+      "appid": 1470768488,
+      "name": "Exanima",
+      "discount_percent": 0,
+      "original_price": 14.99,
+      "final_price": 14.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/2fd8783e97f806bf3746cf4d6e2f46928c366f93368785e8ed7e1cfe3be77a8a.png",
+      "url": "https://www.gog.com/en/game/exanima",
+      "on_sale": false,
+      "genres": [
+        "Role-playing",
+        "Action",
+        "Fantasy"
+      ],
+      "developers": [
+        "Bare Mettle Entertainment"
+      ],
+      "publishers": [
+        "Bare Mettle Entertainment"
+      ],
+      "review_desc": "3.6★",
+      "review_rank": 36
     },
     {
       "appid": 1156056129,
@@ -43361,30 +43505,6 @@
       "review_rank": 47
     },
     {
-      "appid": 1207659162,
-      "name": "Neverwinter Nights 2 Complete",
-      "discount_percent": 0,
-      "original_price": 19.99,
-      "final_price": 19.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/6765258c586b4397ea7e05273f20b59693cdbea84a7d96af102c35cab07c6339.png",
-      "url": "https://www.gog.com/en/game/neverwinter_nights_2_complete",
-      "on_sale": false,
-      "genres": [
-        "Role-playing",
-        "Adventure",
-        "Fantasy"
-      ],
-      "developers": [
-        "Obsidian Entertainment"
-      ],
-      "publishers": [
-        "Hasbro Inc."
-      ],
-      "review_desc": "4.4★",
-      "review_rank": 44
-    },
-    {
       "appid": 1207659163,
       "name": "The Settlers® 2: 10th Anniversary",
       "discount_percent": 0,
@@ -43431,6 +43551,30 @@
       ],
       "review_desc": "4.0★",
       "review_rank": 40
+    },
+    {
+      "appid": 1942346586,
+      "name": "Hitman: Blood Money",
+      "discount_percent": 0,
+      "original_price": 9.99,
+      "final_price": 9.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/cec1348b3067dec876242af1a972eedc6e7dad695b724a130914ec85a68ec8b7.png",
+      "url": "https://www.gog.com/en/game/hitman_blood_money",
+      "on_sale": false,
+      "genres": [
+        "Action",
+        "TPP",
+        "Stealth"
+      ],
+      "developers": [
+        "Io-Interactive"
+      ],
+      "publishers": [
+        "Io-Interactive"
+      ],
+      "review_desc": "4.5★",
+      "review_rank": 45
     },
     {
       "appid": 1207658718,
@@ -43481,6 +43625,30 @@
       "review_rank": 46
     },
     {
+      "appid": 1207658852,
+      "name": "Sniper Elite: Berlin 1945",
+      "discount_percent": 0,
+      "original_price": 9.99,
+      "final_price": 9.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/698653bc05629f4da9abb3f6cda5d4cca77b277ec97ff17fd0a85195c58c1905.png",
+      "url": "https://www.gog.com/en/game/sniper_elite_berlin_1945",
+      "on_sale": false,
+      "genres": [
+        "Shooter",
+        "Action",
+        "Historical"
+      ],
+      "developers": [
+        "MC2"
+      ],
+      "publishers": [
+        "Rebellion"
+      ],
+      "review_desc": "3.5★",
+      "review_rank": 35
+    },
+    {
       "appid": 1423058413,
       "name": "F.E.A.R. Platinum",
       "discount_percent": 0,
@@ -43504,6 +43672,30 @@
       ],
       "review_desc": "4.5★",
       "review_rank": 45
+    },
+    {
+      "appid": 2050639399,
+      "name": "FATE",
+      "discount_percent": 0,
+      "original_price": 7.99,
+      "final_price": 7.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/6eab5cbbc9ecb873792c7f6d6e42e732b7cfbd270927a41660fc15266c5c1d69.png",
+      "url": "https://www.gog.com/en/game/fate",
+      "on_sale": false,
+      "genres": [
+        "Role-playing",
+        "Action",
+        "Fantasy"
+      ],
+      "developers": [
+        "WildTangent"
+      ],
+      "publishers": [
+        "WildTangent"
+      ],
+      "review_desc": "4.4★",
+      "review_rank": 44
     },
     {
       "appid": 1409964317,
@@ -43648,6 +43840,30 @@
       ],
       "review_desc": "2.6★",
       "review_rank": 26
+    },
+    {
+      "appid": 1207659036,
+      "name": "Thief™ 3: Deadly Shadows",
+      "discount_percent": 0,
+      "original_price": 8.99,
+      "final_price": 8.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/30c6d68f5d0c8bbe9c2eb47f8781ec621a2f0ce40704c7dfe510533ca3a29f9e.png",
+      "url": "https://www.gog.com/en/game/thief_3",
+      "on_sale": false,
+      "genres": [
+        "Action",
+        "Simulation",
+        "Stealth"
+      ],
+      "developers": [
+        "Ion Storm Inc."
+      ],
+      "publishers": [
+        "Eidos Interactive Corporation"
+      ],
+      "review_desc": "4.2★",
+      "review_rank": 42
     },
     {
       "appid": 1207658746,
@@ -44131,6 +44347,30 @@
       "review_rank": 48
     },
     {
+      "appid": 1207659001,
+      "name": "Thief™ 2: The Metal Age",
+      "discount_percent": 0,
+      "original_price": 6.99,
+      "final_price": 6.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/9fee86856dec591d46e81ee8eba47c4945a980ce9730549581eae646330629d5.png",
+      "url": "https://www.gog.com/en/game/thief_2_the_metal_age",
+      "on_sale": false,
+      "genres": [
+        "Action",
+        "Simulation",
+        "Stealth"
+      ],
+      "developers": [
+        "Looking Glass Studios"
+      ],
+      "publishers": [
+        "Eidos Interactive Corporation"
+      ],
+      "review_desc": "4.9★",
+      "review_rank": 49
+    },
+    {
       "appid": 1582325353,
       "name": "Star Trek™: Armada",
       "discount_percent": 0,
@@ -44225,30 +44465,6 @@
       ],
       "review_desc": "4.5★",
       "review_rank": 45
-    },
-    {
-      "appid": 1207659094,
-      "name": "Lands of Lore 3",
-      "discount_percent": 0,
-      "original_price": 5.99,
-      "final_price": 5.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/be04bb43ebd975632580b38906e2b2bf922a1c07fc5f664c46e39ec8abda6e45.png",
-      "url": "https://www.gog.com/en/game/lands_of_lore_3",
-      "on_sale": false,
-      "genres": [
-        "Role-playing",
-        "FPP",
-        "Fantasy"
-      ],
-      "developers": [
-        "Westwood Studios"
-      ],
-      "publishers": [
-        "Electronic Arts"
-      ],
-      "review_desc": "4.0★",
-      "review_rank": 40
     },
     {
       "appid": 1207658936,
@@ -44465,6 +44681,30 @@
       ],
       "review_desc": "4.6★",
       "review_rank": 46
+    },
+    {
+      "appid": 1837805079,
+      "name": "Blood Omen: Legacy of Kain",
+      "discount_percent": 0,
+      "original_price": 6.99,
+      "final_price": 6.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/5374e38e8d5ca1aaf331ab33ae048b9a6212f8c278003d5cad1ba9efde543639.png",
+      "url": "https://www.gog.com/en/game/blood_omen_legacy_of_kain",
+      "on_sale": false,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "developers": [
+        "Crystal Dynamics"
+      ],
+      "publishers": [
+        "Crystal Dynamics"
+      ],
+      "review_desc": "4.5★",
+      "review_rank": 45
     },
     {
       "appid": 1436955893,
@@ -49705,30 +49945,6 @@
       "review_rank": 41
     },
     {
-      "appid": 1793206276,
-      "name": "Tales From The Unending Void: Season 2",
-      "discount_percent": 0,
-      "original_price": 14.99,
-      "final_price": 14.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/a20b061dc020fac997030f7ba636083ea476b1febb1e512613ba161198e341f4.png",
-      "url": "https://www.gog.com/en/game/tales_from_the_unending_void_season_2",
-      "on_sale": false,
-      "genres": [
-        "Sci-fi",
-        "Adventure",
-        "Visual Novel"
-      ],
-      "developers": [
-        "Perverteer Games"
-      ],
-      "publishers": [
-        "Perverteer Games"
-      ],
-      "review_desc": "4.5★",
-      "review_rank": 45
-    },
-    {
       "appid": 1259735298,
       "name": "Kingdom of Night",
       "discount_percent": 0,
@@ -50665,729 +50881,6 @@
       ],
       "review_desc": "4.5★",
       "review_rank": 45
-    },
-    {
-      "appid": 1600960710,
-      "name": "Toziuha Night: Order of the Alchemists",
-      "discount_percent": 0,
-      "original_price": 18.99,
-      "final_price": 18.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/23f492ab80bd0c6a804326aa6ffb9f2b7ae38953be0305558d43b0298e470fbe.png",
-      "url": "https://www.gog.com/en/game/toziuha_night_order_of_the_alchemists",
-      "on_sale": false,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Platformer"
-      ],
-      "developers": [
-        "Danny Garay"
-      ],
-      "publishers": [
-        "Danny Garay"
-      ],
-      "review_desc": "4.5★",
-      "review_rank": 45
-    },
-    {
-      "appid": 1120345369,
-      "name": "Tattoo Tycoon",
-      "discount_percent": 0,
-      "original_price": 29.99,
-      "final_price": 29.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/67f492f9e756d2c4c8288c2e003160aec4a8e8c42995c2248d41a17a84d0e0ea.png",
-      "url": "https://www.gog.com/en/game/tattoo_tycoon",
-      "on_sale": false,
-      "genres": [
-        "Simulation",
-        "Strategy"
-      ],
-      "developers": [
-        "Crazy Bunch"
-      ],
-      "publishers": [
-        "THQ Nordic Mobile GmbH"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 2120772153,
-      "name": "The Lonesome Guild",
-      "discount_percent": 0,
-      "original_price": 24.99,
-      "final_price": 24.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/cebfdec2ba22dd97bfd682ad7a644bb3199acd21098121e3141e1c3aa42bf049.png",
-      "url": "https://www.gog.com/en/game/the_lonesome_guild",
-      "on_sale": false,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "developers": [
-        "Tiny Bull Studios"
-      ],
-      "publishers": [
-        "DON'T NOD"
-      ],
-      "review_desc": "5.0★",
-      "review_rank": 50
-    },
-    {
-      "appid": 1831037457,
-      "name": "Dreamed Away",
-      "discount_percent": 0,
-      "original_price": 18.99,
-      "final_price": 18.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/85d239238b553428124c2f55ddc97195da00599afd72b434abf10c4f7f112f48.png",
-      "url": "https://www.gog.com/en/game/dreamed_away",
-      "on_sale": false,
-      "genres": [
-        "Horror",
-        "Adventure",
-        "Role-playing"
-      ],
-      "developers": [
-        "Nicolas Petton"
-      ],
-      "publishers": [
-        "Pineapple Works"
-      ],
-      "review_desc": "4.6★",
-      "review_rank": 46
-    },
-    {
-      "appid": 2105077575,
-      "name": "Gruniożerca Trilogy",
-      "discount_percent": 0,
-      "original_price": 7.99,
-      "final_price": 7.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/1ed74ec3dfacab0424aafc54ace9b5716a9c0c24318db4ff9ac9027d8ce34eb4.png",
-      "url": "https://www.gog.com/en/game/gruniozerca_trilogy",
-      "on_sale": false,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Platformer"
-      ],
-      "developers": [
-        "Take IT Studio!"
-      ],
-      "publishers": [
-        "Take IT Studio!"
-      ],
-      "review_desc": "4.9★",
-      "review_rank": 49
-    },
-    {
-      "appid": 1993347488,
-      "name": "Radiolight",
-      "discount_percent": 0,
-      "original_price": 14.99,
-      "final_price": 14.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/eef70b210409b9a4135e62cf7f9e9b30ea25768e3ddf168fff6e449fa6dde06d.png",
-      "url": "https://www.gog.com/en/game/radiolight",
-      "on_sale": false,
-      "genres": [
-        "Adventure",
-        "Detective-mystery",
-        "Role-playing"
-      ],
-      "developers": [
-        "Krystof Knesl"
-      ],
-      "publishers": [
-        "Iceberg Interactive"
-      ],
-      "review_desc": "4.4★",
-      "review_rank": 44
-    },
-    {
-      "appid": 1127187147,
-      "name": "Avernum 4: Greed and Glory",
-      "discount_percent": 0,
-      "original_price": 19.99,
-      "final_price": 19.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/f39a504a627e654a66b914293245a66fc590e1470df78c4ae9375869df2c084b.png",
-      "url": "https://www.gog.com/en/game/avernum_4_greed_and_glory",
-      "on_sale": false,
-      "genres": [
-        "Adventure",
-        "Role-playing",
-        "Open World"
-      ],
-      "developers": [
-        "Spiderweb Software"
-      ],
-      "publishers": [
-        "Spiderweb Software"
-      ],
-      "review_desc": "4.7★",
-      "review_rank": 47
-    },
-    {
-      "appid": 1260405475,
-      "name": "DREAMOUT",
-      "discount_percent": 0,
-      "original_price": 9.99,
-      "final_price": 9.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/8797d56b6637c92570c494468f930b835efd938e8c785ca9a48d5fbde96adfff.png",
-      "url": "https://www.gog.com/en/game/dreamout",
-      "on_sale": false,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy"
-      ],
-      "developers": [
-        "Game Dynasty"
-      ],
-      "publishers": [
-        "Valkyrie Initiative"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 1188232792,
-      "name": "Lords of Ravage",
-      "discount_percent": 0,
-      "original_price": 9.99,
-      "final_price": 9.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/429e553ba3aea5c0134cbeb5fa78111ecc4f121d3cb0a1d710109b423ba2c3f9.png",
-      "url": "https://www.gog.com/en/game/lords_of_ravage",
-      "on_sale": false,
-      "genres": [
-        "Role-playing",
-        "Turn-based",
-        "Tactical"
-      ],
-      "developers": [
-        "Synthetic Domain"
-      ],
-      "publishers": [
-        "101XP"
-      ],
-      "review_desc": "4.1★",
-      "review_rank": 41
-    },
-    {
-      "appid": 1472267278,
-      "name": "Mohrta",
-      "discount_percent": 0,
-      "original_price": 19.99,
-      "final_price": 19.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/71f9d2d78c266c883c0879b389457239471822cae7dfc5bc55283b31d2c0c13e.png",
-      "url": "https://www.gog.com/en/game/mohrta",
-      "on_sale": false,
-      "genres": [
-        "Shooter",
-        "Action",
-        "Fantasy"
-      ],
-      "developers": [
-        "Scumhead",
-        "Osiol"
-      ],
-      "publishers": [
-        "Scumhead"
-      ],
-      "review_desc": "4.7★",
-      "review_rank": 47
-    },
-    {
-      "appid": 1250926668,
-      "name": "Spindle",
-      "discount_percent": 0,
-      "original_price": 19.99,
-      "final_price": 19.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/0fddb56a501f520c3a1c3179f8230f8dcf1e3ea0cf25df68332cd9e8a591f592.png",
-      "url": "https://www.gog.com/en/game/spindle",
-      "on_sale": false,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Exploration"
-      ],
-      "developers": [
-        "Wobble Ghost"
-      ],
-      "publishers": [
-        "Deck13"
-      ],
-      "review_desc": "4.8★",
-      "review_rank": 48
-    },
-    {
-      "appid": 1566737619,
-      "name": "Ys vs. Trails in the Sky: Alternative Saga",
-      "discount_percent": 0,
-      "original_price": 34.99,
-      "final_price": 34.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/924b879c9779c616751081101f2a065ed58ae074a1bbf5bc52a3e6945f810a51.png",
-      "url": "https://www.gog.com/en/game/ys_vs_trails_in_the_sky_alternative_saga",
-      "on_sale": false,
-      "genres": [
-        "Action",
-        "Role-playing",
-        "JRPG"
-      ],
-      "developers": [
-        "Nihon Falcom Corporation"
-      ],
-      "publishers": [
-        "refint/games"
-      ],
-      "review_desc": "5.0★",
-      "review_rank": 50
-    },
-    {
-      "appid": 2022144587,
-      "name": "Beacon of Neyda",
-      "discount_percent": 0,
-      "original_price": 14.99,
-      "final_price": 14.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/00b53c66ac00612dc53313c50356c201601478d146b506b2bf680acac058d576.png",
-      "url": "https://www.gog.com/en/game/beacon_of_neyda",
-      "on_sale": false,
-      "genres": [
-        "Action",
-        "Strategy",
-        "Survival"
-      ],
-      "developers": [
-        "Ghost Creative Studio"
-      ],
-      "publishers": [
-        "Ghost Creative Studio"
-      ],
-      "review_desc": "4.7★",
-      "review_rank": 47
-    },
-    {
-      "appid": 1628931490,
-      "name": "Bye Sweet Carole",
-      "discount_percent": 0,
-      "original_price": 24.99,
-      "final_price": 24.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/a8837924bc1ab495a843285ff39721dcb802f239ac93cc1b8c3532f6151d8f9c.png",
-      "url": "https://www.gog.com/en/game/bye_sweet_carole",
-      "on_sale": false,
-      "genres": [
-        "Horror",
-        "Adventure",
-        "Puzzle"
-      ],
-      "developers": [
-        "Little Sewing Machine"
-      ],
-      "publishers": [
-        "Maximum Entertainment"
-      ],
-      "review_desc": "4.3★",
-      "review_rank": 43
-    },
-    {
-      "appid": 1914629478,
-      "name": "MERRY BUNNY GARDEN",
-      "discount_percent": 0,
-      "original_price": 19.99,
-      "final_price": 19.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/f5771079ca8a75d1ba58d355a5576ed27ea1f41338fa4953929921524892fc75.png",
-      "url": "https://www.gog.com/en/game/merry_bunny_garden",
-      "on_sale": false,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Visual Novel"
-      ],
-      "developers": [
-        "qureate"
-      ],
-      "publishers": [
-        "MediBang Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 1790237640,
-      "name": "60 Minutes to Extinction: Escape Room",
-      "discount_percent": 0,
-      "original_price": 7.99,
-      "final_price": 7.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/c6e2d2635913aeca2753ad5a42ccc046283fa84b91f802cef963feb2b4528a22.png",
-      "url": "https://www.gog.com/en/game/60_minutes_to_extinction_escape_room",
-      "on_sale": false,
-      "genres": [
-        "Adventure",
-        "Point-and-click",
-        "Puzzle"
-      ],
-      "developers": [
-        "mc2games"
-      ],
-      "publishers": [
-        "mc2games"
-      ],
-      "review_desc": "3.9★",
-      "review_rank": 39
-    },
-    {
-      "appid": 1510550288,
-      "name": "Lethal Honor - Order of the Apocalypse",
-      "discount_percent": 0,
-      "original_price": 24.99,
-      "final_price": 24.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/7354ace5e8d0567e73d481240c44e446c998e811397aa0f2fc958eacf02d2e1c.png",
-      "url": "https://www.gog.com/en/game/lethal_honor_order_of_the_apocalypse",
-      "on_sale": false,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Roguelike"
-      ],
-      "developers": [
-        "Viral Studios"
-      ],
-      "publishers": [
-        "THQ Nordic Mobile GmbH"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 1575323267,
-      "name": "Shrine's Legacy",
-      "discount_percent": 0,
-      "original_price": 19.99,
-      "final_price": 19.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/ef0b95a21cab519a069182661f1907ffd3637c18afdb019036982aab549e6404.png",
-      "url": "https://www.gog.com/en/game/shrines_legacy",
-      "on_sale": false,
-      "genres": [
-        "Action",
-        "Adventure",
-        "JRPG"
-      ],
-      "developers": [
-        "Positive Concept Games"
-      ],
-      "publishers": [
-        "indie.io",
-        "Levelup Games"
-      ],
-      "review_desc": "4.7★",
-      "review_rank": 47
-    },
-    {
-      "appid": 1741932835,
-      "name": "Castle of Heart: Retold",
-      "discount_percent": 0,
-      "original_price": 14.99,
-      "final_price": 14.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/9bf77f8580d5ff455849efea4933eb6c886e85f382d121fbe5d18b301e918228.png",
-      "url": "https://www.gog.com/en/game/castle_of_heart_retold",
-      "on_sale": false,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Platformer"
-      ],
-      "developers": [
-        "7Levels"
-      ],
-      "publishers": [
-        "7Levels"
-      ],
-      "review_desc": "3.4★",
-      "review_rank": 34
-    },
-    {
-      "appid": 1342670042,
-      "name": "Eyes Of The ElderWood Demo",
-      "discount_percent": 0,
-      "original_price": 0.0,
-      "final_price": 0.0,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/aaa8331dd7196859203e1049bcaf36b69145a5d5539e3d5185d96ebca59f6810.png",
-      "url": "https://www.gog.com/en/game/eyes_of_the_elderwood_demo",
-      "on_sale": false,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Horror"
-      ],
-      "developers": [
-        "Virtual Sanctuary"
-      ],
-      "publishers": [
-        "Forever Entertainment S. A."
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 1667503843,
-      "name": "Murder Is Game Over: Murder Otaku",
-      "discount_percent": 0,
-      "original_price": 5.99,
-      "final_price": 5.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/3adb3330491ea5ff4e273b18722fabfc1aec67128b793fc0a1332939501902e2.png",
-      "url": "https://www.gog.com/en/game/murder_is_game_over_murder_otaku",
-      "on_sale": false,
-      "genres": [
-        "Adventure",
-        "Comedy",
-        "Visual Novel"
-      ],
-      "developers": [
-        "HitherYon Games"
-      ],
-      "publishers": [
-        "HitherYon Games"
-      ],
-      "review_desc": "4.4★",
-      "review_rank": 44
-    },
-    {
-      "appid": 1673180096,
-      "name": "Those Who Rule",
-      "discount_percent": 0,
-      "original_price": 17.99,
-      "final_price": 17.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/89cc5def58fd52f12475659afed312ca25d5ce85c01005fdd1bd895a833526cf.png",
-      "url": "https://www.gog.com/en/game/those_who_rule",
-      "on_sale": false,
-      "genres": [
-        "Strategy",
-        "Turn-based",
-        "Tactical"
-      ],
-      "developers": [
-        "Eldin Turulja"
-      ],
-      "publishers": [
-        "Eldin Turulja"
-      ],
-      "review_desc": "4.4★",
-      "review_rank": 44
-    },
-    {
-      "appid": 1635585808,
-      "name": "U4iA - Season 1",
-      "discount_percent": 0,
-      "original_price": 14.99,
-      "final_price": 14.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/1573c9a41a5d08c95d191f2c5aeff08dd6e9eceb8c55a162dde6a5812dd75aa6.png",
-      "url": "https://www.gog.com/en/game/u4ia_season_1",
-      "on_sale": false,
-      "genres": [
-        "Adventure",
-        "Narrative",
-        "Visual Novel"
-      ],
-      "developers": [
-        "DriftyGames"
-      ],
-      "publishers": [
-        "DriftyGames"
-      ],
-      "review_desc": "4.2★",
-      "review_rank": 42
-    },
-    {
-      "appid": 1256398057,
-      "name": "Agatha Christie - Death on the Nile",
-      "discount_percent": 0,
-      "original_price": 39.99,
-      "final_price": 39.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/6ac220634eb19578af884f54da0797714b96a63f03cdb53c9e3bc2b3948ce97a.png",
-      "url": "https://www.gog.com/en/game/agatha_christie_death_on_the_nile",
-      "on_sale": false,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Detective-mystery"
-      ],
-      "developers": [
-        "Microids Studio Lyon"
-      ],
-      "publishers": [
-        "Microids"
-      ],
-      "review_desc": "3.8★",
-      "review_rank": 38
-    },
-    {
-      "appid": 1901861030,
-      "name": "SILENT HILL f",
-      "discount_percent": 0,
-      "original_price": 69.99,
-      "final_price": 69.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/6b3049e065a717e886621c2441903ba5e65a1129364b40d942832d0f591ef5ab.png",
-      "url": "https://www.gog.com/en/game/silent_hill_f",
-      "on_sale": false,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Horror"
-      ],
-      "developers": [
-        "NeoBards Entertainment Ltd."
-      ],
-      "publishers": [
-        "KONAMI"
-      ],
-      "review_desc": "3.8★",
-      "review_rank": 38
-    },
-    {
-      "appid": 1103818610,
-      "name": "Baby Steps",
-      "discount_percent": 0,
-      "original_price": 19.99,
-      "final_price": 19.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/b7846cf0f9948bda863069b5b60625f501db01ea3fc01f55c922a6b642d81f69.png",
-      "url": "https://www.gog.com/en/game/baby_steps",
-      "on_sale": false,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Exploration"
-      ],
-      "developers": [
-        "Gabe Cuzzillo",
-        "Maxi Boch",
-        "Bennett Foddy"
-      ],
-      "publishers": [
-        "Devolver Digital"
-      ],
-      "review_desc": "5.0★",
-      "review_rank": 50
-    },
-    {
-      "appid": 1967897027,
-      "name": "HYPERVIOLENT",
-      "discount_percent": 0,
-      "original_price": 14.99,
-      "final_price": 14.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/cfd37b267223433ac72f3d42966b9cdbe1dfd59dd6a6831e2cec22400826f178.png",
-      "url": "https://www.gog.com/en/game/hyperviolent",
-      "on_sale": false,
-      "genres": [
-        "Shooter",
-        "FPP",
-        "Horror"
-      ],
-      "developers": [
-        "Terminist Arcade"
-      ],
-      "publishers": [
-        "Fulqrum Publishing"
-      ],
-      "review_desc": "3.2★",
-      "review_rank": 32
-    },
-    {
-      "appid": 1740503101,
-      "name": "The House of Tesla: Definitive Edition",
-      "discount_percent": 0,
-      "original_price": 24.99,
-      "final_price": 24.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/704ff582653a6434c3debaa96e26d6ffa8f6da0bd4833c0661a096c404b4cd47.png",
-      "url": "https://www.gog.com/en/game/the_house_of_tesla_definitive_edition",
-      "on_sale": false,
-      "genres": [
-        "Adventure",
-        "Point-and-click",
-        "Puzzle"
-      ],
-      "developers": [
-        "Blue Brain Games"
-      ],
-      "publishers": [
-        "Blue Brain Games"
-      ],
-      "review_desc": "4.7★",
-      "review_rank": 47
-    },
-    {
-      "appid": 1942372855,
-      "name": "Alphadia III",
-      "discount_percent": 0,
-      "original_price": 19.99,
-      "final_price": 19.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/89ce28528a59318e5464ee9e041cf7a792d8f2694f965f81cc90bf91736b3eb8.png",
-      "url": "https://www.gog.com/en/game/alphadia_iii",
-      "on_sale": false,
-      "genres": [
-        "Role-playing",
-        "Turn-based",
-        "JRPG"
-      ],
-      "developers": [
-        "Exe Create Inc."
-      ],
-      "publishers": [
-        "KEMCO"
-      ],
-      "review_desc": "4.0★",
-      "review_rank": 40
-    },
-    {
-      "appid": 1697018444,
-      "name": "Don't Die, Collect Loot",
-      "discount_percent": 0,
-      "original_price": 9.99,
-      "final_price": 9.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/56a2c340c0734ad23e725f3055924ed47ffa157459c2b430c32af9fa65df8bab.png",
-      "url": "https://www.gog.com/en/game/dont_die_collect_loot",
-      "on_sale": false,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Roguelike"
-      ],
-      "developers": [
-        "Dan Marchand"
-      ],
-      "publishers": [
-        "indie.io"
-      ],
-      "review_desc": null,
-      "review_rank": 0
     }
   ]
 }

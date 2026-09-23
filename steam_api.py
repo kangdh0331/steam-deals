@@ -2,7 +2,8 @@ import json
 import os
 import re
 import time
-import urllib.request
+
+import esd_common
 
 SEARCH_URL = "https://store.steampowered.com/search/results/"
 APPDETAILS_URL = "https://store.steampowered.com/api/appdetails"
@@ -50,9 +51,7 @@ def _fetch_page(start, count, specials_only):
     params = f"start={start}&count={count}&cc=kr&l=korean&ndl=1"
     if specials_only:
         params += "&specials=1"
-    req = urllib.request.Request(f"{SEARCH_URL}?{params}", headers={"User-Agent": "Mozilla/5.0"})
-    with urllib.request.urlopen(req, timeout=15) as resp:
-        return resp.read().decode("utf-8", errors="replace")
+    return esd_common.fetch_text(f"{SEARCH_URL}?{params}", headers={"User-Agent": "Mozilla/5.0"})
 
 
 def _parse_rows(html):
@@ -136,8 +135,7 @@ def _load_details_cache(path=DETAILS_CACHE_PATH):
 
 
 def _save_details_cache(cache, path=DETAILS_CACHE_PATH):
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(cache, f, ensure_ascii=False, indent=2)
+    esd_common.atomic_write_json(path, cache)
 
 
 def _is_valid_cache_entry(entry):
@@ -146,9 +144,7 @@ def _is_valid_cache_entry(entry):
 
 def _fetch_details(appid):
     url = f"{APPDETAILS_URL}?appids={appid}&cc=kr&l=korean"
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-    with urllib.request.urlopen(req, timeout=15) as resp:
-        data = json.load(resp)
+    data = esd_common.fetch_json(url, headers={"User-Agent": "Mozilla/5.0"})
     entry = data.get(str(appid), {})
     if not entry.get("success"):
         return {"genres": [], "developers": [], "publishers": []}
@@ -186,24 +182,13 @@ def attach_details(deals, cache_path=DETAILS_CACHE_PATH, delay=DETAILS_FETCH_DEL
 
 def fetch_all_games():
     """Sale items plus a broader catalog, so search can find non-sale games too."""
-    by_appid = {}
-    for item in fetch_catalog():
-        by_appid[item["appid"]] = item
-    for deal in fetch_specials():
-        by_appid[deal["appid"]] = deal  # specials data wins (accurate discount info)
-
-    games = list(by_appid.values())
-    games.sort(key=lambda g: (not g["on_sale"], -g["discount_percent"]))
-    return games
+    return esd_common.merge_catalog_and_specials(fetch_catalog, fetch_specials)
 
 
 def fetch_and_save(path="data.json"):
     games = fetch_all_games()
     attach_details(games)
-    payload = {"fetched_at": time.time(), "deals": games}
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(payload, f, ensure_ascii=False, indent=2)
-    return payload
+    return esd_common.save_games(path, games)
 
 
 if __name__ == "__main__":
