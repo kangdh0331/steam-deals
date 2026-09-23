@@ -14,7 +14,10 @@ function formatPrice(value, currency) {
 
 function render() {
   const q = search.value.trim().toLowerCase();
-  let list = deals.filter(d => d.name.toLowerCase().includes(q));
+  // 검색어가 없으면 세일 중인 게임만, 검색 중이면 세일 여부와 상관없이 전체에서 찾는다.
+  let list = q
+    ? deals.filter(d => d.name.toLowerCase().includes(q))
+    : deals.filter(d => d.on_sale);
 
   const sortKey = sortSelect.value;
   list = list.slice().sort((a, b) => {
@@ -62,17 +65,19 @@ function render() {
 
     const priceRow = document.createElement('div');
     priceRow.className = 'price-row';
-    const discountEl = document.createElement('span');
-    discountEl.className = 'discount';
-    discountEl.textContent = `-${d.discount_percent}%`;
-    const originalEl = document.createElement('span');
-    originalEl.className = 'original';
-    originalEl.textContent = formatPrice(d.original_price, d.currency);
+    if (d.on_sale) {
+      const discountEl = document.createElement('span');
+      discountEl.className = 'discount';
+      discountEl.textContent = `-${d.discount_percent}%`;
+      const originalEl = document.createElement('span');
+      originalEl.className = 'original';
+      originalEl.textContent = formatPrice(d.original_price, d.currency);
+      priceRow.append(discountEl, originalEl);
+    }
     const finalEl = document.createElement('span');
     finalEl.className = 'final';
     finalEl.textContent = formatPrice(d.final_price, d.currency);
-
-    priceRow.append(discountEl, originalEl, finalEl);
+    priceRow.append(finalEl);
     body.append(title, genres, priceRow);
     card.append(thumb, body);
     frag.appendChild(card);
@@ -99,10 +104,11 @@ async function load(forceRefresh) {
     const payload = await res.json();
     if (payload.error) throw new Error(payload.error);
     deals = payload.deals || [];
+    const saleCount = deals.filter(d => d.on_sale).length;
     const fetchedAt = payload.fetched_at
       ? new Date(payload.fetched_at * 1000).toLocaleString('ko-KR')
       : '알 수 없음';
-    meta.textContent = `할인 중인 게임 ${deals.length}개 · 마지막 갱신: ${fetchedAt}`;
+    meta.textContent = `할인 중인 게임 ${saleCount}개 (검색 가능 ${deals.length}개) · 마지막 갱신: ${fetchedAt}`;
     render();
   } catch (err) {
     meta.textContent = `불러오기 실패: ${err.message}`;

@@ -10,6 +10,7 @@ GENRE_CACHE_PATH = "genre_cache.json"
 GENRE_FETCH_DELAY = 1.5
 PAGE_SIZE = 100
 MAX_PAGES = 10  # up to ~1000 deals
+CATALOG_MAX_PAGES = 5  # up to ~500 extra (non-sale) searchable games
 
 ROW_RE = re.compile(
     r'<a\s+href="https://store\.steampowered\.com/app/(?P<appid>\d+)/[^"]*"'
@@ -30,9 +31,11 @@ def _parse_price(text):
     return int(digits) if digits else 0
 
 
-def _fetch_page(start, count):
-    url = f"{SEARCH_URL}?start={start}&count={count}&specials=1&cc=kr&l=korean&ndl=1"
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+def _fetch_page(start, count, specials_only):
+    params = f"start={start}&count={count}&cc=kr&l=korean&ndl=1"
+    if specials_only:
+        params += "&specials=1"
+    req = urllib.request.Request(f"{SEARCH_URL}?{params}", headers={"User-Agent": "Mozilla/5.0"})
     with urllib.request.urlopen(req, timeout=15) as resp:
         return resp.read().decode("utf-8", errors="replace")
 
@@ -44,32 +47,36 @@ def _parse_rows(html):
         body = match.group("body")
         name_m = NAME_RE.search(body)
         discount_m = DISCOUNT_RE.search(body)
-        original_m = ORIGINAL_PRICE_RE.search(body)
         final_m = FINAL_PRICE_RE.search(body)
-        if not (name_m and discount_m and original_m and final_m):
+        if not (name_m and discount_m and final_m):
             continue
+        original_m = ORIGINAL_PRICE_RE.search(body)
         image_m = IMAGE_RE.search(body)
         appid = match.group("appid")
+        final_price = _parse_price(final_m.group(1))
+        original_price = _parse_price(original_m.group(1)) if original_m else final_price
+        discount_percent = int(discount_m.group(1))
         deals.append({
             "appid": int(appid),
             "name": name_m.group(1).strip(),
-            "discount_percent": int(discount_m.group(1)),
-            "original_price": _parse_price(original_m.group(1)),
-            "final_price": _parse_price(final_m.group(1)),
+            "discount_percent": discount_percent,
+            "original_price": original_price,
+            "final_price": final_price,
             "currency": "KRW",
             "image": image_m.group(1) if image_m else None,
             "url": f"https://store.steampowered.com/app/{appid}",
+            "on_sale": discount_percent > 0,
         })
     return deals, row_count
 
 
-def fetch_specials(max_pages=MAX_PAGES, page_size=PAGE_SIZE):
+def _fetch_listing(specials_only, max_pages, page_size=PAGE_SIZE):
     seen = set()
-    deals = []
+    items = []
     for page in range(max_pages):
         start = page * page_size
         try:
-            html = _fetch_page(start, page_size)
+            html = _fetch_page(start, page_size, specials_only)
         except Exception:
             break
 
@@ -77,19 +84,29 @@ def fetch_specials(max_pages=MAX_PAGES, page_size=PAGE_SIZE):
         if row_count == 0:
             break
 
-        for deal in rows:
-            if deal["appid"] in seen:
+        for item in rows:
+            if item["appid"] in seen:
                 continue
-            seen.add(deal["appid"])
-            deals.append(deal)
+            seen.add(item["appid"])
+            items.append(item)
 
         if row_count < page_size:
             break
 
         time.sleep(0.3)
 
+    return items
+
+
+def fetch_specials(max_pages=MAX_PAGES, page_size=PAGE_SIZE):
+    deals = _fetch_listing(specials_only=True, max_pages=max_pages, page_size=page_size)
     deals.sort(key=lambda d: d["discount_percent"], reverse=True)
     return deals
+
+
+def fetch_catalog(max_pages=CATALOG_MAX_PAGES, page_size=PAGE_SIZE):
+    """Broader (mostly non-sale) listing so search can surface games that aren't on sale."""
+    return _fetch_listing(specials_only=False, max_pages=max_pages, page_size=page_size)
 
 
 def _load_genre_cache(path=GENRE_CACHE_PATH):
@@ -138,10 +155,23 @@ def attach_genres(deals, cache_path=GENRE_CACHE_PATH, delay=GENRE_FETCH_DELAY):
     return deals
 
 
+def fetch_all_games():
+    """Sale items plus a broader catalog, so search can find non-sale games too."""
+    by_appid = {}
+    for item in fetch_catalog():
+        by_appid[item["appid"]] = item
+    for deal in fetch_specials():
+        by_appid[deal["appid"]] = deal  # specials data wins (accurate discount info)
+
+    games = list(by_appid.values())
+    games.sort(key=lambda g: (not g["on_sale"], -g["discount_percent"]))
+    return games
+
+
 def fetch_and_save(path="data.json"):
-    deals = fetch_specials()
-    attach_genres(deals)
-    payload = {"fetched_at": time.time(), "deals": deals}
+    games = fetch_all_games()
+    attach_genres(games)
+    payload = {"fetched_at": time.time(), "deals": games}
     with open(path, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
     return payload
@@ -149,4 +179,5 @@ def fetch_and_save(path="data.json"):
 
 if __name__ == "__main__":
     result = fetch_and_save("docs/data.json")
-    print(f"{len(result['deals'])}개 할인 게임을 docs/data.json에 저장했습니다.")
+    on_sale = sum(1 for g in result["deals"] if g["on_sale"])
+    print(f"{len(result['deals'])}개 게임 저장 (세일 {on_sale}개, 검색용 {len(result['deals']) - on_sale}개) -> docs/data.json")
