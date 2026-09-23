@@ -123,7 +123,13 @@ function render() {
   const publisher = publisherFilter.value;
   // 검색어/장르/개발사 필터가 없으면 세일 중인 게임만, 있으면 세일 여부와 상관없이 전체에서 찾는다.
   let list = (q || genre || publisher) ? deals.slice() : deals.filter(d => d.on_sale);
-  if (q) list = list.filter(d => d.name.toLowerCase().includes(q));
+  if (q) {
+    list = list.filter(d =>
+      d.name.toLowerCase().includes(q) ||
+      companyNames(d).includes(q) ||
+      (d.genres || []).some(g => g.toLowerCase().includes(q))
+    );
+  }
   if (genre) list = list.filter(d => (d.genres || []).includes(genre));
   if (publisher) list = list.filter(d => companyNames(d).includes(publisher));
 
