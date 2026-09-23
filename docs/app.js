@@ -1,12 +1,35 @@
 let deals = [];
 
+// 우선 지원하는 대형 개발사/배급사 목록. 실제 데이터에 게임이 있는 곳만 드롭다운에 표시된다.
+const MAJOR_PUBLISHERS = [
+  { label: '반다이 남코', match: 'bandai namco' },
+  { label: '스퀘어 에닉스', match: 'square enix' },
+  { label: 'CD Projekt Red', match: 'cd projekt' },
+  { label: '락스타 게임즈', match: 'rockstar' },
+  { label: 'Take-Two Interactive', match: 'take-two' },
+  { label: '일렉트로닉 아츠', match: 'electronic arts' },
+  { label: '유비소프트', match: 'ubisoft' },
+  { label: '세가', match: 'sega' },
+  { label: '캡콤', match: 'capcom' },
+  { label: '2K', match: '2k' },
+  { label: '베데스다', match: 'bethesda' },
+  { label: '액티비전', match: 'activision' },
+  { label: '밸브', match: 'valve' },
+  { label: '디볼버 디지털', match: 'devolver' },
+];
+
 const grid = document.getElementById('grid');
 const empty = document.getElementById('empty');
 const meta = document.getElementById('meta');
 const search = document.getElementById('search');
 const genreFilter = document.getElementById('genreFilter');
+const publisherFilter = document.getElementById('publisherFilter');
 const sortSelect = document.getElementById('sort');
 const refreshBtn = document.getElementById('refresh');
+
+function companyNames(d) {
+  return [...(d.developers || []), ...(d.publishers || [])].join(' ').toLowerCase();
+}
 
 function formatPrice(value, currency) {
   const formatted = new Intl.NumberFormat('ko-KR').format(Math.round(value));
@@ -29,13 +52,29 @@ function populateGenreFilter() {
   if (genres.has(current)) genreFilter.value = current;
 }
 
+function populatePublisherFilter() {
+  const current = publisherFilter.value;
+  publisherFilter.innerHTML = '<option value="">전체 개발사/배급사</option>';
+  for (const p of MAJOR_PUBLISHERS) {
+    const has = deals.some(d => companyNames(d).includes(p.match));
+    if (!has) continue;
+    const opt = document.createElement('option');
+    opt.value = p.match;
+    opt.textContent = p.label;
+    publisherFilter.appendChild(opt);
+  }
+  if ([...publisherFilter.options].some(o => o.value === current)) publisherFilter.value = current;
+}
+
 function render() {
   const q = search.value.trim().toLowerCase();
   const genre = genreFilter.value;
-  // 검색어나 장르 필터가 없으면 세일 중인 게임만, 있으면 세일 여부와 상관없이 전체에서 찾는다.
-  let list = (q || genre) ? deals.slice() : deals.filter(d => d.on_sale);
+  const publisher = publisherFilter.value;
+  // 검색어/장르/개발사 필터가 없으면 세일 중인 게임만, 있으면 세일 여부와 상관없이 전체에서 찾는다.
+  let list = (q || genre || publisher) ? deals.slice() : deals.filter(d => d.on_sale);
   if (q) list = list.filter(d => d.name.toLowerCase().includes(q));
   if (genre) list = list.filter(d => (d.genres || []).includes(genre));
+  if (publisher) list = list.filter(d => companyNames(d).includes(publisher));
 
   const sortKey = sortSelect.value;
   list = list.slice().sort((a, b) => {
@@ -82,6 +121,14 @@ function render() {
       genres.appendChild(tag);
     }
 
+    const studio = (d.publishers && d.publishers[0]) || (d.developers && d.developers[0]);
+    let studioEl = null;
+    if (studio) {
+      studioEl = document.createElement('div');
+      studioEl.className = 'studio';
+      studioEl.textContent = studio;
+    }
+
     const priceRow = document.createElement('div');
     priceRow.className = 'price-row';
     if (d.on_sale) {
@@ -97,7 +144,7 @@ function render() {
     finalEl.className = 'final';
     finalEl.textContent = formatPrice(d.final_price, d.currency);
     priceRow.append(finalEl);
-    body.append(title, genres, priceRow);
+    body.append(title, ...(studioEl ? [studioEl] : []), genres, priceRow);
     card.append(thumb, body);
     frag.appendChild(card);
   }
@@ -129,6 +176,7 @@ async function load(forceRefresh) {
       : '알 수 없음';
     meta.textContent = `할인 중인 게임 ${saleCount}개 (검색 가능 ${deals.length}개) · 마지막 갱신: ${fetchedAt}`;
     populateGenreFilter();
+    populatePublisherFilter();
     render();
   } catch (err) {
     meta.textContent = `불러오기 실패: ${err.message}`;
@@ -137,6 +185,7 @@ async function load(forceRefresh) {
 
 search.addEventListener('input', render);
 genreFilter.addEventListener('change', render);
+publisherFilter.addEventListener('change', render);
 sortSelect.addEventListener('change', render);
 refreshBtn.addEventListener('click', () => load(true));
 
