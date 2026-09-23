@@ -19,6 +19,30 @@ PAGE_SIZE = 100
 SPECIALS_MAX_PAGES = 10   # Regions.KR.IsOnSale:true has ~3300 results total
 CATALOG_MAX_PAGES = 10    # broader (mostly non-sale) pool for search
 
+# GMG's "Genre" facet returns English labels (plus a few OS/product tags
+# mixed in). Translate to Korean so it matches Steam/GOG's display.
+GENRE_KO = {
+    "Action": "액션",
+    "Adventure": "어드벤처",
+    "Casual": "캐주얼",
+    "FPS": "FPS",
+    "Family": "가족",
+    "Indie": "인디",
+    "Linux": "리눅스",
+    "MMO": "MMO",
+    "Mac": "Mac",
+    "Massively Multiplayer": "대규모 멀티플레이어",
+    "Platformer": "플랫포머",
+    "Puzzle": "퍼즐",
+    "RPG": "RPG",
+    "Racing": "레이싱",
+    "Shooter": "슈팅",
+    "Simulation": "시뮬레이션",
+    "Software": "소프트웨어",
+    "Sports": "스포츠",
+    "Strategy": "전략",
+}
+
 
 def _fetch_page(page, discounted_only):
     body = {"query": "", "hitsPerPage": PAGE_SIZE, "page": page}
@@ -58,7 +82,7 @@ def _parse_hit(hit):
         "image": f"{IMAGE_BASE}{image_path}" if image_path else None,
         "url": f"{STORE_BASE}{url_path}" if url_path else STORE_BASE,
         "on_sale": bool(region.get("IsOnSale")) and discount_percent > 0,
-        "genres": hit.get("Genre") or [],
+        "genres": [GENRE_KO.get(g, g) for g in (hit.get("Genre") or [])],
         "developers": [],
         "publishers": [hit["PublisherName"]] if hit.get("PublisherName") else [],
         "review_desc": None,
