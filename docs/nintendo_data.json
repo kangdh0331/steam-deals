@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1790149974.6837928,
+  "fetched_at": 1790150457.6904213,
   "deals": [
     {
       "appid": 70050000032587,
@@ -5009,5 +5009,6 @@
       "review_desc": null,
       "review_rank": 0
     }
-  ]
+  ],
+  "usd_krw_rate": 1356.15
 }

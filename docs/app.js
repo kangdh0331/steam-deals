@@ -41,14 +41,23 @@ function companyNames(d) {
 }
 
 const CURRENCY_SYMBOLS = { USD: '$', EUR: '€', GBP: '£' };
+let usdKrwRate = null;
+
+function formatWon(value) {
+  return `${new Intl.NumberFormat('ko-KR').format(Math.round(value))}원`;
+}
 
 function formatPrice(value, currency) {
   if (currency === 'KRW') {
-    return `${new Intl.NumberFormat('ko-KR').format(Math.round(value))}원`;
+    return formatWon(value);
   }
   const formatted = new Intl.NumberFormat('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 }).format(value);
   const symbol = CURRENCY_SYMBOLS[currency];
-  return symbol ? `${symbol}${formatted}` : `${formatted} ${currency}`;
+  const base = symbol ? `${symbol}${formatted}` : `${formatted} ${currency}`;
+  if (currency === 'USD' && usdKrwRate) {
+    return `${base} (약 ${formatWon(value * usdKrwRate)})`;
+  }
+  return base;
 }
 
 function populateGenreFilter() {
@@ -245,6 +254,7 @@ async function load(forceRefresh) {
     const payload = await res.json();
     if (payload.error) throw new Error(payload.error);
     deals = payload.deals || [];
+    usdKrwRate = payload.usd_krw_rate || null;
     const saleCount = deals.filter(d => d.on_sale).length;
     const fetchedAt = payload.fetched_at
       ? new Date(payload.fetched_at * 1000).toLocaleString('ko-KR')

@@ -13,6 +13,10 @@ DEFAULT_TIMEOUT = 15
 DEFAULT_RETRIES = 3
 DEFAULT_BACKOFF = 1.5
 
+FX_RATE_URL = "https://api.frankfurter.app/latest?from=USD&to=KRW"
+FX_CACHE_PATH = "fx_rate_cache.json"
+FX_FALLBACK_RATE = 1380.0  # only used if we've never fetched a live rate before
+
 
 def fetch_bytes(req, timeout=DEFAULT_TIMEOUT, retries=DEFAULT_RETRIES, backoff=DEFAULT_BACKOFF):
     """Open a urllib.request.Request, retrying transient failures with backoff."""
@@ -38,6 +42,27 @@ def fetch_text(url, headers=None, **kwargs):
     req = urllib.request.Request(url, headers=headers or {})
     body = fetch_bytes(req, **kwargs)
     return body.decode("utf-8", errors="replace")
+
+
+def get_usd_krw_rate(cache_path=FX_CACHE_PATH):
+    """USD->KRW rate for platforms that price in USD (GOG, Nintendo).
+
+    Falls back to the last cached rate (or a rough fixed constant if we've
+    never fetched one) so a hiccup on the FX API doesn't fail the whole run.
+    """
+    try:
+        data = fetch_json(FX_RATE_URL, headers={"User-Agent": "Mozilla/5.0"})
+        rate = float(data["rates"]["KRW"])
+        atomic_write_json(cache_path, {"usd_krw_rate": rate, "fetched_at": time.time()})
+        return rate
+    except Exception:
+        if os.path.exists(cache_path):
+            try:
+                with open(cache_path, "r", encoding="utf-8") as f:
+                    return float(json.load(f)["usd_krw_rate"])
+            except Exception:
+                pass
+        return FX_FALLBACK_RATE
 
 
 def merge_catalog_and_specials(fetch_catalog_fn, fetch_specials_fn):
@@ -73,7 +98,7 @@ def atomic_write_json(path, payload):
         raise
 
 
-def save_games(path, games, min_ratio=0.3, min_absolute=20):
+def save_games(path, games, min_ratio=0.3, min_absolute=20, extra=None):
     """Write {fetched_at, deals: games} to path, refusing an obviously-broken result.
 
     If a source API breaks or a run only partially succeeds, games can come
@@ -97,5 +122,7 @@ def save_games(path, games, min_ratio=0.3, min_absolute=20):
         raise RuntimeError("가져온 게임이 없어서 저장을 중단합니다.")
 
     payload = {"fetched_at": time.time(), "deals": games}
+    if extra:
+        payload.update(extra)
     atomic_write_json(path, payload)
     return payload

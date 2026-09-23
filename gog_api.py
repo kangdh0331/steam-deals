@@ -101,7 +101,8 @@ def fetch_all_games():
 
 def fetch_and_save(path="data.json"):
     games = fetch_all_games()
-    return esd_common.save_games(path, games)
+    rate = esd_common.get_usd_krw_rate()
+    return esd_common.save_games(path, games, extra={"usd_krw_rate": rate})
 
 
 if __name__ == "__main__":
