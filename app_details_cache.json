@@ -20633,5 +20633,151 @@
     "publishers": [
       "Alice Games"
     ]
+  },
+  "3085820": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "91Act"
+    ],
+    "publishers": [
+      "91Act"
+    ]
+  },
+  "4259190": {
+    "genres": [
+      "액션",
+      "인디",
+      "전략"
+    ],
+    "developers": [
+      "Ironhide Game Studio"
+    ],
+    "publishers": [
+      "Ironhide Game Studio"
+    ]
+  },
+  "2796640": {
+    "genres": [],
+    "developers": [],
+    "publishers": []
+  },
+  "2634950": {
+    "genres": [],
+    "developers": [],
+    "publishers": []
+  },
+  "240300": {
+    "genres": [
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Eagle Dynamics SA"
+    ],
+    "publishers": [
+      "Eagle Dynamics SA"
+    ]
+  },
+  "801800": {
+    "genres": [],
+    "developers": [],
+    "publishers": []
+  },
+  "2839280": {
+    "genres": [],
+    "developers": [],
+    "publishers": []
+  },
+  "4620140": {
+    "genres": [
+      "오디오 제작",
+      "유틸리티",
+      "동영상 제작"
+    ],
+    "developers": [
+      "XU MINGYI"
+    ],
+    "publishers": [
+      "XU MINGYI"
+    ]
+  },
+  "1904480": {
+    "genres": [],
+    "developers": [],
+    "publishers": []
+  },
+  "3080080": {
+    "genres": [
+      "전략"
+    ],
+    "developers": [
+      "World's Edge",
+      "Forgotten Empires",
+      "Tantalus Media",
+      "Wicked Witch",
+      "CaptureAge",
+      "Feral Interactive"
+    ],
+    "publishers": [
+      "Xbox Game Studios"
+    ]
+  },
+  "1012880": {
+    "genres": [
+      "어드벤처",
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Robot Gentleman"
+    ],
+    "publishers": [
+      "Robot Gentleman"
+    ]
+  },
+  "4317790": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "RetroStyle Games"
+    ],
+    "publishers": [
+      "RetroStyle Games",
+      "Judatone Studios",
+      "Elegoose Games"
+    ]
+  },
+  "2683150": {
+    "genres": [],
+    "developers": [],
+    "publishers": []
+  },
+  "360430": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Hangar 13",
+      "Aspyr (Mac)"
+    ],
+    "publishers": [
+      "2K",
+      "Aspyr (Mac)"
+    ]
+  },
+  "3417410": {
+    "genres": [],
+    "developers": [],
+    "publishers": []
   }
 }

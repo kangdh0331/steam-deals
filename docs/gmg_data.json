@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1790248397.5440056,
+  "fetched_at": 1790267789.76195,
   "deals": [
     {
       "appid": 12077,
@@ -21353,50 +21353,6 @@
       "developers": [],
       "publishers": [
         "Firesquid"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 59705,
-      "name": "CONTROL Resonant",
-      "discount_percent": 0,
-      "original_price": 64800.0,
-      "final_price": 64800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/f56e4312d90c4f89bae53bc0e9ed53b6/6f3ea14524f44c50ab94671a5aba03ed.jpg",
-      "url": "https://www.greenmangaming.com/games/control-resonant-pc/",
-      "on_sale": false,
-      "genres": [
-        "액션",
-        "RPG",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Remedy Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 59707,
-      "name": "CONTROL Resonant Digital Deluxe Edition",
-      "discount_percent": 0,
-      "original_price": 75800.0,
-      "final_price": 75800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/4d9b4ccfb4de4410aae7aaec44a601d5/abd21a5c49604b7a98a8adf3930ea4d4.jpg",
-      "url": "https://www.greenmangaming.com/games/control-resonant-digital-deluxe-edition-pc/",
-      "on_sale": false,
-      "genres": [
-        "액션",
-        "RPG",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Remedy Entertainment"
       ],
       "review_desc": null,
       "review_rank": 0
