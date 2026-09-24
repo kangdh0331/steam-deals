@@ -20066,5 +20066,28 @@
     "publishers": [
       "Al Fine"
     ]
+  },
+  "2288150": {
+    "genres": [
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "KOEI TECMO GAMES CO., LTD."
+    ],
+    "publishers": [
+      "KOEI TECMO GAMES CO., LTD."
+    ]
+  },
+  "2457220": {
+    "genres": [
+      "RPG"
+    ],
+    "developers": [
+      "Obsidian Entertainment"
+    ],
+    "publishers": [
+      "Xbox Game Studios"
+    ]
   }
 }

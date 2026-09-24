@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1790197785.233625,
+  "fetched_at": 1790220207.397621,
   "deals": [
     {
       "appid": 12077,
@@ -18649,6 +18649,26 @@
       "review_rank": 0
     },
     {
+      "appid": 55138,
+      "name": "Cosplay Club",
+      "discount_percent": 79,
+      "original_price": 20500.0,
+      "final_price": 4400.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/e953ef62877f4c1db50a0b2a143338e4/535d7265485b4aebb64424a36216675a.jpg",
+      "url": "https://www.greenmangaming.com/games/cosplay-club-pc/",
+      "on_sale": true,
+      "genres": [
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "Plug-in Digital"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 52099,
       "name": "Void Prison",
       "discount_percent": 78,
@@ -20529,28 +20549,6 @@
       "review_rank": 0
     },
     {
-      "appid": 59905,
-      "name": "BloomKeeper",
-      "discount_percent": 33,
-      "original_price": 26000.0,
-      "final_price": 17500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/cf2d893c9b1944d08a969b433e2cd06e/add7e83c5de74f2db686754fe293b288.jpg",
-      "url": "https://www.greenmangaming.com/games/bloomkeeper-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "인디",
-        "캐주얼"
-      ],
-      "developers": [],
-      "publishers": [
-        "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 59907,
       "name": "Woodo",
       "discount_percent": 30,
@@ -21470,6 +21468,28 @@
       "developers": [],
       "publishers": [
         "tinyBuild Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 59905,
+      "name": "BloomKeeper",
+      "discount_percent": 0,
+      "original_price": 26000.0,
+      "final_price": 26000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/cf2d893c9b1944d08a969b433e2cd06e/add7e83c5de74f2db686754fe293b288.jpg",
+      "url": "https://www.greenmangaming.com/games/bloomkeeper-pc/",
+      "on_sale": false,
+      "genres": [
+        "어드벤처",
+        "인디",
+        "캐주얼"
+      ],
+      "developers": [],
+      "publishers": [
+        "Plug-in Digital"
       ],
       "review_desc": null,
       "review_rank": 0
