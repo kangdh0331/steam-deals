@@ -20815,5 +20815,53 @@
     "genres": [],
     "developers": [],
     "publishers": []
+  },
+  "246420": {
+    "genres": [
+      "전략"
+    ],
+    "developers": [
+      "Ironhide Game Studio"
+    ],
+    "publishers": [
+      "Ironhide Game Studio"
+    ]
+  },
+  "678960": {
+    "genres": [],
+    "developers": [],
+    "publishers": []
+  },
+  "1593030": {
+    "genres": [],
+    "developers": [],
+    "publishers": []
+  },
+  "3836120": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "BLAIKE GAMES"
+    ],
+    "publishers": [
+      "BLAIKE GAMES"
+    ]
+  },
+  "3749870": {
+    "genres": [
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "SCS Software"
+    ],
+    "publishers": [
+      "SCS Software"
+    ]
   }
 }
