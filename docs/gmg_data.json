@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1790284354.5629067,
+  "fetched_at": 1790307638.7429132,
   "deals": [
     {
       "appid": 12077,
@@ -17817,6 +17817,48 @@
       "review_rank": 0
     },
     {
+      "appid": 5923,
+      "name": "Airline Tycoon 2",
+      "discount_percent": 80,
+      "original_price": 11800.0,
+      "final_price": 2400.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/18de2f1a8010488fa48d8e28413e1f81/a68cf0280f814dbf8d9e94a352d9bd2a.jpg",
+      "url": "https://www.greenmangaming.com/games/airline-tycoon-2/",
+      "on_sale": true,
+      "genres": [
+        "전략",
+        "시뮬레이션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Kalypso Media"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 5846,
+      "name": "Rise of Venice: Beyond the Sea",
+      "discount_percent": 80,
+      "original_price": 11800.0,
+      "final_price": 2400.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/d4cabf506e1a48bfbf13e42d7d840de5/d23686c380cf473ca273cce75ef30bfb.jpg",
+      "url": "https://www.greenmangaming.com/games/rise-of-venice-beyond-the-sea/",
+      "on_sale": true,
+      "genres": [
+        "인디",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Kalypso Media"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 36478,
       "name": "Traffic Jams",
       "discount_percent": 79,
@@ -20711,26 +20753,6 @@
       "review_rank": 0
     },
     {
-      "appid": 59107,
-      "name": "Ex Sanguis",
-      "discount_percent": 25,
-      "original_price": 21500.0,
-      "final_price": 16200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/e1338754e9ee462e887b1c360190eb66/b1a0d44a4f22403d9227de1e7f4b39f8.jpg",
-      "url": "https://www.greenmangaming.com/games/ex-sanguis-pc/",
-      "on_sale": true,
-      "genres": [
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Firesquid"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 57250,
       "name": "The Adventures of Elliot: The Millennium Tales",
       "discount_percent": 25,
@@ -20768,28 +20790,6 @@
       "developers": [],
       "publishers": [
         "Armor Games Inc"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 59996,
-      "name": "Kernel Hearts",
-      "discount_percent": 24,
-      "original_price": 21000.0,
-      "final_price": 15900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/2179ff43683442a9a223f733bad186c2/a54bd4f4318d46a1ae900cecb2fd5780.jpg",
-      "url": "https://www.greenmangaming.com/games/kernel-hearts-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Plug-in Digital"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -21420,6 +21420,28 @@
       "review_rank": 0
     },
     {
+      "appid": 59996,
+      "name": "Kernel Hearts",
+      "discount_percent": 0,
+      "original_price": 21000.0,
+      "final_price": 21000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/2179ff43683442a9a223f733bad186c2/a54bd4f4318d46a1ae900cecb2fd5780.jpg",
+      "url": "https://www.greenmangaming.com/games/kernel-hearts-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "인디",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "Plug-in Digital"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 57318,
       "name": "DEATH STRANDING 2: ON THE BEACH",
       "discount_percent": 0,
@@ -21506,6 +21528,26 @@
       "developers": [],
       "publishers": [
         "Coffee Stain Publishing AB"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 59107,
+      "name": "Ex Sanguis",
+      "discount_percent": 0,
+      "original_price": 21500.0,
+      "final_price": 21500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/e1338754e9ee462e887b1c360190eb66/b1a0d44a4f22403d9227de1e7f4b39f8.jpg",
+      "url": "https://www.greenmangaming.com/games/ex-sanguis-pc/",
+      "on_sale": false,
+      "genres": [
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Firesquid"
       ],
       "review_desc": null,
       "review_rank": 0

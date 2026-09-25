@@ -20792,5 +20792,28 @@
     "publishers": [
       "DONTEL"
     ]
+  },
+  "1057090": {
+    "genres": [],
+    "developers": [],
+    "publishers": []
+  },
+  "2689210": {
+    "genres": [
+      "어드벤처",
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "ATLUS"
+    ],
+    "publishers": [
+      "SEGA"
+    ]
+  },
+  "1382330": {
+    "genres": [],
+    "developers": [],
+    "publishers": []
   }
 }
