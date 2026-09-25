@@ -20863,5 +20863,29 @@
     "publishers": [
       "SCS Software"
     ]
+  },
+  "2141910": {
+    "genres": [
+      "전략",
+      "무료 플레이"
+    ],
+    "developers": [
+      "Wizards of the Coast"
+    ],
+    "publishers": [
+      "Wizards of the Coast"
+    ]
+  },
+  "2369900": {
+    "genres": [
+      "액션",
+      "RPG"
+    ],
+    "developers": [
+      "KONAMI"
+    ],
+    "publishers": [
+      "KONAMI"
+    ]
   }
 }

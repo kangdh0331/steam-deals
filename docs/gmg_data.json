@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1790335003.5141177,
+  "fetched_at": 1790354427.2505777,
   "deals": [
     {
       "appid": 12077,
@@ -18951,27 +18951,6 @@
       "review_rank": 0
     },
     {
-      "appid": 8218,
-      "name": "Kerbal Space Program",
-      "discount_percent": 76,
-      "original_price": 49500.0,
-      "final_price": 11800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/796aeb88b19a4a4f95cb1c0a49f87281/2f91557e67b44cb4af8c0c482ab4088c.jpg",
-      "url": "https://www.greenmangaming.com/games/kerbal-space-program/",
-      "on_sale": true,
-      "genres": [
-        "시뮬레이션",
-        "Mac"
-      ],
-      "developers": [],
-      "publishers": [
-        "Private Division"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 44001,
       "name": "FINAL FANTASY VII REMAKE INTERGRADE",
       "discount_percent": 75,
@@ -20427,6 +20406,28 @@
       "developers": [],
       "publishers": [
         "Plug-in Digital"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60102,
+      "name": "Dragon Shelter",
+      "discount_percent": 38,
+      "original_price": 24500.0,
+      "final_price": 15100.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/9990af5148e940fe816eed3bd53f7543/3801962473bd434396751fe855e02cf3.jpg",
+      "url": "https://www.greenmangaming.com/games/dragon-shelter-pc/",
+      "on_sale": true,
+      "genres": [
+        "캐주얼",
+        "시뮬레이션",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Curve Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -21953,28 +21954,6 @@
       "developers": [],
       "publishers": [
         "Playstation Publishing LLC"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60102,
-      "name": "Dragon Shelter",
-      "discount_percent": 0,
-      "original_price": 24500.0,
-      "final_price": 24500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/9990af5148e940fe816eed3bd53f7543/3801962473bd434396751fe855e02cf3.jpg",
-      "url": "https://www.greenmangaming.com/games/dragon-shelter-pc/",
-      "on_sale": false,
-      "genres": [
-        "캐주얼",
-        "시뮬레이션",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Curve Games"
       ],
       "review_desc": null,
       "review_rank": 0
