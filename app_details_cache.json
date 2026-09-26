@@ -20892,5 +20892,18 @@
     "genres": [],
     "developers": [],
     "publishers": []
+  },
+  "4260270": {
+    "genres": [
+      "어드벤처",
+      "RPG",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Kumada Gaon"
+    ],
+    "publishers": [
+      "Saikey Studios"
+    ]
   }
 }
