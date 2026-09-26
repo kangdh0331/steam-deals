@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1790394399.3266215,
+  "fetched_at": 1790455345.1117473,
   "deals": [
     {
       "appid": 70010000035797,
@@ -179,49 +179,6 @@
       "developers": [],
       "publishers": [
         "Bandai Namco Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000001367,
-      "name": "DOOM",
-      "discount_percent": 80,
-      "original_price": 19.99,
-      "final_price": 3.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000001367/800b512924c41501b2c4a58f573beabf66565266747d6fe94bf7e138f0308f6a",
-      "url": "https://www.nintendo.com/us/store/products/doom-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Shooting"
-      ],
-      "developers": [
-        "id Software"
-      ],
-      "publishers": [
-        "Bethesda"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70070000006483,
-      "name": "Wolfenstein®: Youngblood™  Deluxe Edition",
-      "discount_percent": 80,
-      "original_price": 29.99,
-      "final_price": 5.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000006483/58a0c8956866ded5c4f84883a2982daebaa27237063b78e3c772229147dc24b9",
-      "url": "https://www.nintendo.com/us/store/products/wolfenstein-youngblood-deluxe-edition-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Bethesda"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -508,25 +465,6 @@
       "review_rank": 0
     },
     {
-      "appid": 70070000011026,
-      "name": "DOOM® Eternal Deluxe Edition",
-      "discount_percent": 67,
-      "original_price": 49.99,
-      "final_price": 16.49,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000011026/8636ca8335c7b152dc41587d3005df022fb8794a8bbf302bd864a21a6ec4696a",
-      "url": "https://www.nintendo.com/us/store/products/doom-eternal-deluxe-edition-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Bethesda"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 70010000015846,
       "name": "Phoenix Wright: Ace Attorney Trilogy",
       "discount_percent": 67,
@@ -591,30 +529,6 @@
       "developers": [],
       "publishers": [
         "CAPCOM"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70070000022238,
-      "name": "DOOM Anthology",
-      "discount_percent": 65,
-      "original_price": 79.99,
-      "final_price": 27.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000022238/b701f07e3643c03aae11d946c535e3eb1d1e9b174532de837244176b7f30255b",
-      "url": "https://www.nintendo.com/us/store/products/doom-anthology-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Shooting",
-        "Strategy"
-      ],
-      "developers": [],
-      "publishers": [
-        "Bethesda"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -702,52 +616,6 @@
       "developers": [],
       "publishers": [
         "Bandai Namco Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000001369,
-      "name": "The Elder Scrolls V: Skyrim",
-      "discount_percent": 60,
-      "original_price": 49.99,
-      "final_price": 19.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000001369/3a41386d4b0999365727a21cc5c13853cfc244abca39b689bb79a339601e48c3",
-      "url": "https://www.nintendo.com/us/store/products/the-elder-scrolls-v-skyrim-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Role playing"
-      ],
-      "developers": [
-        "Bethesda Game Studios"
-      ],
-      "publishers": [
-        "Bethesda"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70070000020375,
-      "name": "Quake + Quake II Enhanced Bundle",
-      "discount_percent": 60,
-      "original_price": 14.99,
-      "final_price": 5.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000020375/24247cfa65b4a2885ea4526a0564bd3f433564b916b1fc2555b547908b0aba5b",
-      "url": "https://www.nintendo.com/us/store/products/quake-plus-quake-ii-enhanced-bundle-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Shooting"
-      ],
-      "developers": [],
-      "publishers": [
-        "Bethesda"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -1653,29 +1521,6 @@
       "review_rank": 0
     },
     {
-      "appid": 70070000034153,
-      "name": "The Elder Scrolls V: Skyrim Anniversary Edition + Fallout 4: Anniversary Edition Bundle",
-      "discount_percent": 40,
-      "original_price": 89.99,
-      "final_price": 53.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70070000034153/a133d0bc278e03c63bf16a22cc90405ec7ff050e1d50e4f1b39a6769b775374e",
-      "url": "https://www.nintendo.com/us/store/products/the-elder-scrolls-v-skyrim-anniversary-edition-plus-fallout-4-anniversary-edition-bundle-switch-2/",
-      "on_sale": true,
-      "platform": "Nintendo Switch 2",
-      "genres": [
-        "Action",
-        "Role playing",
-        "Shooting"
-      ],
-      "developers": [],
-      "publishers": [
-        "Bethesda"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 70010000104301,
       "name": "Resident Evil Village Gold Edition",
       "discount_percent": 40,
@@ -1907,28 +1752,6 @@
       "developers": [],
       "publishers": [
         "Bandai Namco Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000090879,
-      "name": "Heretic + Hexen",
-      "discount_percent": 33,
-      "original_price": 14.99,
-      "final_price": 10.04,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000090879/e308514158b5bdee6b21c5808dcac7e41b0c28acdd1b983bbdb9ba51bec3fdfe",
-      "url": "https://www.nintendo.com/us/store/products/heretic-plus-hexen-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Shooting"
-      ],
-      "developers": [],
-      "publishers": [
-        "Bethesda"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -4345,25 +4168,6 @@
       "review_rank": 0
     },
     {
-      "appid": 70070000012493,
-      "name": "DOOM® Eternal: The Ancient Gods Expansion Pass",
-      "discount_percent": 30,
-      "original_price": 19.99,
-      "final_price": 13.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000012493/32161f9df4d4522f9537a090407837bdd28b040776badfce33986b7687019c84",
-      "url": "https://www.nintendo.com/us/store/products/doom-eternal-the-ancient-gods-expansion-pass-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Bethesda"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 70010000097756,
       "name": "Monster Hunter Stories 3: Twisted Reflection",
       "discount_percent": 30,
@@ -4613,44 +4417,6 @@
       "developers": [],
       "publishers": [
         "CAPCOM"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70070000038015,
-      "name": "The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition",
-      "discount_percent": 10,
-      "original_price": 59.99,
-      "final_price": 53.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70070000038015/d0c7d55aad14c2c8f9e4e361f17e10bdb5f39a04bf4dd4a5632229ca45189586",
-      "url": "https://www.nintendo.com/us/store/products/the-elder-scrolls-iv-oblivion-remastered-deluxe-edition-switch-2/",
-      "on_sale": true,
-      "platform": "Nintendo Switch 2",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Bethesda"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70050000061738,
-      "name": "The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition Upgrade",
-      "discount_percent": 10,
-      "original_price": 9.99,
-      "final_price": 8.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70050000061738/968a3f978570d7bd3e63d8fa99f22eac9d0322894ffa7406445444264237f87a",
-      "url": "https://www.nintendo.com/us/store/products/the-elder-scrolls-iv-oblivion-remastered-deluxe-edition-upgrade-70050000061738-switch-2/",
-      "on_sale": true,
-      "platform": "Nintendo Switch 2",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Bethesda"
       ],
       "review_desc": null,
       "review_rank": 0
