@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1790481359.4368448,
+  "fetched_at": 1790508605.0951087,
   "deals": [
     {
       "appid": 70010000035797,
@@ -57,6 +57,30 @@
       "developers": [],
       "publishers": [
         "CAPCOM"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000013182,
+      "name": "The King's Bird",
+      "discount_percent": 85,
+      "original_price": 19.99,
+      "final_price": 2.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000013182/f729c1f54d37d36f3757a40ccac428807b564f00ed430d166251cae111ed3eb0",
+      "url": "https://www.nintendo.com/us/store/products/the-kings-bird-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "developers": [
+        "Serenity Forge"
+      ],
+      "publishers": [
+        "Serenity Forge"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -184,6 +208,97 @@
       "review_rank": 0
     },
     {
+      "appid": 70010000000867,
+      "name": "Neversong",
+      "discount_percent": 80,
+      "original_price": 14.99,
+      "final_price": 2.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000000867/cc0ae8462863936f8caf53ba57c63b23a07d50cccf15b722efb895b85fe8d08c",
+      "url": "https://www.nintendo.com/us/store/products/neversong-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "developers": [],
+      "publishers": [
+        "Serenity Forge"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000003437,
+      "name": "Lifeless Planet: Premiere Edition",
+      "discount_percent": 80,
+      "original_price": 9.99,
+      "final_price": 1.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000003437/c42e8461023ec073a203970a3f6f573ddbca9983d09de5f0707fe684f5d949d5",
+      "url": "https://www.nintendo.com/us/store/products/lifeless-planet-premiere-edition-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "developers": [
+        "Stage 2 Studios"
+      ],
+      "publishers": [
+        "Serenity Forge"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000010700,
+      "name": "Pinstripe",
+      "discount_percent": 80,
+      "original_price": 14.99,
+      "final_price": 2.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000010700/e8e685bde6ef8b205d436430672676cba80a18ddde8dbc5c7a37a33636609948",
+      "url": "https://www.nintendo.com/us/store/products/pinstripe-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "developers": [
+        "Atmos Games"
+      ],
+      "publishers": [
+        "Serenity Forge"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000019363,
+      "name": "Where the Water Tastes Like Wine",
+      "discount_percent": 80,
+      "original_price": 19.99,
+      "final_price": 3.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000019363/00415cd8f988be0e384ea47acc4b6abd3746c3f29490de54f8c622b7b4ddc62b",
+      "url": "https://www.nintendo.com/us/store/products/where-the-water-tastes-like-wine-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Narrative adventure"
+      ],
+      "developers": [],
+      "publishers": [
+        "Serenity Forge"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 70070000018012,
       "name": "DRAGON QUEST MONSTERS: The Dark Prince Digital Deluxe Edition",
       "discount_percent": 80,
@@ -289,6 +404,30 @@
       ],
       "publishers": [
         "CAPCOM"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000028371,
+      "name": "Cyanide & Happiness - Freakpocalypse (Episode 1)",
+      "discount_percent": 75,
+      "original_price": 19.99,
+      "final_price": 4.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000028371/dbc1489208e6cba7fe8803575994d7116cf28f593785075860de089b9ee5fcb0",
+      "url": "https://www.nintendo.com/us/store/products/cyanide-and-happiness-freakpocalypse-episode-1-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "developers": [
+        "Explosm"
+      ],
+      "publishers": [
+        "Serenity Forge"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -534,6 +673,28 @@
       "review_rank": 0
     },
     {
+      "appid": 70010000051772,
+      "name": "Virgo Versus The Zodiac",
+      "discount_percent": 65,
+      "original_price": 19.99,
+      "final_price": 6.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000051772/dd10df542f7853bfa3142f0b770b67c97d22bbe3fe8f9b5d5a51bf0716bed97a",
+      "url": "https://www.nintendo.com/us/store/products/virgo-versus-the-zodiac-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Role playing"
+      ],
+      "developers": [],
+      "publishers": [
+        "Serenity Forge"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 70010000028503,
       "name": "Monster Hunter Stories 2: Wings of Ruin",
       "discount_percent": 63,
@@ -640,6 +801,93 @@
       ],
       "publishers": [
         "CAPCOM"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70070000017980,
+      "name": "LISA: Definitive Edition",
+      "discount_percent": 60,
+      "original_price": 24.99,
+      "final_price": 9.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000017980/5cd18b818db3a96b32444b1c88cbaff777d01b488d2a06cf5124e5c556805ac0",
+      "url": "https://www.nintendo.com/us/store/products/lisa-definitive-edition-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Role playing"
+      ],
+      "developers": [],
+      "publishers": [
+        "Serenity Forge"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000039392,
+      "name": "Arcadian Atlas",
+      "discount_percent": 60,
+      "original_price": 19.99,
+      "final_price": 7.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000039392/a37cfcebe6ed78f686151cc2a84964b447b6a01e975381a9627963960862b31a",
+      "url": "https://www.nintendo.com/us/store/products/arcadian-atlas-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Role playing",
+        "Strategy"
+      ],
+      "developers": [],
+      "publishers": [
+        "Serenity Forge"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000068151,
+      "name": "LISA: The Painful - Definitive Edition",
+      "discount_percent": 60,
+      "original_price": 19.99,
+      "final_price": 7.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000068151/edc11991fc87ec6b4b5b1004d58a3189a2eef7a80628868140eb65408401e229",
+      "url": "https://www.nintendo.com/us/store/products/lisa-the-painful-definitive-edition-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Role playing"
+      ],
+      "developers": [
+        "Dingaling Productions LLC"
+      ],
+      "publishers": [
+        "Serenity Forge"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000068153,
+      "name": "LISA: The Joyful - Definitive Edition",
+      "discount_percent": 60,
+      "original_price": 9.99,
+      "final_price": 3.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000068153/7f45a15c2b12b2582e777bc19efe03504ea18b9b29c435fa1878d81c6749db32",
+      "url": "https://www.nintendo.com/us/store/products/lisa-the-joyful-definitive-edition-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Role playing"
+      ],
+      "developers": [],
+      "publishers": [
+        "Serenity Forge"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -954,6 +1202,29 @@
       ],
       "publishers": [
         "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000068928,
+      "name": "Long Gone Days",
+      "discount_percent": 55,
+      "original_price": 24.99,
+      "final_price": 11.24,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000068928/a76be48735364428be3e481d8a81f0b29f39f6fdfb136bb8a237782d562a16d9",
+      "url": "https://www.nintendo.com/us/store/products/long-gone-days-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Adventure",
+        "Narrative adventure",
+        "Role playing"
+      ],
+      "developers": [],
+      "publishers": [
+        "Serenity Forge"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -1337,6 +1608,72 @@
       "review_rank": 0
     },
     {
+      "appid": 70050000032542,
+      "name": "Death's Gambit: Afterlife - Ashes of Vados",
+      "discount_percent": 50,
+      "original_price": 7.99,
+      "final_price": 3.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000032542/173ad28aac591d863b7cf6a6852375100fe726d04832ffff18a9d8335c45caa7",
+      "url": "https://www.nintendo.com/us/store/products/deaths-gambit-afterlife-ashes-of-vados-70050000032542-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "Serenity Forge"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000053733,
+      "name": "Smile For Me",
+      "discount_percent": 50,
+      "original_price": 14.99,
+      "final_price": 7.49,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000053733/72a1abe08f06a46bef5363c46bd6f789d6694c828b510ea93fc85b3e1adf3e68",
+      "url": "https://www.nintendo.com/us/store/products/smile-for-me-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Adventure"
+      ],
+      "developers": [
+        "LimboLane LLC"
+      ],
+      "publishers": [
+        "Serenity Forge"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000043149,
+      "name": "Death's Gambit: Afterlife",
+      "discount_percent": 50,
+      "original_price": 19.99,
+      "final_price": 9.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000043149/9b2529da4ad26b6d575601f8aedbc5ca2b0dc9013e783a46b1e71d0a47aee87c",
+      "url": "https://www.nintendo.com/us/store/products/deaths-gambit-afterlife-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Role playing"
+      ],
+      "developers": [
+        "White Rabbit"
+      ],
+      "publishers": [
+        "Serenity Forge"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 70010000077709,
       "name": "DRAGON QUEST III HD-2D Remake",
       "discount_percent": 50,
@@ -1480,6 +1817,30 @@
       "review_rank": 0
     },
     {
+      "appid": 70010000082315,
+      "name": "Keylocker | Turn Based Cyberpunk Action",
+      "discount_percent": 45,
+      "original_price": 19.99,
+      "final_price": 10.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000082315/92b7662d510fc6f1ee77bf74f27d9b09cfce044f6b84a943c417868ed78f9aaf",
+      "url": "https://www.nintendo.com/us/store/products/keylocker-turn-based-cyberpunk-action-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Adventure",
+        "Role playing"
+      ],
+      "developers": [
+        "Moonana Inc."
+      ],
+      "publishers": [
+        "Serenity Forge"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 70010000101043,
       "name": "Assassin's Creed Shadows",
       "discount_percent": 45,
@@ -1563,6 +1924,99 @@
       ],
       "publishers": [
         "CAPCOM"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000078781,
+      "name": "Slay the Princess - The Pristine Cut",
+      "discount_percent": 40,
+      "original_price": 17.99,
+      "final_price": 10.79,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000078781/e001305486bc26974681721dd68012f8618a9bbd711d67ba8390733433f2cce0",
+      "url": "https://www.nintendo.com/us/store/products/slay-the-princess-the-pristine-cut-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Narrative adventure"
+      ],
+      "developers": [
+        "Black Tabby Games"
+      ],
+      "publishers": [
+        "Serenity Forge"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000092001,
+      "name": "Noctuary",
+      "discount_percent": 40,
+      "original_price": 24.99,
+      "final_price": 14.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000092001/f0d741e7dcfd575ea165814a9ea3aa9cd685dc7791307f26ef91312ed218ff7f",
+      "url": "https://www.nintendo.com/us/store/products/noctuary-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Narrative adventure"
+      ],
+      "developers": [
+        "Gratesca Studio"
+      ],
+      "publishers": [
+        "Serenity Forge"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000090820,
+      "name": "Cooking Companions",
+      "discount_percent": 40,
+      "original_price": 14.99,
+      "final_price": 8.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000090820/dd3362e96160ffeead6c88473369574d6f6e7c0ece1ef9c84803014abebbeeae",
+      "url": "https://www.nintendo.com/us/store/products/cooking-companions-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Narrative adventure"
+      ],
+      "developers": [
+        "Deer Dream Studios"
+      ],
+      "publishers": [
+        "Serenity Forge"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000081916,
+      "name": "Centum",
+      "discount_percent": 40,
+      "original_price": 14.99,
+      "final_price": 8.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000081916/d945255e69a6f5a6a32bb9ec29f9325331d1a603973b3e0a19e788460905ce30",
+      "url": "https://www.nintendo.com/us/store/products/centum-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Narrative adventure"
+      ],
+      "developers": [
+        "Hack The Publisher"
+      ],
+      "publishers": [
+        "Serenity Forge"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -1719,6 +2173,27 @@
       "review_rank": 0
     },
     {
+      "appid": 70010000086907,
+      "name": "BAD END THEATER",
+      "discount_percent": 35,
+      "original_price": 9.99,
+      "final_price": 6.49,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000086907/6ee60160f28fc95319e4b27e153cca75945a97717bb88772ed68e8642d400664",
+      "url": "https://www.nintendo.com/us/store/products/bad-end-theater-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Narrative adventure"
+      ],
+      "developers": [],
+      "publishers": [
+        "Serenity Forge"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 70070000029670,
       "name": "DRAGON BALL: Sparking! ZERO Deluxe Edition",
       "discount_percent": 34,
@@ -1776,2180 +2251,71 @@
       "review_rank": 0
     },
     {
-      "appid": 70070000016659,
-      "name": "Mario Kart™ 8 Deluxe Bundle (Game + Booster Course Pass)",
-      "discount_percent": 30,
-      "original_price": 84.98,
-      "final_price": 59.48,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000016659/d1fbabdc6bdc5e9f43ab2bf9f92643ac360a289bb9a56666c56e2e0941695def",
-      "url": "https://www.nintendo.com/us/store/products/mario-kart-8-deluxe-bundle-game-plus-booster-course-pass-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70070000016660,
-      "name": "Animal Crossing™: New Horizons Bundle (Game + DLC)",
-      "discount_percent": 30,
-      "original_price": 84.98,
-      "final_price": 59.48,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000016660/97c3c33753986d8585adb8c29ac7742de61a76c880dd1a5c7c53d3325066e300",
-      "url": "https://www.nintendo.com/us/store/products/animal-crossing-new-horizons-bundle-game-plus-dlc-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70070000000783,
-      "name": "The Legend of Zelda™: Breath of the Wild and The Legend of Zelda™: Breath of the Wild Expansion Pass Bundle  ",
-      "discount_percent": 30,
-      "original_price": 79.98,
-      "final_price": 55.98,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000000783/3f5e3bdc13985085be376c34f993119838990863c05f331a2827f6d410daa609",
-      "url": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-breath-of-the-wild-and-the-legend-of-zelda-breath-of-the-wild-expansion-pass-bundle-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000063714,
-      "name": "The Legend of Zelda™: Tears of the Kingdom",
-      "discount_percent": 30,
-      "original_price": 69.99,
-      "final_price": 48.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000063714/fb30eab428df3fc993b41c76e20f72e4d76d49734d17d31996b5ab61c414b117",
-      "url": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-tears-of-the-kingdom-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000084766,
-      "name": "Metroid Prime™ 4: Beyond",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000084766/1bcf06d845f9027b4330e8d07658845a2fe3d66882bdaeb70325aeb35c54f1c9",
-      "url": "https://www.nintendo.com/us/store/products/metroid-prime-4-beyond-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Shooting"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000084608,
-      "name": "Super Mario Party™ Jamboree",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000084608/ba0572bf9d840b03bf9958809943fb3c76c3adfd6d8f2704b0f1b766f8aa4027",
-      "url": "https://www.nintendo.com/us/store/products/super-mario-party-jamboree-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Party",
-        "Tabletop"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000005308,
-      "name": "Pikmin™ 4",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000005308/43af89ed5bd76ac5ec6b367b4b53092f8bf94a1d1312fdfc1d4664329fd5077b",
-      "url": "https://www.nintendo.com/us/store/products/pikmin-4-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Strategy"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000046405,
-      "name": "Kirby™ and the Forgotten Land",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000046405/d1cf83dea46094b85247f40ca30ea4557730a319be0bfe544a4fa929144cf6c2",
-      "url": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "developers": [
-        "HAL Laboratory"
-      ],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000034635,
-      "name": "Kirby Fighters™ 2 ",
-      "discount_percent": 30,
-      "original_price": 19.99,
-      "final_price": 13.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000034635/ee0c49585083fda8cb072cf8bf9cb51ee46a0b19dadad02882bd8b4dc4ab8266",
-      "url": "https://www.nintendo.com/us/store/products/kirby-fighters-2-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Fighting"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000042924,
-      "name": "Metroid™ Dread",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000042924/4f2c683f0196210ec212a2ab8bf6952223c0b88e827b820953407a2ba61c9cb2",
-      "url": "https://www.nintendo.com/us/store/products/metroid-dread-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Shooting"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000001339,
-      "name": "Donkey Kong Country™: Tropical Freeze",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000001339/d01cba67eb98fec32ac98027c07fa8d92dd52773565bfadc69f817c860e34b8a",
-      "url": "https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action"
-      ],
-      "developers": [
-        "Retro Studios"
-      ],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000049931,
-      "name": "Nintendo Switch™ Sports",
-      "discount_percent": 30,
-      "original_price": 39.99,
-      "final_price": 27.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000049931/282ce6a96d5855d8b46aa9316314969f731a26ef9c7b2bc1e5aebe62dcf2ece2",
-      "url": "https://www.nintendo.com/us/store/products/nintendo-switch-sports-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Party",
-        "Sports"
-      ],
-      "developers": [
-        "Nintendo"
-      ],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000001130,
-      "name": "Super Mario Odyssey™",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000001130/c42553b4fd0312c31e70ec7468c6c9bccd739f340152925b9600631f2d29f8b5",
-      "url": "https://www.nintendo.com/us/store/products/super-mario-odyssey-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "developers": [
-        "Nintendo"
-      ],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000034439,
-      "name": "Super Mario™ 3D World + Bowser’s Fury",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000034439/ccb69a8bf2746b2dc0a9b11a9e48c9893baa1631486326f0d681b7a36385221f",
-      "url": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000068688,
-      "name": "Super Mario Bros.™ Wonder",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000068688/87e8aa5f1fdc950b88eae7d7c62ed185c8a6373c845090bbdb2e2cf039b38da1",
-      "url": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action"
-      ],
-      "developers": [
-        "Nintendo"
-      ],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000014158,
-      "name": "Super Mario Party™ ",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000014158/0ca41128bf40b7e0dc32a046a659ecdc69e4d7cc7a3257d6280be665d2f795b5",
-      "url": "https://www.nintendo.com/us/store/products/super-mario-party-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Party",
-        "Tabletop"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70070000016793,
-      "name": "Splatoon™ 3 Bundle (Game + Expansion Pass)",
-      "discount_percent": 30,
-      "original_price": 84.98,
-      "final_price": 59.48,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000016793/07bf231db5b44048c4ba1a8874fd5495094243c88958ddfceb5430682c456c1e",
-      "url": "https://www.nintendo.com/us/store/products/splatoon-3-bundle-game-plus-expansion-pass-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70070000016787,
-      "name": "Splatoon™ 3: Expansion Pass",
-      "discount_percent": 30,
-      "original_price": 24.99,
-      "final_price": 17.49,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000016787/3f73a471b117ebe6192ce32eb9ec6fc885e451103e783bcf572f16734b3bde80",
-      "url": "https://www.nintendo.com/us/store/products/splatoon-3-expansion-pass-70070000016787-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000046395,
-      "name": "Splatoon™ 3",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000046395/94a4095cda06c4d85c637d1af451979f9933302b6b17174d97c45de7a68584a2",
-      "url": "https://www.nintendo.com/us/store/products/splatoon-3-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Shooting"
-      ],
-      "developers": [
-        "Nintendo"
-      ],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000038612,
-      "name": "The Legend of Zelda™: Skyward Sword HD",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000038612/63595b0826bb6ece7b95e4eb2a33e5ad0559224b350a5e2974a44f772963ae59",
-      "url": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-skyward-sword-hd-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000084618,
-      "name": "The Legend of Zelda™: Echoes of Wisdom",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000084618/e3a49cf14180cec09c515595fb7121b048a0f8327eae2d248909d0f0c64a9dc9",
-      "url": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-echoes-of-wisdom-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000072957,
-      "name": "Paper Mario™: The Thousand-Year Door",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000072957/fdd5d8ca46d7ea4e45397ae560e807742de2d7d744570297ddbabf69d6d23f33",
-      "url": "https://www.nintendo.com/us/store/products/paper-mario-the-thousand-year-door-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Role playing"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70070000012376,
-      "name": "Hyrule Warriors: Age of Calamity + Hyrule Warriors: Age of Calamity Expansion Pass",
-      "discount_percent": 30,
-      "original_price": 79.98,
-      "final_price": 55.98,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000012376/11e25fa0d665851f561a070330161b339642f61df0335051e25f810468936f0c",
-      "url": "https://www.nintendo.com/us/store/products/hyrule-warriors-age-of-calamity-plus-hyrule-warriors-age-of-calamity-expansion-pass-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70070000006542,
-      "name": "Fire Emblem™: Three Houses + Expansion Pass ",
-      "discount_percent": 30,
-      "original_price": 84.98,
-      "final_price": 59.48,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000006542/ed2194aa5ca7ecfe6e3d9e2ba60f99dfe2e2c417cd199292e793fd26d24b018e",
-      "url": "https://www.nintendo.com/us/store/products/fire-emblem-three-houses-plus-expansion-pass-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000029716,
-      "name": "Clubhouse Games™: 51 Worldwide Classics",
-      "discount_percent": 30,
-      "original_price": 39.99,
-      "final_price": 27.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000029716/6d0cf8758e634a00d201ce0784e48f13c643b1b935f286d82689bf0a56a1f5e6",
-      "url": "https://www.nintendo.com/us/store/products/clubhouse-games-51-worldwide-classics-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Party",
-        "Puzzle",
-        "Racing",
-        "Tabletop"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000049936,
-      "name": "Mario Strikers™: Battle League",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000049936/c280b6843af262757f041d2aa3543992ec076b97545abea4dbadda797d9056fc",
-      "url": "https://www.nintendo.com/us/store/products/mario-strikers-battle-league-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Sports"
-      ],
-      "developers": [
-        "Nintendo / Next Level Games"
-      ],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70070000030770,
-      "name": "Super Mario Galaxy™ + Super Mario Galaxy™ 2",
-      "discount_percent": 30,
-      "original_price": 69.99,
-      "final_price": 48.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000030770/0acaf709e29c57e125e90032853562562843757d238fec2815a52ec0409c6fd1",
-      "url": "https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000006411,
-      "name": "New Super Mario Bros.™ U Deluxe",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000006411/73d58198e35bf94be752cf3d9ba0b44dea877cab1487e2cc1b7eeb02157f066f",
-      "url": "https://www.nintendo.com/us/store/products/new-super-mario-bros-u-deluxe-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70070000009533,
-      "name": "Luigi's Mansion™ 3 + Multiplayer Pack Set",
-      "discount_percent": 30,
-      "original_price": 69.98,
-      "final_price": 48.98,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000009533/fc6f62846c58b36f88038a114242cf46236b2c095a29f73d40e8946402083f49",
-      "url": "https://www.nintendo.com/us/store/products/luigis-mansion-3-plus-multiplayer-pack-set-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000018694,
-      "name": "Super Mario Maker™ 2",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000018694/aac100206f1c50349fd2c48595e55603259ae60a4ab4eefc28e71f41efb78b97",
-      "url": "https://www.nintendo.com/us/store/products/super-mario-maker-2-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000038622,
-      "name": "Mario Golf™: Super Rush",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000038622/af5246b2f01dee8111a70bcb3f556e65a492801d6677d0ab0f17b566a7b0285b",
-      "url": "https://www.nintendo.com/us/store/products/mario-golf-super-rush-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Party",
-        "Sports"
-      ],
-      "developers": [
-        "CAMELOT"
-      ],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000029726,
-      "name": "Paper Mario™: The Origami King",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000029726/7f079a1e3927ea4752fb448ea7f2ccbd86933f5483ad9dd6de23ec96ed4df70b",
-      "url": "https://www.nintendo.com/us/store/products/paper-mario-the-origami-king-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000056620,
-      "name": "Kirby’s Dream Buffet™",
-      "discount_percent": 30,
+      "appid": 70010000042151,
+      "name": "Doki Doki Literature Club Plus!",
+      "discount_percent": 33,
       "original_price": 14.99,
-      "final_price": 10.49,
+      "final_price": 10.04,
       "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000056620/3c95ab269b656931b9f8218ce6e48bec3d1f84d4b92f6c9ff9616b0f129c2a95",
-      "url": "https://www.nintendo.com/us/store/products/kirbys-dream-buffet-switch/",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000042151/cfef7634adfd013fc6429f00e0284ddef85c0f857ed5da8d319710cbc249cac3",
+      "url": "https://www.nintendo.com/us/store/products/doki-doki-literature-club-plus-switch/",
       "on_sale": true,
       "platform": "Nintendo Switch",
       "genres": [
-        "Action",
-        "Racing"
-      ],
-      "developers": [
-        "HAL Laboratory, Inc."
-      ],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000088832,
-      "name": "Xenoblade Chronicles™ X: Definitive Edition",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000088832/d33ed7f51de601b10cafa5814fd786bbad317b0421a43d54917a2c647be2f23b",
-      "url": "https://www.nintendo.com/us/store/products/xenoblade-chronicles-x-definitive-edition-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Role playing"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000063709,
-      "name": "Metroid Prime™ Remastered",
-      "discount_percent": 30,
-      "original_price": 39.99,
-      "final_price": 27.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000063709/32b85837beea0eee31220a59e247219662de4011f7a8c18fce61cf99a4933eb7",
-      "url": "https://www.nintendo.com/us/store/products/metroid-prime-remastered-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Shooting"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000068683,
-      "name": "Super Mario RPG™",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000068683/fe4afe940b0e707798332e86f0af56cdbde48da59dc37cdfb8d59febb88ac72a",
-      "url": "https://www.nintendo.com/us/store/products/super-mario-rpg-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Role playing"
-      ],
-      "developers": [
-        "Nintendo"
-      ],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000005022,
-      "name": "Princess Peach™: Showtime!",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000005022/45d91d342db7435bf142eb96e9abfe92500b21ec3130228e25b43c57cd580b78",
-      "url": "https://www.nintendo.com/us/store/products/princess-peach-showtime-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000084604,
-      "name": "Donkey Kong Country™ Returns HD",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000084604/50b3b71a75022699ab39d631df7a6b1571df102f96d5f10e6267cbecadfa4cd6",
-      "url": "https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000042934,
-      "name": "Mario Party™ Superstars",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000042934/ae43ce2e25afbc4c069c2920075ead01a84f02dfe55b87876268409f6ccc0304",
-      "url": "https://www.nintendo.com/us/store/products/mario-party-superstars-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Party",
-        "Tabletop"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000084613,
-      "name": "Mario & Luigi™: Brothership",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000084613/9afc95d7bb55198b983e6942649af01932c45df112e8b8842e0578143dcdeaeb",
-      "url": "https://www.nintendo.com/us/store/products/mario-and-luigi-brothership-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Role playing"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000058797,
-      "name": "Kirby’s Return to Dream Land™ Deluxe",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000058797/f37d3c4f766c56db53734e7b74328b66d2a1d9cf37257dcc623435862b145bad",
-      "url": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action"
-      ],
-      "developers": [
-        "HAL Laboratory, Inc."
-      ],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000072954,
-      "name": "Luigi's Mansion™ 2 HD",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000072954/00eac347ef3029bfe156b030be64c0274cd5dea1df4df57b12855c823ef7deb4",
-      "url": "https://www.nintendo.com/us/store/products/luigis-mansion-2-hd-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000072191,
-      "name": "Mario vs. Donkey Kong™",
-      "discount_percent": 30,
-      "original_price": 49.99,
-      "final_price": 34.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000072191/2fda60f3007987817be456876e7755f5120522a75e477961fbb622fd32f9e588",
-      "url": "https://www.nintendo.com/us/store/products/mario-vs-donkey-kong-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Puzzle"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70070000016571,
-      "name": "Fire Emblem™ Engage Bundle (Game + Expansion Pass)",
-      "discount_percent": 30,
-      "original_price": 89.98,
-      "final_price": 62.98,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000016571/affb46cbe64b3511c2587fa6eff86eeda4182d1dbece42d3bb8cb4bab1e0925d",
-      "url": "https://www.nintendo.com/us/store/products/fire-emblem-engage-bundle-game-plus-expansion-pass-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000104187,
-      "name": "Super Mario Galaxy™ ",
-      "discount_percent": 30,
-      "original_price": 39.99,
-      "final_price": 27.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000104187/7ccc1c07ba3995da1dbd7320e726e063eaba9445a5741281d19c3b8fb1c144df",
-      "url": "https://www.nintendo.com/us/store/products/super-mario-galaxy-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000104192,
-      "name": "Super Mario Galaxy™ 2",
-      "discount_percent": 30,
-      "original_price": 39.99,
-      "final_price": 27.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000104192/5731782c9e89d2f492b44f1445f5df3d65660cdf75fe4f47a17e2bed7f82f99e",
-      "url": "https://www.nintendo.com/us/store/products/super-mario-galaxy-2-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000020033,
-      "name": "The Legend of Zelda™: Link’s Awakening",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000020033/df825d5fc6747b66b051f5d3ba6a412fe625ea7878b6a10c93bb8312195682b1",
-      "url": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-links-awakening-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000005302,
-      "name": "Pikmin™ 3 Deluxe",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000005302/a32f7ed0a032b291746ee878475521b685ef6c2b2de2caab3f8d40fec2d7ffce",
-      "url": "https://www.nintendo.com/us/store/products/pikmin-3-deluxe-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Strategy"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000000734,
-      "name": "Yoshi’s Crafted World™",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000000734/db8a252a84301594bdc4eed1be3dbd8d3de5086bc79f6ee1f8060c9a5630101f",
-      "url": "https://www.nintendo.com/us/store/products/yoshis-crafted-world-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action"
-      ],
-      "developers": [
-        "Good-Feel"
-      ],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000044951,
-      "name": "Big Brain Academy™: Brain vs. Brain",
-      "discount_percent": 30,
-      "original_price": 29.99,
-      "final_price": 20.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000044951/474c3e7b2728a3826edf417a4bb0c3ab37ea9e10fb2ca752da7c8a2875e332e5",
-      "url": "https://www.nintendo.com/us/store/products/big-brain-academy-brain-vs-brain-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Training"
-      ],
-      "developers": [
-        "Nintendo"
-      ],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000077705,
-      "name": "Endless Ocean™ Luminous",
-      "discount_percent": 30,
-      "original_price": 49.99,
-      "final_price": 34.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000077705/6fa932eda55c5e713e339667c138a8a4009d439e5d983102cc53d4c0bb84a445",
-      "url": "https://www.nintendo.com/us/store/products/endless-ocean-luminous-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Adventure"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000003889,
-      "name": "Mario Tennis™ Aces ",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000003889/7d4bb0a9ace1fb56a41aae8ef0d4ee806419e6187afdb4697a598458f02cd8e7",
-      "url": "https://www.nintendo.com/us/store/products/mario-tennis-aces-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Party",
-        "Sports"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70070000014933,
-      "name": "Xenoblade Chronicles™ 3 + Xenoblade Chronicles™ 3 Expansion Pass",
-      "discount_percent": 30,
-      "original_price": 89.98,
-      "final_price": 62.98,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000014933/4837f080f69dc2b25f950d9fdf20fd6ff5ae70dc9dce41d45232c65a608c0184",
-      "url": "https://www.nintendo.com/us/store/products/xenoblade-chronicles-3-plus-xenoblade-chronicles-3-expansion-pass-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000080664,
-      "name": "Nintendo World Championships: NES™ Edition",
-      "discount_percent": 30,
-      "original_price": 29.99,
-      "final_price": 20.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000080664/aa0f9e570ce4b3907d2544376d1da43959e4bf0a7825e1377376a448f41b24e0",
-      "url": "https://www.nintendo.com/us/store/products/nintendo-world-championships-nes-edition-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Party"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000002365,
-      "name": "Kirby™ Star Allies",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000002365/56eb33b93862176250495b53d3ad8fee4f84a73a5d99da99585260b403a6ec69",
-      "url": "https://www.nintendo.com/us/store/products/kirby-star-allies-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action"
-      ],
-      "developers": [
-        "HAL Laboratory, Inc."
-      ],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000068678,
-      "name": "WarioWare™: Move It!",
-      "discount_percent": 30,
-      "original_price": 49.99,
-      "final_price": 34.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000068678/5b072b55e8a6993071b4cde9f74d9cf7aeac0b52141177efed6c8ce9b580a435",
-      "url": "https://www.nintendo.com/us/store/products/warioware-move-it-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Party"
-      ],
-      "developers": [
-        "Nintendo"
-      ],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000042929,
-      "name": "WarioWare™: Get It Together!",
-      "discount_percent": 30,
-      "original_price": 49.99,
-      "final_price": 34.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000042929/b572221a658515d2bf2c10961c049727eb147a75290b7a134d4d659f86dc6912",
-      "url": "https://www.nintendo.com/us/store/products/warioware-get-it-together-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Party"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000050778,
-      "name": "Fire Emblem Warriors: Three Hopes",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000050778/fbcfc3d8329a53a3922652262d1eed43f81769867716d27047323835ec796603",
-      "url": "https://www.nintendo.com/us/store/products/fire-emblem-warriors-three-hopes-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Strategy"
-      ],
-      "developers": [
-        "KOEI TECMO GAMES"
-      ],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000041267,
-      "name": "Game Builder Garage™",
-      "discount_percent": 30,
-      "original_price": 29.99,
-      "final_price": 20.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000041267/5b083ee1bf52512ff0aaa70ec0a8f3a367210374c26f173df863ed60690de821",
-      "url": "https://www.nintendo.com/us/store/products/game-builder-garage-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Application",
-        "Education"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000046400,
-      "name": "Bayonetta™ 3",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000046400/0c47748b3a6f1b3a9fce87886c3dae2680f9990e27b2b6c8b029b6133f072477",
-      "url": "https://www.nintendo.com/us/store/products/bayonetta-3-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "developers": [
-        "Platinum Games Inc."
-      ],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000089073,
-      "name": "Fitness Boxing 3: Your Personal Trainer",
-      "discount_percent": 30,
-      "original_price": 49.99,
-      "final_price": 34.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000089073/7e0635473cabaa01166b0efeef9ca58d1501aeda3d941d30cc9e6760e6af5a5e",
-      "url": "https://www.nintendo.com/us/store/products/fitness-boxing-3-your-personal-trainer-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Sports",
-        "Training"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000072196,
-      "name": "Another Code™: Recollection",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000072196/84906698f4a1b4bd6e144beb0fab1883a8bb2397f59c249d39754ee1a4682e5b",
-      "url": "https://www.nintendo.com/us/store/products/another-code-recollection-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Adventure"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000084623,
-      "name": "Emio – The Smiling Man: Famicom Detective Club™",
-      "discount_percent": 30,
-      "original_price": 49.99,
-      "final_price": 34.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000084623/e77a2f083946dba952940b8d6d9f146a8cd85b959b1e8060e62b65c4e4eba972",
-      "url": "https://www.nintendo.com/us/store/products/emio-the-smiling-man-famicom-detective-club-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Adventure"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000006023,
-      "name": "Hyrule Warriors: Definitive Edition",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000006023/4b035b357b10e59dce73609dd071e61d131d90b2e477c29088f26fbe50b44d1b",
-      "url": "https://www.nintendo.com/us/store/products/hyrule-warriors-definitive-edition-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action"
-      ],
-      "developers": [
-        "KOEI TECMO GAMES CO., LTD."
-      ],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000000392,
-      "name": "ARMS™",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000000392/f904982d4ad208926f0ae354b7295548d37ae4389e78192fae941fbd0e94f46b",
-      "url": "https://www.nintendo.com/us/store/products/arms-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Fighting"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000061846,
-      "name": "Bayonetta Origins: Cereza and the Lost Demon™ ",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000061846/73f01ba2458a1430673d64b58bd0b21e2cb6b3e64859a520bd0b93de615aed91",
-      "url": "https://www.nintendo.com/us/store/products/bayonetta-origins-cereza-and-the-lost-demon-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "developers": [
-        "Platinum Games Inc."
-      ],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70070000000661,
-      "name": "Xenoblade Chronicles™ 2 and Xenoblade Chronicles™ 2 Expansion Pass Bundle",
-      "discount_percent": 30,
-      "original_price": 89.98,
-      "final_price": 62.98,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000000661/54c1bf81827fa82f8579cf6e21a862f986e45fc959ea416599d6390658164084",
-      "url": "https://www.nintendo.com/us/store/products/xenoblade-chronicles-2-and-xenoblade-chronicles-2-expansion-pass-bundle-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000038617,
-      "name": "Miitopia™",
-      "discount_percent": 30,
-      "original_price": 49.99,
-      "final_price": 34.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000038617/826f45c7fa28f11053147cafe8f3a49133daa9febffeccda87841e7471daddf4",
-      "url": "https://www.nintendo.com/us/store/products/miitopia-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Role playing"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70070000000644,
-      "name": "Xenoblade Chronicles™ 2 Expansion Pass ",
-      "discount_percent": 30,
-      "original_price": 29.99,
-      "final_price": 20.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000000644/ae576c430a16ff5ba985307593d02b01f7f636c7959013413391b7dce4222e58",
-      "url": "https://www.nintendo.com/us/store/products/xenoblade-chronicles-2-expansion-pass-70070000000644-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000000707,
-      "name": "Xenoblade Chronicles™ 2",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000000707/4cd12c9f2233dc671d0ac2bc208f8551d1d0b62c956d6d477585bb42c1ef09ea",
-      "url": "https://www.nintendo.com/us/store/products/xenoblade-chronicles-2-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Role playing"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000002722,
-      "name": "Captain Toad™: Treasure Tracker ",
-      "discount_percent": 30,
-      "original_price": 39.99,
-      "final_price": 27.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000002722/7d17e538e855a6214e27ce1eb782068d09bffa6ccbc75fb7a4e61773040c1ab5",
-      "url": "https://www.nintendo.com/us/store/products/captain-toad-treasure-tracker-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Puzzle"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70070000014643,
-      "name": "Xenoblade Chronicles™ 3 Expansion Pass",
-      "discount_percent": 30,
-      "original_price": 29.99,
-      "final_price": 20.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000014643/2cd6072f7ee702a04b90b3f7ddc3767101d1e7fdbfcafee70feb1ba98f7fe21a",
-      "url": "https://www.nintendo.com/us/store/products/xenoblade-chronicles-3-expansion-pass-70070000014643-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000027619,
-      "name": "Animal Crossing™: New Horizons",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000027619/9989957eae3a6b545194c42fec2071675c34aadacd65e6b33fdfe7b3b6a86c3a",
-      "url": "https://www.nintendo.com/us/store/products/animal-crossing-new-horizons-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
+        "Narrative adventure",
         "Simulation"
       ],
-      "developers": [],
+      "developers": [
+        "Team Salvato"
+      ],
       "publishers": [
-        "Nintendo"
+        "Serenity Forge"
       ],
       "review_desc": null,
       "review_rank": 0
     },
     {
-      "appid": 70050000030669,
-      "name": "Animal Crossing™: New Horizons - Happy Home Paradise",
-      "discount_percent": 30,
-      "original_price": 24.99,
-      "final_price": 17.49,
+      "appid": 70010000090478,
+      "name": "To the Moon: Sigmund Minisode 1 (Holiday Special)",
+      "discount_percent": 33,
+      "original_price": 2.99,
+      "final_price": 1.99,
       "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000030669/0cc4c2382ba7c7d6a9f0471e9b8ab155ff754cc97735c32289133c8b83141eb5",
-      "url": "https://www.nintendo.com/us/store/products/animal-crossing-new-horizons-happy-home-paradise-70050000030669-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70070000000041,
-      "name": "The Legend of Zelda™: Breath of the Wild Expansion Pass",
-      "discount_percent": 30,
-      "original_price": 19.99,
-      "final_price": 13.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000000041/2e95a9a33f95a2c3efc7b695ca384d215e30dce6c49fac808cbb4965db288a3a",
-      "url": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-breath-of-the-wild-expansion-pass-70070000000041-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000000025,
-      "name": "The Legend of Zelda™: Breath of the Wild",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000000025/7137262b5a64d921e193653f8aa0b722925abc5680380ca0e18a5cfd91697f58",
-      "url": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-breath-of-the-wild-switch/",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000090478/7dddf60e888bb5d827dcfea9c69f89709f04b769041d2490ebd2bb8a7a87f4e0",
+      "url": "https://www.nintendo.com/us/store/products/to-the-moon-sigmund-minisode-1-holiday-special-switch/",
       "on_sale": true,
       "platform": "Nintendo Switch",
       "genres": [
-        "Action",
         "Adventure"
       ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000000141,
-      "name": "1-2-Switch™",
-      "discount_percent": 30,
-      "original_price": 49.99,
-      "final_price": 34.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000000141/ed7d64a9ec942a31e364c16d9501628216f835539ee05d1ff510b270d50b3d3b",
-      "url": "https://www.nintendo.com/us/store/products/1-2-switch-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Party"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000068159,
-      "name": "Everybody 1-2-Switch!™",
-      "discount_percent": 30,
-      "original_price": 29.99,
-      "final_price": 20.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000068159/de4985f3b03b7b50565be4b906ded22186f8365cc8c25bcbe1ed76882df39a17",
-      "url": "https://www.nintendo.com/us/store/products/everybody-1-2-switch-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Party"
-      ],
       "developers": [
-        "Nintendo."
+        "Freebird Games Inc."
       ],
       "publishers": [
-        "Nintendo"
+        "Serenity Forge"
       ],
       "review_desc": null,
       "review_rank": 0
     },
     {
-      "appid": 70070000006263,
-      "name": "DRAGON QUEST BUILDERS™ 2 + Season Pass Bundle",
-      "discount_percent": 30,
-      "original_price": 70.98,
-      "final_price": 49.68,
+      "appid": 70010000090480,
+      "name": "To the Moon: Sigmund Minisode 2 (Holiday Special)",
+      "discount_percent": 33,
+      "original_price": 2.99,
+      "final_price": 1.99,
       "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000006263/a4fde9142e565a9134cdfa130dda541f9490ff91ece7bdc439e905c2afae9a69",
-      "url": "https://www.nintendo.com/us/store/products/dragon-quest-builders-2-plus-season-pass-bundle-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000009167,
-      "name": "DRAGON QUEST BUILDERS™ 2 ",
-      "discount_percent": 30,
-      "original_price": 49.99,
-      "final_price": 34.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000009167/aa76ed4ae6eed8a8160643e1ff1b9f964468270b9ed6a26fdae8bb4f91576ba1",
-      "url": "https://www.nintendo.com/us/store/products/dragon-quest-builders-2-switch/",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000090480/028de264cc391cb39ee55be9a424f259a844ea727f50076f6a9fb49da6c93c4d",
+      "url": "https://www.nintendo.com/us/store/products/to-the-moon-sigmund-minisode-2-holiday-special-switch/",
       "on_sale": true,
       "platform": "Nintendo Switch",
       "genres": [
-        "Action",
-        "Role playing"
-      ],
-      "developers": [
-        "SQUARE ENIX  CO., LTD."
-      ],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70070000013723,
-      "name": "Mario Kart™ 8 Deluxe – Booster Course Pass ",
-      "discount_percent": 30,
-      "original_price": 24.99,
-      "final_price": 17.49,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000013723/ba4f55994f843c768d99cfd84c3db85277d389fe13e19776e2a59c0d278ff9b4",
-      "url": "https://www.nintendo.com/us/store/products/mario-kart-8-deluxe-booster-course-pass-70070000013723-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000000153,
-      "name": "Mario Kart™ 8 Deluxe",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000000153/de697f487a36d802dd9a5ff0341f717c8486221f2f1219b675af37aca63bc453",
-      "url": "https://www.nintendo.com/us/store/products/mario-kart-8-deluxe-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Party",
-        "Racing"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70070000011785,
-      "name": "Hyrule Warriors: Age of Calamity Expansion Pass",
-      "discount_percent": 30,
-      "original_price": 19.99,
-      "final_price": 13.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000011785/47a980ab559ada573b72477b65410ee3c0077e1bccab2a0bc0ada39671ffc55f",
-      "url": "https://www.nintendo.com/us/store/products/hyrule-warriors-age-of-calamity-expansion-pass-70070000011785-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000034760,
-      "name": "Hyrule Warriors: Age of Calamity",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000034760/1123ea0e4079a8aaa32187dcaa94b8ef407e028f9b6b8d5ff944bd750f1ce347",
-      "url": "https://www.nintendo.com/us/store/products/hyrule-warriors-age-of-calamity-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000006801,
-      "name": "Dragon Quest Builders™",
-      "discount_percent": 30,
-      "original_price": 49.99,
-      "final_price": 34.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000006801/0368e07ef261be9d1d8f9f53c1958e1c35b1244c009edd21c99383d2ab7f9d58",
-      "url": "https://www.nintendo.com/us/store/products/dragon-quest-builders-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Role playing"
-      ],
-      "developers": [
-        "Square Enix"
-      ],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70070000006281,
-      "name": "DRAGON QUEST BUILDERS™ 2: Season Pass ",
-      "discount_percent": 30,
-      "original_price": 20.99,
-      "final_price": 14.69,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000006281/68cfe5f7d2732d989994624e2caa8c4034c5ddaff5a275e15582f36a2606113f",
-      "url": "https://www.nintendo.com/us/store/products/dragon-quest-builders-2-season-pass-70070000006281-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000018502,
-      "name": "DAEMON X MACHINA™ ",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000018502/48da490f3b8e359af997c2aae5c1f2e49b4be7bc4ccb617cbbda31582224c6af",
-      "url": "https://www.nintendo.com/us/store/products/daemon-x-machina-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Shooting"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000001620,
-      "name": "Luigi’s Mansion™ 3",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000001620/2b166fb3197dacfde1d939acd6a976b9fbe3b1a32c54f9f0d2c8d23efb22412d",
-      "url": "https://www.nintendo.com/us/store/products/luigis-mansion-3-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
         "Adventure"
       ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70070000009532,
-      "name": "Luigi's Mansion™ 3: Multiplayer Pack",
-      "discount_percent": 30,
-      "original_price": 9.99,
-      "final_price": 6.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000009532/a0190695a95d9b62ddaa0f97eebd32ec8bb014c36e223948556c14f7cd0ba276",
-      "url": "https://www.nintendo.com/us/store/products/luigis-mansion-3-multiplayer-pack-70070000009532-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000053336,
-      "name": "Xenoblade Chronicles™ 3",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000053336/e933b48650b33b355e9cf2583da5c94b77180e40fb02d050041083dd62f4df39",
-      "url": "https://www.nintendo.com/us/store/products/xenoblade-chronicles-3-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Role playing"
-      ],
       "developers": [
-        "MONOLITHSOFT"
+        "Freebird Games Inc."
       ],
       "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000014081,
-      "name": "Xenoblade Chronicles 2: Torna ~ The Golden Country ",
-      "discount_percent": 30,
-      "original_price": 39.99,
-      "final_price": 27.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000014081/c2873a687f65c4af6ee516438727250679b892f646ea24a44b50b41e2e229db4",
-      "url": "https://www.nintendo.com/us/store/products/xenoblade-chronicles-2-torna-the-golden-country-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Role playing"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000068669,
-      "name": "Pikmin™ 1",
-      "discount_percent": 30,
-      "original_price": 29.99,
-      "final_price": 20.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000068669/f914703be359d59c4fced6c076adce7eae9ddbbdd0cfa13a10d008ae154c9b61",
-      "url": "https://www.nintendo.com/us/store/products/pikmin-1-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Strategy"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000068673,
-      "name": "Pikmin™ 2",
-      "discount_percent": 30,
-      "original_price": 29.99,
-      "final_price": 20.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000068673/94e7e930658b4970c3e98eeb8f8fff34de4b43067874c1968a607bc2c78bfd9d",
-      "url": "https://www.nintendo.com/us/store/products/pikmin-2-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Strategy"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000007606,
-      "name": "Fire Emblem™: Three Houses",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000007606/c499fdc86779ca95e61daed1f94288a245d196360d278138e56d44097d1a3878",
-      "url": "https://www.nintendo.com/us/store/products/fire-emblem-three-houses-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Role playing",
-        "Strategy"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000058802,
-      "name": "Fire Emblem™ Engage",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000058802/88b8db494399e659522af36331b7f588439bc4312af5c0ee57035c063651ab4a",
-      "url": "https://www.nintendo.com/us/store/products/fire-emblem-engage-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Role playing",
-        "Strategy"
-      ],
-      "developers": [
-        "Intelligent Systems"
-      ],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000000600,
-      "name": "Fire Emblem Warriors ",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000000600/579e11645c978f72253e4668b6ab2de2b618bc1bd8f19275ed4636312d07f069",
-      "url": "https://www.nintendo.com/us/store/products/fire-emblem-warriors-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Strategy"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000028643,
-      "name": "BRAVELY DEFAULT™ II",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000028643/f169aecd33e7fc087f6aec75372abe7fe32bb8a7258571fb973597856e7d4605",
-      "url": "https://www.nintendo.com/us/store/products/bravely-default-ii-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Role playing"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70070000006516,
-      "name": "MARVEL ULTIMATE ALLIANCE 3: The Black Order and MARVEL ULTIMATE ALLIANCE 3: The Black Order Expansion Pass ",
-      "discount_percent": 30,
-      "original_price": 79.98,
-      "final_price": 55.98,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000006516/dc95cedc0b209d4bd0adf0927320ba44564f0c97784b03a36fd9f6d561e23a33",
-      "url": "https://www.nintendo.com/us/store/products/marvel-ultimate-alliance-3-the-black-order-and-marvel-ultimate-alliance-3-the-black-order-expansion-pass-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000010079,
-      "name": "MARVEL ULTIMATE ALLIANCE 3: The Black Order",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000010079/a746d6ebc71bd10eb74ded9afb4ac96b8a795268e9ad47bda982c82190404b0a",
-      "url": "https://www.nintendo.com/us/store/products/marvel-ultimate-alliance-3-the-black-order-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action"
-      ],
-      "developers": [
-        "KOEI TECMO GAMES CO., LTD."
-      ],
-      "publishers": [
-        "Nintendo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70050000012782,
-      "name": "MARVEL ULTIMATE ALLIANCE 3: The Black Order Expansion Pass ",
-      "discount_percent": 30,
-      "original_price": 19.99,
-      "final_price": 13.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000012782/89e9dd512a4428f0ac7c93b4b974c1f0914f48d0dc5e98a2f8c1947a023d2dbb",
-      "url": "https://www.nintendo.com/us/store/products/marvel-ultimate-alliance-3-the-black-order-expansion-pass-70050000012782-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Nintendo"
+        "Serenity Forge"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -4417,6 +2783,29 @@
       "developers": [],
       "publishers": [
         "CAPCOM"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000125648,
+      "name": "Puppergeist",
+      "discount_percent": 20,
+      "original_price": 4.99,
+      "final_price": 3.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000125648/57100370fbd0513372146078e67daac7d1ca3574dd6439f6cca69cdb33aaf3ba",
+      "url": "https://www.nintendo.com/us/store/products/puppergeist-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action"
+      ],
+      "developers": [
+        "Serenity Forge"
+      ],
+      "publishers": [
+        "Serenity Forge"
       ],
       "review_desc": null,
       "review_rank": 0
