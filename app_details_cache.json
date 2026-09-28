@@ -20922,5 +20922,41 @@
     "publishers": [
       "KOEI TECMO GAMES CO., LTD."
     ]
+  },
+  "5246160": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "캐주얼",
+      "인디",
+      "대규모 멀티플레이어",
+      "레이싱",
+      "RPG",
+      "시뮬레이션",
+      "전략",
+      "무료 플레이"
+    ],
+    "developers": [
+      "Everstone Studio"
+    ],
+    "publishers": [
+      "NetEase Games"
+    ]
+  },
+  "4623570": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "캐주얼",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "First Day Games"
+    ],
+    "publishers": [
+      "First Day Games",
+      "Gamersky Games"
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1790567755.0543509,
+  "fetched_at": 1790600567.629362,
   "deals": [
     {
       "appid": 70010000035797,
@@ -129,25 +129,6 @@
       "review_rank": 0
     },
     {
-      "appid": 70070000003203,
-      "name": "DRAGON BALL FighterZ - FighterZ Edition",
-      "discount_percent": 84,
-      "original_price": 89.99,
-      "final_price": 14.39,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000003203/1a1b296980398d1541b41b374e3eefc739355b496722fa13cf4c4f0a104f4097",
-      "url": "https://www.nintendo.com/us/store/products/dragon-ball-fighterz-fighterz-edition-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Bandai Namco Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 70010000009788,
       "name": "Dragon's Dogma: Dark Arisen",
       "discount_percent": 83,
@@ -189,20 +170,166 @@
       "review_rank": 0
     },
     {
-      "appid": 70070000019440,
-      "name": "DRAGON BALL XENOVERSE 2 Deluxe Edition",
+      "appid": 70010000056720,
+      "name": "Once Upon a Jester",
       "discount_percent": 80,
-      "original_price": 39.99,
-      "final_price": 7.99,
+      "original_price": 14.99,
+      "final_price": 2.99,
       "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000019440/785ba42f91fb69f087d8848865dbf452e292a2c6641052b246a785d9853147bd",
-      "url": "https://www.nintendo.com/us/store/products/dragon-ball-xenoverse-2-deluxe-edition-switch/",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000056720/5c11c69795c8e5bdb95162c2598a44004f06ad7aa484bf742257a8126c395a87",
+      "url": "https://www.nintendo.com/us/store/products/once-upon-a-jester-switch/",
       "on_sale": true,
       "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
+      "genres": [
+        "Adventure"
+      ],
+      "developers": [
+        "Bonte Avond"
+      ],
       "publishers": [
-        "Bandai Namco Entertainment"
+        "Crunching Koalas"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000018642,
+      "name": "MouseCraft",
+      "discount_percent": 80,
+      "original_price": 9.99,
+      "final_price": 1.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000018642/822ef1e0f3f3c961b942ac036a9dcd034a610a07337be6be25674ed6a4d06f4e",
+      "url": "https://www.nintendo.com/us/store/products/mousecraft-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Puzzle"
+      ],
+      "developers": [
+        "Crunching Koalas"
+      ],
+      "publishers": [
+        "Crunching Koalas"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000035828,
+      "name": "Winds Of Change",
+      "discount_percent": 80,
+      "original_price": 19.99,
+      "final_price": 3.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000035828/7d1d87710b6b4b652762a801970779e75f7ec2749062d8daf6f4ec20009cf210",
+      "url": "https://www.nintendo.com/us/store/products/winds-of-change-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Narrative adventure",
+        "Role playing"
+      ],
+      "developers": [
+        "Klace"
+      ],
+      "publishers": [
+        "Crunching Koalas"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000000906,
+      "name": "Lichtspeer: Double Speer Edition",
+      "discount_percent": 80,
+      "original_price": 9.99,
+      "final_price": 1.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000000906/3cfd83ae123e7d8f694039bd01adc4780d6b08d41a9321f16c35d96e13f3bc03",
+      "url": "https://www.nintendo.com/us/store/products/lichtspeer-double-speer-edition-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action"
+      ],
+      "developers": [
+        "Lichthund / Crunching Koalas"
+      ],
+      "publishers": [
+        "Crunching Koalas"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000013913,
+      "name": "My Memory of Us",
+      "discount_percent": 80,
+      "original_price": 14.99,
+      "final_price": 2.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000013913/5836e0a4f9917d215f096ae671243f0dd5c495ebff42d0ba006b6a0c82a8dc05",
+      "url": "https://www.nintendo.com/us/store/products/my-memory-of-us-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "developers": [
+        "Juggler Games/Crunching Koalas"
+      ],
+      "publishers": [
+        "Crunching Koalas"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000032689,
+      "name": "Bonkies",
+      "discount_percent": 80,
+      "original_price": 14.99,
+      "final_price": 2.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000032689/d45f1f94df0ada787b400a7e170bb132564729a7fc7d459dd6a71c48e6b444e2",
+      "url": "https://www.nintendo.com/us/store/products/bonkies-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Party",
+        "Puzzle"
+      ],
+      "developers": [
+        "Studio Gauntlet"
+      ],
+      "publishers": [
+        "Crunching Koalas"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000017337,
+      "name": "Cinders",
+      "discount_percent": 80,
+      "original_price": 19.99,
+      "final_price": 3.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000017337/51f75b4f4ae8047d258f80ce733833ac1677092ee67d11573a112e2fb1fcb760",
+      "url": "https://www.nintendo.com/us/store/products/cinders-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Narrative adventure"
+      ],
+      "developers": [
+        "MoaCube / Crunching Koalas"
+      ],
+      "publishers": [
+        "Crunching Koalas"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -340,52 +467,6 @@
       "review_rank": 0
     },
     {
-      "appid": 70010000019762,
-      "name": "ONE PIECE: PIRATE WARRIORS 4",
-      "discount_percent": 75,
-      "original_price": 39.99,
-      "final_price": 9.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000019762/71ab52324b955ed6841a8bc48d52e5812feff6ed13d0ca1c237f73e01556ef11",
-      "url": "https://www.nintendo.com/us/store/products/one-piece-pirate-warriors-4-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action"
-      ],
-      "developers": [
-        "Koei Tecmo"
-      ],
-      "publishers": [
-        "Bandai Namco Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000103343,
-      "name": "ONE PIECE: PIRATE WARRIORS 4 Nintendo Switch™ 2 Edition ",
-      "discount_percent": 75,
-      "original_price": 39.99,
-      "final_price": 9.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000103343/25511d0c3928498a63b5ea0d20627311e8db0b2b63fddec0652f81c1cbe67e18",
-      "url": "https://www.nintendo.com/us/store/products/one-piece-pirate-warriors-4-nintendo-switch-2-edition-switch-2/",
-      "on_sale": true,
-      "platform": "Nintendo Switch 2",
-      "genres": [
-        "Action"
-      ],
-      "developers": [
-        "Koei Tecmo"
-      ],
-      "publishers": [
-        "Bandai Namco Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 70010000004642,
       "name": "Monster Hunter Generations Ultimate™",
       "discount_percent": 75,
@@ -404,6 +485,100 @@
       ],
       "publishers": [
         "CAPCOM"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000011740,
+      "name": "Darkwood",
+      "discount_percent": 75,
+      "original_price": 14.99,
+      "final_price": 3.74,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000011740/b1513b0afaa170f79b71d7552a193a99f89b28c8525c2fbb8673c8143cb79465",
+      "url": "https://www.nintendo.com/us/store/products/darkwood-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "developers": [
+        "Acid Wizard / Crunching Koalas"
+      ],
+      "publishers": [
+        "Crunching Koalas"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000055195,
+      "name": "Nadir: A Grimdark Deck Builder",
+      "discount_percent": 75,
+      "original_price": 19.99,
+      "final_price": 4.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000055195/6fd3da5c255b76b46efede7a1aeff77f1da170a01a085dce8442a6cd29820ece",
+      "url": "https://www.nintendo.com/us/store/products/nadir-a-grimdark-deck-builder-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Adventure",
+        "Tabletop"
+      ],
+      "developers": [
+        "Black Eye Games"
+      ],
+      "publishers": [
+        "Crunching Koalas"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000077410,
+      "name": "The Gap",
+      "discount_percent": 75,
+      "original_price": 19.99,
+      "final_price": 4.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000077410/1b4fca60a8c75175287e0feabb4357f9f2749f54becb8b6cdbb641071b8f54f5",
+      "url": "https://www.nintendo.com/us/store/products/the-gap-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Adventure"
+      ],
+      "developers": [
+        "Label This"
+      ],
+      "publishers": [
+        "Crunching Koalas"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000001432,
+      "name": "BUTCHER",
+      "discount_percent": 75,
+      "original_price": 9.99,
+      "final_price": 2.49,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000001432/be938594d612007b3c97bc5590af6bb635b5713918e3db66eb34ad37c088b980",
+      "url": "https://www.nintendo.com/us/store/products/butcher-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Shooting"
+      ],
+      "developers": [
+        "Transhuman Design"
+      ],
+      "publishers": [
+        "Crunching Koalas"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -428,6 +603,29 @@
       ],
       "publishers": [
         "Serenity Forge"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000065677,
+      "name": "Techno Banter",
+      "discount_percent": 70,
+      "original_price": 17.99,
+      "final_price": 5.39,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000065677/4ce26eb9732b6c4ef653414b648311fc450cfad48d4d22ab17eeca6cf8774b6e",
+      "url": "https://www.nintendo.com/us/store/products/techno-banter-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Adventure"
+      ],
+      "developers": [
+        "Dexai Arts / Crunching Koalas"
+      ],
+      "publishers": [
+        "Crunching Koalas"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -585,25 +783,6 @@
       "review_rank": 0
     },
     {
-      "appid": 70070000010082,
-      "name": "ONE PIECE: PIRATE WARRIORS 4 Character Pass",
-      "discount_percent": 67,
-      "original_price": 29.99,
-      "final_price": 9.89,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000010082/cfefe5e1230db0f80b364bd97797a0aa1a7daceb1a0ea44c4812dae7bad985a3",
-      "url": "https://www.nintendo.com/us/store/products/one-piece-pirate-warriors-4-character-pass-70070000010082-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Bandai Namco Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 70010000015846,
       "name": "Phoenix Wright: Ace Attorney Trilogy",
       "discount_percent": 67,
@@ -741,47 +920,6 @@
       "review_rank": 0
     },
     {
-      "appid": 70070000004681,
-      "name": "DRAGON BALL FighterZ - FighterZ Pass 2",
-      "discount_percent": 60,
-      "original_price": 24.99,
-      "final_price": 9.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000004681/c2ccfd835151eeb069ed96870b226d8314b9bdb4d292e70bbebce443fca7296e",
-      "url": "https://www.nintendo.com/us/store/products/dragon-ball-fighterz-fighterz-pass-2-70070000004681-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Bandai Namco Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000047561,
-      "name": "Taiko no Tatsujin: Rhythm Festival",
-      "discount_percent": 60,
-      "original_price": 49.99,
-      "final_price": 19.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000047561/105d7cd7386ca93a904b492fe7b98a4e00f4c5c9ae41bc30e2b5bb5f541282dc",
-      "url": "https://www.nintendo.com/us/store/products/taiko-no-tatsujin-rhythm-festival-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Music",
-        "Party"
-      ],
-      "developers": [],
-      "publishers": [
-        "Bandai Namco Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 70010000024294,
       "name": "The Great Ace Attorney Chronicles",
       "discount_percent": 60,
@@ -801,6 +939,30 @@
       ],
       "publishers": [
         "CAPCOM"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000084172,
+      "name": "Kamikaze Lassplanes",
+      "discount_percent": 60,
+      "original_price": 19.99,
+      "final_price": 7.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000084172/f8f523fb3cd11ee698ff5430b02e713d56c31e60450c0a23076cf4e4803eb3a2",
+      "url": "https://www.nintendo.com/us/store/products/kamikaze-lassplanes-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Narrative adventure",
+        "Shooting"
+      ],
+      "developers": [
+        "Inky Dreams"
+      ],
+      "publishers": [
+        "Crunching Koalas"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -1225,101 +1387,6 @@
       "developers": [],
       "publishers": [
         "Serenity Forge"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70050000048844,
-      "name": "DRAGON BALL XENOVERSE 2 - FUTURE SAGA Chapter 1",
-      "discount_percent": 50,
-      "original_price": 19.99,
-      "final_price": 9.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000048844/c342e40c849c5734e4c88116674cbf72019fb10a0f66a8420a6708fd4353139f",
-      "url": "https://www.nintendo.com/us/store/products/dragon-ball-xenoverse-2-future-saga-chapter-1-70050000048844-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Bandai Namco Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70050000053077,
-      "name": "DRAGON BALL XENOVERSE 2 - FUTURE SAGA Chapter 2",
-      "discount_percent": 50,
-      "original_price": 9.99,
-      "final_price": 4.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000053077/d9153258d5de08c0cb88ef3912e0cfbad1afa104d963bb8798ba58af4077d336",
-      "url": "https://www.nintendo.com/us/store/products/dragon-ball-xenoverse-2-future-saga-chapter-2-70050000053077-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Bandai Namco Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70050000064688,
-      "name": "DRAGON BALL XENOVERSE 2 - FUTURE SAGA Chapter 3",
-      "discount_percent": 50,
-      "original_price": 11.99,
-      "final_price": 5.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000064688/49092fc1331e94cab67cd2ff52b01b8255569782fe86cfffb5e67b5384103a14",
-      "url": "https://www.nintendo.com/us/store/products/dragon-ball-xenoverse-2-future-saga-chapter-3-70050000064688-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Bandai Namco Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70070000029304,
-      "name": "DRAGON BALL Z: KAKAROT + A NEW POWER AWAKENS SET - DAIMA EDITION",
-      "discount_percent": 50,
-      "original_price": 49.99,
-      "final_price": 24.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000029304/36654c0de42c7766ff514ebfbeac0c03d901f2d0cf3cdc24ba69e512e910e8fa",
-      "url": "https://www.nintendo.com/us/store/products/dragon-ball-z-kakarot-plus-a-new-power-awakens-set-daima-edition-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "BANDAI NAMCO Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70070000016338,
-      "name": "DRAGON BALL Z: KAKAROT + A NEW POWER AWAKENS SET Season Pass 2",
-      "discount_percent": 50,
-      "original_price": 39.99,
-      "final_price": 19.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000016338/5c80aab1550452642f25c4f641c30f345f1859ec3a4e58e79e8b726fb85ed419",
-      "url": "https://www.nintendo.com/us/store/products/dragon-ball-z-kakarot-plus-a-new-power-awakens-set-season-pass-2-70070000016338-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "BANDAI NAMCO Entertainment"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -1779,44 +1846,6 @@
       "review_rank": 0
     },
     {
-      "appid": 70070000029711,
-      "name": "PAC-MAN WORLD 2 Re-PAC Deluxe Edition",
-      "discount_percent": 45,
-      "original_price": 39.99,
-      "final_price": 21.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70070000029711/5072284b3e6dd3aed08733bf34d3150a2cfce9b3fb0149860dc01e106b0778c6",
-      "url": "https://www.nintendo.com/us/store/products/pac-man-world-2-re-pac-deluxe-edition-switch-2/",
-      "on_sale": true,
-      "platform": "Nintendo Switch 2",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Bandai Namco Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70070000029708,
-      "name": "PAC-MAN WORLD 2 Re-PAC Deluxe Edition",
-      "discount_percent": 45,
-      "original_price": 39.99,
-      "final_price": 21.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000029708/5072284b3e6dd3aed08733bf34d3150a2cfce9b3fb0149860dc01e106b0778c6",
-      "url": "https://www.nintendo.com/us/store/products/pac-man-world-2-re-pac-deluxe-edition-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Bandai Namco Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 70010000082315,
       "name": "Keylocker | Turn Based Cyberpunk Action",
       "discount_percent": 45,
@@ -1858,25 +1887,6 @@
       "developers": [],
       "publishers": [
         "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70050000055671,
-      "name": "DRAGON BALL Z: KAKAROT - DAIMA - Adventure Through The Demon Realm PART 1",
-      "discount_percent": 40,
-      "original_price": 19.99,
-      "final_price": 11.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000055671/de18362218786a478cc5d3b233ce967d7092ad4a74ff935dbc98a33dfcc0e4d7",
-      "url": "https://www.nintendo.com/us/store/products/dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-part-1-70050000055671-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "BANDAI NAMCO Entertainment"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -2194,44 +2204,6 @@
       "review_rank": 0
     },
     {
-      "appid": 70070000029670,
-      "name": "DRAGON BALL: Sparking! ZERO Deluxe Edition",
-      "discount_percent": 34,
-      "original_price": 89.99,
-      "final_price": 59.39,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000029670/55efad6dc29364c064f593c8bdc4e6a78ab6b5ca7a245da7f3e2de898b04eae2",
-      "url": "https://www.nintendo.com/us/store/products/dragon-ball-sparking-zero-deluxe-edition-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Bandai Namco Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70070000029713,
-      "name": "DRAGON BALL: Sparking! ZERO Deluxe Edition",
-      "discount_percent": 34,
-      "original_price": 89.99,
-      "final_price": 59.39,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70070000029713/55efad6dc29364c064f593c8bdc4e6a78ab6b5ca7a245da7f3e2de898b04eae2",
-      "url": "https://www.nintendo.com/us/store/products/dragon-ball-sparking-zero-deluxe-edition-switch-2/",
-      "on_sale": true,
-      "platform": "Nintendo Switch 2",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Bandai Namco Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 70050000026692,
       "name": "Monster Hunter Stories 2: Wings of Ruin Deluxe Kit",
       "discount_percent": 33,
@@ -2316,219 +2288,6 @@
       ],
       "publishers": [
         "Serenity Forge"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70050000060109,
-      "name": "DRAGON BALL: Sparking! ZERO - Dragon Ball DAIMA: Character Pack 1",
-      "discount_percent": 30,
-      "original_price": 9.99,
-      "final_price": 6.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000060109/1cb8edfcea881f4643f020317a7a2f46bafbc3fd5a7599d15b6fe3810301c6a8",
-      "url": "https://www.nintendo.com/us/store/products/dragon-ball-sparking-zero-dragon-ball-daima-character-pack-1-70050000060109-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Bandai Namco Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70050000060110,
-      "name": "DRAGON BALL: Sparking! ZERO - Dragon Ball DAIMA: Character Pack 1",
-      "discount_percent": 30,
-      "original_price": 9.99,
-      "final_price": 6.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70050000060110/19ae79b3ae3be7f27cc6f36fb62b11c9b17789ca4cf70b194fb2db2c9b2d409c",
-      "url": "https://www.nintendo.com/us/store/products/dragon-ball-sparking-zero-dragon-ball-daima-character-pack-1-70050000060110-switch-2/",
-      "on_sale": true,
-      "platform": "Nintendo Switch 2",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Bandai Namco Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70050000060111,
-      "name": "DRAGON BALL: Sparking! ZERO - Dragon Ball DAIMA: Character Pack 2",
-      "discount_percent": 30,
-      "original_price": 9.99,
-      "final_price": 6.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000060111/882cc91ea70e4cd9410b2096b575ac6cedb20685fb64daa1c93aeb395e64f0f7",
-      "url": "https://www.nintendo.com/us/store/products/dragon-ball-sparking-zero-dragon-ball-daima-character-pack-2-70050000060111-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Bandai Namco Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70050000060112,
-      "name": "DRAGON BALL: Sparking! ZERO - Dragon Ball DAIMA: Character Pack 2",
-      "discount_percent": 30,
-      "original_price": 9.99,
-      "final_price": 6.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70050000060112/339325ed14d2617db059ea4e1b222582dca5396d9560555518f15ad4921e569c",
-      "url": "https://www.nintendo.com/us/store/products/dragon-ball-sparking-zero-dragon-ball-daima-character-pack-2-70050000060112-switch-2/",
-      "on_sale": true,
-      "platform": "Nintendo Switch 2",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Bandai Namco Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70050000060113,
-      "name": "DRAGON BALL: Sparking! ZERO - Shallot (DRAGON BALL LEGENDS)",
-      "discount_percent": 30,
-      "original_price": 2.99,
-      "final_price": 2.09,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000060113/41e131683e1a249067e893d9baf5641a6e75d3a30555301e7b74321cf217a1b4",
-      "url": "https://www.nintendo.com/us/store/products/dragon-ball-sparking-zero-shallot-dragon-ball-legends-70050000060113-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Bandai Namco Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70050000060114,
-      "name": "DRAGON BALL: Sparking! ZERO - Shallot (DRAGON BALL LEGENDS)",
-      "discount_percent": 30,
-      "original_price": 2.99,
-      "final_price": 2.09,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70050000060114/f5ad6f5515f7869912ab10deeeb835a9b0d958c1efe7c602a276372ecd3eed5c",
-      "url": "https://www.nintendo.com/us/store/products/dragon-ball-sparking-zero-shallot-dragon-ball-legends-70050000060114-switch-2/",
-      "on_sale": true,
-      "platform": "Nintendo Switch 2",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Bandai Namco Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000110953,
-      "name": "Digimon Story Time Stranger",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000110953/7c5bcf1b1cd2d27c72326bd6c6c6f7f631a7b968d9fbb429c0eed11849c8bc1d",
-      "url": "https://www.nintendo.com/us/store/products/digimon-story-time-stranger-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Role playing"
-      ],
-      "developers": [],
-      "publishers": [
-        "Bandai Namco Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000111119,
-      "name": "Digimon Story Time Stranger",
-      "discount_percent": 30,
-      "original_price": 59.99,
-      "final_price": 41.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000111119/7c5bcf1b1cd2d27c72326bd6c6c6f7f631a7b968d9fbb429c0eed11849c8bc1d",
-      "url": "https://www.nintendo.com/us/store/products/digimon-story-time-stranger-switch-2/",
-      "on_sale": true,
-      "platform": "Nintendo Switch 2",
-      "genres": [
-        "Role playing"
-      ],
-      "developers": [],
-      "publishers": [
-        "Bandai Namco Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70070000034260,
-      "name": "Tales of ARISE - Beyond the Dawn Premium Edition ",
-      "discount_percent": 30,
-      "original_price": 69.99,
-      "final_price": 48.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70070000034260/765736f9363724dcbb8893cd1c93280d19400a7b394b8ff39eb953ffa5557b27",
-      "url": "https://www.nintendo.com/us/store/products/tales-of-arise-beyond-the-dawn-premium-edition-switch-2/",
-      "on_sale": true,
-      "platform": "Nintendo Switch 2",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Bandai Namco Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70050000070403,
-      "name": "Tales of ARISE - SAO Collaboration Pack",
-      "discount_percent": 30,
-      "original_price": 4.99,
-      "final_price": 3.49,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70050000070403/16b77edff174912e5cfca8eacdeeb595a921a1f4e8a01c3b6b1d5c7d565756ef",
-      "url": "https://www.nintendo.com/us/store/products/tales-of-arise-sao-collaboration-pack-70050000070403-switch-2/",
-      "on_sale": true,
-      "platform": "Nintendo Switch 2",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Bandai Namco Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70050000055672,
-      "name": "DRAGON BALL Z: KAKAROT - DAIMA - Adventure Through The Demon Realm PART 2",
-      "discount_percent": 30,
-      "original_price": 19.99,
-      "final_price": 13.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000055672/ecb8172ad1c1431d31b47b6bc3d0d3d660b5ec469e9975812a3cb40c0f4b7ea8",
-      "url": "https://www.nintendo.com/us/store/products/dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-part-2-70050000055672-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "BANDAI NAMCO Entertainment"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -2636,44 +2395,6 @@
       "developers": [],
       "publishers": [
         "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70070000033405,
-      "name": "Digimon Story Time Stranger Ultimate Edition",
-      "discount_percent": 25,
-      "original_price": 109.99,
-      "final_price": 82.49,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000033405/4201d7cdb64d8510b39f8f471a4ee3b7cec7e1c4d31cd1b3bbfd56d3b44bf9d2",
-      "url": "https://www.nintendo.com/us/store/products/digimon-story-time-stranger-ultimate-edition-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Bandai Namco Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70070000033406,
-      "name": "Digimon Story Time Stranger Ultimate Edition",
-      "discount_percent": 25,
-      "original_price": 109.99,
-      "final_price": 82.49,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70070000033406/4201d7cdb64d8510b39f8f471a4ee3b7cec7e1c4d31cd1b3bbfd56d3b44bf9d2",
-      "url": "https://www.nintendo.com/us/store/products/digimon-story-time-stranger-ultimate-edition-switch-2/",
-      "on_sale": true,
-      "platform": "Nintendo Switch 2",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Bandai Namco Entertainment"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -2806,6 +2527,48 @@
       ],
       "publishers": [
         "Serenity Forge"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000117868,
+      "name": "FOUNTAINS",
+      "discount_percent": 10,
+      "original_price": 14.99,
+      "final_price": 13.49,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000117868/a05f0c8aa2a167af9899efc78a498d69bc9e69dd30f38a490d79f83ed949ddbd",
+      "url": "https://www.nintendo.com/us/store/products/fountains-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action"
+      ],
+      "developers": [
+        "John Pywell"
+      ],
+      "publishers": [
+        "Crunching Koalas"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70050000077738,
+      "name": "FOUNTAINS - Shattered Shape",
+      "discount_percent": 10,
+      "original_price": 5.99,
+      "final_price": 5.39,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000077738/bd05900c17c3c1f633f4a748bfd823203167cbf3833ac69f747aa43ac7f40699",
+      "url": "https://www.nintendo.com/us/store/products/fountains-shattered-shape-70050000077738-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "Crunching Koalas"
       ],
       "review_desc": null,
       "review_rank": 0
