@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1790600567.2050345,
+  "fetched_at": 1790636319.591816,
   "deals": [
     {
       "appid": 12077,
@@ -21291,7 +21291,7 @@
       "original_price": 21900.0,
       "final_price": 19800.0,
       "currency": "KRW",
-      "image": "https://images.greenmangaming.com/9a8d9a9230664986bff988524b4184ec/8586d8744ffe45f4b023062b116b311c.jpg",
+      "image": "https://images.greenmangaming.com/cbad2a8e2d58489cba243d7375b95785/dd018c0bc8c94ccd9f225a7c88715bc6.jpg",
       "url": "https://www.greenmangaming.com/games/police-chief-simulator-pc/",
       "on_sale": true,
       "genres": [
@@ -24039,6 +24039,49 @@
       "on_sale": false,
       "genres": [
         "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Fulqrum Publishing"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 24972,
+      "name": "Gift of Parthax",
+      "discount_percent": 0,
+      "original_price": 7600.0,
+      "final_price": 7600.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/bb17ee56e9dc4d4bacf3e3cead4885b9/32ddde39ca53448da770c4623a840e4e.jpg",
+      "url": "https://www.greenmangaming.com/games/gift-of-parthax-pc/",
+      "on_sale": false,
+      "genres": [
+        "인디",
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Fulqrum Publishing"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 9874,
+      "name": "King's Bounty: The Legend",
+      "discount_percent": 0,
+      "original_price": 7600.0,
+      "final_price": 7600.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/b716684300364e28be8cfcc7693d933e/ae8999ebe9424e08977d6997ca8a6eb1.jpg",
+      "url": "https://www.greenmangaming.com/games/kings-bounty-the-legend/",
+      "on_sale": false,
+      "genres": [
+        "RPG",
+        "전략",
+        "Mac"
       ],
       "developers": [],
       "publishers": [

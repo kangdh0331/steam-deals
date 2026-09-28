@@ -20958,5 +20958,28 @@
       "First Day Games",
       "Gamersky Games"
     ]
+  },
+  "2475460": {
+    "genres": [],
+    "developers": [
+      "ArtDock"
+    ],
+    "publishers": [
+      "Dreland Enterprises"
+    ]
+  },
+  "4209920": {
+    "genres": [
+      "어드벤처",
+      "RPG",
+      "전략",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Nuverse"
+    ],
+    "publishers": [
+      "Nuverse"
+    ]
   }
 }
