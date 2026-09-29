@@ -20981,5 +20981,30 @@
     "publishers": [
       "Nuverse"
     ]
+  },
+  "1449110": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "RPG"
+    ],
+    "developers": [
+      "Obsidian Entertainment"
+    ],
+    "publishers": [
+      "Xbox Game Studios"
+    ]
+  },
+  "3398110": {
+    "genres": [
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Microwave Games"
+    ],
+    "publishers": [
+      "PlayWay S.A."
+    ]
   }
 }
