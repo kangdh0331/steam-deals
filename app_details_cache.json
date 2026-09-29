@@ -21006,5 +21006,57 @@
     "publishers": [
       "PlayWay S.A."
     ]
+  },
+  "20920": {
+    "genres": [
+      "RPG"
+    ],
+    "developers": [
+      "CD PROJEKT RED"
+    ],
+    "publishers": [
+      "CD PROJEKT RED",
+      "1C-SoftClub"
+    ]
+  },
+  "259680": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "Netcore Games"
+    ],
+    "publishers": [
+      "Netcore Games"
+    ]
+  },
+  "3725800": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "AVANTGARDE"
+    ],
+    "publishers": [
+      "072 Project"
+    ]
+  },
+  "4627110": {
+    "genres": [
+      "액션",
+      "RPG",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Art Games Studio S.A."
+    ],
+    "publishers": [
+      "Art Games Studio S.A.",
+      "PlayWay S.A."
+    ]
   }
 }
