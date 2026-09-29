@@ -21058,5 +21058,58 @@
       "Art Games Studio S.A.",
       "PlayWay S.A."
     ]
+  },
+  "1486920": {
+    "genres": [
+      "액션",
+      "전략"
+    ],
+    "developers": [
+      "Slipgate Ironworks™"
+    ],
+    "publishers": [
+      "3D Realms",
+      "Knights Peak",
+      "Saber Interactive"
+    ]
+  },
+  "2900640": {
+    "genres": [
+      "어드벤처",
+      "캐주얼",
+      "인디"
+    ],
+    "developers": [
+      "Something We Made"
+    ],
+    "publishers": [
+      "Something We Made",
+      "popagenda"
+    ]
+  },
+  "1488490": {
+    "genres": [
+      "어드벤처",
+      "RPG",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "ION LANDS"
+    ],
+    "publishers": [
+      "505 Games"
+    ]
+  },
+  "3793200": {
+    "genres": [
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "SCS Software"
+    ],
+    "publishers": [
+      "SCS Software"
+    ]
   }
 }

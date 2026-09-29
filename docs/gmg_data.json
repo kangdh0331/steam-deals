@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1790684050.1933963,
+  "fetched_at": 1790718988.3945,
   "deals": [
     {
       "appid": 12077,
@@ -18637,28 +18637,6 @@
       "review_rank": 0
     },
     {
-      "appid": 47991,
-      "name": "Color Your World",
-      "discount_percent": 70,
-      "original_price": 6600.0,
-      "final_price": 2000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/6602e6b98fed4d789e3641a599b3f519/7c2526fa66334e8bb23380c51d2d046f.jpg",
-      "url": "https://www.greenmangaming.com/games/color-your-world-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "전략",
-        "캐주얼"
-      ],
-      "developers": [],
-      "publishers": [
-        "Denda Games BV"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 27189,
       "name": "FINAL FANTASY® XV - Episode Ardyn",
       "discount_percent": 69,
@@ -20671,6 +20649,27 @@
       "developers": [],
       "publishers": [
         "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60003,
+      "name": "Dog in the Machine",
+      "discount_percent": 20,
+      "original_price": 19000.0,
+      "final_price": 15200.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/c215b21299d74a3392077e027ad3c664/1f7ede891b3c425aa94b25289270b9b9.jpg",
+      "url": "https://www.greenmangaming.com/games/dog-in-the-machine-pc/",
+      "on_sale": true,
+      "genres": [
+        "인디",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Goblinz Studio"
       ],
       "review_desc": null,
       "review_rank": 0
