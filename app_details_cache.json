@@ -21111,5 +21111,54 @@
     "publishers": [
       "SCS Software"
     ]
+  },
+  "4601120": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "인디"
+    ],
+    "developers": [
+      "Studio Monoblok"
+    ],
+    "publishers": [
+      "Studio Monoblok",
+      "Maple Whispering Limited"
+    ]
+  },
+  "3917700": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "전략"
+    ],
+    "developers": [
+      "Pengonauts"
+    ],
+    "publishers": [
+      "Playstack"
+    ]
+  },
+  "3486960": {
+    "genres": [
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "SCS Software"
+    ],
+    "publishers": []
+  },
+  "5125950": {
+    "genres": [
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Frontier Developments"
+    ],
+    "publishers": [
+      "Frontier Developments"
+    ]
   }
 }
