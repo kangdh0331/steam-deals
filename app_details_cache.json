@@ -21174,5 +21174,18 @@
       "ION LANDS",
       "Maple Whispering Limited"
     ]
+  },
+  "4232900": {
+    "genres": [
+      "RPG",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Paradox Development Studio"
+    ],
+    "publishers": [
+      "Paradox Interactive"
+    ]
   }
 }
