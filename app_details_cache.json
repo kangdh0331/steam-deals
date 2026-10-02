@@ -21200,5 +21200,97 @@
     "publishers": [
       "SEGA"
     ]
+  },
+  "894020": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "Acid Nerve"
+    ],
+    "publishers": [
+      "Devolver Digital"
+    ]
+  },
+  "835960": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Croteam"
+    ],
+    "publishers": [
+      "Devolver Digital"
+    ]
+  },
+  "2451010": {
+    "genres": [
+      "어드벤처",
+      "시뮬레이션",
+      "스포츠"
+    ],
+    "developers": [
+      "Mind Mythic"
+    ],
+    "publishers": [
+      "Mind Mythic"
+    ]
+  },
+  "3867170": {
+    "genres": [
+      "RPG"
+    ],
+    "developers": [
+      "Alicesoft"
+    ],
+    "publishers": [
+      "Kagura Games",
+      "MangaGamer"
+    ]
+  },
+  "4537100": {
+    "genres": [
+      "RPG",
+      "전략",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Ouz Games"
+    ],
+    "publishers": [
+      "411 Games"
+    ]
+  },
+  "4745180": {
+    "genres": [
+      "어드벤처",
+      "RPG",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Storytaco"
+    ],
+    "publishers": [
+      "Storytaco"
+    ]
+  },
+  "5009590": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "Eleventh Hour Games"
+    ],
+    "publishers": [
+      "Eleventh Hour Games",
+      "KRAFTON, Inc"
+    ]
   }
 }
