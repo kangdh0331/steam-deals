@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1790942313.0148396,
+  "fetched_at": 1790963123.6630716,
   "deals": [
     {
       "appid": 17275,
@@ -18941,6 +18941,26 @@
       "review_rank": 0
     },
     {
+      "appid": 36727,
+      "name": "Super Sonic Racer",
+      "discount_percent": 74,
+      "original_price": 3400.0,
+      "final_price": 900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/63fae24f417646dd93c6678e70624de5/2c9942f37754447992a5c40c47c093f1.jpg",
+      "url": "https://www.greenmangaming.com/games/super-sonic-racer-pc/",
+      "on_sale": true,
+      "genres": [
+        "레이싱"
+      ],
+      "developers": [],
+      "publishers": [
+        "Funbox Media Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 44049,
       "name": "Tiny Tina's Wonderlands: Chaotic Great Edition",
       "discount_percent": 73,
@@ -21251,28 +21271,6 @@
       "review_rank": 0
     },
     {
-      "appid": 59982,
-      "name": "Reus 2 - Jurassic",
-      "discount_percent": 9,
-      "original_price": 8900.0,
-      "final_price": 8100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/f874e47102ee4b68a6c809daf9d14cd6/4cf234e1ae8c4e369a9147e46d92b6ae.jpg",
-      "url": "https://www.greenmangaming.com/games/reus-2-jurassic-pc/",
-      "on_sale": true,
-      "genres": [
-        "시뮬레이션",
-        "인디",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Firesquid"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 59706,
       "name": "CONTROL Resonant",
       "discount_percent": 0,
@@ -21463,6 +21461,28 @@
       "developers": [],
       "publishers": [
         "Jackbox Games Inc"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 59982,
+      "name": "Reus 2 - Jurassic",
+      "discount_percent": 0,
+      "original_price": 8900.0,
+      "final_price": 8900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/f874e47102ee4b68a6c809daf9d14cd6/4cf234e1ae8c4e369a9147e46d92b6ae.jpg",
+      "url": "https://www.greenmangaming.com/games/reus-2-jurassic-pc/",
+      "on_sale": false,
+      "genres": [
+        "시뮬레이션",
+        "인디",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Firesquid"
       ],
       "review_desc": null,
       "review_rank": 0

@@ -1,6 +1,29 @@
 {
-  "fetched_at": 1790942316.3269386,
+  "fetched_at": 1790963123.988953,
   "deals": [
+    {
+      "appid": 70070000014038,
+      "name": "The Hong Kong Massacre / BEAUTIFUL DESOLATION Bundle",
+      "discount_percent": 93,
+      "original_price": 39.98,
+      "final_price": 2.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000014038/8a68537467ec2901e1850a252eed0f86000fbad2a2d6dd1af8603d98b7641739",
+      "url": "https://www.nintendo.com/us/store/products/the-hong-kong-massacre-beautiful-desolation-bundle-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Adventure",
+        "Role playing",
+        "Shooting"
+      ],
+      "developers": [],
+      "publishers": [
+        "Untold Tales"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
     {
       "appid": 70010000035797,
       "name": "MARIO + RABBIDS SPARKS OF HOPE",
@@ -38,6 +61,30 @@
       "developers": [],
       "publishers": [
         "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70070000016247,
+      "name": "Blazing Beaks + Badland: Game of the Year Edition Bundle",
+      "discount_percent": 86,
+      "original_price": 20.98,
+      "final_price": 2.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000016247/da8fa8e47680621ca7d75fb7fbac557c0ce6ffdb2fb5df8c6ba8daa413df9faf",
+      "url": "https://www.nintendo.com/us/store/products/blazing-beaks-plus-badland-game-of-the-year-edition-bundle-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Party",
+        "Shooting"
+      ],
+      "developers": [],
+      "publishers": [
+        "Untold Tales"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -100,6 +147,51 @@
       "developers": [],
       "publishers": [
         "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000020697,
+      "name": "Red Wings: Aces of the Sky",
+      "discount_percent": 85,
+      "original_price": 19.99,
+      "final_price": 2.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000020697/6febe90e09a7582db1e243460352369bfb46fabf033029465d9cc4f05214fc2e",
+      "url": "https://www.nintendo.com/us/store/products/red-wings-aces-of-the-sky-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Shooting"
+      ],
+      "developers": [
+        "All in! Games"
+      ],
+      "publishers": [
+        "Untold Tales"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000071816,
+      "name": "What The Duck ",
+      "discount_percent": 85,
+      "original_price": 19.99,
+      "final_price": 2.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000071816/15028e8db47154258f65a6a6b0165c8374d32fded01019299efba8dd74e57fec",
+      "url": "https://www.nintendo.com/us/store/products/what-the-duck-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "developers": [],
+      "publishers": [
+        "Untold Tales"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -333,6 +425,72 @@
       "review_rank": 0
     },
     {
+      "appid": 70010000059794,
+      "name": "ATONE: Heart of the Elder Tree",
+      "discount_percent": 80,
+      "original_price": 14.99,
+      "final_price": 2.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000059794/e45d9b36bae947d8219a0e1984025a59683cffd8275071405ca0ffe3d12d74df",
+      "url": "https://www.nintendo.com/us/store/products/atone-heart-of-the-elder-tree-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Adventure",
+        "Music"
+      ],
+      "developers": [],
+      "publishers": [
+        "Untold Tales"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000025802,
+      "name": "It came from space and ate our brains",
+      "discount_percent": 80,
+      "original_price": 14.99,
+      "final_price": 2.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000025802/dc3aa3cacf0b1c628851942dbd71fde7155ac340e89b2489d68f04acae6c5c92",
+      "url": "https://www.nintendo.com/us/store/products/it-came-from-space-and-ate-our-brains-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Shooting"
+      ],
+      "developers": [],
+      "publishers": [
+        "Untold Tales"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000020682,
+      "name": "Tools Up!",
+      "discount_percent": 80,
+      "original_price": 19.99,
+      "final_price": 3.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000020682/053f1289217e975ef2c9b23075d5f080ba40dd0ef2b6166bfeeb215b02aeb6f2",
+      "url": "https://www.nintendo.com/us/store/products/tools-up-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Party"
+      ],
+      "developers": [],
+      "publishers": [
+        "Untold Tales"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 70010000004642,
       "name": "Monster Hunter Generations Ultimate™",
       "discount_percent": 75,
@@ -445,6 +603,72 @@
       ],
       "publishers": [
         "Crunching Koalas"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000020685,
+      "name": "Little Racer",
+      "discount_percent": 75,
+      "original_price": 9.99,
+      "final_price": 2.49,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000020685/5c7697ec02951d9e9d7d2a4bbf3c9b53c66befcade03c3f9d2d3902f112c406c",
+      "url": "https://www.nintendo.com/us/store/products/little-racer-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Racing",
+        "Sports"
+      ],
+      "developers": [],
+      "publishers": [
+        "Untold Tales"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000064396,
+      "name": "LOUD: My Road to Fame",
+      "discount_percent": 75,
+      "original_price": 7.99,
+      "final_price": 1.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000064396/97104043e7bdc3b2e521d91aa1fa4056be67600011f9ab2d658d741d5feeb8b7",
+      "url": "https://www.nintendo.com/us/store/products/loud-my-road-to-fame-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Music"
+      ],
+      "developers": [],
+      "publishers": [
+        "Untold Tales"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000042956,
+      "name": "Red Wings: American Aces",
+      "discount_percent": 75,
+      "original_price": 11.99,
+      "final_price": 2.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000042956/c1623bacf2b4eccf79d93b16530ed355079a9f0eb30fe10d40ecbbde31878150",
+      "url": "https://www.nintendo.com/us/store/products/red-wings-american-aces-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Shooting"
+      ],
+      "developers": [
+        "All in! Games"
+      ],
+      "publishers": [
+        "Untold Tales"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -580,6 +804,90 @@
       "review_rank": 0
     },
     {
+      "appid": 70070000020949,
+      "name": "Bang-On Balls: Chronicles Deluxe Edition",
+      "discount_percent": 70,
+      "original_price": 29.99,
+      "final_price": 8.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000020949/d4f2e4b4d096d3d5fbc6aa8c6793a322687534f206d233fee93f89d46d3e3a10",
+      "url": "https://www.nintendo.com/us/store/products/bang-on-balls-chronicles-deluxe-edition-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "Untold Tales"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70070000030607,
+      "name": "Everdream Valley - Farm & Family Pack",
+      "discount_percent": 70,
+      "original_price": 33.99,
+      "final_price": 10.19,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000030607/aefccc7ed89b353075818fbbee2618f10084a50f3253437bc275d9ae490a05d5",
+      "url": "https://www.nintendo.com/us/store/products/everdream-valley-farm-and-family-pack-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "Untold Tales"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000083179,
+      "name": "Chernobylite Complete Edition",
+      "discount_percent": 70,
+      "original_price": 29.99,
+      "final_price": 8.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000083179/d7a39f2cb10d87a639c07c0036f96b11bc71c0931c1cc939a73c3efbd3ff1a08",
+      "url": "https://www.nintendo.com/us/store/products/chernobylite-complete-edition-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Shooting"
+      ],
+      "developers": [
+        "The Farm 51"
+      ],
+      "publishers": [
+        "Untold Tales"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70070000024666,
+      "name": "Golf Club Nostalgia & The Cub Bundle",
+      "discount_percent": 70,
+      "original_price": 22.99,
+      "final_price": 6.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000024666/a492d5f1067f24d967779f68df5c652ad7bdd769f67b4b1c692b5b11c36c29dc",
+      "url": "https://www.nintendo.com/us/store/products/golf-club-nostalgia-and-the-cub-bundle-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Puzzle",
+        "Sports"
+      ],
+      "developers": [],
+      "publishers": [
+        "Untold Tales"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 70010000015846,
       "name": "Phoenix Wright: Ace Attorney Trilogy",
       "discount_percent": 67,
@@ -649,6 +957,71 @@
       "review_rank": 0
     },
     {
+      "appid": 70010000082691,
+      "name": "Otherwar",
+      "discount_percent": 67,
+      "original_price": 5.99,
+      "final_price": 1.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000082691/d807872e83570730f960bd53ee5f318f4ebb1a0cccd0282b05c5fcc906b4c2fb",
+      "url": "https://www.nintendo.com/us/store/products/otherwar-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Strategy"
+      ],
+      "developers": [],
+      "publishers": [
+        "Untold Tales"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000089282,
+      "name": "Servonauts",
+      "discount_percent": 67,
+      "original_price": 14.99,
+      "final_price": 4.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000089282/f5ca53762ac8d2d99e6d7b16df9d4ec99e6e249c13c7aa153904179d49d7604a",
+      "url": "https://www.nintendo.com/us/store/products/servonauts-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Puzzle"
+      ],
+      "developers": [],
+      "publishers": [
+        "Untold Tales"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000092957,
+      "name": "Rail Route",
+      "discount_percent": 65,
+      "original_price": 19.99,
+      "final_price": 6.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000092957/f5637a3580b44708ae1eaf4171053a703bb39b619b7b2fee0fc3fd90ab091277",
+      "url": "https://www.nintendo.com/us/store/products/rail-route-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Simulation"
+      ],
+      "developers": [],
+      "publishers": [
+        "Untold Tales"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 70010000028503,
       "name": "Monster Hunter Stories 2: Wings of Ruin",
       "discount_percent": 63,
@@ -690,6 +1063,25 @@
       "developers": [],
       "publishers": [
         "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70070000025542,
+      "name": "Flame Keeper - Deluxe Edition",
+      "discount_percent": 62,
+      "original_price": 12.99,
+      "final_price": 4.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000025542/b89edc506a3a6dc083bb1eb405370503f1fafde0421883006cd1a9393caf25dd",
+      "url": "https://www.nintendo.com/us/store/products/flame-keeper-deluxe-edition-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "Untold Tales"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -802,6 +1194,66 @@
       ],
       "publishers": [
         "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70070000026027,
+      "name": "Boti: Byteland Overclocked Deluxe Edition",
+      "discount_percent": 60,
+      "original_price": 24.99,
+      "final_price": 9.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000026027/a7e6c4607e3bdc486e5807f80929e1bf9bc662c50ee11eae97a6de5ea84d657d",
+      "url": "https://www.nintendo.com/us/store/products/boti-byteland-overclocked-deluxe-edition-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "Untold Tales"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000080288,
+      "name": "Golf VS Zombies",
+      "discount_percent": 60,
+      "original_price": 9.99,
+      "final_price": 3.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000080288/949bebe05602c1d02cc016b0d5faaa950cbb9bea89e2e2ba59c073bdc25e2add",
+      "url": "https://www.nintendo.com/us/store/products/golf-vs-zombies-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Sports"
+      ],
+      "developers": [],
+      "publishers": [
+        "Untold Tales"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70070000028419,
+      "name": "Bearnard - Deluxe Edition",
+      "discount_percent": 59,
+      "original_price": 16.99,
+      "final_price": 6.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000028419/9ce0106e6d4860470ce5359afd8a8ca37f03031833d34ca398d85795fb3458cc",
+      "url": "https://www.nintendo.com/us/store/products/bearnard-deluxe-edition-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "Untold Tales"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -1090,6 +1542,25 @@
       "review_rank": 0
     },
     {
+      "appid": 70070000031361,
+      "name": "Gloomy Eyes - Deluxe Edition",
+      "discount_percent": 50,
+      "original_price": 29.98,
+      "final_price": 14.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000031361/cfa16f0a43ff40e491d549d37d35fb2a7cfec653eb6125184b596e34a779034a",
+      "url": "https://www.nintendo.com/us/store/products/gloomy-eyes-deluxe-edition-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "Untold Tales"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 70010000101043,
       "name": "Assassin's Creed Shadows",
       "discount_percent": 45,
@@ -1261,6 +1732,27 @@
       "review_rank": 0
     },
     {
+      "appid": 70010000075984,
+      "name": "PyroMind",
+      "discount_percent": 33,
+      "original_price": 2.99,
+      "final_price": 1.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000075984/1d699a9f0c681f1cf6542aa464c198e8eebc4548d0b7540ad20fabaa7ff83599",
+      "url": "https://www.nintendo.com/us/store/products/pyromind-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Puzzle"
+      ],
+      "developers": [],
+      "publishers": [
+        "Untold Tales"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 70010000097756,
       "name": "Monster Hunter Stories 3: Twisted Reflection",
       "discount_percent": 30,
@@ -1391,6 +1883,25 @@
       "review_rank": 0
     },
     {
+      "appid": 70070000039978,
+      "name": "Tilt it! Golf - Deluxe Edition",
+      "discount_percent": 25,
+      "original_price": 6.98,
+      "final_price": 5.23,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000039978/b0ae87c7864c2bf76f2fa918bc1a474c0717266ba23f8992b544f02e4b659c7d",
+      "url": "https://www.nintendo.com/us/store/products/tilt-it-golf-deluxe-edition-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "Untold Tales"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 70010000101665,
       "name": "PRAGMATA",
       "discount_percent": 20,
@@ -1496,5 +2007,5 @@
       "review_rank": 0
     }
   ],
-  "usd_krw_rate": 1361.27
+  "usd_krw_rate": 1348.28
 }
