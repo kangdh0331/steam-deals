@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1791042502.5826392,
+  "fetched_at": 1791059968.2218988,
   "deals": [
     {
       "appid": 70070000014038,
@@ -233,6 +233,28 @@
       "developers": [],
       "publishers": [
         "CAPCOM"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000039245,
+      "name": "RICO: London",
+      "discount_percent": 80,
+      "original_price": 49.99,
+      "final_price": 9.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000039245/0db50e0246f9403fec7fd0f528fb7a2f741648aa221ea4d32942c7f6fe3e4430",
+      "url": "https://www.nintendo.com/us/store/products/rico-london-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Shooting"
+      ],
+      "developers": [],
+      "publishers": [
+        "Aksys Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -674,6 +696,29 @@
       "review_rank": 0
     },
     {
+      "appid": 70010000054665,
+      "name": "Blazing Strike",
+      "discount_percent": 70,
+      "original_price": 39.99,
+      "final_price": 11.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000054665/1731032f668ec78fa5a541eb4c915b4dc6e53c43246d68c1a227bc6768ef71bf",
+      "url": "https://www.nintendo.com/us/store/products/blazing-strike-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Fighting"
+      ],
+      "developers": [
+        "RareBreed Makes Games"
+      ],
+      "publishers": [
+        "Aksys Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 70010000065677,
       "name": "Techno Banter",
       "discount_percent": 70,
@@ -1087,6 +1132,119 @@
       "review_rank": 0
     },
     {
+      "appid": 70010000011319,
+      "name": "Spirit Hunter: Death Mark",
+      "discount_percent": 60,
+      "original_price": 49.99,
+      "final_price": 19.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000011319/8127ec5888831aed55fb97dfa0d7ad7ed040c042c6c00e866a2b1ed18655afb4",
+      "url": "https://www.nintendo.com/us/store/products/spirit-hunter-death-mark-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Narrative adventure"
+      ],
+      "developers": [
+        "Experience"
+      ],
+      "publishers": [
+        "Aksys Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000019639,
+      "name": "Spirit Hunter: NG",
+      "discount_percent": 60,
+      "original_price": 49.99,
+      "final_price": 19.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000019639/56655ba5389d40fa6a34ab5606f9e9d75edfcb60db124a5ef63c40ea143413d3",
+      "url": "https://www.nintendo.com/us/store/products/spirit-hunter-ng-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Adventure"
+      ],
+      "developers": [],
+      "publishers": [
+        "Aksys Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000079020,
+      "name": "Tales from Toyotoki: Arrival of the Witch",
+      "discount_percent": 60,
+      "original_price": 29.99,
+      "final_price": 11.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000079020/4bc3aeaba6ad1edba0b0a02707bbfc2bac194754d9e8b1a2719aa14cf2314f83",
+      "url": "https://www.nintendo.com/us/store/products/tales-from-toyotoki-arrival-of-the-witch-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Narrative adventure"
+      ],
+      "developers": [
+        "KEMCO"
+      ],
+      "publishers": [
+        "Aksys Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000019638,
+      "name": "Ghost Parade",
+      "discount_percent": 60,
+      "original_price": 39.99,
+      "final_price": 15.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000019638/131c1df34a8f45acac9711cf51a789e236d7846e1de2b0c9865b5476bb0e6bd4",
+      "url": "https://www.nintendo.com/us/store/products/ghost-parade-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action"
+      ],
+      "developers": [
+        "Lentera Nusantara Studio Corporation"
+      ],
+      "publishers": [
+        "Aksys Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000039939,
+      "name": "Fishing Fighters",
+      "discount_percent": 60,
+      "original_price": 19.99,
+      "final_price": 7.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000039939/166fd07abd47cbbdef2bf80558ca85c2358378e9942fd1a0e61d5f1b5375ee1b",
+      "url": "https://www.nintendo.com/us/store/products/fishing-fighters-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Sports"
+      ],
+      "developers": [
+        "Lategra"
+      ],
+      "publishers": [
+        "Aksys Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 70010000024294,
       "name": "The Great Ace Attorney Chronicles",
       "discount_percent": 60,
@@ -1254,6 +1412,75 @@
       "developers": [],
       "publishers": [
         "Untold Tales"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000078609,
+      "name": "Tokyo Xanadu eX+",
+      "discount_percent": 50,
+      "original_price": 49.99,
+      "final_price": 24.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000078609/fb58abeecbe76b3d85a10b3d6119e03fd5456d296507799c135abf056132d7a1",
+      "url": "https://www.nintendo.com/us/store/products/tokyo-xanadu-ex-plus-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Role playing",
+        "Simulation"
+      ],
+      "developers": [
+        "Falcom"
+      ],
+      "publishers": [
+        "Aksys Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000068315,
+      "name": "Spirit Hunter: Death Mark II",
+      "discount_percent": 50,
+      "original_price": 49.99,
+      "final_price": 24.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000068315/fa4ee109ff4ea4fa88c2fa1c997e8180745202f2163388db889f7594a76eb57d",
+      "url": "https://www.nintendo.com/us/store/products/spirit-hunter-death-mark-ii-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Adventure"
+      ],
+      "developers": [
+        "EXPERIENCE"
+      ],
+      "publishers": [
+        "Aksys Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000040012,
+      "name": "Undernauts: Labyrinth of Yomi",
+      "discount_percent": 50,
+      "original_price": 59.99,
+      "final_price": 29.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000040012/ebd0dbc6b757eaaffb24064f5cabbb04b4fcaa6e2c751329c310c536e47faff7",
+      "url": "https://www.nintendo.com/us/store/products/undernauts-labyrinth-of-yomi-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Role playing"
+      ],
+      "developers": [],
+      "publishers": [
+        "Aksys Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -1583,6 +1810,342 @@
       "review_rank": 0
     },
     {
+      "appid": 70010000102882,
+      "name": "The Good Old Days",
+      "discount_percent": 40,
+      "original_price": 29.99,
+      "final_price": 17.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000102882/3ed4ceb0f286d1942ccbba2c630ef0d79bcf15d59ba1df241f1d76939a161fa9",
+      "url": "https://www.nintendo.com/us/store/products/the-good-old-days-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "developers": [
+        "GRAVITY CO., LTD"
+      ],
+      "publishers": [
+        "Aksys Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000093956,
+      "name": "Illusion of Itehari",
+      "discount_percent": 40,
+      "original_price": 49.99,
+      "final_price": 29.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000093956/e61c719202a89b0122529bd2840bdae5059351770ae70ada9c859a14b7cbdac8",
+      "url": "https://www.nintendo.com/us/store/products/illusion-of-itehari-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Narrative adventure"
+      ],
+      "developers": [
+        "Broccoli"
+      ],
+      "publishers": [
+        "Aksys Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000057734,
+      "name": "Jack Jeanne",
+      "discount_percent": 40,
+      "original_price": 49.99,
+      "final_price": 29.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000057734/1dd92e1c07fe34f760bd4bc4c63e09971571535865b80e565372de946c25b497",
+      "url": "https://www.nintendo.com/us/store/products/jack-jeanne-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Music",
+        "Narrative adventure",
+        "Simulation"
+      ],
+      "developers": [
+        "BROCCOLI"
+      ],
+      "publishers": [
+        "Aksys Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000087631,
+      "name": "7'scarlet",
+      "discount_percent": 40,
+      "original_price": 49.99,
+      "final_price": 29.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000087631/2c53bfb44772a2181f00660e627092763479561ffd35bd9d637aff0802670140",
+      "url": "https://www.nintendo.com/us/store/products/7scarlet-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Narrative adventure"
+      ],
+      "developers": [
+        "Idea Factory/Toybox Inc."
+      ],
+      "publishers": [
+        "Aksys Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000038432,
+      "name": "Olympia Soirée",
+      "discount_percent": 40,
+      "original_price": 49.99,
+      "final_price": 29.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000038432/7919a82a8d51f0d2491b30a20548e52f7236f2f5c7faff5d8ed2cdfcc4030a9e",
+      "url": "https://www.nintendo.com/us/store/products/olympia-soiree-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Narrative adventure"
+      ],
+      "developers": [],
+      "publishers": [
+        "Aksys Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000074310,
+      "name": "Virche Evermore -EpiC: Lycoris-",
+      "discount_percent": 40,
+      "original_price": 49.99,
+      "final_price": 29.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000074310/5c554cb00501f29b117ac72a80e7a91248d285327bef4fe04cd0419617189a60",
+      "url": "https://www.nintendo.com/us/store/products/virche-evermore-epic-lycoris-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Narrative adventure"
+      ],
+      "developers": [
+        "Idea Factory"
+      ],
+      "publishers": [
+        "Aksys Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000088177,
+      "name": "Despera Drops",
+      "discount_percent": 40,
+      "original_price": 49.99,
+      "final_price": 29.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000088177/e2f3b300859259c76c57a1252cf636e7bc6acd35911efdfefc77b5388b6dcf40",
+      "url": "https://www.nintendo.com/us/store/products/despera-drops-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Narrative adventure"
+      ],
+      "developers": [
+        "D3 Publisher"
+      ],
+      "publishers": [
+        "Aksys Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000074308,
+      "name": "Tengoku Struggle -Strayside-",
+      "discount_percent": 40,
+      "original_price": 49.99,
+      "final_price": 29.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000074308/298ffdd8d4c7f3b71bfa87b5205e277c167f644da22bab697dfe2d1fa7ec9dac",
+      "url": "https://www.nintendo.com/us/store/products/tengoku-struggle-strayside-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Narrative adventure"
+      ],
+      "developers": [
+        "Idea Factory"
+      ],
+      "publishers": [
+        "Aksys Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000074312,
+      "name": "Radiant Tale -Fanfare!-",
+      "discount_percent": 40,
+      "original_price": 49.99,
+      "final_price": 29.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000074312/4a3330246736cffc8764b9b3233fb7daf4f995d98af4d385db63bfc8af4b5710",
+      "url": "https://www.nintendo.com/us/store/products/radiant-tale-fanfare-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Narrative adventure"
+      ],
+      "developers": [
+        "Idea Factory"
+      ],
+      "publishers": [
+        "Aksys Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000038410,
+      "name": "Variable Barricade",
+      "discount_percent": 40,
+      "original_price": 49.99,
+      "final_price": 29.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000038410/050fd5b197058a41080aa920c59f66020874e6b9326540964dc3b16aa41a0e92",
+      "url": "https://www.nintendo.com/us/store/products/variable-barricade-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Narrative adventure"
+      ],
+      "developers": [],
+      "publishers": [
+        "Aksys Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000049491,
+      "name": "Paradigm Paradox",
+      "discount_percent": 40,
+      "original_price": 49.99,
+      "final_price": 29.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000049491/04d3e0a205499ef175bcd699b1a0929995d896b1b5a9afe57a72f58077018dfc",
+      "url": "https://www.nintendo.com/us/store/products/paradigm-paradox-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Narrative adventure"
+      ],
+      "developers": [],
+      "publishers": [
+        "Aksys Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000049497,
+      "name": "Piofiore: Episodio 1926",
+      "discount_percent": 40,
+      "original_price": 49.99,
+      "final_price": 29.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000049497/e520389bc0a74f5e4380006a29b70ea18b9b153ca7b35369e409fb86ae0b0b4c",
+      "url": "https://www.nintendo.com/us/store/products/piofiore-episodio-1926-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Narrative adventure"
+      ],
+      "developers": [],
+      "publishers": [
+        "Aksys Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000038430,
+      "name": "Dairoku: Agents of Sakuratani",
+      "discount_percent": 40,
+      "original_price": 49.99,
+      "final_price": 29.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000038430/45db27f78f9cad0986b9b0d7c3e86af1b7acf0a10ebc2e1325ed954243d80530",
+      "url": "https://www.nintendo.com/us/store/products/dairoku-agents-of-sakuratani-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Narrative adventure"
+      ],
+      "developers": [],
+      "publishers": [
+        "Aksys Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000049660,
+      "name": "Lover Pretend",
+      "discount_percent": 40,
+      "original_price": 49.99,
+      "final_price": 29.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000049660/03f5bd379407453cee734c6cf987257d55b6d24bcd5cfafe0803c772449fe3ba",
+      "url": "https://www.nintendo.com/us/store/products/lover-pretend-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Narrative adventure"
+      ],
+      "developers": [],
+      "publishers": [
+        "Aksys Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000035592,
+      "name": "Code: Realize ~Wintertide Miracles~",
+      "discount_percent": 40,
+      "original_price": 39.99,
+      "final_price": 23.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000035592/d9c3d10967f6dde00a42bee107533e9c2bb546533a809a4d3d5f43aea2499cfe",
+      "url": "https://www.nintendo.com/us/store/products/code-realize-wintertide-miracles-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Adventure"
+      ],
+      "developers": [
+        "Idea Factory"
+      ],
+      "publishers": [
+        "Aksys Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 70010000104301,
       "name": "Resident Evil Village Gold Edition",
       "discount_percent": 40,
@@ -1748,6 +2311,119 @@
       "developers": [],
       "publishers": [
         "Untold Tales"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70070000033531,
+      "name": "Q Collection",
+      "discount_percent": 30,
+      "original_price": 29.99,
+      "final_price": 20.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000033531/377e8b1540066ae269581f71ba7dca42e1ecb05ad22dad816b1d0d3c5598202e",
+      "url": "https://www.nintendo.com/us/store/products/q-collection-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Puzzle"
+      ],
+      "developers": [],
+      "publishers": [
+        "Aksys Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000111054,
+      "name": "Otome Daoshi -Fighting For Love-",
+      "discount_percent": 30,
+      "original_price": 49.99,
+      "final_price": 34.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000111054/8e10aa1204b9515cfea0c94c9d609b6b818d6043de08df79f3cd939a87d93715",
+      "url": "https://www.nintendo.com/us/store/products/otome-daoshi-fighting-for-love-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Narrative adventure"
+      ],
+      "developers": [
+        "Idea Factory"
+      ],
+      "publishers": [
+        "Aksys Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000104060,
+      "name": "Path of Mystery: A Brush with Death",
+      "discount_percent": 30,
+      "original_price": 39.99,
+      "final_price": 27.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000104060/a1611c824583746fdcab4690be4387f863e24da8719a5377ec15783194a525ec",
+      "url": "https://www.nintendo.com/us/store/products/path-of-mystery-a-brush-with-death-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Narrative adventure"
+      ],
+      "developers": [
+        "Imagineer/TOYBOX"
+      ],
+      "publishers": [
+        "Aksys Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000102310,
+      "name": "Mistonia's Hope -The Lost Delight-",
+      "discount_percent": 30,
+      "original_price": 49.99,
+      "final_price": 34.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000102310/1cfbc1be9511c047e478853d145a836c0d21a4231a56316ee37521afc9e1ed4f",
+      "url": "https://www.nintendo.com/us/store/products/mistonias-hope-the-lost-delight-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Narrative adventure"
+      ],
+      "developers": [
+        "Idea Factory"
+      ],
+      "publishers": [
+        "Aksys Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000083903,
+      "name": "Fitness Boxing feat. HATSUNE MIKU",
+      "discount_percent": 30,
+      "original_price": 49.99,
+      "final_price": 34.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000083903/d551b2dee1b267f36000ce3ae52b20001cb26dc0fa0609a89defd7896e38ab66",
+      "url": "https://www.nintendo.com/us/store/products/fitness-boxing-feat-hatsune-miku-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Training"
+      ],
+      "developers": [
+        "Imagineer"
+      ],
+      "publishers": [
+        "Aksys Games"
       ],
       "review_desc": null,
       "review_rank": 0
