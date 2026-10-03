@@ -21292,5 +21292,43 @@
       "Eleventh Hour Games",
       "KRAFTON, Inc"
     ]
+  },
+  "673880": {
+    "genres": [
+      "전략"
+    ],
+    "developers": [
+      "Bulwark Studios"
+    ],
+    "publishers": [
+      "Kasedo Games"
+    ]
+  },
+  "979690": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "Neon Giant"
+    ],
+    "publishers": [
+      "KRAFTON, Inc."
+    ]
+  },
+  "4285110": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "RPG"
+    ],
+    "developers": [
+      "Elzee"
+    ],
+    "publishers": [
+      "Saikey Studios"
+    ]
   }
 }
