@@ -21341,5 +21341,44 @@
     "publishers": [
       "marroindustries"
     ]
+  },
+  "1096530": {
+    "genres": [
+      "어드벤처",
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "Tactical Adventures"
+    ],
+    "publishers": [
+      "Tactical Adventures"
+    ]
+  },
+  "4947900": {
+    "genres": [
+      "캐주얼"
+    ],
+    "developers": [
+      "Ausuruk Games"
+    ],
+    "publishers": [
+      "Ausuruk Games"
+    ]
+  },
+  "4078430": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "레이싱",
+      "시뮬레이션",
+      "스포츠"
+    ],
+    "developers": [
+      "Fuse Games"
+    ],
+    "publishers": [
+      "Secret Mode"
+    ]
   }
 }
