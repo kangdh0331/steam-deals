@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1791207900.4277463,
+  "fetched_at": 1791244097.5231867,
   "deals": [
     {
       "appid": 17282,
@@ -16632,6 +16632,26 @@
       "review_rank": 0
     },
     {
+      "appid": 52926,
+      "name": "Blazing Strike",
+      "discount_percent": 75,
+      "original_price": 41000.0,
+      "final_price": 10100.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/66eb020bf18e443bacbb501ece2eb2f7/b251097e2e5c43b68017b5e63dce8606.jpg",
+      "url": "https://www.greenmangaming.com/games/blazing-strike-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Aksys"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 25798,
       "name": "Megadimension Neptunia VIIR - Complete Deluxe Set",
       "discount_percent": 74,
@@ -18762,6 +18782,26 @@
       "review_rank": 0
     },
     {
+      "appid": 58441,
+      "name": "Darkest Dungeon® II: The Soundtrack",
+      "discount_percent": 71,
+      "original_price": 10500.0,
+      "final_price": 3000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/5497f012b93d4ae7a0172f3a7acc23de/9a4ea02ae0e64d839c8be67cb3503718.jpg",
+      "url": "https://www.greenmangaming.com/games/darkest-dungeon-ii-the-soundtrack-pc/",
+      "on_sale": true,
+      "genres": [
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Red Hook Studios"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 48487,
       "name": "The Outlast Trials",
       "discount_percent": 70,
@@ -20728,29 +20768,6 @@
       "review_rank": 0
     },
     {
-      "appid": 60052,
-      "name": "Project Solaris",
-      "discount_percent": 23,
-      "original_price": 10500.0,
-      "final_price": 8100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/d69aab00a1104fa69806e0f4a63548a5/4d63f849f6564b4b8f90826f1c047514.jpg",
-      "url": "https://www.greenmangaming.com/games/project-solaris-pc/",
-      "on_sale": true,
-      "genres": [
-        "캐주얼",
-        "전략",
-        "RPG",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "IndieArk"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 60003,
       "name": "Dog in the Machine",
       "discount_percent": 20,
@@ -20767,28 +20784,6 @@
       "developers": [],
       "publishers": [
         "Goblinz Studio"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 59930,
-      "name": "Mad Metal",
-      "discount_percent": 20,
-      "original_price": 16100.0,
-      "final_price": 12900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/e6da9c8a293b4b8cb9a643e2e903553f/5f2e44ed79b246f8ac355b62ebf169dc.jpg",
-      "url": "https://www.greenmangaming.com/games/mad-metal-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디",
-        "레이싱"
-      ],
-      "developers": [],
-      "publishers": [
-        "indie.io"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -21202,26 +21197,6 @@
       "review_rank": 0
     },
     {
-      "appid": 60050,
-      "name": "Deified",
-      "discount_percent": 10,
-      "original_price": 16000.0,
-      "final_price": 14400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/ee94a69330ad4f419a628aefffa3b061/95c87a68b88b43fa85c9b423d84bb96a.jpg",
-      "url": "https://www.greenmangaming.com/games/deified-pc/",
-      "on_sale": true,
-      "genres": [
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Goblinz Studio"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 57799,
       "name": "Beast of Reincarnation",
       "discount_percent": 10,
@@ -21239,6 +21214,28 @@
       "developers": [],
       "publishers": [
         "Fictions"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 58315,
+      "name": "Roadhouse Simulator",
+      "discount_percent": 10,
+      "original_price": 21500.0,
+      "final_price": 19400.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/a9da98aa9319439fad8b9a3c8389cea8/d03744e4c3514141acf824b9063941c1.jpg",
+      "url": "https://www.greenmangaming.com/games/roadhouse-simulator-pc/",
+      "on_sale": true,
+      "genres": [
+        "캐주얼",
+        "시뮬레이션",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "DRAGO Entertainment SA"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -21409,6 +21406,71 @@
       "developers": [],
       "publishers": [
         "tinyBuild Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 59930,
+      "name": "Mad Metal",
+      "discount_percent": 0,
+      "original_price": 16100.0,
+      "final_price": 16100.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/e6da9c8a293b4b8cb9a643e2e903553f/5f2e44ed79b246f8ac355b62ebf169dc.jpg",
+      "url": "https://www.greenmangaming.com/games/mad-metal-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "인디",
+        "레이싱"
+      ],
+      "developers": [],
+      "publishers": [
+        "indie.io"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60050,
+      "name": "Deified",
+      "discount_percent": 0,
+      "original_price": 16000.0,
+      "final_price": 16000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/ee94a69330ad4f419a628aefffa3b061/95c87a68b88b43fa85c9b423d84bb96a.jpg",
+      "url": "https://www.greenmangaming.com/games/deified-pc/",
+      "on_sale": false,
+      "genres": [
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Goblinz Studio"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60052,
+      "name": "Project Solaris",
+      "discount_percent": 0,
+      "original_price": 10500.0,
+      "final_price": 10500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/d69aab00a1104fa69806e0f4a63548a5/4d63f849f6564b4b8f90826f1c047514.jpg",
+      "url": "https://www.greenmangaming.com/games/project-solaris-pc/",
+      "on_sale": false,
+      "genres": [
+        "캐주얼",
+        "전략",
+        "RPG",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "IndieArk"
       ],
       "review_desc": null,
       "review_rank": 0
