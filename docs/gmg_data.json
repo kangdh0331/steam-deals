@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1791291049.6884522,
+  "fetched_at": 1791325421.5270612,
   "deals": [
     {
       "appid": 17282,
@@ -20981,27 +20981,6 @@
       "review_rank": 0
     },
     {
-      "appid": 60090,
-      "name": "Rivage",
-      "discount_percent": 17,
-      "original_price": 26500.0,
-      "final_price": 22000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/0a52c60d10d14b689b3812bdb13656c6/6be2c2e6c5ef4a5697369d25b9a18882.jpg",
-      "url": "https://www.greenmangaming.com/games/rivage-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Raw Fury"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 59212,
       "name": "NBA 2K27",
       "discount_percent": 15,
@@ -21104,6 +21083,27 @@
       "developers": [],
       "publishers": [
         "9th Exodus"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60090,
+      "name": "Rivage",
+      "discount_percent": 12,
+      "original_price": 26500.0,
+      "final_price": 23400.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/0a52c60d10d14b689b3812bdb13656c6/6be2c2e6c5ef4a5697369d25b9a18882.jpg",
+      "url": "https://www.greenmangaming.com/games/rivage-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Raw Fury"
       ],
       "review_desc": null,
       "review_rank": 0
