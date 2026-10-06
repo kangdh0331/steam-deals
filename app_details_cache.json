@@ -21392,5 +21392,19 @@
     "publishers": [
       "BANDAI NAMCO Entertainment"
     ]
+  },
+  "5245810": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "GraveYardDev"
+    ],
+    "publishers": [
+      "GraveYardDev"
+    ]
   }
 }
