@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1791377110.3408062,
+  "fetched_at": 1791413287.7313657,
   "deals": [
     {
       "appid": 17282,
@@ -18868,6 +18868,26 @@
       "review_rank": 0
     },
     {
+      "appid": 58441,
+      "name": "Darkest Dungeon® II: The Soundtrack",
+      "discount_percent": 71,
+      "original_price": 10500.0,
+      "final_price": 3000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/5497f012b93d4ae7a0172f3a7acc23de/9a4ea02ae0e64d839c8be67cb3503718.jpg",
+      "url": "https://www.greenmangaming.com/games/darkest-dungeon-ii-the-soundtrack-pc/",
+      "on_sale": true,
+      "genres": [
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Red Hook Studios"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 48487,
       "name": "The Outlast Trials",
       "discount_percent": 70,
@@ -20400,28 +20420,6 @@
       "review_rank": 0
     },
     {
-      "appid": 60102,
-      "name": "Dragon Shelter",
-      "discount_percent": 38,
-      "original_price": 24500.0,
-      "final_price": 15100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/9990af5148e940fe816eed3bd53f7543/3801962473bd434396751fe855e02cf3.jpg",
-      "url": "https://www.greenmangaming.com/games/dragon-shelter-pc/",
-      "on_sale": true,
-      "genres": [
-        "캐주얼",
-        "시뮬레이션",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Curve Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 59053,
       "name": "DOOM: The Dark Ages | Revelations",
       "discount_percent": 38,
@@ -21339,6 +21337,27 @@
       "review_rank": 0
     },
     {
+      "appid": 59235,
+      "name": "Distant Worlds 2: Shadows Rising",
+      "discount_percent": 0,
+      "original_price": 21000.0,
+      "final_price": 21000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/e6fa683a881b4a39896ba8cdd9a39bbe/7915da46e47c4d2e96229fc1807739b8.jpg",
+      "url": "https://www.greenmangaming.com/games/distant-worlds-2-shadows-rising-pc/",
+      "on_sale": false,
+      "genres": [
+        "시뮬레이션",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "SLITHERINE SOFTWARE UK LTD."
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 59708,
       "name": "CONTROL Resonant Digital Deluxe Edition",
       "discount_percent": 0,
@@ -21377,6 +21396,28 @@
       "developers": [],
       "publishers": [
         "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60102,
+      "name": "Dragon Shelter",
+      "discount_percent": 0,
+      "original_price": 24500.0,
+      "final_price": 24500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/9990af5148e940fe816eed3bd53f7543/3801962473bd434396751fe855e02cf3.jpg",
+      "url": "https://www.greenmangaming.com/games/dragon-shelter-pc/",
+      "on_sale": false,
+      "genres": [
+        "캐주얼",
+        "시뮬레이션",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Curve Games"
       ],
       "review_desc": null,
       "review_rank": 0
