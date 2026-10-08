@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1791413287.7313657,
+  "fetched_at": 1791434691.9180381,
   "deals": [
     {
       "appid": 17282,
@@ -99,92 +99,6 @@
       "developers": [],
       "publishers": [
         "Yogscast Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 17747,
-      "name": "Middle-earth: Shadow of War",
-      "discount_percent": 92,
-      "original_price": 53000.0,
-      "final_price": 4400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/025d57defe7044b2970717786bc86245/029c978a1a79429c81d5eec1f07b8c2a.jpg",
-      "url": "https://www.greenmangaming.com/games/middle-earth-shadow-of-war-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "RPG",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Warner Bros Interactive Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 56569,
-      "name": "Middle-earth™: The Shadow Bundle",
-      "discount_percent": 92,
-      "original_price": 72000.0,
-      "final_price": 6000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/f9806d5a61114a05a8633be99d67efa5/a228f593a0964aebadacced3bcca14a2.jpg",
-      "url": "https://www.greenmangaming.com/games/middle-earth-the-shadow-bundle-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "RPG",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Warner Bros Interactive Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 26398,
-      "name": "Mortal Kombat 11",
-      "discount_percent": 92,
-      "original_price": 51000.0,
-      "final_price": 4200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/6a3b3cd345444d2ebd3515ca0b7878ff/dbace4ac1e164ad8a3acc85d08daefe5.jpg",
-      "url": "https://www.greenmangaming.com/games/mortal-kombat-11-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Warner Bros Interactive Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 24983,
-      "name": "Middle-earth: Shadow of War Definitive Edition",
-      "discount_percent": 92,
-      "original_price": 61000.0,
-      "final_price": 5100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/d3f4f170540e415fa2b14513afcd0d9f/2b3106a51a83416997e9e1fa0c94c5bf.jpg",
-      "url": "https://www.greenmangaming.com/games/middle-earth-shadow-of-war-definitive-edition-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Warner Bros Interactive Entertainment"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -428,28 +342,6 @@
       "review_rank": 0
     },
     {
-      "appid": 44634,
-      "name": "Hogwarts Legacy",
-      "discount_percent": 91,
-      "original_price": 79800.0,
-      "final_price": 7200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/6a8a200f88f5416aa08b0754d343c401/2716c34ac5274e5b94c00e58a1a6d36e.jpg",
-      "url": "https://www.greenmangaming.com/games/hogwarts-legacy-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Warner Bros Interactive Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 11821,
       "name": "Sid Meier's Civilization® VI",
       "discount_percent": 91,
@@ -529,28 +421,6 @@
       "developers": [],
       "publishers": [
         "2K Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 44710,
-      "name": "Hogwarts Legacy: Deluxe Edition",
-      "discount_percent": 91,
-      "original_price": 86800.0,
-      "final_price": 7900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/66f4e94547b3440a98c5aba445bcd897/8d351daff49e424a8af447fff43a6cc5.jpg",
-      "url": "https://www.greenmangaming.com/games/hogwarts-legacy-deluxe-edition-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Warner Bros Interactive Entertainment"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -3613,26 +3483,6 @@
       "developers": [],
       "publishers": [
         "Kasedo Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 37695,
-      "name": "Mortal Kombat 11 Ultimate Edition",
-      "discount_percent": 88,
-      "original_price": 61000.0,
-      "final_price": 7600.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/ca6f4826ccf84dbdbf2d01b79981085c/314b7448871341ff8bd9ddf036e50b7f.jpg",
-      "url": "https://www.greenmangaming.com/games/mortal-kombat-11-ultimate-edition-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Warner Bros Interactive Entertainment"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -6983,26 +6833,6 @@
       "review_rank": 0
     },
     {
-      "appid": 10192,
-      "name": "Middle-Earth: Shadow of Mordor Game of the Year Edition",
-      "discount_percent": 83,
-      "original_price": 21000.0,
-      "final_price": 3500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/4e3dba93eb7f4b258aefb4fa03df2c25/d2e562c7ec5a4c8c99f4903624b4c982.jpg",
-      "url": "https://www.greenmangaming.com/games/middle-earth-shadow-of-mordor-game-of-the-year-edition/",
-      "on_sale": true,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Warner Bros Interactive Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 59286,
       "name": "Torchlight II",
       "discount_percent": 83,
@@ -7594,26 +7424,6 @@
       "review_rank": 0
     },
     {
-      "appid": 47358,
-      "name": "Mortal Kombat 1",
-      "discount_percent": 82,
-      "original_price": 53000.0,
-      "final_price": 9600.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/373815f540814e249ea351a6bf64bcdf/204198e7952446caa14aa63fa1d5264d.jpg",
-      "url": "https://www.greenmangaming.com/games/mortal-kombat-1-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Warner Bros Interactive Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 53810,
       "name": "Dishonored 2",
       "discount_percent": 82,
@@ -7733,26 +7543,6 @@
       "developers": [],
       "publishers": [
         "2K Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 57313,
-      "name": "For The King",
-      "discount_percent": 82,
-      "original_price": 20500.0,
-      "final_price": 3700.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/4e139ed86f0c4809a603222238fabb54/782e176b05434f71a6f742c3b3d7526f.jpg",
-      "url": "https://www.greenmangaming.com/games/for-the-king-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Curve Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -7902,26 +7692,6 @@
       "developers": [],
       "publishers": [
         "Raw Fury"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 55017,
-      "name": "Mortal Kombat™ 1: Definitive Edition Upgrade",
-      "discount_percent": 82,
-      "original_price": 63000.0,
-      "final_price": 11400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/a3a32e5d5c974ea2a4415aa74a11e89f/953dc0eecb504eefafa2777ffcef062e.jpg",
-      "url": "https://www.greenmangaming.com/games/mortal-kombat-1-definitive-edition-upgrade-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Warner Bros Interactive Entertainment"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -8114,26 +7884,6 @@
       "developers": [],
       "publishers": [
         "Raw Fury"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 48643,
-      "name": "MK1: Kombat Pack",
-      "discount_percent": 82,
-      "original_price": 32000.0,
-      "final_price": 5800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/d6a6dde735d8431aaf77bd113ea75899/3f5af7a4e87048b8b8da40a6d53f7017.jpg",
-      "url": "https://www.greenmangaming.com/games/mk1-kombat-pack-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Warner Bros Interactive Entertainment"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -13310,26 +13060,6 @@
       "review_rank": 0
     },
     {
-      "appid": 55014,
-      "name": "Mortal Kombat™ 1: Definitive Edition",
-      "discount_percent": 77,
-      "original_price": 73500.0,
-      "final_price": 16600.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/ceff724d9f694156a2548ff21e5f2013/e70674483a5a4e308c90453769e73d6c.jpg",
-      "url": "https://www.greenmangaming.com/games/mortal-kombat-1-definitive-edition-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Warner Bros Interactive Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 4593,
       "name": "BioShock",
       "discount_percent": 77,
@@ -16696,6 +16426,55 @@
       "review_rank": 0
     },
     {
+      "appid": 24338,
+      "name": "Star Control: Origins",
+      "discount_percent": 75,
+      "original_price": 21000.0,
+      "final_price": 5200.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/c84fec51799f41c4b7fde57a2e768a0f/7eb7b51a0b964fa78c9d0b8e4013bf63.jpg",
+      "url": "https://www.greenmangaming.com/games/star-control-origins-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처",
+        "인디",
+        "RPG",
+        "시뮬레이션",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Stardock Entertainment"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 58013,
+      "name": "Undead Darlings ~no cure for love~",
+      "discount_percent": 75,
+      "original_price": 32000.0,
+      "final_price": 7900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/5bb248d444e04847a64493b6391ddef4/823a37a812534028ba14f0d01c218075.jpg",
+      "url": "https://www.greenmangaming.com/games/undead-darlings-no-cure-for-love-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처",
+        "캐주얼",
+        "인디",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "Sekai Project"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 25798,
       "name": "Megadimension Neptunia VIIR - Complete Deluxe Set",
       "discount_percent": 74,
@@ -18191,29 +17970,6 @@
       "review_rank": 0
     },
     {
-      "appid": 57396,
-      "name": "Human Fall Flat",
-      "discount_percent": 73,
-      "original_price": 20500.0,
-      "final_price": 5500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/e1568b1466284f39bd6db9e93549d5e1/6df3ce6bc96f479bb9d7c7d5fb2a692f.jpg",
-      "url": "https://www.greenmangaming.com/games/human-fall-flat-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "시뮬레이션",
-        "인디",
-        "캐주얼"
-      ],
-      "developers": [],
-      "publishers": [
-        "Curve Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 48400,
       "name": "Cassette Beasts",
       "discount_percent": 73,
@@ -18296,28 +18052,6 @@
       "developers": [],
       "publishers": [
         "Daedalic"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 57307,
-      "name": "Dungeons of Hinterberg",
-      "discount_percent": 73,
-      "original_price": 28500.0,
-      "final_price": 7600.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/59b8e256d7054decbaae4246741ce6d3/6a4546942d6d41879351c7137f7bbd80.jpg",
-      "url": "https://www.greenmangaming.com/games/dungeons-of-hinterberg-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "RPG",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Curve Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -18745,6 +18479,88 @@
       "review_rank": 0
     },
     {
+      "appid": 11034,
+      "name": "SUPERHOT",
+      "discount_percent": 72,
+      "original_price": 25000.0,
+      "final_price": 6900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/17ea25a28f1c42229a627a6af9c64dc5/549aaa08861447f0b00261ea34af6568.jpg",
+      "url": "https://www.greenmangaming.com/games/superhot/",
+      "on_sale": true,
+      "genres": [
+        "슈팅",
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "IMGN.PRO"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60183,
+      "name": "Deep Rock Galactic - Supporter II Upgrade",
+      "discount_percent": 72,
+      "original_price": 16500.0,
+      "final_price": 4600.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/81ac557cee254111af1bfe0ddfa81a72/84a13e0032554c5986c5b6f37c36acad.jpg",
+      "url": "https://www.greenmangaming.com/games/deep-rock-galactic-supporter-ii-upgrade-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Coffee Stain Publishing AB"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60181,
+      "name": "Deep Rock Galactic - Supporter Upgrade",
+      "discount_percent": 72,
+      "original_price": 16500.0,
+      "final_price": 4600.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/25da8ab588c94d79be6f5eaf8bf36666/bdbab85e4f9842b2acf8a1e1c9456940.jpg",
+      "url": "https://www.greenmangaming.com/games/deep-rock-galactic-supporter-upgrade-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Coffee Stain Publishing AB"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60197,
+      "name": "Deep Rock Galactic - Order of the Deep Pack",
+      "discount_percent": 72,
+      "original_price": 11000.0,
+      "final_price": 3100.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/65cc45c5d3414e35989d2e8a12085f7e/362f5787856946b6a2180b38f177e252.jpg",
+      "url": "https://www.greenmangaming.com/games/deep-rock-galactic-order-of-the-deep-pack-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Coffee Stain Publishing AB"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 53866,
       "name": "The Elder Scrolls V: Skyrim Anniversary Edition",
       "discount_percent": 71,
@@ -18992,29 +18808,6 @@
       "developers": [],
       "publishers": [
         "Gearbox Publishing"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 57314,
-      "name": "For The King II",
-      "discount_percent": 70,
-      "original_price": 29500.0,
-      "final_price": 8900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/73890f55093b44f3b3bf7d141ead851d/ce1186b0569e413fa09949c5982647cd.jpg",
-      "url": "https://www.greenmangaming.com/games/for-the-king-ii-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "전략",
-        "RPG",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Curve Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -19579,6 +19372,197 @@
       "review_rank": 0
     },
     {
+      "appid": 49205,
+      "name": "The Chrono Jotter",
+      "discount_percent": 70,
+      "original_price": 12500.0,
+      "final_price": 3800.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/6a28e3b78caf4bde8496dde4d172c6bc/ab2d4b9dbcfd4a439798af28d07ac292.jpg",
+      "url": "https://www.greenmangaming.com/games/the-chrono-jotter-pc/",
+      "on_sale": true,
+      "genres": [
+        "어드벤처",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "2P Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 44952,
+      "name": "Destroyer: The U-Boat Hunter",
+      "discount_percent": 70,
+      "original_price": 39000.0,
+      "final_price": 11700.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/910d2f4cfcaf46dd9d5cff12be70794e/49c738cc006b43b19b187a0a23f3400a.jpg",
+      "url": "https://www.greenmangaming.com/games/destroyer-the-u-boat-hunter-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처",
+        "인디",
+        "시뮬레이션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Daedalic"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 53023,
+      "name": "Raiden NOVA",
+      "discount_percent": 70,
+      "original_price": 32000.0,
+      "final_price": 9600.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/998168409fa04b278cceb6d3be00131d/f61e33989e424f6f96bbda325785e515.jpg",
+      "url": "https://www.greenmangaming.com/games/raiden-nova-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "UFO Interactive Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 19682,
+      "name": "Tropico 6",
+      "discount_percent": 70,
+      "original_price": 47200.0,
+      "final_price": 14200.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/d8493620389d48f78f5f35144e737b1d/078280844baf4ef5b6263a6f7bbfe0e4.jpg",
+      "url": "https://www.greenmangaming.com/games/tropico-6-pc/",
+      "on_sale": true,
+      "genres": [
+        "전략",
+        "전략",
+        "시뮬레이션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Kalypso Media"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 44254,
+      "name": "Maskmaker",
+      "discount_percent": 70,
+      "original_price": 11200.0,
+      "final_price": 3400.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/8740f6eb64a1489b891629fce930e166/248a450ef9ec456fad62b47dcd1d9438.jpg",
+      "url": "https://www.greenmangaming.com/games/maskmaker-pc/",
+      "on_sale": true,
+      "genres": [
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Vertigo Games BV"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 21373,
+      "name": "Raiden V: Director's Cut",
+      "discount_percent": 70,
+      "original_price": 32000.0,
+      "final_price": 9600.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/5cfd9d68ec9c46c2ba2be76b88807cc8/cbec17f9b3fe435695aaa3256530632f.jpg",
+      "url": "https://www.greenmangaming.com/games/raiden-v-directors-cut-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Tommo"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 35020,
+      "name": "Gordian Quest",
+      "discount_percent": 70,
+      "original_price": 20500.0,
+      "final_price": 6200.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/ddd013e662b24233ac75e700e3df0fc0/75db2823d4fa4574bef9bd27fbb38402.jpg",
+      "url": "https://www.greenmangaming.com/games/gordian-quest-pc/",
+      "on_sale": true,
+      "genres": [
+        "어드벤처",
+        "인디",
+        "RPG",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Mixed Realms Pte Ltd / Coconut Island Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 44257,
+      "name": "FAR: Changing Tides Deluxe Edition",
+      "discount_percent": 70,
+      "original_price": 26000.0,
+      "final_price": 7800.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/b5b39436fdea4aa5a8e4220f83645101/be74d367c30c43a089f7d871aca51d84.jpg",
+      "url": "https://www.greenmangaming.com/games/far-changing-tides-deluxe-edition-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Frontier Developments"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 25952,
+      "name": "Tropico 6 El Prez Edition",
+      "discount_percent": 70,
+      "original_price": 49000.0,
+      "final_price": 14700.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/d27b65a57c6e49d6bb07d18549c61c5d/526dd930528e4f1686634ea43ade916c.jpg",
+      "url": "https://www.greenmangaming.com/games/tropico-6-el-prez-edition-pc/",
+      "on_sale": true,
+      "genres": [
+        "전략",
+        "시뮬레이션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Kalypso Media"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 6189,
       "name": "Just Cause 2: DLC Collection",
       "discount_percent": 69,
@@ -19636,6 +19620,48 @@
       "developers": [],
       "publishers": [
         "Idea Factory International"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 54780,
+      "name": "Neptunia Riders VS Dogoos - Digital Soundtrack",
+      "discount_percent": 69,
+      "original_price": 7800.0,
+      "final_price": 2400.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/d7bf213609ed48a48d93cfd9eeecd190/2f64e7bd0bd84573be01e03e6ad51d65.jpg",
+      "url": "https://www.greenmangaming.com/games/neptunia-riders-vs-dogoos-digital-soundtrack-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "캐주얼"
+      ],
+      "developers": [],
+      "publishers": [
+        "Idea Factory International"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 42418,
+      "name": "The Crow's Eye",
+      "discount_percent": 69,
+      "original_price": 10700.0,
+      "final_price": 3300.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/7ca82c9ccd274f08b708d50eb4d35d90/83c77d855ceb44da82bd723f55c2236f.jpg",
+      "url": "https://www.greenmangaming.com/games/the-crows-eye-pc/",
+      "on_sale": true,
+      "genres": [
+        "어드벤처",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Akupara Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -20676,27 +20702,6 @@
       "review_rank": 0
     },
     {
-      "appid": 60056,
-      "name": "Tattoo Shop Simulator",
-      "discount_percent": 28,
-      "original_price": 14000.0,
-      "final_price": 10100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/3197505446b54797815d128b4a60351c/e26abea0c6444d0ca8bfd25b06321441.jpg",
-      "url": "https://www.greenmangaming.com/games/tattoo-shop-simulator-pc/",
-      "on_sale": true,
-      "genres": [
-        "캐주얼",
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "RockGame SA"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 58322,
       "name": "No More Room in Hell 2",
       "discount_percent": 25,
@@ -21423,6 +21428,49 @@
       "review_rank": 0
     },
     {
+      "appid": 44634,
+      "name": "Hogwarts Legacy",
+      "discount_percent": 0,
+      "original_price": 79800.0,
+      "final_price": 79800.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/6a8a200f88f5416aa08b0754d343c401/2716c34ac5274e5b94c00e58a1a6d36e.jpg",
+      "url": "https://www.greenmangaming.com/games/hogwarts-legacy-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "Warner Bros Interactive Entertainment"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60056,
+      "name": "Tattoo Shop Simulator",
+      "discount_percent": 0,
+      "original_price": 14000.0,
+      "final_price": 14000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/3197505446b54797815d128b4a60351c/e26abea0c6444d0ca8bfd25b06321441.jpg",
+      "url": "https://www.greenmangaming.com/games/tattoo-shop-simulator-pc/",
+      "on_sale": false,
+      "genres": [
+        "캐주얼",
+        "시뮬레이션"
+      ],
+      "developers": [],
+      "publishers": [
+        "RockGame SA"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 59870,
       "name": "FINAL FANTASY VII REVELATION Premium Plus Edition",
       "discount_percent": 0,
@@ -21791,6 +21839,50 @@
       "review_rank": 0
     },
     {
+      "appid": 44710,
+      "name": "Hogwarts Legacy: Deluxe Edition",
+      "discount_percent": 0,
+      "original_price": 86800.0,
+      "final_price": 86800.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/66f4e94547b3440a98c5aba445bcd897/8d351daff49e424a8af447fff43a6cc5.jpg",
+      "url": "https://www.greenmangaming.com/games/hogwarts-legacy-deluxe-edition-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "Warner Bros Interactive Entertainment"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 17747,
+      "name": "Middle-earth: Shadow of War",
+      "discount_percent": 0,
+      "original_price": 53000.0,
+      "final_price": 53000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/025d57defe7044b2970717786bc86245/029c978a1a79429c81d5eec1f07b8c2a.jpg",
+      "url": "https://www.greenmangaming.com/games/middle-earth-shadow-of-war-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "RPG",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Warner Bros Interactive Entertainment"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 27436,
       "name": "Warhammer: Chaosbane",
       "discount_percent": 0,
@@ -21808,6 +21900,70 @@
       "developers": [],
       "publishers": [
         "Nacon"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 56569,
+      "name": "Middle-earth™: The Shadow Bundle",
+      "discount_percent": 0,
+      "original_price": 72000.0,
+      "final_price": 72000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/f9806d5a61114a05a8633be99d67efa5/a228f593a0964aebadacced3bcca14a2.jpg",
+      "url": "https://www.greenmangaming.com/games/middle-earth-the-shadow-bundle-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "RPG",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Warner Bros Interactive Entertainment"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 26398,
+      "name": "Mortal Kombat 11",
+      "discount_percent": 0,
+      "original_price": 51000.0,
+      "final_price": 51000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/6a3b3cd345444d2ebd3515ca0b7878ff/dbace4ac1e164ad8a3acc85d08daefe5.jpg",
+      "url": "https://www.greenmangaming.com/games/mortal-kombat-11-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Warner Bros Interactive Entertainment"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 24983,
+      "name": "Middle-earth: Shadow of War Definitive Edition",
+      "discount_percent": 0,
+      "original_price": 61000.0,
+      "final_price": 61000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/d3f4f170540e415fa2b14513afcd0d9f/2b3106a51a83416997e9e1fa0c94c5bf.jpg",
+      "url": "https://www.greenmangaming.com/games/middle-earth-shadow-of-war-definitive-edition-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "Warner Bros Interactive Entertainment"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -22063,6 +22219,26 @@
       "developers": [],
       "publishers": [
         "Plug-in Digital"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 47358,
+      "name": "Mortal Kombat 1",
+      "discount_percent": 0,
+      "original_price": 53000.0,
+      "final_price": 53000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/373815f540814e249ea351a6bf64bcdf/204198e7952446caa14aa63fa1d5264d.jpg",
+      "url": "https://www.greenmangaming.com/games/mortal-kombat-1-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Warner Bros Interactive Entertainment"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -26060,6 +26236,26 @@
       "review_rank": 0
     },
     {
+      "appid": 37695,
+      "name": "Mortal Kombat 11 Ultimate Edition",
+      "discount_percent": 0,
+      "original_price": 61000.0,
+      "final_price": 61000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/ca6f4826ccf84dbdbf2d01b79981085c/314b7448871341ff8bd9ddf036e50b7f.jpg",
+      "url": "https://www.greenmangaming.com/games/mortal-kombat-11-ultimate-edition-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Warner Bros Interactive Entertainment"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 9225,
       "name": "Void Invaders",
       "discount_percent": 0,
@@ -26481,6 +26677,26 @@
       "review_rank": 0
     },
     {
+      "appid": 10192,
+      "name": "Middle-Earth: Shadow of Mordor Game of the Year Edition",
+      "discount_percent": 0,
+      "original_price": 21000.0,
+      "final_price": 21000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/4e3dba93eb7f4b258aefb4fa03df2c25/d2e562c7ec5a4c8c99f4903624b4c982.jpg",
+      "url": "https://www.greenmangaming.com/games/middle-earth-shadow-of-mordor-game-of-the-year-edition/",
+      "on_sale": false,
+      "genres": [
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Warner Bros Interactive Entertainment"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 49595,
       "name": "Welcome to ParadiZe",
       "discount_percent": 0,
@@ -26498,6 +26714,26 @@
       "developers": [],
       "publishers": [
         "Nacon"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 57313,
+      "name": "For The King",
+      "discount_percent": 0,
+      "original_price": 20500.0,
+      "final_price": 20500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/4e139ed86f0c4809a603222238fabb54/782e176b05434f71a6f742c3b3d7526f.jpg",
+      "url": "https://www.greenmangaming.com/games/for-the-king-pc/",
+      "on_sale": false,
+      "genres": [
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Curve Games"
       ],
       "review_desc": null,
       "review_rank": 0
