@@ -21426,5 +21426,1433 @@
       "Crytek"
     ],
     "publishers": []
+  },
+  "794260": {
+    "genres": [
+      "RPG"
+    ],
+    "developers": [
+      "Nine Dots Studio"
+    ],
+    "publishers": [
+      "Prime Matter",
+      "Deep Silver"
+    ]
+  },
+  "1649080": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Two Point Studios"
+    ],
+    "publishers": [
+      "SEGA"
+    ]
+  },
+  "597180": {
+    "genres": [
+      "RPG",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Mohawk Games"
+    ],
+    "publishers": [
+      "Hooded Horse"
+    ]
+  },
+  "274520": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "Acid Wizard Studio"
+    ],
+    "publishers": [
+      "Hooded Horse",
+      "Acid Wizard Studio"
+    ]
+  },
+  "1939970": {
+    "genres": [
+      "어드벤처"
+    ],
+    "developers": [
+      "Critical Hit Games"
+    ],
+    "publishers": [
+      "PLAION",
+      "Deep Silver"
+    ]
+  },
+  "1681430": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Teyon"
+    ],
+    "publishers": [
+      "Nacon"
+    ]
+  },
+  "612880": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "MachineGames"
+    ],
+    "publishers": [
+      "Bethesda Softworks"
+    ]
+  },
+  "257510": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "Croteam"
+    ],
+    "publishers": [
+      "Devolver Digital",
+      "Croteam"
+    ]
+  },
+  "108710": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Remedy Entertainment"
+    ],
+    "publishers": [
+      "Remedy Entertainment"
+    ]
+  },
+  "307690": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "레이싱"
+    ],
+    "developers": [
+      "United Front Games",
+      "Feral Interactive (Mac)"
+    ],
+    "publishers": [
+      "Square Enix",
+      "Feral Interactive (Mac)"
+    ]
+  },
+  "775500": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "RPG"
+    ],
+    "developers": [
+      "BANDAI NAMCO Studios Inc."
+    ],
+    "publishers": [
+      "BANDAI NAMCO Entertainment"
+    ]
+  },
+  "1265920": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Deck Nine"
+    ],
+    "publishers": [
+      "Square Enix"
+    ]
+  },
+  "359510": {
+    "genres": [
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "SFB Games"
+    ],
+    "publishers": [
+      "SFB Games"
+    ]
+  },
+  "40700": {
+    "genres": [
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "Amanita Design"
+    ],
+    "publishers": [
+      "Amanita Design"
+    ]
+  },
+  "345800": {
+    "genres": [
+      "인디",
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "Stuart Chatwood"
+    ],
+    "publishers": [
+      "Red Hook Studios"
+    ]
+  },
+  "1030830": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Hangar 13",
+      "D3T"
+    ],
+    "publishers": [
+      "2K"
+    ]
+  },
+  "683320": {
+    "genres": [
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "Nomada Studio"
+    ],
+    "publishers": [
+      "Devolver Digital"
+    ]
+  },
+  "2806640": {
+    "genres": [
+      "어드벤처"
+    ],
+    "developers": [
+      "Croteam"
+    ],
+    "publishers": [
+      "Devolver Digital"
+    ]
+  },
+  "3061810": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "RPG"
+    ],
+    "developers": [
+      "RGG Studio"
+    ],
+    "publishers": [
+      "SEGA"
+    ]
+  },
+  "201810": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "MachineGames"
+    ],
+    "publishers": [
+      "Bethesda Softworks"
+    ]
+  },
+  "1805480": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "RGG Studio"
+    ],
+    "publishers": [
+      "SEGA"
+    ]
+  },
+  "501300": {
+    "genres": [
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "Giant Sparrow"
+    ],
+    "publishers": [
+      "Annapurna Interactive"
+    ]
+  },
+  "350080": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "MachineGames"
+    ],
+    "publishers": [
+      "Bethesda Softworks"
+    ]
+  },
+  "34030": {
+    "genres": [
+      "전략"
+    ],
+    "developers": [
+      "CREATIVE ASSEMBLY",
+      "Feral Interactive (Mac)"
+    ],
+    "publishers": [
+      "SEGA",
+      "Feral Interactive (Mac)"
+    ]
+  },
+  "638230": {
+    "genres": [
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "thatgamecompany"
+    ],
+    "publishers": [
+      "Annapurna Interactive"
+    ]
+  },
+  "1056960": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "MachineGames",
+      "Arkane Studios"
+    ],
+    "publishers": [
+      "Bethesda Softworks"
+    ]
+  },
+  "824550": {
+    "genres": [
+      "액션",
+      "RPG"
+    ],
+    "developers": [
+      "ARTDINK"
+    ],
+    "publishers": [
+      "Bandai Namco Entertainment"
+    ]
+  },
+  "1531540": {
+    "genres": [
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "CodeForce"
+    ],
+    "publishers": [
+      "Slitherine Ltd."
+    ]
+  },
+  "1422440": {
+    "genres": [
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Digital Sun"
+    ],
+    "publishers": [
+      "Hooded Horse"
+    ]
+  },
+  "1794960": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "캐주얼"
+    ],
+    "developers": [
+      "Sonic Team"
+    ],
+    "publishers": [
+      "SEGA"
+    ]
+  },
+  "204100": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Rockstar Studios"
+    ],
+    "publishers": [
+      "Rockstar Games"
+    ]
+  },
+  "460790": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "PlatinumGames"
+    ],
+    "publishers": [
+      "SEGA"
+    ]
+  },
+  "1937780": {
+    "genres": [
+      "액션",
+      "전략"
+    ],
+    "developers": [
+      "CREATIVE ASSEMBLY"
+    ],
+    "publishers": [
+      "SEGA"
+    ]
+  },
+  "359320": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "대규모 멀티플레이어",
+      "RPG",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Frontier Developments"
+    ],
+    "publishers": [
+      "Frontier Developments"
+    ]
+  },
+  "2634890": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "CAPCOM Co., Ltd."
+    ],
+    "publishers": [
+      "CAPCOM Co., Ltd."
+    ]
+  },
+  "631510": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "CAPCOM Co., Ltd."
+    ],
+    "publishers": [
+      "CAPCOM Co., Ltd."
+    ]
+  },
+  "3301120": {
+    "genres": [
+      "액션",
+      "전략"
+    ],
+    "developers": [
+      "CREATIVE ASSEMBLY",
+      "Feral Interactive"
+    ],
+    "publishers": [
+      "SEGA",
+      "Feral Interactive"
+    ]
+  },
+  "1031510": {
+    "genres": [
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "Bandai Namco Forge Digitals Inc."
+    ],
+    "publishers": [
+      "BANDAI NAMCO Entertainment"
+    ]
+  },
+  "1237320": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Sonic Team"
+    ],
+    "publishers": [
+      "SEGA"
+    ]
+  },
+  "1574820": {
+    "genres": [
+      "어드벤처",
+      "캐주얼",
+      "인디"
+    ],
+    "developers": [
+      "Polychroma Games"
+    ],
+    "publishers": [
+      "Maximum Entertainment"
+    ]
+  },
+  "1488200": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "Dancing Dragon Games"
+    ],
+    "publishers": [
+      "Dancing Dragon Games"
+    ]
+  },
+  "1280930": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "Hibernian Workshop"
+    ],
+    "publishers": [
+      "Hibernian Workshop",
+      "MP2 Games"
+    ]
+  },
+  "2124120": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "RPG",
+      "시뮬레이션",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Perfect Random"
+    ],
+    "publishers": [
+      "Perfect Random"
+    ]
+  },
+  "2420660": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "Nomada Studio"
+    ],
+    "publishers": [
+      "Devolver Digital"
+    ]
+  },
+  "1458140": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "레이싱",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Ironwood Studios"
+    ],
+    "publishers": [
+      "Kepler Interactive"
+    ]
+  },
+  "1874000": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Deck Nine Games"
+    ],
+    "publishers": [
+      "Square Enix"
+    ]
+  },
+  "3948510": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Embark Studios"
+    ],
+    "publishers": [
+      "Embark Studios"
+    ]
+  },
+  "2306620": {
+    "genres": [
+      "액션",
+      "인디"
+    ],
+    "developers": [
+      "Gearbox Software"
+    ],
+    "publishers": [
+      "Gearbox Publishing",
+      "2K"
+    ]
+  },
+  "2383200": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "RPG"
+    ],
+    "developers": [
+      "SAS CO.,LTD."
+    ],
+    "publishers": [
+      "Bandai Namco Entertainment Inc."
+    ]
+  },
+  "2400430": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "CAPCOM Co., Ltd."
+    ],
+    "publishers": [
+      "CAPCOM Co., Ltd."
+    ]
+  },
+  "1622100": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Mobius Digital"
+    ],
+    "publishers": [
+      "Annapurna Interactive"
+    ]
+  },
+  "1303182": {
+    "genres": [
+      "RPG",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Paradox Development Studio",
+      "Paradox Thalassic"
+    ],
+    "publishers": [
+      "Paradox Interactive"
+    ]
+  },
+  "735730": {
+    "genres": [
+      "인디",
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "Red Hook Studios"
+    ],
+    "publishers": [
+      "Red Hook Studios"
+    ]
+  },
+  "2891700": {
+    "genres": [
+      "액션",
+      "전략"
+    ],
+    "developers": [
+      "CREATIVE ASSEMBLY",
+      "Feral Interactive"
+    ],
+    "publishers": [
+      "SEGA"
+    ]
+  },
+  "2224460": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "CAPCOM Co., Ltd."
+    ],
+    "publishers": [
+      "CAPCOM Co., Ltd."
+    ]
+  },
+  "965220": {
+    "genres": [
+      "액션",
+      "전략"
+    ],
+    "developers": [
+      "CREATIVE ASSEMBLY",
+      "Feral Interactive (Mac)",
+      "Feral Interactive (Linux)"
+    ],
+    "publishers": [
+      "SEGA",
+      "Feral Interactive (Mac)",
+      "Feral Interactive (Linux)"
+    ]
+  },
+  "702540": {
+    "genres": [
+      "인디",
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "Red Hook Studios"
+    ],
+    "publishers": []
+  },
+  "3301130": {
+    "genres": [
+      "액션",
+      "전략"
+    ],
+    "developers": [
+      "CREATIVE ASSEMBLY",
+      "Feral Interactive"
+    ],
+    "publishers": [
+      "SEGA",
+      "Feral Interactive"
+    ]
+  },
+  "3130750": {
+    "genres": [
+      "액션",
+      "전략"
+    ],
+    "developers": [
+      "CREATIVE ASSEMBLY",
+      "Feral Interactive"
+    ],
+    "publishers": [
+      "SEGA",
+      "Feral Interactive"
+    ]
+  },
+  "3130740": {
+    "genres": [
+      "액션",
+      "전략"
+    ],
+    "developers": [
+      "CREATIVE ASSEMBLY",
+      "Feral Interactive"
+    ],
+    "publishers": [
+      "SEGA",
+      "Feral Interactive"
+    ]
+  },
+  "1315750": {
+    "genres": [
+      "액션",
+      "전략"
+    ],
+    "developers": [
+      "CREATIVE ASSEMBLY",
+      "Feral Interactive (Mac)",
+      "Feral Interactive (Linux)"
+    ],
+    "publishers": [
+      "Sega"
+    ]
+  },
+  "1808680": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "Hyper Games"
+    ],
+    "publishers": [
+      "Raw Fury"
+    ]
+  },
+  "2574900": {
+    "genres": [
+      "액션",
+      "전략"
+    ],
+    "developers": [
+      "CREATIVE ASSEMBLY",
+      "Feral Interactive"
+    ],
+    "publishers": [
+      "SEGA",
+      "Feral Interactive"
+    ]
+  },
+  "2981410": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Croteam"
+    ],
+    "publishers": [
+      "Devolver Digital"
+    ]
+  },
+  "404013": {
+    "genres": [
+      "액션",
+      "전략"
+    ],
+    "developers": [
+      "CREATIVE ASSEMBLY",
+      "Feral Interactive (Linux)",
+      "Feral Interactive (Mac)"
+    ],
+    "publishers": [
+      "SEGA",
+      "Feral Interactive (Linux)",
+      "Feral Interactive (Mac)"
+    ]
+  },
+  "779880": {
+    "genres": [
+      "액션",
+      "전략"
+    ],
+    "developers": [
+      "CREATIVE ASSEMBLY",
+      "Feral Interactive"
+    ],
+    "publishers": [
+      "SEGA",
+      "Feral Interactive"
+    ]
+  },
+  "3301110": {
+    "genres": [
+      "액션",
+      "전략"
+    ],
+    "developers": [
+      "CREATIVE ASSEMBLY",
+      "Feral Interactive"
+    ],
+    "publishers": [
+      "SEGA",
+      "Feral Interactive"
+    ]
+  },
+  "1388590": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "RGG Studio"
+    ],
+    "publishers": [
+      "SEGA"
+    ]
+  },
+  "1209120": {
+    "genres": [
+      "액션",
+      "전략"
+    ],
+    "developers": [
+      "CREATIVE ASSEMBLY",
+      "Feral Interactive (Mac)",
+      "Feral Interactive (Linux)"
+    ],
+    "publishers": [
+      "SEGA",
+      "Feral Interactive"
+    ]
+  },
+  "1670540": {
+    "genres": [
+      "액션",
+      "전략"
+    ],
+    "developers": [
+      "CREATIVE ASSEMBLY",
+      "Feral Interactive"
+    ],
+    "publishers": [
+      "SEGA",
+      "Feral Interactive"
+    ]
+  },
+  "2396990": {
+    "genres": [
+      "어드벤처"
+    ],
+    "developers": [
+      "TYPE-MOON",
+      "fuzz Inc."
+    ],
+    "publishers": [
+      "Aniplex Inc."
+    ]
+  },
+  "2362050": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Byking Inc."
+    ],
+    "publishers": [
+      "Bandai Namco Entertainment Inc."
+    ]
+  },
+  "2446600": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "Sword & Axe LLC"
+    ],
+    "publishers": [
+      "indie.io",
+      "Smilegate",
+      "GAMEPOCH"
+    ]
+  },
+  "2333000": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "Wych Elm"
+    ],
+    "publishers": [
+      "Team17"
+    ]
+  },
+  "2825190": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "CAPCOM Co., Ltd."
+    ],
+    "publishers": [
+      "CAPCOM Co., Ltd."
+    ]
+  },
+  "2885870": {
+    "genres": [
+      "어드벤처",
+      "캐주얼",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Bad Viking"
+    ],
+    "publishers": [
+      "Iceberg Interactive"
+    ]
+  },
+  "3710910": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "Fatshark"
+    ],
+    "publishers": [
+      "Fatshark"
+    ]
+  },
+  "2097570": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "전략"
+    ],
+    "developers": [
+      "Pengonauts"
+    ],
+    "publishers": [
+      "Joystick Ventures",
+      "Beep Japan"
+    ]
+  },
+  "2736340": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Fury Studios"
+    ],
+    "publishers": [
+      "Raw Fury"
+    ]
+  },
+  "2457540": {
+    "genres": [
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "FURYU Corporation",
+      "LANCARSE Ltd."
+    ],
+    "publishers": [
+      "Bushiroad Inc."
+    ]
+  },
+  "3883570": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "시뮬레이션",
+      "무료 플레이",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Ludogram"
+    ],
+    "publishers": [
+      "Ludogram",
+      "Shochiku"
+    ]
+  },
+  "5241370": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "대규모 멀티플레이어"
+    ],
+    "developers": [
+      "ArtDock"
+    ],
+    "publishers": [
+      "Dreland Enterprises"
+    ]
+  },
+  "4446280": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "캐주얼",
+      "대규모 멀티플레이어",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "ArtDock"
+    ],
+    "publishers": [
+      "Dreland Enterprises"
+    ]
+  },
+  "2902230": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "캐주얼",
+      "인디"
+    ],
+    "developers": [
+      "ArtDock"
+    ],
+    "publishers": [
+      "Dreland Enterprises"
+    ]
+  },
+  "3086710": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "캐주얼",
+      "인디"
+    ],
+    "developers": [
+      "ArtDock"
+    ],
+    "publishers": [
+      "Dreland Enterprises"
+    ]
+  },
+  "2624870": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Deck Nine Games"
+    ],
+    "publishers": [
+      "Square Enix"
+    ]
+  },
+  "4660280": {
+    "genres": [
+      "캐주얼"
+    ],
+    "developers": [
+      "AEGEAN CRAFTERS"
+    ],
+    "publishers": [
+      "Rock Paper Publisher"
+    ]
+  },
+  "4312180": {
+    "genres": [
+      "어드벤처"
+    ],
+    "developers": [
+      "ArtDock"
+    ],
+    "publishers": [
+      "Dreland Enterprises "
+    ]
+  },
+  "2716400": {
+    "genres": [
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "Color Gray Games"
+    ],
+    "publishers": [
+      "Playstack"
+    ]
+  },
+  "2598510": {
+    "genres": [
+      "인디",
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "Red Hook Studios"
+    ],
+    "publishers": [
+      "Red Hook Studios"
+    ]
+  },
+  "3205310": {
+    "genres": [
+      "인디",
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "Red Hook Studios"
+    ],
+    "publishers": [
+      "Red Hook Studios"
+    ]
+  },
+  "5130480": {
+    "genres": [
+      "캐주얼",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "CapybaraKoala"
+    ],
+    "publishers": [
+      "CapybaraKoala"
+    ]
+  },
+  "1162750": {
+    "genres": [
+      "인디",
+      "시뮬레이션",
+      "전략",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Gamatron AB"
+    ],
+    "publishers": [
+      "Gamatron AB"
+    ]
+  },
+  "3804850": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Two Point Studios"
+    ],
+    "publishers": [
+      "SEGA"
+    ]
+  },
+  "3232690": {
+    "genres": [
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Accelix",
+      "SCON"
+    ],
+    "publishers": [
+      "Accelix"
+    ]
+  },
+  "4699770": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Broken Toilet Games"
+    ],
+    "publishers": [
+      "Broken Toilet Games"
+    ]
+  },
+  "2235200": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "Veewo Games"
+    ],
+    "publishers": [
+      "Veewo Games",
+      "Kepler Ghost"
+    ]
+  },
+  "4114070": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Two Point Studios"
+    ],
+    "publishers": [
+      "SEGA"
+    ]
+  },
+  "3410470": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "CAPCOM Co., Ltd."
+    ],
+    "publishers": [
+      "CAPCOM Co., Ltd."
+    ]
+  },
+  "3725110": {
+    "genres": [
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Eremite Games"
+    ],
+    "publishers": [
+      "Hooded Horse"
+    ]
+  },
+  "1361280": {
+    "genres": [
+      "인디",
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "Overhype Studios"
+    ],
+    "publishers": [
+      "Hooded Horse",
+      "Overhype Studios"
+    ]
+  },
+  "4511680": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Two Point Studios"
+    ],
+    "publishers": [
+      "SEGA"
+    ]
+  },
+  "4112840": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "シコルスキー大佐"
+    ],
+    "publishers": [
+      "072 Project"
+    ]
+  },
+  "4713280": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Polymorph Games"
+    ],
+    "publishers": [
+      "Polymorph Games"
+    ]
+  },
+  "4583960": {
+    "genres": [
+      "캐주얼",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Twinkle STARs"
+    ],
+    "publishers": [
+      "akaeroCore"
+    ]
+  },
+  "1215940": {
+    "genres": [
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "Third Shift"
+    ],
+    "publishers": [
+      "Annapurna Interactive"
+    ]
+  },
+  "5221510": {
+    "genres": [
+      "캐주얼",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Over The Moon"
+    ],
+    "publishers": [
+      "Over The Moon"
+    ]
+  },
+  "4964960": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "Crate Entertainment"
+    ],
+    "publishers": [
+      "Crate Entertainment"
+    ]
+  },
+  "3115160": {
+    "genres": [
+      "액션",
+      "인디"
+    ],
+    "developers": [
+      "Auroch Digital"
+    ],
+    "publishers": [
+      "Big Fan Games",
+      "Devolver Digital"
+    ]
+  },
+  "3055670": {
+    "genres": [
+      "액션",
+      "인디"
+    ],
+    "developers": [
+      "Gearbox Software"
+    ],
+    "publishers": [
+      "2K Games"
+    ]
   }
 }
