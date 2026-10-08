@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1791434692.3050714,
+  "fetched_at": 1791464068.3209774,
   "deals": [
     {
       "appid": 70070000014038,
@@ -20,47 +20,6 @@
       "developers": [],
       "publishers": [
         "Untold Tales"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000035797,
-      "name": "MARIO + RABBIDS SPARKS OF HOPE",
-      "discount_percent": 90,
-      "original_price": 59.99,
-      "final_price": 5.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000035797/f3dc6aa2e25ab6d713ac5da17e90ce676dfadf6a0b8fefb37b8b5159d89fc36c",
-      "url": "https://www.nintendo.com/us/store/products/mario-plus-rabbids-sparks-of-hope-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Adventure",
-        "Strategy"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70070000014384,
-      "name": "Mario + Rabbids® Sparks of Hope Gold Edition",
-      "discount_percent": 90,
-      "original_price": 89.99,
-      "final_price": 8.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000014384/5fba48700f29be012c0448ee94caf2569663906214cf7f32a9239073cad4a40f",
-      "url": "https://www.nintendo.com/us/store/products/mario-plus-rabbids-sparks-of-hope-gold-edition-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -104,49 +63,6 @@
       "developers": [],
       "publishers": [
         "CAPCOM"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000000819,
-      "name": "Mario + Rabbids® Kingdom Battle",
-      "discount_percent": 85,
-      "original_price": 39.99,
-      "final_price": 5.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000000819/c0544d71c50c0595b8589451e9fc8b2deaf5cab52415202e0585e137fbe3d5fb",
-      "url": "https://www.nintendo.com/us/store/products/mario-plus-rabbids-kingdom-battle-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Adventure",
-        "Strategy"
-      ],
-      "developers": [
-        "Ubisoft Paris"
-      ],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70070000000521,
-      "name": "Mario + Rabbids Kingdom Battle Gold Edition",
-      "discount_percent": 85,
-      "original_price": 59.99,
-      "final_price": 8.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000000521/8ee35160d16420564d87cef88fbd7f4ee7ec020d22347f0c7150ca215461e2ab",
-      "url": "https://www.nintendo.com/us/store/products/mario-plus-rabbids-kingdom-battle-gold-edition-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -420,28 +336,6 @@
       ],
       "publishers": [
         "Crunching Koalas"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000038691,
-      "name": "ASSASSIN’S CREED® THE EZIO COLLECTION",
-      "discount_percent": 80,
-      "original_price": 39.99,
-      "final_price": 7.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000038691/b6a394cabf523eb87c6dcae28d51dbea67991aee95e8de35de15a2b85af59500",
-      "url": "https://www.nintendo.com/us/store/products/assassins-creed-the-ezio-collection-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -742,113 +636,6 @@
       "review_rank": 0
     },
     {
-      "appid": 70010000057921,
-      "name": "Prince of Persia The Lost Crown",
-      "discount_percent": 70,
-      "original_price": 29.99,
-      "final_price": 8.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000057921/8a2cf8574961a349dc14f97c394d186ab1191b6e99682ddbe10fd4455c7197e1",
-      "url": "https://www.nintendo.com/us/store/products/prince-of-persia-the-lost-crown-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "developers": [
-        "Ubisoft"
-      ],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70070000023599,
-      "name": "Prince of Persia™: The Lost Crown - Complete Edition",
-      "discount_percent": 70,
-      "original_price": 39.99,
-      "final_price": 11.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000023599/963e1ea28a4fc39d576c9ebce136438b44b130ffdf56bb627a5f1878f28ef024",
-      "url": "https://www.nintendo.com/us/store/products/prince-of-persia-the-lost-crown-complete-edition-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000001331,
-      "name": "South Park™: The Fractured but Whole™ - Standard Edition",
-      "discount_percent": 70,
-      "original_price": 29.99,
-      "final_price": 8.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000001331/165ddcca506a69efe504eb01fdc9e5c6fb0178776392e506985075aaa1ce6869",
-      "url": "https://www.nintendo.com/us/store/products/south-park-the-fractured-but-whole-standard-edition-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Role playing"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70070000001741,
-      "name": "South Park™: The Fractured but Whole™ Gold Edition",
-      "discount_percent": 70,
-      "original_price": 49.99,
-      "final_price": 14.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000001741/b7d5c1b0518308d2c55ef51941fd7216091135350818aabf3ebf957b3bfcf67e",
-      "url": "https://www.nintendo.com/us/store/products/south-park-the-fractured-but-whole-gold-edition-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70070000015143,
-      "name": "Assassin's Creed Anniversary Edition Mega Bundle",
-      "discount_percent": 70,
-      "original_price": 99.99,
-      "final_price": 29.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000015143/0a3720e6cdc8ad9cce1bb005622060470dfc258aaed8aea9a2e4f400af831c34",
-      "url": "https://www.nintendo.com/us/store/products/assassins-creed-anniversary-edition-mega-bundle-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 70070000020949,
       "name": "Bang-On Balls: Chronicles Deluxe Edition",
       "discount_percent": 70,
@@ -1091,28 +878,6 @@
       "review_rank": 0
     },
     {
-      "appid": 70010000010684,
-      "name": "Assassin's Creed® III: Remastered",
-      "discount_percent": 63,
-      "original_price": 39.99,
-      "final_price": 14.79,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000010684/e3067db27e695b489f16de14d650c1c487dcf54bc9bfbbea2510f7acc9a2d57e",
-      "url": "https://www.nintendo.com/us/store/products/assassins-creed-iii-remastered-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 70070000025542,
       "name": "Flame Keeper - Deluxe Edition",
       "discount_percent": 62,
@@ -1288,70 +1053,6 @@
       ],
       "publishers": [
         "Crunching Koalas"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70070000023597,
-      "name": "Prince of Persia: The Lost Crown - Complete Upgrade Pack",
-      "discount_percent": 60,
-      "original_price": 9.99,
-      "final_price": 3.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000023597/48aac08cf5d3ec360e107f3a26ea5d2be14d4b7ceb64b706e75d7326636d2a2f",
-      "url": "https://www.nintendo.com/us/store/products/prince-of-persia-the-lost-crown-complete-upgrade-pack-70070000023597-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000034088,
-      "name": "UNO®",
-      "discount_percent": 60,
-      "original_price": 9.99,
-      "final_price": 3.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000034088/ac97854c142c719f8ae843106d43511db61822eb9bdb78e2c1a98ea0ae3b6c08",
-      "url": "https://www.nintendo.com/us/store/products/uno-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Party",
-        "Tabletop"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000069639,
-      "name": "NEW MONOPOLY®",
-      "discount_percent": 60,
-      "original_price": 29.99,
-      "final_price": 11.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000069639/8248e2edec2e8c106a26cb174fd4ae108207cf21ffd6012704f60ef5540cb79c",
-      "url": "https://www.nintendo.com/us/store/products/new-monopoly-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Tabletop"
-      ],
-      "developers": [
-        "Ubisoft"
-      ],
-      "publishers": [
-        "Ubisoft"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -1788,28 +1489,6 @@
       "review_rank": 0
     },
     {
-      "appid": 70010000101043,
-      "name": "Assassin's Creed Shadows",
-      "discount_percent": 45,
-      "original_price": 59.99,
-      "final_price": 32.98,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000101043/27e7c0866bfdf82d63a1486122e2dff215a5604794b7c8311256fb5d60a650b0",
-      "url": "https://www.nintendo.com/us/store/products/assassins-creed-shadows-switch-2/",
-      "on_sale": true,
-      "platform": "Nintendo Switch 2",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 70010000102882,
       "name": "The Good Old Days",
       "discount_percent": 40,
@@ -2193,70 +1872,6 @@
       "review_rank": 0
     },
     {
-      "appid": 70010000095790,
-      "name": "Star Wars Outlaws Gold Edition",
-      "discount_percent": 40,
-      "original_price": 59.99,
-      "final_price": 35.98,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000095790/455ca5fbddbef43bacd8d8c3f91f6dbb0e2dee372cddfdd7ad912ffcc1d6b329",
-      "url": "https://www.nintendo.com/us/store/products/star-wars-outlaws-gold-edition-switch-2/",
-      "on_sale": true,
-      "platform": "Nintendo Switch 2",
-      "genres": [
-        "Action",
-        "Shooting"
-      ],
-      "developers": [
-        "Ubisoft"
-      ],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000106414,
-      "name": "Rayman: 30th Anniversary Edition",
-      "discount_percent": 40,
-      "original_price": 19.99,
-      "final_price": 11.98,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000106414/e58254f9729ce098525dca8789358c40003d950be4e28fb108ddb820060ea2db",
-      "url": "https://www.nintendo.com/us/store/products/rayman-30th-anniversary-edition-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70070000034591,
-      "name": "Assassin's Creed Shadows Premium Edition",
-      "discount_percent": 40,
-      "original_price": 99.99,
-      "final_price": 59.98,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70070000034591/486de1e50c4d1acc220acd634fdd4933f9899eb1bd2c3b6a6d0b48ef3bc70f92",
-      "url": "https://www.nintendo.com/us/store/products/assassins-creed-shadows-premium-edition-switch-2/",
-      "on_sale": true,
-      "platform": "Nintendo Switch 2",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 70070000027440,
       "name": "Street Fighter™ 6 Years 1-2 Fighters Edition",
       "discount_percent": 35,
@@ -2475,90 +2090,6 @@
       "review_rank": 0
     },
     {
-      "appid": 70050000051083,
-      "name": "Prince of Persia™: The Lost Crown - Mask of Darkness",
-      "discount_percent": 30,
-      "original_price": 4.99,
-      "final_price": 3.48,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000051083/86df3e2225ef5f909a5a2d9b8b8894a6a7b7023876c688aca2bf335b3024d6af",
-      "url": "https://www.nintendo.com/us/store/products/prince-of-persia-the-lost-crown-mask-of-darkness-70050000051083-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70050000070375,
-      "name": "Claws of Awaji - Assassin's Creed Shadows",
-      "discount_percent": 30,
-      "original_price": 24.99,
-      "final_price": 17.48,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70050000070375/d9cd58dba452df008f9513b815a87aa3ddf26b5f6d232316d220e90efe28f08a",
-      "url": "https://www.nintendo.com/us/store/products/claws-of-awaji-assassins-creed-shadows-70050000070375-switch-2/",
-      "on_sale": true,
-      "platform": "Nintendo Switch 2",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000107624,
-      "name": "Monopoly: Star Wars™ Heroes vs. Villains",
-      "discount_percent": 25,
-      "original_price": 29.99,
-      "final_price": 22.49,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000107624/f6d3b347319fbad589e556c573c7c45010aefed24425c43af8b86009fde4d1fe",
-      "url": "https://www.nintendo.com/us/store/products/monopoly-star-wars-heroes-vs-villains-switch-2/",
-      "on_sale": true,
-      "platform": "Nintendo Switch 2",
-      "genres": [
-        "Tabletop"
-      ],
-      "developers": [
-        "Ubisoft"
-      ],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000096065,
-      "name": "Monopoly: Star Wars™ Heroes vs. Villains",
-      "discount_percent": 25,
-      "original_price": 29.99,
-      "final_price": 22.49,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000096065/f6d3b347319fbad589e556c573c7c45010aefed24425c43af8b86009fde4d1fe",
-      "url": "https://www.nintendo.com/us/store/products/monopoly-star-wars-heroes-vs-villains-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Tabletop"
-      ],
-      "developers": [
-        "Ubisoft"
-      ],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 70070000039978,
       "name": "Tilt it! Golf - Deluxe Edition",
       "discount_percent": 25,
@@ -2678,6 +2209,475 @@
       "developers": [],
       "publishers": [
         "Crunching Koalas"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000107624,
+      "name": "Monopoly: Star Wars™ Heroes vs. Villains",
+      "discount_percent": 0,
+      "original_price": 29.99,
+      "final_price": 29.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000107624/f6d3b347319fbad589e556c573c7c45010aefed24425c43af8b86009fde4d1fe",
+      "url": "https://www.nintendo.com/us/store/products/monopoly-star-wars-heroes-vs-villains-switch-2/",
+      "on_sale": false,
+      "platform": "Nintendo Switch 2",
+      "genres": [
+        "Tabletop"
+      ],
+      "developers": [
+        "Ubisoft"
+      ],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000101043,
+      "name": "Assassin's Creed Shadows",
+      "discount_percent": 0,
+      "original_price": 59.99,
+      "final_price": 59.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000101043/27e7c0866bfdf82d63a1486122e2dff215a5604794b7c8311256fb5d60a650b0",
+      "url": "https://www.nintendo.com/us/store/products/assassins-creed-shadows-switch-2/",
+      "on_sale": false,
+      "platform": "Nintendo Switch 2",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000035797,
+      "name": "MARIO + RABBIDS SPARKS OF HOPE",
+      "discount_percent": 0,
+      "original_price": 59.99,
+      "final_price": 59.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000035797/f3dc6aa2e25ab6d713ac5da17e90ce676dfadf6a0b8fefb37b8b5159d89fc36c",
+      "url": "https://www.nintendo.com/us/store/products/mario-plus-rabbids-sparks-of-hope-switch/",
+      "on_sale": false,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Adventure",
+        "Strategy"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000000819,
+      "name": "Mario + Rabbids® Kingdom Battle",
+      "discount_percent": 0,
+      "original_price": 39.99,
+      "final_price": 39.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000000819/c0544d71c50c0595b8589451e9fc8b2deaf5cab52415202e0585e137fbe3d5fb",
+      "url": "https://www.nintendo.com/us/store/products/mario-plus-rabbids-kingdom-battle-switch/",
+      "on_sale": false,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Adventure",
+        "Strategy"
+      ],
+      "developers": [
+        "Ubisoft Paris"
+      ],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000095790,
+      "name": "Star Wars Outlaws Gold Edition",
+      "discount_percent": 0,
+      "original_price": 59.99,
+      "final_price": 59.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000095790/455ca5fbddbef43bacd8d8c3f91f6dbb0e2dee372cddfdd7ad912ffcc1d6b329",
+      "url": "https://www.nintendo.com/us/store/products/star-wars-outlaws-gold-edition-switch-2/",
+      "on_sale": false,
+      "platform": "Nintendo Switch 2",
+      "genres": [
+        "Action",
+        "Shooting"
+      ],
+      "developers": [
+        "Ubisoft"
+      ],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000057921,
+      "name": "Prince of Persia The Lost Crown",
+      "discount_percent": 0,
+      "original_price": 29.99,
+      "final_price": 29.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000057921/8a2cf8574961a349dc14f97c394d186ab1191b6e99682ddbe10fd4455c7197e1",
+      "url": "https://www.nintendo.com/us/store/products/prince-of-persia-the-lost-crown-switch/",
+      "on_sale": false,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "developers": [
+        "Ubisoft"
+      ],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70050000051083,
+      "name": "Prince of Persia™: The Lost Crown - Mask of Darkness",
+      "discount_percent": 0,
+      "original_price": 4.99,
+      "final_price": 4.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000051083/86df3e2225ef5f909a5a2d9b8b8894a6a7b7023876c688aca2bf335b3024d6af",
+      "url": "https://www.nintendo.com/us/store/products/prince-of-persia-the-lost-crown-mask-of-darkness-70050000051083-switch/",
+      "on_sale": false,
+      "platform": "Nintendo Switch",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70070000023599,
+      "name": "Prince of Persia™: The Lost Crown - Complete Edition",
+      "discount_percent": 0,
+      "original_price": 39.99,
+      "final_price": 39.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000023599/963e1ea28a4fc39d576c9ebce136438b44b130ffdf56bb627a5f1878f28ef024",
+      "url": "https://www.nintendo.com/us/store/products/prince-of-persia-the-lost-crown-complete-edition-switch/",
+      "on_sale": false,
+      "platform": "Nintendo Switch",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70070000023597,
+      "name": "Prince of Persia: The Lost Crown - Complete Upgrade Pack",
+      "discount_percent": 0,
+      "original_price": 9.99,
+      "final_price": 9.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000023597/48aac08cf5d3ec360e107f3a26ea5d2be14d4b7ceb64b706e75d7326636d2a2f",
+      "url": "https://www.nintendo.com/us/store/products/prince-of-persia-the-lost-crown-complete-upgrade-pack-70070000023597-switch/",
+      "on_sale": false,
+      "platform": "Nintendo Switch",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000010684,
+      "name": "Assassin's Creed® III: Remastered",
+      "discount_percent": 0,
+      "original_price": 39.99,
+      "final_price": 39.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000010684/e3067db27e695b489f16de14d650c1c487dcf54bc9bfbbea2510f7acc9a2d57e",
+      "url": "https://www.nintendo.com/us/store/products/assassins-creed-iii-remastered-switch/",
+      "on_sale": false,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000038691,
+      "name": "ASSASSIN’S CREED® THE EZIO COLLECTION",
+      "discount_percent": 0,
+      "original_price": 39.99,
+      "final_price": 39.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000038691/b6a394cabf523eb87c6dcae28d51dbea67991aee95e8de35de15a2b85af59500",
+      "url": "https://www.nintendo.com/us/store/products/assassins-creed-the-ezio-collection-switch/",
+      "on_sale": false,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70050000070375,
+      "name": "Claws of Awaji - Assassin's Creed Shadows",
+      "discount_percent": 0,
+      "original_price": 24.99,
+      "final_price": 24.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70050000070375/d9cd58dba452df008f9513b815a87aa3ddf26b5f6d232316d220e90efe28f08a",
+      "url": "https://www.nintendo.com/us/store/products/claws-of-awaji-assassins-creed-shadows-70050000070375-switch-2/",
+      "on_sale": false,
+      "platform": "Nintendo Switch 2",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000034088,
+      "name": "UNO®",
+      "discount_percent": 0,
+      "original_price": 9.99,
+      "final_price": 9.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000034088/ac97854c142c719f8ae843106d43511db61822eb9bdb78e2c1a98ea0ae3b6c08",
+      "url": "https://www.nintendo.com/us/store/products/uno-switch/",
+      "on_sale": false,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Party",
+        "Tabletop"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000096065,
+      "name": "Monopoly: Star Wars™ Heroes vs. Villains",
+      "discount_percent": 0,
+      "original_price": 29.99,
+      "final_price": 29.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000096065/f6d3b347319fbad589e556c573c7c45010aefed24425c43af8b86009fde4d1fe",
+      "url": "https://www.nintendo.com/us/store/products/monopoly-star-wars-heroes-vs-villains-switch/",
+      "on_sale": false,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Tabletop"
+      ],
+      "developers": [
+        "Ubisoft"
+      ],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000069639,
+      "name": "NEW MONOPOLY®",
+      "discount_percent": 0,
+      "original_price": 29.99,
+      "final_price": 29.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000069639/8248e2edec2e8c106a26cb174fd4ae108207cf21ffd6012704f60ef5540cb79c",
+      "url": "https://www.nintendo.com/us/store/products/new-monopoly-switch/",
+      "on_sale": false,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Tabletop"
+      ],
+      "developers": [
+        "Ubisoft"
+      ],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000106414,
+      "name": "Rayman: 30th Anniversary Edition",
+      "discount_percent": 0,
+      "original_price": 19.99,
+      "final_price": 19.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000106414/e58254f9729ce098525dca8789358c40003d950be4e28fb108ddb820060ea2db",
+      "url": "https://www.nintendo.com/us/store/products/rayman-30th-anniversary-edition-switch/",
+      "on_sale": false,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000001331,
+      "name": "South Park™: The Fractured but Whole™ - Standard Edition",
+      "discount_percent": 0,
+      "original_price": 29.99,
+      "final_price": 29.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000001331/165ddcca506a69efe504eb01fdc9e5c6fb0178776392e506985075aaa1ce6869",
+      "url": "https://www.nintendo.com/us/store/products/south-park-the-fractured-but-whole-standard-edition-switch/",
+      "on_sale": false,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Role playing"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70070000034591,
+      "name": "Assassin's Creed Shadows Premium Edition",
+      "discount_percent": 0,
+      "original_price": 99.99,
+      "final_price": 99.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70070000034591/486de1e50c4d1acc220acd634fdd4933f9899eb1bd2c3b6a6d0b48ef3bc70f92",
+      "url": "https://www.nintendo.com/us/store/products/assassins-creed-shadows-premium-edition-switch-2/",
+      "on_sale": false,
+      "platform": "Nintendo Switch 2",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70070000001741,
+      "name": "South Park™: The Fractured but Whole™ Gold Edition",
+      "discount_percent": 0,
+      "original_price": 49.99,
+      "final_price": 49.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000001741/b7d5c1b0518308d2c55ef51941fd7216091135350818aabf3ebf957b3bfcf67e",
+      "url": "https://www.nintendo.com/us/store/products/south-park-the-fractured-but-whole-gold-edition-switch/",
+      "on_sale": false,
+      "platform": "Nintendo Switch",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70070000014384,
+      "name": "Mario + Rabbids® Sparks of Hope Gold Edition",
+      "discount_percent": 0,
+      "original_price": 89.99,
+      "final_price": 89.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000014384/5fba48700f29be012c0448ee94caf2569663906214cf7f32a9239073cad4a40f",
+      "url": "https://www.nintendo.com/us/store/products/mario-plus-rabbids-sparks-of-hope-gold-edition-switch/",
+      "on_sale": false,
+      "platform": "Nintendo Switch",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70070000015143,
+      "name": "Assassin's Creed Anniversary Edition Mega Bundle",
+      "discount_percent": 0,
+      "original_price": 99.99,
+      "final_price": 99.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000015143/0a3720e6cdc8ad9cce1bb005622060470dfc258aaed8aea9a2e4f400af831c34",
+      "url": "https://www.nintendo.com/us/store/products/assassins-creed-anniversary-edition-mega-bundle-switch/",
+      "on_sale": false,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70070000000521,
+      "name": "Mario + Rabbids Kingdom Battle Gold Edition",
+      "discount_percent": 0,
+      "original_price": 59.99,
+      "final_price": 59.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000000521/8ee35160d16420564d87cef88fbd7f4ee7ec020d22347f0c7150ca215461e2ab",
+      "url": "https://www.nintendo.com/us/store/products/mario-plus-rabbids-kingdom-battle-gold-edition-switch/",
+      "on_sale": false,
+      "platform": "Nintendo Switch",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
       ],
       "review_desc": null,
       "review_rank": 0

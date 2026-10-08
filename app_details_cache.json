@@ -21406,5 +21406,25 @@
     "publishers": [
       "GraveYardDev"
     ]
+  },
+  "5201760": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Embark Studios"
+    ],
+    "publishers": [
+      "Embark Studios"
+    ]
+  },
+  "4733620": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Crytek"
+    ],
+    "publishers": []
   }
 }
