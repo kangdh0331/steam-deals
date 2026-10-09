@@ -22882,5 +22882,389 @@
     "publishers": [
       "MY.GAMES"
     ]
+  },
+  "1953520": {
+    "genres": [
+      "레이싱",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "KT Racing"
+    ],
+    "publishers": [
+      "Nacon"
+    ]
+  },
+  "225540": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Avalanche Studios"
+    ],
+    "publishers": [
+      "Square Enix"
+    ]
+  },
+  "885970": {
+    "genres": [
+      "전략"
+    ],
+    "developers": [
+      "Creative Assembly",
+      "Feral Interactive"
+    ],
+    "publishers": [
+      "SEGA"
+    ]
+  },
+  "2095000": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Hinterland Studio Inc."
+    ],
+    "publishers": [
+      "Hinterland Studio Inc."
+    ]
+  },
+  "2225180": {
+    "genres": [],
+    "developers": [
+      "Hinterland Studio Inc."
+    ],
+    "publishers": [
+      "Hinterland Studio Inc."
+    ]
+  },
+  "10500": {
+    "genres": [
+      "전략"
+    ],
+    "developers": [
+      "CREATIVE ASSEMBLY",
+      "Feral Interactive (Mac)",
+      "Feral Interactive (Linux)"
+    ],
+    "publishers": [
+      "SEGA",
+      "Feral Interactive (Mac)",
+      "Feral Interactive (Linux)"
+    ]
+  },
+  "593600": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "캐주얼",
+      "대규모 멀티플레이어",
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "Snail Games USA"
+    ],
+    "publishers": [
+      "Snail Games USA"
+    ]
+  },
+  "979110": {
+    "genres": [
+      "인디",
+      "RPG",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Bugbyte Ltd."
+    ],
+    "publishers": [
+      "Bugbyte Ltd."
+    ]
+  },
+  "1599780": {
+    "genres": [
+      "어드벤처",
+      "캐주얼",
+      "인디"
+    ],
+    "developers": [
+      "Pikselnesia"
+    ],
+    "publishers": [
+      "Fellow Traveller"
+    ]
+  },
+  "404012": {
+    "genres": [
+      "액션",
+      "전략"
+    ],
+    "developers": [
+      "CREATIVE ASSEMBLY",
+      "Feral Interactive (Linux)",
+      "Feral Interactive (Mac)"
+    ],
+    "publishers": [
+      "SEGA",
+      "Feral Interactive (Linux)",
+      "Feral Interactive (Mac)"
+    ]
+  },
+  "1857090": {
+    "genres": [
+      "RPG",
+      "시뮬레이션",
+      "전략",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Long Jaunt"
+    ],
+    "publishers": [
+      "Hooded Horse"
+    ]
+  },
+  "534331": {
+    "genres": [
+      "액션",
+      "전략"
+    ],
+    "developers": [
+      "CREATIVE ASSEMBLY",
+      "Feral Interactive (Linux)",
+      "Feral Interactive (Mac)"
+    ],
+    "publishers": [
+      "SEGA",
+      "Feral Interactive (Linux)",
+      "Feral Interactive (Mac)"
+    ]
+  },
+  "1337520": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Hopoo Games"
+    ],
+    "publishers": [
+      "Gearbox Publishing",
+      "2K"
+    ]
+  },
+  "2361460": {
+    "genres": [
+      "액션",
+      "전략"
+    ],
+    "developers": [
+      "Bluespy Studios"
+    ],
+    "publishers": [
+      "Catoptric Games"
+    ]
+  },
+  "2637940": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "인디",
+      "레이싱",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "DreamWay Games"
+    ],
+    "publishers": [
+      "PlayWay S.A."
+    ]
+  },
+  "3592600": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Two Point Studios"
+    ],
+    "publishers": [
+      "SEGA"
+    ]
+  },
+  "3631290": {
+    "genres": [
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Friedemann"
+    ],
+    "publishers": [
+      "Future Friends Games"
+    ]
+  },
+  "3400930": {
+    "genres": [
+      "캐주얼",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Demon Max"
+    ],
+    "publishers": [
+      "Demon Max"
+    ]
+  },
+  "4569670": {
+    "genres": [
+      "캐주얼",
+      "인디"
+    ],
+    "developers": [
+      "Frozen Logic Studios"
+    ],
+    "publishers": [
+      "Lazy Otter"
+    ]
+  },
+  "1934570": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Compulsion Games"
+    ],
+    "publishers": [
+      "Compulsion Games"
+    ]
+  },
+  "4183770": {
+    "genres": [
+      "캐주얼",
+      "인디"
+    ],
+    "developers": [
+      "BUBBLE GUM LLC"
+    ],
+    "publishers": [
+      "BUBBLE GUM LLC"
+    ]
+  },
+  "4233960": {
+    "genres": [
+      "어드벤처"
+    ],
+    "developers": [
+      "Milky Way"
+    ],
+    "publishers": [
+      "Kagura Games"
+    ]
+  },
+  "4056370": {
+    "genres": [
+      "액션",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "Silver Sprout Studio",
+      "やぶから堂"
+    ],
+    "publishers": [
+      "やぶから堂"
+    ]
+  },
+  "2004680": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "RPG"
+    ],
+    "developers": [
+      "Hatchery Games"
+    ],
+    "publishers": [
+      "Hatchery Games"
+    ]
+  },
+  "4968640": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Wild Dog"
+    ],
+    "publishers": [
+      "Wild Dog"
+    ]
+  },
+  "4610080": {
+    "genres": [
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Antimuon Studios"
+    ],
+    "publishers": [
+      "Antimuon Studios"
+    ]
+  },
+  "3031880": {
+    "genres": [
+      "인디",
+      "시뮬레이션",
+      "전략",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Hilkojj Interactive"
+    ],
+    "publishers": [
+      "MicroProse Software"
+    ]
+  },
+  "4149040": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "TimeSeeker"
+    ],
+    "publishers": [
+      "Troglobytes Games",
+      "Gamersky Games"
+    ]
+  },
+  "499170": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "전략"
+    ],
+    "developers": [
+      "Thekla, Inc."
+    ],
+    "publishers": [
+      "Arc Games",
+      "Gamirror Games"
+    ]
   }
 }
