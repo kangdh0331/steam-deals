@@ -24670,5 +24670,31 @@
     "publishers": [
       "Saber Interactive Inc"
     ]
+  },
+  "855740": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Ragged Games"
+    ],
+    "publishers": [
+      "Ragged Games",
+      "PlayWay S.A."
+    ]
+  },
+  "1877020": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Byking Inc."
+    ],
+    "publishers": [
+      "Bandai Namco Entertainment Inc."
+    ]
   }
 }
