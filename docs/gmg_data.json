@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1791633668.5274916,
+  "fetched_at": 1791652683.4179761,
   "deals": [
     {
       "appid": 52719,
@@ -411,27 +411,6 @@
       "review_rank": 0
     },
     {
-      "appid": 27562,
-      "name": "Conglomerate 451",
-      "discount_percent": 85,
-      "original_price": 21000.0,
-      "final_price": 3200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/37205192a075431793811e53509703e3/6770aeb0a5964a64923e5585c87994ab.jpg",
-      "url": "https://www.greenmangaming.com/games/conglomerate-451-pc/",
-      "on_sale": true,
-      "genres": [
-        "인디",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Fulqrum Publishing"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 29118,
       "name": "DATE A LIVE: Rio Reincarnation - Deluxe Pack",
       "discount_percent": 85,
@@ -576,26 +555,6 @@
       "review_rank": 0
     },
     {
-      "appid": 17933,
-      "name": "World War I",
-      "discount_percent": 84,
-      "original_price": 5500.0,
-      "final_price": 900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/f989143673744b5faa560592a1fe3256/eee8d7c59ee442b98948acb2a28a82a0.jpg",
-      "url": "https://www.greenmangaming.com/games/world-war-i/",
-      "on_sale": true,
-      "genres": [
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Fulqrum Publishing"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 27653,
       "name": "Deep Sky Derelicts - New Prospects",
       "discount_percent": 84,
@@ -678,27 +637,6 @@
       "developers": [],
       "publishers": [
         "Red Hook Studios"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 24975,
-      "name": "Stygian: Reign of the Old Ones",
-      "discount_percent": 80,
-      "original_price": 21000.0,
-      "final_price": 4200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/7460c3629bf4486cbffe1f3ed61a06c4/577a6bd065ba42da9ed26f6a67d0433e.jpg",
-      "url": "https://www.greenmangaming.com/games/stygian-reign-of-the-old-ones-pc/",
-      "on_sale": true,
-      "genres": [
-        "RPG",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Fulqrum Publishing"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -1055,26 +993,6 @@
       "genres": [
         "액션",
         "Mac"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 6144,
-      "name": "X-COM: Apocalypse",
-      "discount_percent": 76,
-      "original_price": 5500.0,
-      "final_price": 1300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/412ef9334a074eff85fd630d39f71a76/3db43db9ba394c2d8cb5380883219b57.jpg",
-      "url": "https://www.greenmangaming.com/games/x-com-apocalypse/",
-      "on_sale": true,
-      "genres": [
-        "전략"
       ],
       "developers": [],
       "publishers": [
@@ -2504,26 +2422,6 @@
       "review_rank": 0
     },
     {
-      "appid": 48429,
-      "name": "Combat Mission Fortress Italy",
-      "discount_percent": 50,
-      "original_price": 63000.0,
-      "final_price": 31500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/37190b849a7d491ca54e3200ee153e5b/d9ea327c61a84365ad1a5d3ff47e617f.jpg",
-      "url": "https://www.greenmangaming.com/games/combat-mission-fortress-italy-pc/",
-      "on_sale": true,
-      "genres": [
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "SLITHERINE SOFTWARE UK LTD."
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 53240,
       "name": "Command:MO - Northern Inferno",
       "discount_percent": 50,
@@ -3163,26 +3061,6 @@
       "on_sale": true,
       "genres": [
         "시뮬레이션",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "SLITHERINE SOFTWARE UK LTD."
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 48433,
-      "name": "Combat Mission Fortress Italy - Rome to Victory",
-      "discount_percent": 40,
-      "original_price": 37500.0,
-      "final_price": 22500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/6ee0beaa6d544387a4383c942a166cc6/7d7f9b665a79455987781ec8f49a0c6d.jpg",
-      "url": "https://www.greenmangaming.com/games/combat-mission-fortress-italy-rome-to-victory-pc/",
-      "on_sale": true,
-      "genres": [
         "전략"
       ],
       "developers": [],
@@ -3951,29 +3829,6 @@
       "review_rank": 0
     },
     {
-      "appid": 55958,
-      "name": "Voyagers of Nera Founder's Edition",
-      "discount_percent": 28,
-      "original_price": 50900.0,
-      "final_price": 36700.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/becc8a9e6a614e3b85574112b5c30ad8/211b79d429674468978bbf05b05a8dc5.jpg",
-      "url": "https://www.greenmangaming.com/games/voyagers-of-nera-founders-edition-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "RPG",
-        "인디",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Treehouse Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 60281,
       "name": "PAPERHEAD",
       "discount_percent": 26,
@@ -3990,27 +3845,6 @@
       "developers": [],
       "publishers": [
         "HYPETRAIN DIGITAL LTD"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 58322,
-      "name": "No More Room in Hell 2",
-      "discount_percent": 25,
-      "original_price": 32000.0,
-      "final_price": 24000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/945141b02b3d464c87a326cfe0ddeb0b/63280c70a52a4b03b9cdc45dfbf2b5a8.jpg",
-      "url": "https://www.greenmangaming.com/games/no-more-room-in-hell-2-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Torn Banner Studios"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -6006,6 +5840,29 @@
       "review_rank": 0
     },
     {
+      "appid": 55958,
+      "name": "Voyagers of Nera Founder's Edition",
+      "discount_percent": 5,
+      "original_price": 50900.0,
+      "final_price": 48400.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/becc8a9e6a614e3b85574112b5c30ad8/211b79d429674468978bbf05b05a8dc5.jpg",
+      "url": "https://www.greenmangaming.com/games/voyagers-of-nera-founders-edition-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "RPG",
+        "인디",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Treehouse Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 59706,
       "name": "CONTROL Resonant",
       "discount_percent": 0,
@@ -6170,6 +6027,27 @@
       "developers": [],
       "publishers": [
         "Remedy Entertainment"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 58322,
+      "name": "No More Room in Hell 2",
+      "discount_percent": 0,
+      "original_price": 32000.0,
+      "final_price": 32000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/945141b02b3d464c87a326cfe0ddeb0b/63280c70a52a4b03b9cdc45dfbf2b5a8.jpg",
+      "url": "https://www.greenmangaming.com/games/no-more-room-in-hell-2-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Torn Banner Studios"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -20390,6 +20268,27 @@
       "review_rank": 0
     },
     {
+      "appid": 24975,
+      "name": "Stygian: Reign of the Old Ones",
+      "discount_percent": 0,
+      "original_price": 21000.0,
+      "final_price": 21000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/7460c3629bf4486cbffe1f3ed61a06c4/577a6bd065ba42da9ed26f6a67d0433e.jpg",
+      "url": "https://www.greenmangaming.com/games/stygian-reign-of-the-old-ones-pc/",
+      "on_sale": false,
+      "genres": [
+        "RPG",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Fulqrum Publishing"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 47082,
       "name": "Teslagrad 2",
       "discount_percent": 0,
@@ -22331,6 +22230,26 @@
       "developers": [],
       "publishers": [
         "Crytivo Games Inc"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 6144,
+      "name": "X-COM: Apocalypse",
+      "discount_percent": 0,
+      "original_price": 5500.0,
+      "final_price": 5500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/412ef9334a074eff85fd630d39f71a76/3db43db9ba394c2d8cb5380883219b57.jpg",
+      "url": "https://www.greenmangaming.com/games/x-com-apocalypse/",
+      "on_sale": false,
+      "genres": [
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "2K Games"
       ],
       "review_desc": null,
       "review_rank": 0

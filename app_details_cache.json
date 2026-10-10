@@ -24381,5 +24381,294 @@
     "publishers": [
       "Klei Entertainment"
     ]
+  },
+  "1082180": {
+    "genres": [
+      "액션",
+      "레이싱",
+      "RPG",
+      "시뮬레이션",
+      "스포츠"
+    ],
+    "developers": [
+      "KT Racing"
+    ],
+    "publishers": [
+      "Nacon"
+    ]
+  },
+  "298630": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Mouldy Toof Studios"
+    ],
+    "publishers": [
+      "Team17"
+    ]
+  },
+  "742420": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Volition"
+    ],
+    "publishers": [
+      "Deep Silver"
+    ]
+  },
+  "1449280": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Saber Interactive"
+    ],
+    "publishers": [
+      "Mad Dog Games, LLC"
+    ]
+  },
+  "2300120": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Anshar Studios"
+    ],
+    "publishers": [
+      "3D Realms"
+    ]
+  },
+  "1328840": {
+    "genres": [
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "Happy Juice Games"
+    ],
+    "publishers": [
+      "Joystick Ventures"
+    ]
+  },
+  "790820": {
+    "genres": [
+      "액션",
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "SEGA"
+    ],
+    "publishers": [
+      "SEGA"
+    ]
+  },
+  "2296990": {
+    "genres": [
+      "어드벤처",
+      "캐주얼",
+      "인디"
+    ],
+    "developers": [
+      "Total Mayhem Games"
+    ],
+    "publishers": [
+      "Total Mayhem Games"
+    ]
+  },
+  "2424110": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "CyberConnect2"
+    ],
+    "publishers": [
+      "SEGA"
+    ]
+  },
+  "1627570": {
+    "genres": [
+      "어드벤처"
+    ],
+    "developers": [
+      "All Possible Futures"
+    ],
+    "publishers": [
+      "Devolver Digital"
+    ]
+  },
+  "712100": {
+    "genres": [
+      "액션",
+      "전략"
+    ],
+    "developers": [
+      "CREATIVE ASSEMBLY",
+      "Feral Interactive (Mac)",
+      "Feral Interactive (Linux)"
+    ],
+    "publishers": [
+      "SEGA",
+      "Feral Interactive (Mac)",
+      "Feral Interactive (Linux)"
+    ]
+  },
+  "550320": {
+    "genres": [
+      "액션",
+      "인디",
+      "레이싱",
+      "시뮬레이션",
+      "스포츠"
+    ],
+    "developers": [
+      "Funselektor Labs Inc."
+    ],
+    "publishers": [
+      "Funselektor Labs Inc."
+    ]
+  },
+  "3072640": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "전략"
+    ],
+    "developers": [
+      "izzle"
+    ],
+    "publishers": [
+      "Com2us Holdings"
+    ]
+  },
+  "2313540": {
+    "genres": [
+      "RPG",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Paradox Thalassic",
+      "Paradox Development Studio"
+    ],
+    "publishers": [
+      "Paradox Interactive"
+    ]
+  },
+  "3582250": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "RPG",
+      "시뮬레이션",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "indieGiant"
+    ],
+    "publishers": [
+      "indieGiant"
+    ]
+  },
+  "1510030": {
+    "genres": [
+      "어드벤처",
+      "캐주얼",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "KAIJYU-09"
+    ],
+    "publishers": [
+      "KAIJYU-09"
+    ]
+  },
+  "2487300": {
+    "genres": [
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Saber Interactive"
+    ],
+    "publishers": [
+      "Saber Interactive"
+    ]
+  },
+  "2999850": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Two Point Studios"
+    ],
+    "publishers": [
+      "SEGA"
+    ]
+  },
+  "3293010": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "레이싱",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Sam C"
+    ],
+    "publishers": [
+      "Oro Interactive"
+    ]
+  },
+  "3557530": {
+    "genres": [
+      "어드벤처",
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "dicehit"
+    ],
+    "publishers": [
+      "dicehit"
+    ]
+  },
+  "2614650": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Saber Interactive Inc"
+    ],
+    "publishers": [
+      "Saber Interactive Inc"
+    ]
+  },
+  "3245120": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Saber Interactive Inc"
+    ],
+    "publishers": [
+      "Saber Interactive Inc"
+    ]
   }
 }
