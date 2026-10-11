@@ -24719,5 +24719,56 @@
     "publishers": [
       "Spellgarden Games"
     ]
+  },
+  "504230": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "Maddy Makes Games Inc.",
+      "Extremely OK Games, Ltd."
+    ],
+    "publishers": [
+      "Maddy Makes Games Inc."
+    ]
+  },
+  "392110": {
+    "genres": [
+      "전략"
+    ],
+    "developers": [
+      "AMPLITUDE Studios"
+    ],
+    "publishers": [
+      "AMPLITUDE Studios"
+    ]
+  },
+  "1548850": {
+    "genres": [
+      "액션",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Highwire Games"
+    ],
+    "publishers": [
+      "Victura"
+    ]
+  },
+  "3256150": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "Hyper Games"
+    ],
+    "publishers": [
+      "Hyper Games",
+      "Kakehashi Games"
+    ]
   }
 }
