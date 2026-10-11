@@ -24696,5 +24696,28 @@
     "publishers": [
       "Bandai Namco Entertainment Inc."
     ]
+  },
+  "586140": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Arc System Works"
+    ],
+    "publishers": [
+      "Arc System Works"
+    ]
+  },
+  "3693650": {
+    "genres": [
+      "캐주얼",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Spellgarden Games"
+    ],
+    "publishers": [
+      "Spellgarden Games"
+    ]
   }
 }
