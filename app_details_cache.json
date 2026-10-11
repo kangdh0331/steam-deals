@@ -24770,5 +24770,75 @@
       "Hyper Games",
       "Kakehashi Games"
     ]
+  },
+  "1234430": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Hekate"
+    ],
+    "publishers": [
+      "Nacon"
+    ]
+  },
+  "2581050": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "캐주얼",
+      "인디",
+      "스포츠"
+    ],
+    "developers": [
+      "KAMITSUBAKI STUDIO",
+      "Studio Lalala"
+    ],
+    "publishers": [
+      "KAMITSUBAKI STUDIO",
+      "Studio Lalala"
+    ]
+  },
+  "821250": {
+    "genres": [
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Pajama Llama Games"
+    ],
+    "publishers": [
+      "Stray Fawn Publishing"
+    ]
+  },
+  "4130120": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "Alpherior"
+    ],
+    "publishers": [
+      "Alpherior"
+    ]
+  },
+  "3560110": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Kyrylo Burlaka"
+    ],
+    "publishers": [
+      "Kyrylo Burlaka"
+    ]
   }
 }
