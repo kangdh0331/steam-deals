@@ -24933,5 +24933,317 @@
     "publishers": [
       "游戏养家工作室"
     ]
+  },
+  "1076200": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "Abrakam Entertainment SA"
+    ],
+    "publishers": [
+      "Nacon"
+    ]
+  },
+  "702890": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Arc System Works"
+    ],
+    "publishers": [
+      "Arc System Works"
+    ]
+  },
+  "850320": {
+    "genres": [
+      "어드벤처",
+      "캐주얼",
+      "인디"
+    ],
+    "developers": [
+      "Bit Loom Games"
+    ],
+    "publishers": [
+      "Coatsink"
+    ]
+  },
+  "357190": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "CAPCOM CO., LTD."
+    ],
+    "publishers": [
+      "CAPCOM U.S.A., INC."
+    ]
+  },
+  "220440": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Ninja Theory"
+    ],
+    "publishers": [
+      "Capcom"
+    ]
+  },
+  "2060130": {
+    "genres": [
+      "어드벤처",
+      "캐주얼"
+    ],
+    "developers": [
+      "Terrible Toybox"
+    ],
+    "publishers": [
+      "Devolver Digital"
+    ]
+  },
+  "2144640": {
+    "genres": [
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Gentlymad Studios"
+    ],
+    "publishers": [
+      "Assemble Entertainment"
+    ]
+  },
+  "1799930": {
+    "genres": [
+      "액션",
+      "레이싱",
+      "스포츠"
+    ],
+    "developers": [
+      "34BigThings srl"
+    ],
+    "publishers": [
+      "34BigThings srl"
+    ]
+  },
+  "2201320": {
+    "genres": [
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Sassy Chap Games"
+    ],
+    "publishers": [
+      "Team17"
+    ]
+  },
+  "1937500": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Pathea Games"
+    ],
+    "publishers": [
+      "Pathea Games",
+      "PM Studios, inc."
+    ]
+  },
+  "976590": {
+    "genres": [
+      "시뮬레이션"
+    ],
+    "developers": [
+      "stillalive studios"
+    ],
+    "publishers": [
+      "astragon Entertainment"
+    ]
+  },
+  "3527760": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Teyon"
+    ],
+    "publishers": [
+      "Nacon"
+    ]
+  },
+  "1230140": {
+    "genres": [
+      "어드벤처",
+      "캐주얼"
+    ],
+    "developers": [
+      "Frontwing",
+      "枕"
+    ],
+    "publishers": [
+      "ANIPLEX.EXE"
+    ]
+  },
+  "1089980": {
+    "genres": [
+      "어드벤처",
+      "캐주얼",
+      "인디"
+    ],
+    "developers": [
+      "PuffballsUnited"
+    ],
+    "publishers": [
+      "Innersloth"
+    ]
+  },
+  "1069160": {
+    "genres": [
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "High North Studios AS"
+    ],
+    "publishers": [
+      "Raw Fury"
+    ]
+  },
+  "2362300": {
+    "genres": [
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Dovetail Games"
+    ],
+    "publishers": [
+      "Dovetail Games - TSW"
+    ]
+  },
+  "3746950": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "GARRY"
+    ],
+    "publishers": [
+      "Gamersky Games"
+    ]
+  },
+  "2954010": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "전략"
+    ],
+    "developers": [
+      "Nozomu Games"
+    ],
+    "publishers": [
+      "Inner Pocket"
+    ]
+  },
+  "2779120": {
+    "genres": [
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Happy Volcano"
+    ],
+    "publishers": [
+      "Kwalee"
+    ]
+  },
+  "4159680": {
+    "genres": [
+      "인디",
+      "시뮬레이션",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Proto Division"
+    ],
+    "publishers": [
+      "Rock Paper Publisher"
+    ]
+  },
+  "440310": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "전략"
+    ],
+    "developers": [
+      "Vitamin Games"
+    ],
+    "publishers": [
+      "Kwalee",
+      "Vitamin Games"
+    ]
+  },
+  "2313550": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "poncle"
+    ],
+    "publishers": [
+      "poncle"
+    ]
+  },
+  "2509870": {
+    "genres": [
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "Eye Blink Twice"
+    ],
+    "publishers": [
+      "Eye Blink Twice",
+      "Serafini Productions",
+      "Gamersky Games"
+    ]
+  },
+  "4395500": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Funday Games"
+    ],
+    "publishers": [
+      "Ghost Ship Publishing"
+    ]
+  },
+  "3302470": {
+    "genres": [
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Klei Entertainment"
+    ],
+    "publishers": [
+      "Klei Entertainment"
+    ]
   }
 }
