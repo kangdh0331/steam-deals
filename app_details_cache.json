@@ -24840,5 +24840,98 @@
     "publishers": [
       "Kyrylo Burlaka"
     ]
+  },
+  "874260": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "Modern Storyteller"
+    ],
+    "publishers": [
+      "Dear Villagers"
+    ]
+  },
+  "520440": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Arc System Works"
+    ],
+    "publishers": [
+      "Arc System Works"
+    ]
+  },
+  "3357960": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Gambir Studio"
+    ],
+    "publishers": [
+      "Raw Fury"
+    ]
+  },
+  "2749950": {
+    "genres": [
+      "인디",
+      "시뮬레이션",
+      "스포츠",
+      "전략"
+    ],
+    "developers": [
+      "Neurona Games"
+    ],
+    "publishers": [
+      "indie.io"
+    ]
+  },
+  "2501600": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "전략"
+    ],
+    "developers": [
+      "超厚皮猪猪 Ultra Piggy Studio"
+    ],
+    "publishers": [
+      "Gamirror Games"
+    ]
+  },
+  "1330430": {
+    "genres": [
+      "시뮬레이션",
+      "전략",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "President Studio"
+    ],
+    "publishers": [
+      "PlayWay S.A.",
+      "President Studio"
+    ]
+  },
+  "4267800": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "RPG",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "游戏养家工作室"
+    ],
+    "publishers": [
+      "游戏养家工作室"
+    ]
   }
 }

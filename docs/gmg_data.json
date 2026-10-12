@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1791754421.4123428,
+  "fetched_at": 1791779684.4655762,
   "deals": [
     {
       "appid": 52719,
@@ -43,50 +43,6 @@
       "developers": [],
       "publishers": [
         "Dnovel"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 58426,
-      "name": "Darkest Dungeon®",
-      "discount_percent": 86,
-      "original_price": 27000.0,
-      "final_price": 3700.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/cb16e465f1784daf8731aee16990751e/e3765e584fa544a0b1011020b8925955.jpg",
-      "url": "https://www.greenmangaming.com/games/darkest-dungeon-pc/",
-      "on_sale": true,
-      "genres": [
-        "인디",
-        "전략",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Red Hook Studios"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 58434,
-      "name": "Darkest Dungeon Soundtrack",
-      "discount_percent": 82,
-      "original_price": 10500.0,
-      "final_price": 1900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/273e40771c1d43c2a9b39d28d164ca02/088b8b2b928a48d0a3e95fe6bec2661a.jpg",
-      "url": "https://www.greenmangaming.com/games/darkest-dungeon-soundtrack-pc/",
-      "on_sale": true,
-      "genres": [
-        "인디",
-        "전략",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Red Hook Studios"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -180,28 +136,6 @@
       "review_rank": 0
     },
     {
-      "appid": 58430,
-      "name": "Darkest Dungeon® II",
-      "discount_percent": 72,
-      "original_price": 42000.0,
-      "final_price": 11600.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/4ba6297b039c487a8ca556338fe61c42/80f7987353964e689bea5689c5d7e73e.jpg",
-      "url": "https://www.greenmangaming.com/games/darkest-dungeon-ii-pc/",
-      "on_sale": true,
-      "genres": [
-        "인디",
-        "전략",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Red Hook Studios"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 55460,
       "name": "The Mindvasion",
       "discount_percent": 71,
@@ -219,26 +153,6 @@
       "developers": [],
       "publishers": [
         "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 58441,
-      "name": "Darkest Dungeon® II: The Soundtrack",
-      "discount_percent": 71,
-      "original_price": 10500.0,
-      "final_price": 3000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/5497f012b93d4ae7a0172f3a7acc23de/9a4ea02ae0e64d839c8be67cb3503718.jpg",
-      "url": "https://www.greenmangaming.com/games/darkest-dungeon-ii-the-soundtrack-pc/",
-      "on_sale": true,
-      "genres": [
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Red Hook Studios"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -572,72 +486,6 @@
       "review_rank": 0
     },
     {
-      "appid": 58443,
-      "name": "Darkest Dungeon®: The Crimson Court",
-      "discount_percent": 55,
-      "original_price": 10500.0,
-      "final_price": 4700.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/86667b802f834b1b92765157090bcad1/05cca2427c564794ac0fdb8c86b1fd28.jpg",
-      "url": "https://www.greenmangaming.com/games/darkest-dungeon-the-crimson-court-pc/",
-      "on_sale": true,
-      "genres": [
-        "인디",
-        "전략",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Red Hook Studios"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 58436,
-      "name": "Darkest Dungeon®: The Color Of Madness",
-      "discount_percent": 54,
-      "original_price": 5700.0,
-      "final_price": 2600.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/0838c52ab0164c59ac057597ac70f662/72864e76dccb4f4c8a613326a0971ef8.jpg",
-      "url": "https://www.greenmangaming.com/games/darkest-dungeon-the-color-of-madness-pc/",
-      "on_sale": true,
-      "genres": [
-        "인디",
-        "전략",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Red Hook Studios"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 58445,
-      "name": "Darkest Dungeon®: The Shieldbreaker",
-      "discount_percent": 53,
-      "original_price": 4500.0,
-      "final_price": 2100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/4c5f8c1b342a435f8f4f8b5f5fe07c37/1bbfbcac843242c2a6305a415a09596b.jpg",
-      "url": "https://www.greenmangaming.com/games/darkest-dungeon-the-shieldbreaker-pc/",
-      "on_sale": true,
-      "genres": [
-        "인디",
-        "전략",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Red Hook Studios"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 60274,
       "name": "Risk of Rain 2: Bundle 4",
       "discount_percent": 50,
@@ -929,50 +777,6 @@
       "developers": [],
       "publishers": [
         "Doborog Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 58438,
-      "name": "Darkest Dungeon® II: The Binding Blade",
-      "discount_percent": 33,
-      "original_price": 10500.0,
-      "final_price": 7000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/4bec3966255e4edea28a01d2eb10a6bb/098f8371db2a4cd0864a05da7fbfe4fc.jpg",
-      "url": "https://www.greenmangaming.com/games/darkest-dungeon-ii-the-binding-blade-pc/",
-      "on_sale": true,
-      "genres": [
-        "인디",
-        "전략",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Red Hook Studios"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 58432,
-      "name": "Darkest Dungeon® II: Inhuman Bondage",
-      "discount_percent": 33,
-      "original_price": 10500.0,
-      "final_price": 7000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/7ab82296dce3472d8362668c180d5fba/dfe31cf9ff724776b75305da2bcc01ff.jpg",
-      "url": "https://www.greenmangaming.com/games/darkest-dungeon-ii-inhuman-bondage-pc/",
-      "on_sale": true,
-      "genres": [
-        "인디",
-        "전략",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Red Hook Studios"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -6520,6 +6324,28 @@
       "developers": [],
       "publishers": [
         "Plug-in Digital"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 58426,
+      "name": "Darkest Dungeon®",
+      "discount_percent": 0,
+      "original_price": 27000.0,
+      "final_price": 27000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/cb16e465f1784daf8731aee16990751e/e3765e584fa544a0b1011020b8925955.jpg",
+      "url": "https://www.greenmangaming.com/games/darkest-dungeon-pc/",
+      "on_sale": false,
+      "genres": [
+        "인디",
+        "전략",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "Red Hook Studios"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -15411,6 +15237,28 @@
       "review_rank": 0
     },
     {
+      "appid": 58434,
+      "name": "Darkest Dungeon Soundtrack",
+      "discount_percent": 0,
+      "original_price": 10500.0,
+      "final_price": 10500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/273e40771c1d43c2a9b39d28d164ca02/088b8b2b928a48d0a3e95fe6bec2661a.jpg",
+      "url": "https://www.greenmangaming.com/games/darkest-dungeon-soundtrack-pc/",
+      "on_sale": false,
+      "genres": [
+        "인디",
+        "전략",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "Red Hook Studios"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 4593,
       "name": "BioShock",
       "discount_percent": 0,
@@ -21164,6 +21012,28 @@
       "developers": [],
       "publishers": [
         "IMGN.PRO"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 58430,
+      "name": "Darkest Dungeon® II",
+      "discount_percent": 0,
+      "original_price": 42000.0,
+      "final_price": 42000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/4ba6297b039c487a8ca556338fe61c42/80f7987353964e689bea5689c5d7e73e.jpg",
+      "url": "https://www.greenmangaming.com/games/darkest-dungeon-ii-pc/",
+      "on_sale": false,
+      "genres": [
+        "인디",
+        "전략",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "Red Hook Studios"
       ],
       "review_desc": null,
       "review_rank": 0
