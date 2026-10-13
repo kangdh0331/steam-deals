@@ -27313,5 +27313,81 @@
       "OTAKU Plan",
       "NEWS"
     ]
+  },
+  "3071240": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "캐주얼",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Lost Arcade"
+    ],
+    "publishers": [
+      "Lost Arcade"
+    ]
+  },
+  "2828710": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "RPG"
+    ],
+    "developers": [
+      "One More Level"
+    ],
+    "publishers": [
+      "Lyrical Games",
+      "One More Level"
+    ]
+  },
+  "2871520": {
+    "genres": [
+      "액션",
+      "전략"
+    ],
+    "developers": [
+      "Behold Studios"
+    ],
+    "publishers": [
+      "Raw Fury"
+    ]
+  },
+  "3314580": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Off by One Games"
+    ],
+    "publishers": [
+      "Off by One Games"
+    ]
+  },
+  "3846830": {
+    "genres": [
+      "전략"
+    ],
+    "developers": [
+      "Creative Assembly",
+      "MATABOO"
+    ],
+    "publishers": [
+      "SEGA"
+    ]
+  },
+  "4888270": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Battlefield Studios"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1791899020.5134614,
+  "fetched_at": 1791930063.1317296,
   "deals": [
     {
       "appid": 52719,
@@ -8675,6 +8675,28 @@
       "review_rank": 0
     },
     {
+      "appid": 8271,
+      "name": "Whispering Willows",
+      "discount_percent": 80,
+      "original_price": 10500.0,
+      "final_price": 2100.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/0da1a837ddaf46998fdfa79818bf0aae/61e81f3b108f4a968ac4eb8308a80829.jpg",
+      "url": "https://www.greenmangaming.com/games/whispering-willows/",
+      "on_sale": true,
+      "genres": [
+        "인디",
+        "어드벤처",
+        "Mac"
+      ],
+      "developers": [],
+      "publishers": [
+        "Akupara Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 42617,
       "name": "Dreamscaper",
       "discount_percent": 80,
@@ -8758,6 +8780,26 @@
       "developers": [],
       "publishers": [
         "Plug-in Digital"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 21027,
+      "name": "Star Vikings Forever",
+      "discount_percent": 79,
+      "original_price": 10700.0,
+      "final_price": 2200.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/0a3549afc92c48a191e6cbc9d10855ac/c9924d4e38e14b4ca5afdfdad29961df.jpg",
+      "url": "https://www.greenmangaming.com/games/star-vikings-forever/",
+      "on_sale": true,
+      "genres": [
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Akupara Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -11564,6 +11606,27 @@
       "review_rank": 0
     },
     {
+      "appid": 55907,
+      "name": "The Procession to Calvary",
+      "discount_percent": 70,
+      "original_price": 10000.0,
+      "final_price": 3000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/6a292635931b4f2eac9422bd67507a59/86ff61d1b7c5461e9beff9771778e176.jpg",
+      "url": "https://www.greenmangaming.com/games/the-procession-to-calvary-pc/",
+      "on_sale": true,
+      "genres": [
+        "어드벤처",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Akupara Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 54615,
       "name": "Hell Throne",
       "discount_percent": 70,
@@ -12826,6 +12889,27 @@
       "review_rank": 0
     },
     {
+      "appid": 55909,
+      "name": "Four Last Things",
+      "discount_percent": 65,
+      "original_price": 10000.0,
+      "final_price": 3500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/236fc1057c944e9289c52d33dacc2702/0bb83e5b8c0040ebac0890295783e314.jpg",
+      "url": "https://www.greenmangaming.com/games/four-last-things-pc/",
+      "on_sale": true,
+      "genres": [
+        "어드벤처",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Akupara Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 53446,
       "name": "Everdream Valley: Family Time DLC",
       "discount_percent": 65,
@@ -13058,6 +13142,49 @@
       "developers": [],
       "publishers": [
         "Plug-in Digital"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 36905,
+      "name": "Etherborn",
+      "discount_percent": 64,
+      "original_price": 18300.0,
+      "final_price": 6500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/a87a4a25e86f434da7b34261fc7ab6ae/2d6c5b42d661407fa986b66da4223fbe.jpg",
+      "url": "https://www.greenmangaming.com/games/etherborn-pc/",
+      "on_sale": true,
+      "genres": [
+        "어드벤처",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Akupara Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 26061,
+      "name": "Desert Child",
+      "discount_percent": 64,
+      "original_price": 12900.0,
+      "final_price": 4600.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/3aef682b3aa4438fba71834dd38e539d/838e662bdc3c4341b403d9e96bd66510.jpg",
+      "url": "https://www.greenmangaming.com/games/desert-child-pc/",
+      "on_sale": true,
+      "genres": [
+        "레이싱",
+        "인디",
+        "시뮬레이션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Akupara Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -17883,6 +18010,27 @@
       "review_rank": 0
     },
     {
+      "appid": 60336,
+      "name": "Deep Dish Dungeon",
+      "discount_percent": 21,
+      "original_price": 16000.0,
+      "final_price": 12600.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/a144d776d1e2414eb788d6475efa6b51/7882b86041d449ab8cf643ba7707b6f9.jpg",
+      "url": "https://www.greenmangaming.com/games/deep-dish-dungeon-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Raw Fury"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 60003,
       "name": "Dog in the Machine",
       "discount_percent": 20,
@@ -18780,6 +18928,48 @@
       "review_rank": 0
     },
     {
+      "appid": 60314,
+      "name": "Planet Zoo 2: Deluxe Edition",
+      "discount_percent": 13,
+      "original_price": 66500.0,
+      "final_price": 57900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/1c2d7e0e7cdc43dfa240d56384279aae/e134faaf0b384f729f44ab792ca04718.jpg",
+      "url": "https://www.greenmangaming.com/games/planet-zoo-2-deluxe-edition-pc/",
+      "on_sale": true,
+      "genres": [
+        "시뮬레이션",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Frontier Developments"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60312,
+      "name": "Planet Zoo 2",
+      "discount_percent": 13,
+      "original_price": 51500.0,
+      "final_price": 44900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/afafcc7f736a485488e06533fb13aea6/79eccbcf2c87494c9f7e547fe343fab9.jpg",
+      "url": "https://www.greenmangaming.com/games/planet-zoo-2-pc/",
+      "on_sale": true,
+      "genres": [
+        "시뮬레이션",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Frontier Developments"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 60090,
       "name": "Rivage",
       "discount_percent": 12,
@@ -19140,27 +19330,6 @@
       "review_rank": 0
     },
     {
-      "appid": 55092,
-      "name": "Gas Station Simulator x Car Dealer Simulator Bundle",
-      "discount_percent": 10,
-      "original_price": 43400.0,
-      "final_price": 39100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/25c69d9772d7498fb8c013727efeeed7/60d61c73456f4642ba5f3ddb51218e8b.jpg",
-      "url": "https://www.greenmangaming.com/games/gas-station-simulator-x-car-dealer-simulator-bundle-pc/",
-      "on_sale": true,
-      "genres": [
-        "인디",
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "DRAGO Entertainment SA"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 54887,
       "name": "Neighbors: Suburban Warfare (2 Pack)",
       "discount_percent": 10,
@@ -19419,6 +19588,50 @@
       "developers": [],
       "publishers": [
         "Red Barrels"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 59986,
+      "name": "Valor Mortis",
+      "discount_percent": 0,
+      "original_price": 44800.0,
+      "final_price": 44800.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/c3df460752954e6694ae8a8981468384/cc6c664999894fef9beed0f88995f5af.jpg",
+      "url": "https://www.greenmangaming.com/games/valor-mortis-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "RPG",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Lyrical Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60233,
+      "name": "Valor Mortis Deluxe Edition",
+      "discount_percent": 0,
+      "original_price": 64800.0,
+      "final_price": 64800.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/ef63e509a2aa4843a161312349cb5cc3/d25eb3a8fe8a4ffda298445bd4286eb5.jpg",
+      "url": "https://www.greenmangaming.com/games/valor-mortis-deluxe-edition-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "RPG",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Lyrical Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -24291,28 +24504,6 @@
       "review_rank": 0
     },
     {
-      "appid": 8271,
-      "name": "Whispering Willows",
-      "discount_percent": 0,
-      "original_price": 10500.0,
-      "final_price": 10500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/0da1a837ddaf46998fdfa79818bf0aae/61e81f3b108f4a968ac4eb8308a80829.jpg",
-      "url": "https://www.greenmangaming.com/games/whispering-willows/",
-      "on_sale": false,
-      "genres": [
-        "인디",
-        "어드벤처",
-        "Mac"
-      ],
-      "developers": [],
-      "publishers": [
-        "Akupara Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 16389,
       "name": "Aragami",
       "discount_percent": 0,
@@ -24635,26 +24826,6 @@
       "developers": [],
       "publishers": [
         "City Interactive"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 21027,
-      "name": "Star Vikings Forever",
-      "discount_percent": 0,
-      "original_price": 10700.0,
-      "final_price": 10700.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/0a3549afc92c48a191e6cbc9d10855ac/c9924d4e38e14b4ca5afdfdad29961df.jpg",
-      "url": "https://www.greenmangaming.com/games/star-vikings-forever/",
-      "on_sale": false,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Akupara Games"
       ],
       "review_desc": null,
       "review_rank": 0
