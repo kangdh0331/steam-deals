@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1791815671.5387187,
+  "fetched_at": 1791850410.8850594,
   "deals": [
     {
       "appid": 52719,
@@ -14461,73 +14461,6 @@
       "review_rank": 0
     },
     {
-      "appid": 60114,
-      "name": "Moss VR",
-      "discount_percent": 50,
-      "original_price": 21500.0,
-      "final_price": 10800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/1d5166e5aea94d0c9fe881daf847346f/41db9d6ee1b84b96a05ef0135761cc40.jpg",
-      "url": "https://www.greenmangaming.com/games/moss-vr-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디",
-        "캐주얼",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Polyarc Inc"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60112,
-      "name": "Moss II VR",
-      "discount_percent": 50,
-      "original_price": 21500.0,
-      "final_price": 10800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/d57fd4b2dfa746b0b2ecddb25d3d3d45/373987d1ae5d4279959ea0532d26632e.jpg",
-      "url": "https://www.greenmangaming.com/games/moss-ii-vr-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디",
-        "캐주얼",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Polyarc Inc"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60110,
-      "name": "Glassbreakers: Champions of Moss",
-      "discount_percent": 50,
-      "original_price": 21500.0,
-      "final_price": 10800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/f72db9fb00354fc29e0000d678eae68b/3e3d0006ddcc4ed0ad3544ecc5297f9a.jpg",
-      "url": "https://www.greenmangaming.com/games/glassbreakers-champions-of-moss-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Polyarc Inc"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 40141,
       "name": "Shantae: Risky’s Revenge – Director’s Cut",
       "discount_percent": 50,
@@ -16290,29 +16223,6 @@
       "developers": [],
       "publishers": [
         "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60116,
-      "name": "Moss Franchise Bundle",
-      "discount_percent": 40,
-      "original_price": 58100.0,
-      "final_price": 34900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/b99bbd3d1e424da09743be897fea2bbf/f7d5ce7eeba04323bc415dea9475bb2d.jpg",
-      "url": "https://www.greenmangaming.com/games/moss-franchise-bundle-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디",
-        "캐주얼",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Polyarc Inc"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -18620,28 +18530,6 @@
       "developers": [],
       "publishers": [
         "DRAGO Entertainment SA"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60108,
-      "name": "Moss: The Forgotten Relic",
-      "discount_percent": 10,
-      "original_price": 21500.0,
-      "final_price": 19400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/4979a7bb42834eae8dd525dcae64b5f9/a12edb476d244fb286041be556ea76a8.jpg",
-      "url": "https://www.greenmangaming.com/games/moss-the-forgotten-relic-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Polyarc Inc"
       ],
       "review_desc": null,
       "review_rank": 0

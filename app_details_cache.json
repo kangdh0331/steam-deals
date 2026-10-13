@@ -25245,5 +25245,297 @@
     "publishers": [
       "Klei Entertainment"
     ]
+  },
+  "1567440": {
+    "genres": [
+      "캐주얼",
+      "인디"
+    ],
+    "developers": [
+      "Afterburn"
+    ],
+    "publishers": [
+      "Afterburn"
+    ]
+  },
+  "311690": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "Dodge Roll"
+    ],
+    "publishers": [
+      "Devolver Digital"
+    ]
+  },
+  "1658150": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "Studio Supersoft"
+    ],
+    "publishers": [
+      "Raw Fury"
+    ]
+  },
+  "2001070": {
+    "genres": [
+      "RPG",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Arcen Games"
+    ],
+    "publishers": [
+      "Hooded Horse"
+    ]
+  },
+  "1088790": {
+    "genres": [
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Ndemic Creations"
+    ],
+    "publishers": [
+      "Hooded Horse",
+      "Ndemic Creations"
+    ]
+  },
+  "2195410": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "RPG",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Chimera Entertainment"
+    ],
+    "publishers": [
+      "Chimera Entertainment",
+      "H2 Interactive (Korea and Japan)"
+    ]
+  },
+  "919360": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "Gamera Interactive"
+    ],
+    "publishers": [
+      "Gamera Interactive",
+      "Ancient Scroll"
+    ]
+  },
+  "887570": {
+    "genres": [
+      "시뮬레이션",
+      "전략",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Eridanus Industries"
+    ],
+    "publishers": [
+      "Hooded Horse"
+    ]
+  },
+  "2650730": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "RPG",
+      "시뮬레이션",
+      "스포츠",
+      "무료 플레이"
+    ],
+    "developers": [
+      "kopiforge"
+    ],
+    "publishers": [
+      "Isolated Games Publishing",
+      "IndieArk"
+    ]
+  },
+  "770810": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "TapBlaze"
+    ],
+    "publishers": [
+      "TapBlaze"
+    ]
+  },
+  "1013220": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Arc System Works"
+    ],
+    "publishers": [
+      "Arc System Works"
+    ]
+  },
+  "2608270": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "전략"
+    ],
+    "developers": [
+      "Explosive Squat Games"
+    ],
+    "publishers": [
+      "HypeTrain Digital"
+    ]
+  },
+  "531510": {
+    "genres": [
+      "액션",
+      "인디"
+    ],
+    "developers": [
+      "Berzerk Studio"
+    ],
+    "publishers": [
+      "Berzerk Studio"
+    ]
+  },
+  "1796470": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "레이싱"
+    ],
+    "developers": [
+      "Landfall"
+    ],
+    "publishers": [
+      "Evil Landfall?"
+    ]
+  },
+  "2987180": {
+    "genres": [
+      "애니메이션과 모델링",
+      "디자인과 일러스트레이션",
+      "소프트웨어 교육",
+      "웹 퍼블리싱",
+      "게임 개발"
+    ],
+    "developers": [
+      "Gotcha Gotcha Games"
+    ],
+    "publishers": [
+      "Gotcha Gotcha Games"
+    ]
+  },
+  "2881520": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Arc System Works"
+    ],
+    "publishers": [
+      "Arc System Works"
+    ]
+  },
+  "4121610": {
+    "genres": [
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Adam's Games"
+    ],
+    "publishers": [
+      "Adam's Games"
+    ]
+  },
+  "3767740": {
+    "genres": [
+      "캐주얼",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Tellus Games"
+    ],
+    "publishers": [
+      "Tellus Games"
+    ]
+  },
+  "4035270": {
+    "genres": [
+      "캐주얼"
+    ],
+    "developers": [
+      "WAKA WAKA"
+    ],
+    "publishers": [
+      "WAKA WAKA"
+    ]
+  },
+  "3966510": {
+    "genres": [
+      "인디",
+      "전략"
+    ],
+    "developers": [
+      "Moravian"
+    ],
+    "publishers": [
+      "Indieformer",
+      "WhisperGames"
+    ]
+  },
+  "3907350": {
+    "genres": [
+      "어드벤처"
+    ],
+    "developers": [
+      "KONAMI"
+    ],
+    "publishers": [
+      "KONAMI"
+    ]
+  },
+  "2561630": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "RPG",
+      "시뮬레이션",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Oxalis Games"
+    ],
+    "publishers": [
+      "Oxalis Games",
+      "iterco"
+    ]
   }
 }
