@@ -27419,5 +27419,47 @@
     "publishers": [
       "JOYCITY"
     ]
+  },
+  "1902690": {
+    "genres": [
+      "액션",
+      "RPG"
+    ],
+    "developers": [
+      "KOEI TECMO GAMES CO., LTD."
+    ],
+    "publishers": [
+      "KOEI TECMO GAMES CO., LTD."
+    ]
+  },
+  "2725250": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "캐주얼",
+      "인디",
+      "RPG",
+      "시뮬레이션",
+      "스포츠"
+    ],
+    "developers": [
+      "QueseraGames"
+    ],
+    "publishers": [
+      "QueseraGames"
+    ]
+  },
+  "3878090": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "전략"
+    ],
+    "developers": [
+      "Amrita"
+    ],
+    "publishers": [
+      "Amrita"
+    ]
   }
 }
