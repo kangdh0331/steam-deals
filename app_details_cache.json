@@ -27461,5 +27461,60 @@
     "publishers": [
       "Amrita"
     ]
+  },
+  "94400": {
+    "genres": [
+      "액션",
+      "인디",
+      "스포츠"
+    ],
+    "developers": [
+      "Messhof"
+    ],
+    "publishers": [
+      "Messhof"
+    ]
+  },
+  "2929250": {
+    "genres": [
+      "어드벤처",
+      "캐주얼",
+      "인디",
+      "레이싱",
+      "시뮬레이션",
+      "스포츠"
+    ],
+    "developers": [
+      "Funselektor Labs Inc."
+    ],
+    "publishers": [
+      "Funselektor Labs Inc."
+    ]
+  },
+  "4098030": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Playstrom"
+    ],
+    "publishers": [
+      "SayGames"
+    ]
+  },
+  "2967950": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "Sunny Lab"
+    ],
+    "publishers": [
+      "Silver Lining Interactive"
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1791976719.8175466,
+  "fetched_at": 1791995968.385417,
   "deals": [
     {
       "appid": 52719,
@@ -17247,6 +17247,31 @@
       "review_rank": 0
     },
     {
+      "appid": 59762,
+      "name": "over the hill",
+      "discount_percent": 34,
+      "original_price": 26500.0,
+      "final_price": 17400.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/5d036b5365b741f19140e89a52ad12bc/822ff205d9f44d89909516aaf8c3b39e.jpg",
+      "url": "https://www.greenmangaming.com/games/over-the-hill-pc/",
+      "on_sale": true,
+      "genres": [
+        "어드벤처",
+        "캐주얼",
+        "인디",
+        "레이싱",
+        "시뮬레이션",
+        "스포츠"
+      ],
+      "developers": [],
+      "publishers": [
+        "Plug-in Digital"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 59698,
       "name": "Tinkerlands",
       "discount_percent": 34,
@@ -17394,31 +17419,6 @@
         "액션",
         "어드벤처",
         "인디",
-        "시뮬레이션",
-        "스포츠"
-      ],
-      "developers": [],
-      "publishers": [
-        "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 59762,
-      "name": "over the hill",
-      "discount_percent": 32,
-      "original_price": 26500.0,
-      "final_price": 17900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/5d036b5365b741f19140e89a52ad12bc/822ff205d9f44d89909516aaf8c3b39e.jpg",
-      "url": "https://www.greenmangaming.com/games/over-the-hill-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "캐주얼",
-        "인디",
-        "레이싱",
         "시뮬레이션",
         "스포츠"
       ],
@@ -18073,6 +18073,27 @@
       "developers": [],
       "publishers": [
         "Red Barrels"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 59936,
+      "name": "Cozy Builder",
+      "discount_percent": 20,
+      "original_price": 16100.0,
+      "final_price": 12900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/77875987de424c6593fb8622afb7d099/67174b133da040ef92c96aa214aff3e0.jpg",
+      "url": "https://www.greenmangaming.com/games/cozy-builder-pc/",
+      "on_sale": true,
+      "genres": [
+        "캐주얼",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "indie.io"
       ],
       "review_desc": null,
       "review_rank": 0
