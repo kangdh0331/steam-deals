@@ -27389,5 +27389,35 @@
     "publishers": [
       "Electronic Arts"
     ]
+  },
+  "3299050": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "ChillyRoom",
+      "CritTeam 暴击组"
+    ],
+    "publishers": [
+      "ChillyRoom",
+      "LoongGate"
+    ]
+  },
+  "4004820": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "대규모 멀티플레이어",
+      "스포츠"
+    ],
+    "developers": [
+      "WOORE"
+    ],
+    "publishers": [
+      "JOYCITY"
+    ]
   }
 }
