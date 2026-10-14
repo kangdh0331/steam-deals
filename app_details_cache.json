@@ -27516,5 +27516,84 @@
     "publishers": [
       "Silver Lining Interactive"
     ]
+  },
+  "1283400": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "RPG"
+    ],
+    "developers": [
+      "Spiders"
+    ],
+    "publishers": [
+      "Nacon"
+    ]
+  },
+  "22380": {
+    "genres": [
+      "액션",
+      "RPG"
+    ],
+    "developers": [
+      "Obsidian Entertainment"
+    ],
+    "publishers": [
+      "Bethesda Softworks"
+    ]
+  },
+  "205100": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Arkane Studios"
+    ],
+    "publishers": [
+      "Bethesda Softworks"
+    ]
+  },
+  "2877540": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "RPG",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Three Swords Studio"
+    ],
+    "publishers": [
+      "Ultimate Games S.A.",
+      "Ultimate Publishing"
+    ]
+  },
+  "1705180": {
+    "genres": [
+      "액션",
+      "인디",
+      "시뮬레이션",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Radian Simulations LLC"
+    ],
+    "publishers": [
+      "Radian Simulations LLC"
+    ]
+  },
+  "223750": {
+    "genres": [
+      "시뮬레이션",
+      "무료 플레이"
+    ],
+    "developers": [
+      "Eagle Dynamics SA"
+    ],
+    "publishers": [
+      "Eagle Dynamics SA"
+    ]
   }
 }
