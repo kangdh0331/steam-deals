@@ -27726,5 +27726,32 @@
       "Yogscast Games",
       "GamerSky Games"
     ]
+  },
+  "3569420": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Featherweight Games"
+    ],
+    "publishers": [
+      "Featherweight Games"
+    ]
+  },
+  "4954910": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "JakeHub",
+      "Metater"
+    ],
+    "publishers": [
+      "Jatater Worldwide"
+    ]
   }
 }
