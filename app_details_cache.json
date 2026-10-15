@@ -27623,5 +27623,56 @@
       "Smilegate",
       "Gamersky Games"
     ]
+  },
+  "3452720": {
+    "genres": [
+      "액션",
+      "인디",
+      "RPG",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Leap Studio"
+    ],
+    "publishers": [
+      "4Divinity"
+    ]
+  },
+  "4870960": {
+    "genres": [
+      "RPG"
+    ],
+    "developers": [
+      " Interactive Films LLC"
+    ],
+    "publishers": [
+      " Interactive Films LLC"
+    ]
+  },
+  "3816030": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "대규모 멀티플레이어"
+    ],
+    "developers": [
+      "Bohemia Interactive"
+    ],
+    "publishers": [
+      "Bohemia Interactive"
+    ]
+  },
+  "2544740": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "전략"
+    ],
+    "developers": [
+      "Lightersgames"
+    ],
+    "publishers": [
+      "Game Source Entertainment"
+    ]
   }
 }
