@@ -27595,5 +27595,33 @@
     "publishers": [
       "Eagle Dynamics SA"
     ]
+  },
+  "2005010": {
+    "genres": [
+      "액션",
+      "인디"
+    ],
+    "developers": [
+      "Auroch Digital"
+    ],
+    "publishers": [
+      "Focus Entertainment"
+    ]
+  },
+  "1585180": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "Just2D"
+    ],
+    "publishers": [
+      "Deck13",
+      "Smilegate",
+      "Gamersky Games"
+    ]
   }
 }

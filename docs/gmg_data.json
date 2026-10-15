@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1792012802.1619027,
+  "fetched_at": 1792034739.1979928,
   "deals": [
     {
       "appid": 52719,
@@ -18094,28 +18094,6 @@
       "developers": [],
       "publishers": [
         "indie.io"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60093,
-      "name": "Dinoblade",
-      "discount_percent": 20,
-      "original_price": 21000.0,
-      "final_price": 16800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/ce7a7e3e441143ee8af2b7fc8732e048/9f2e1dc06cce446fa72673d78a91f5a0.jpg",
-      "url": "https://www.greenmangaming.com/games/dinoblade-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "RPG",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Team Spino"
       ],
       "review_desc": null,
       "review_rank": 0
