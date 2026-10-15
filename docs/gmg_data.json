@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1792061806.6035104,
+  "fetched_at": 1792081470.2238772,
   "deals": [
     {
       "appid": 52719,
@@ -18195,31 +18195,6 @@
       "review_rank": 0
     },
     {
-      "appid": 59762,
-      "name": "over the hill",
-      "discount_percent": 34,
-      "original_price": 42900.0,
-      "final_price": 28300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/5d036b5365b741f19140e89a52ad12bc/822ff205d9f44d89909516aaf8c3b39e.jpg",
-      "url": "https://www.greenmangaming.com/games/over-the-hill-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "캐주얼",
-        "인디",
-        "레이싱",
-        "시뮬레이션",
-        "스포츠"
-      ],
-      "developers": [],
-      "publishers": [
-        "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 59698,
       "name": "Tinkerlands",
       "discount_percent": 34,
@@ -18654,6 +18629,31 @@
         "인디",
         "RPG",
         "시뮬레이션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Plug-in Digital"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 59762,
+      "name": "over the hill",
+      "discount_percent": 28,
+      "original_price": 42900.0,
+      "final_price": 31000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/5d036b5365b741f19140e89a52ad12bc/822ff205d9f44d89909516aaf8c3b39e.jpg",
+      "url": "https://www.greenmangaming.com/games/over-the-hill-pc/",
+      "on_sale": true,
+      "genres": [
+        "어드벤처",
+        "캐주얼",
+        "인디",
+        "레이싱",
+        "시뮬레이션",
+        "스포츠"
       ],
       "developers": [],
       "publishers": [
@@ -21879,8 +21879,8 @@
       "appid": 47699,
       "name": "Ad Infinitum",
       "discount_percent": 0,
-      "original_price": 37500.0,
-      "final_price": 37500.0,
+      "original_price": 21000.0,
+      "final_price": 21000.0,
       "currency": "KRW",
       "image": "https://images.greenmangaming.com/bd1cc189fc974c47957615e7d24705ca/7302a13d297a492baf3d35885ca260c9.jpg",
       "url": "https://www.greenmangaming.com/games/ad-infinitum-pc/",

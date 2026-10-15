@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1792061811.1141982,
+  "fetched_at": 1792081470.8168976,
   "deals": [
     {
       "appid": 70070000014038,
@@ -1230,30 +1230,6 @@
       "review_rank": 0
     },
     {
-      "appid": 70010000119345,
-      "name": "Stray",
-      "discount_percent": 40,
-      "original_price": 29.99,
-      "final_price": 17.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000119345/1af2a8ddbe3597d81d12dfd4828048d9b63a75cfd59ddb63a8ba42b686de1a01",
-      "url": "https://www.nintendo.com/us/store/products/stray-switch-2/",
-      "on_sale": true,
-      "platform": "Nintendo Switch 2",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "developers": [
-        "BlueTwelve Studio"
-      ],
-      "publishers": [
-        "Annapurna Interactive"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 70050000056472,
       "name": "Year 2 Character Pass",
       "discount_percent": 35,
@@ -1612,29 +1588,6 @@
       "review_rank": 0
     },
     {
-      "appid": 70010000113916,
-      "name": "Mixtape",
-      "discount_percent": 20,
-      "original_price": 19.99,
-      "final_price": 15.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000113916/f9a46934a3bf9b37ff29c9c63a5ba30f237d32277263a29e59fdef471d8cbe23",
-      "url": "https://www.nintendo.com/us/store/products/mixtape-switch-2/",
-      "on_sale": true,
-      "platform": "Nintendo Switch 2",
-      "genres": [
-        "Adventure"
-      ],
-      "developers": [
-        "Beethoven & Dinosaur"
-      ],
-      "publishers": [
-        "Annapurna Interactive"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 70010000110389,
       "name": "OPUS: Prism Peak",
       "discount_percent": 20,
@@ -1703,7 +1656,54 @@
       ],
       "review_desc": null,
       "review_rank": 0
+    },
+    {
+      "appid": 70010000113916,
+      "name": "Mixtape",
+      "discount_percent": 0,
+      "original_price": 19.99,
+      "final_price": 19.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000113916/f9a46934a3bf9b37ff29c9c63a5ba30f237d32277263a29e59fdef471d8cbe23",
+      "url": "https://www.nintendo.com/us/store/products/mixtape-switch-2/",
+      "on_sale": false,
+      "platform": "Nintendo Switch 2",
+      "genres": [
+        "Adventure"
+      ],
+      "developers": [
+        "Beethoven & Dinosaur"
+      ],
+      "publishers": [
+        "Annapurna Interactive"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000119345,
+      "name": "Stray",
+      "discount_percent": 0,
+      "original_price": 29.99,
+      "final_price": 29.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000119345/1af2a8ddbe3597d81d12dfd4828048d9b63a75cfd59ddb63a8ba42b686de1a01",
+      "url": "https://www.nintendo.com/us/store/products/stray-switch-2/",
+      "on_sale": false,
+      "platform": "Nintendo Switch 2",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "developers": [
+        "BlueTwelve Studio"
+      ],
+      "publishers": [
+        "Annapurna Interactive"
+      ],
+      "review_desc": null,
+      "review_rank": 0
     }
   ],
-  "usd_krw_rate": 1336.79
+  "usd_krw_rate": 1345.9
 }

@@ -27674,5 +27674,57 @@
     "publishers": [
       "Game Source Entertainment"
     ]
+  },
+  "971690": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "인디"
+    ],
+    "developers": [
+      "High Tea Frog"
+    ],
+    "publishers": [
+      "Coatsink"
+    ]
+  },
+  "5228920": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "PaperPixel Games"
+    ],
+    "publishers": [
+      "PaperPixel Games"
+    ]
+  },
+  "2347080": {
+    "genres": [
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "Snapshot Games Inc."
+    ],
+    "publishers": [
+      "Arc Games"
+    ]
+  },
+  "3845070": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "전략"
+    ],
+    "developers": [
+      "Gilded Rune Games"
+    ],
+    "publishers": [
+      "Yogscast Games",
+      "GamerSky Games"
+    ]
   }
 }
