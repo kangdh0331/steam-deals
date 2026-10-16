@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1792167023.1707366,
+  "fetched_at": 1792182889.48971,
   "deals": [
     {
       "appid": 70070000014038,
@@ -1130,27 +1130,6 @@
       "review_rank": 0
     },
     {
-      "appid": 70010000075984,
-      "name": "PyroMind",
-      "discount_percent": 33,
-      "original_price": 2.99,
-      "final_price": 1.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000075984/1d699a9f0c681f1cf6542aa464c198e8eebc4548d0b7540ad20fabaa7ff83599",
-      "url": "https://www.nintendo.com/us/store/products/pyromind-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Puzzle"
-      ],
-      "developers": [],
-      "publishers": [
-        "Untold Tales"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 70070000031463,
       "name": "Monster Hunter Stories 3: Twisted Reflection Premium Deluxe Edition",
       "discount_percent": 30,
@@ -1310,29 +1289,6 @@
       ],
       "publishers": [
         "SHUEISHA GAMES"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000116556,
-      "name": "Forever Ago",
-      "discount_percent": 10,
-      "original_price": 19.99,
-      "final_price": 17.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000116556/c1ed13f27444ded4b8ef6b7f403b7d0bf2402197d39df680d1a513ec0def6950",
-      "url": "https://www.nintendo.com/us/store/products/forever-ago-switch-2/",
-      "on_sale": true,
-      "platform": "Nintendo Switch 2",
-      "genres": [
-        "Adventure"
-      ],
-      "developers": [
-        "Third Shift"
-      ],
-      "publishers": [
-        "Annapurna Interactive"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -1652,54 +1608,6 @@
       "developers": [],
       "publishers": [
         "Nacon"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000124568,
-      "name": "Sea of Stars",
-      "discount_percent": 0,
-      "original_price": 34.99,
-      "final_price": 34.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000124568/c02135d2e0cc662cbad04e4df69f8142058885e0720840e979059ea75fbbc77f",
-      "url": "https://www.nintendo.com/us/store/products/sea-of-stars-switch-2/",
-      "on_sale": false,
-      "platform": "Nintendo Switch 2",
-      "genres": [
-        "Adventure",
-        "Role playing"
-      ],
-      "developers": [
-        "Sabotage Studio"
-      ],
-      "publishers": [
-        "Sabotage Studio"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000119345,
-      "name": "Stray",
-      "discount_percent": 0,
-      "original_price": 29.99,
-      "final_price": 29.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000119345/1af2a8ddbe3597d81d12dfd4828048d9b63a75cfd59ddb63a8ba42b686de1a01",
-      "url": "https://www.nintendo.com/us/store/products/stray-switch-2/",
-      "on_sale": false,
-      "platform": "Nintendo Switch 2",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "developers": [
-        "BlueTwelve Studio"
-      ],
-      "publishers": [
-        "Annapurna Interactive"
       ],
       "review_desc": null,
       "review_rank": 0

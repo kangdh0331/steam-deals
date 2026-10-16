@@ -27897,5 +27897,85 @@
     "publishers": [
       "eyejoker"
     ]
+  },
+  "627270": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "NetherRealm Studios",
+      "QLOC"
+    ],
+    "publishers": [
+      "WB Games"
+    ]
+  },
+  "1496790": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "RPG"
+    ],
+    "developers": [
+      "Warner Bros. Games Montréal",
+      "QLOC"
+    ],
+    "publishers": [
+      "Warner Bros. Games"
+    ]
+  },
+  "209000": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "WB Games Montreal",
+      "Splash Damage"
+    ],
+    "publishers": [
+      "Warner Bros. Interactive Entertainment"
+    ]
+  },
+  "2295060": {
+    "genres": [
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Balancing Monkey Games"
+    ],
+    "publishers": [
+      "Hooded Horse"
+    ]
+  },
+  "2121510": {
+    "genres": [
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "Andrés Borghi",
+      "Saibot Studios"
+    ],
+    "publishers": [
+      "New Blood Interactive"
+    ]
+  },
+  "2949320": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "캐주얼",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "TVT Co. Ltd.",
+      "Ratata Arts"
+    ],
+    "publishers": [
+      "Game Source Entertainment"
+    ]
   }
 }
