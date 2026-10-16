@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1792097972.401859,
+  "fetched_at": 1792120892.046693,
   "deals": [
     {
       "appid": 52719,
@@ -10725,28 +10725,6 @@
       "review_rank": 0
     },
     {
-      "appid": 52202,
-      "name": "Break The Loop",
-      "discount_percent": 75,
-      "original_price": 16500.0,
-      "final_price": 4200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/ae7d3e5ea8ef45578301adfffe1a6cd4/fea1b070c2a14379b1e956946328be7f.jpg",
-      "url": "https://www.greenmangaming.com/games/break-the-loop-pc/",
-      "on_sale": true,
-      "genres": [
-        "인디",
-        "전략",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 50979,
       "name": "Hex Gambit: Respawned",
       "discount_percent": 75,
@@ -11613,26 +11591,6 @@
       "review_rank": 0
     },
     {
-      "appid": 52204,
-      "name": "Break the Loop Soundtrack",
-      "discount_percent": 73,
-      "original_price": 4500.0,
-      "final_price": 1200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/0160196f6af949c7b6e21946d1785203/ded94e20cf744e04bd1744cfd354d5f5.jpg",
-      "url": "https://www.greenmangaming.com/games/break-the-loop-soundtrack-pc/",
-      "on_sale": true,
-      "genres": [
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 55593,
       "name": "Vox Populi: Brazil 2022",
       "discount_percent": 73,
@@ -11911,28 +11869,6 @@
       "review_rank": 0
     },
     {
-      "appid": 55460,
-      "name": "The Mindvasion",
-      "discount_percent": 71,
-      "original_price": 3400.0,
-      "final_price": 1000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/96a4a07958fe4d68ab4d91a30accb86d/4cf5ecf40dc54fe497d9cb77822ba4d4.jpg",
-      "url": "https://www.greenmangaming.com/games/the-mindvasion-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "캐주얼",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 59300,
       "name": "ICEY",
       "discount_percent": 71,
@@ -12014,27 +11950,6 @@
       "developers": [],
       "publishers": [
         "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60289,
-      "name": "Dice With Death",
-      "discount_percent": 70,
-      "original_price": 15500.0,
-      "final_price": 4700.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/c4697f093da3422c8fcdfbaa72f522e3/040060bf01914bfb9682ca08f6bf48d7.jpg",
-      "url": "https://www.greenmangaming.com/games/dice-with-death-pc/",
-      "on_sale": true,
-      "genres": [
-        "인디",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "983 Interactive"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -18923,28 +18838,6 @@
       "review_rank": 0
     },
     {
-      "appid": 60261,
-      "name": "The Artisan of Glimmith",
-      "discount_percent": 28,
-      "original_price": 14500.0,
-      "final_price": 10500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/c6b797e3252a4531af4865497c24fb1f/8ffcb0ad0be0455b9c48a8008fdac335.jpg",
-      "url": "https://www.greenmangaming.com/games/the-artisan-of-glimmith-pc/",
-      "on_sale": true,
-      "genres": [
-        "캐주얼",
-        "전략",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "983 Interactive"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 58038,
       "name": "Arcadia Fallen II Soundtrack",
       "discount_percent": 27,
@@ -21704,6 +21597,27 @@
       "developers": [],
       "publishers": [
         "Square Enix"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60289,
+      "name": "Dice With Death",
+      "discount_percent": 0,
+      "original_price": 15500.0,
+      "final_price": 15500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/c4697f093da3422c8fcdfbaa72f522e3/040060bf01914bfb9682ca08f6bf48d7.jpg",
+      "url": "https://www.greenmangaming.com/games/dice-with-death-pc/",
+      "on_sale": false,
+      "genres": [
+        "인디",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "983 Interactive"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -27496,6 +27410,28 @@
       "developers": [],
       "publishers": [
         "ACE Team Software"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 55460,
+      "name": "The Mindvasion",
+      "discount_percent": 0,
+      "original_price": 3400.0,
+      "final_price": 3400.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/96a4a07958fe4d68ab4d91a30accb86d/4cf5ecf40dc54fe497d9cb77822ba4d4.jpg",
+      "url": "https://www.greenmangaming.com/games/the-mindvasion-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "캐주얼",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Plug-in Digital"
       ],
       "review_desc": null,
       "review_rank": 0

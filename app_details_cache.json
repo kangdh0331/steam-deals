@@ -27753,5 +27753,43 @@
     "publishers": [
       "Jatater Worldwide"
     ]
+  },
+  "2426530": {
+    "genres": [
+      "시뮬레이션",
+      "전략",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Lion Shield"
+    ],
+    "publishers": [
+      "Hooded Horse"
+    ]
+  },
+  "3470960": {
+    "genres": [
+      "액션",
+      "RPG"
+    ],
+    "developers": [
+      "TOSE CO., LTD."
+    ],
+    "publishers": [
+      "Bandai Namco Entertainment"
+    ]
+  },
+  "1721470": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "Mob Entertainment"
+    ],
+    "publishers": [
+      "Mob Entertainment"
+    ]
   }
 }
