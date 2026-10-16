@@ -27791,5 +27791,88 @@
     "publishers": [
       "Mob Entertainment"
     ]
+  },
+  "356190": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "RPG"
+    ],
+    "developers": [
+      "Monolith Productions"
+    ],
+    "publishers": [
+      "WB Games"
+    ]
+  },
+  "2950340": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "캐주얼"
+    ],
+    "developers": [
+      "TT Games",
+      "Double Eleven"
+    ],
+    "publishers": [
+      "Warner Bros. Games"
+    ]
+  },
+  "920210": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "TT Games"
+    ],
+    "publishers": [
+      "Warner Bros. Games",
+      "Warner Bros. Interactive Entertainment"
+    ]
+  },
+  "3318210": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "KiwiSaurus"
+    ],
+    "publishers": [
+      "KiwiSaurus"
+    ]
+  },
+  "714010": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "무료 플레이"
+    ],
+    "developers": [
+      "Statespace"
+    ],
+    "publishers": [
+      "Statespace"
+    ]
+  },
+  "4951850": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "Keen Games GmbH"
+    ],
+    "publishers": [
+      "Keen Games GmbH"
+    ]
   }
 }
