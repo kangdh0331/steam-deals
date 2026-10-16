@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1792147718.2596269,
+  "fetched_at": 1792167022.661663,
   "deals": [
     {
       "appid": 52719,
@@ -14424,6 +14424,28 @@
       "developers": [],
       "publishers": [
         "Plug-in Digital"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 59210,
+      "name": "Powerwash Simulator",
+      "discount_percent": 60,
+      "original_price": 29800.0,
+      "final_price": 12000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/72b52a084d0846348c8f7652dacb941a/89367f88b7484f3283801d43d6aedbe8.jpg",
+      "url": "https://www.greenmangaming.com/games/powerwash-simulator-pc/",
+      "on_sale": true,
+      "genres": [
+        "캐주얼",
+        "인디",
+        "시뮬레이션"
+      ],
+      "developers": [],
+      "publishers": [
+        "FuturLab"
       ],
       "review_desc": null,
       "review_rank": 0

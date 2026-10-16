@@ -27874,5 +27874,28 @@
     "publishers": [
       "Keen Games GmbH"
     ]
+  },
+  "2878600": {
+    "genres": [
+      "액션",
+      "스포츠"
+    ],
+    "developers": [
+      "Unbroken Studios"
+    ],
+    "publishers": [
+      "Warner Bros. Games"
+    ]
+  },
+  "4385780": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "eyejoker"
+    ],
+    "publishers": [
+      "eyejoker"
+    ]
   }
 }
