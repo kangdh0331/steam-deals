@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1792206724.5648174,
+  "fetched_at": 1792232023.405913,
   "deals": [
     {
       "appid": 70070000014038,
@@ -110,49 +110,6 @@
       "developers": [],
       "publishers": [
         "Untold Tales"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70070000006721,
-      "name": "The Escapists 2 - Game of the Year Edition",
-      "discount_percent": 80,
-      "original_price": 26.99,
-      "final_price": 5.39,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000006721/3f1c69f9445edcc2b5184f6fa971fefbb9cb7700eaf454c2808ca7f06c3655d5",
-      "url": "https://www.nintendo.com/us/store/products/the-escapists-2-game-of-the-year-edition-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Team17"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000018413,
-      "name": "The Survivalists",
-      "discount_percent": 80,
-      "original_price": 24.99,
-      "final_price": 4.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000018413/4ced0c45a0cd015eb904b4c7982a8d16c0d4f932011e680f59f553dc7c6f314f",
-      "url": "https://www.nintendo.com/us/store/products/the-survivalists-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "developers": [
-        "Team17 Digital Ltd."
-      ],
-      "publishers": [
-        "Team17"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -967,25 +924,6 @@
       "review_rank": 0
     },
     {
-      "appid": 70070000022925,
-      "name": "DREDGE: Complete Edition",
-      "discount_percent": 50,
-      "original_price": 39.99,
-      "final_price": 19.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000022925/7c072f4727c310eb17f6bf26790e18c6a28f37ae74773803ed050b4ced2ee206",
-      "url": "https://www.nintendo.com/us/store/products/dredge-complete-edition-switch/",
-      "on_sale": true,
-      "platform": "Nintendo Switch",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Team17"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 70070000031361,
       "name": "Gloomy Eyes - Deluxe Edition",
       "discount_percent": 50,
@@ -1163,28 +1101,6 @@
       "developers": [],
       "publishers": [
         "CAPCOM"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000112136,
-      "name": "Overcooked! 2 – Nintendo Switch 2 Edition",
-      "discount_percent": 30,
-      "original_price": 29.99,
-      "final_price": 20.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000112136/64cbe903910d9bbd79caa5ef5a80fc3fb5a8784cfcf10728b6b4e802f9b1a6a2",
-      "url": "https://www.nintendo.com/us/store/products/overcooked-2-nintendo-switch-2-edition-switch-2/",
-      "on_sale": true,
-      "platform": "Nintendo Switch 2",
-      "genres": [
-        "Action",
-        "Party"
-      ],
-      "developers": [],
-      "publishers": [
-        "Team17"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -1478,6 +1394,25 @@
       "review_rank": 0
     },
     {
+      "appid": 70070000022925,
+      "name": "DREDGE: Complete Edition",
+      "discount_percent": 0,
+      "original_price": 39.99,
+      "final_price": 39.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000022925/7c072f4727c310eb17f6bf26790e18c6a28f37ae74773803ed050b4ced2ee206",
+      "url": "https://www.nintendo.com/us/store/products/dredge-complete-edition-switch/",
+      "on_sale": false,
+      "platform": "Nintendo Switch",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "Team17"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 70010000128350,
       "name": "Duskfade",
       "discount_percent": 0,
@@ -1594,6 +1529,28 @@
       "review_rank": 0
     },
     {
+      "appid": 70010000112136,
+      "name": "Overcooked! 2 – Nintendo Switch 2 Edition",
+      "discount_percent": 0,
+      "original_price": 29.99,
+      "final_price": 29.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000112136/64cbe903910d9bbd79caa5ef5a80fc3fb5a8784cfcf10728b6b4e802f9b1a6a2",
+      "url": "https://www.nintendo.com/us/store/products/overcooked-2-nintendo-switch-2-edition-switch-2/",
+      "on_sale": false,
+      "platform": "Nintendo Switch 2",
+      "genres": [
+        "Action",
+        "Party"
+      ],
+      "developers": [],
+      "publishers": [
+        "Team17"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 70070000033453,
       "name": "Ravenswatch - Year One Edition",
       "discount_percent": 0,
@@ -1608,6 +1565,49 @@
       "developers": [],
       "publishers": [
         "Nacon"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70070000006721,
+      "name": "The Escapists 2 - Game of the Year Edition",
+      "discount_percent": 0,
+      "original_price": 26.99,
+      "final_price": 26.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000006721/3f1c69f9445edcc2b5184f6fa971fefbb9cb7700eaf454c2808ca7f06c3655d5",
+      "url": "https://www.nintendo.com/us/store/products/the-escapists-2-game-of-the-year-edition-switch/",
+      "on_sale": false,
+      "platform": "Nintendo Switch",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "Team17"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000018413,
+      "name": "The Survivalists",
+      "discount_percent": 0,
+      "original_price": 24.99,
+      "final_price": 24.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000018413/4ced0c45a0cd015eb904b4c7982a8d16c0d4f932011e680f59f553dc7c6f314f",
+      "url": "https://www.nintendo.com/us/store/products/the-survivalists-switch/",
+      "on_sale": false,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "developers": [
+        "Team17 Digital Ltd."
+      ],
+      "publishers": [
+        "Team17"
       ],
       "review_desc": null,
       "review_rank": 0
