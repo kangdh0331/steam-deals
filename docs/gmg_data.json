@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1792182889.155862,
+  "fetched_at": 1792206720.5360744,
   "deals": [
     {
       "appid": 52719,
@@ -13627,27 +13627,6 @@
       "review_rank": 0
     },
     {
-      "appid": 60046,
-      "name": "Clone Drone in the Danger Zone",
-      "discount_percent": 65,
-      "original_price": 20500.0,
-      "final_price": 7200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/0dee9cb890b34254b1e0e4a914b85819/bc7cff470b4c4e7f8f255d72d66870b5.jpg",
-      "url": "https://www.greenmangaming.com/games/clone-drone-in-the-danger-zone-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Doborog Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 48140,
       "name": "Dust Fleet",
       "discount_percent": 65,
@@ -18281,27 +18260,6 @@
       "review_rank": 0
     },
     {
-      "appid": 60048,
-      "name": "Clone Drone in the Hyperdome",
-      "discount_percent": 35,
-      "original_price": 21500.0,
-      "final_price": 14000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/ec721e81a5cc4a7891431b4614776b49/c764c69474a34fd1ad62753f7eff229d.jpg",
-      "url": "https://www.greenmangaming.com/games/clone-drone-in-the-hyperdome-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Doborog Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 59698,
       "name": "Tinkerlands",
       "discount_percent": 34,
@@ -18323,69 +18281,6 @@
       "developers": [],
       "publishers": [
         "HYPETRAIN DIGITAL LTD"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 52607,
-      "name": "Ravenswatch - Digital Soundtrack",
-      "discount_percent": 34,
-      "original_price": 8900.0,
-      "final_price": 5900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/7a749f34437647ec8fa09a2906c533f2/ad28f147556542a6a1be71c3776756e6.jpg",
-      "url": "https://www.greenmangaming.com/games/ravenswatch-digital-soundtrack-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nacon"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 52604,
-      "name": "Ravenswatch - Ravens Skin Pack",
-      "discount_percent": 34,
-      "original_price": 5600.0,
-      "final_price": 3700.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/15603f51a6214047b62b421264b82291/9af020035a7f40b9bce960da58f6b573.jpg",
-      "url": "https://www.greenmangaming.com/games/ravenswatch-ravens-skin-pack-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nacon"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 52606,
-      "name": "Ravenswatch - Digital Artbook",
-      "discount_percent": 34,
-      "original_price": 5600.0,
-      "final_price": 3700.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/a0593f3a4ef74cc5bff79075513de0e9/81c86746d958473b8b5b58720d45db9e.jpg",
-      "url": "https://www.greenmangaming.com/games/ravenswatch-digital-artbook-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nacon"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -18613,27 +18508,6 @@
       "review_rank": 0
     },
     {
-      "appid": 52603,
-      "name": "Ravenswatch - Fairytales Skin Pack",
-      "discount_percent": 32,
-      "original_price": 3400.0,
-      "final_price": 2300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/19918b27626c49d0ac3a0807e7f7af2f/2c272d507090467c98b445e58fbbd7c5.jpg",
-      "url": "https://www.greenmangaming.com/games/ravenswatch-fairytales-skin-pack-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nacon"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 59308,
       "name": "Spirit X Strike",
       "discount_percent": 30,
@@ -18695,27 +18569,6 @@
       "developers": [],
       "publishers": [
         "Odania GmbH"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 52605,
-      "name": "Ravenswatch - Nightmares Skin Pack",
-      "discount_percent": 30,
-      "original_price": 5600.0,
-      "final_price": 3900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/46f078701cbf4d14a8b0269865fe25c1/f98494c891384ebd83e421e0db637fdf.jpg",
-      "url": "https://www.greenmangaming.com/games/ravenswatch-nightmares-skin-pack-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Nacon"
       ],
       "review_desc": null,
       "review_rank": 0
