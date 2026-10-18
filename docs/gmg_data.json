@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1792337257.5295308,
+  "fetched_at": 1792354250.99242,
   "deals": [
     {
       "appid": 52719,
@@ -11869,28 +11869,6 @@
       "review_rank": 0
     },
     {
-      "appid": 59300,
-      "name": "ICEY",
-      "discount_percent": 71,
-      "original_price": 13000.0,
-      "final_price": 3800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/023b40ba1a5b4035a7669ac9e1113ef4/976488731a114d5ca09a8ef2b1475b02.jpg",
-      "url": "https://www.greenmangaming.com/games/icey-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "XD NETWORK INC"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 46431,
       "name": "DreadOut 2",
       "discount_percent": 71,
@@ -14626,29 +14604,6 @@
       "developers": [],
       "publishers": [
         "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 59294,
-      "name": "Oblivion Override",
-      "discount_percent": 58,
-      "original_price": 19500.0,
-      "final_price": 8100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/a7a45e0f50de43ebad7610d246633d48/9f8db394ddad4538a406f7608cadc903.jpg",
-      "url": "https://www.greenmangaming.com/games/oblivion-override-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "인디",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "XD NETWORK INC"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -18503,28 +18458,6 @@
       "developers": [],
       "publishers": [
         "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 59308,
-      "name": "Spirit X Strike",
-      "discount_percent": 30,
-      "original_price": 14500.0,
-      "final_price": 10200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/1dc0002922c442bba6665c0765c65083/5b9513d6454649f6a723b0ac28d8f669.jpg",
-      "url": "https://www.greenmangaming.com/games/spirit-x-strike-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "XD NETWORK INC"
       ],
       "review_desc": null,
       "review_rank": 0
