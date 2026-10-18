@@ -27977,5 +27977,28 @@
     "publishers": [
       "Game Source Entertainment"
     ]
+  },
+  "1137300": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Frogwares"
+    ],
+    "publishers": [
+      "Frogwares"
+    ]
+  },
+  "4771580": {
+    "genres": [
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Now"
+    ],
+    "publishers": [
+      "Saikey Studios"
+    ]
   }
 }
