@@ -28031,5 +28031,48 @@
     "publishers": [
       "HongKong GameTree LIMITED"
     ]
+  },
+  "4304900": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "전략"
+    ],
+    "developers": [
+      "Dan Schumacher",
+      "Hjalte Tagmose"
+    ],
+    "publishers": [
+      "Dan Schumacher",
+      "Hjalte Tagmose",
+      "Bird Gang",
+      "Gamersky Games"
+    ]
+  },
+  "5258340": {
+    "genres": [
+      "캐주얼",
+      "인디"
+    ],
+    "developers": [
+      "ShoXx"
+    ],
+    "publishers": [
+      "Oyen & Umi Games"
+    ]
+  },
+  "4621970": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Playsect"
+    ],
+    "publishers": [
+      "Playsect"
+    ]
   }
 }
