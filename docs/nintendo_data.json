@@ -1,6 +1,27 @@
 {
-  "fetched_at": 1792513552.7955773,
+  "fetched_at": 1792531126.9291902,
   "deals": [
+    {
+      "appid": 70010000005065,
+      "name": "Wolfenstein II®: The New Colossus™",
+      "discount_percent": 85,
+      "original_price": 39.99,
+      "final_price": 5.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000005065/5ead2c14e51be5e8ddae1d504ec76fcd55aa0a22ecc3e1a1e79ae929c468dbb9",
+      "url": "https://www.nintendo.com/us/store/products/wolfenstein-ii-the-new-colossus-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Shooting"
+      ],
+      "developers": [],
+      "publishers": [
+        "Bethesda"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
     {
       "appid": 70010000020948,
       "name": "CARRION ",
@@ -174,6 +195,28 @@
       "developers": [],
       "publishers": [
         "CAPCOM"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000095785,
+      "name": "Little Nightmares Enhanced Edition Complete Edition",
+      "discount_percent": 75,
+      "original_price": 29.99,
+      "final_price": 7.49,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000095785/6d4b4b71d3d37828c3c9c02678c016c28c2989e5102f8378a82c65768a698f0a",
+      "url": "https://www.nintendo.com/us/store/products/little-nightmares-enhanced-edition-complete-edition-switch-2/",
+      "on_sale": true,
+      "platform": "Nintendo Switch 2",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "developers": [],
+      "publishers": [
+        "BANDAI NAMCO Entertainment"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -1153,6 +1196,29 @@
       "review_rank": 0
     },
     {
+      "appid": 70010000045164,
+      "name": "Bugsnax",
+      "discount_percent": 50,
+      "original_price": 24.99,
+      "final_price": 12.49,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000045164/62bd1e91fa13206fc7f29224eb7f5ef827b8ebd87356470d49e7d7da31e86472",
+      "url": "https://www.nintendo.com/us/store/products/bugsnax-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Adventure"
+      ],
+      "developers": [
+        "Young Horses"
+      ],
+      "publishers": [
+        "Young Horses"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 70050000049711,
       "name": "Pinball FX Midnight - Texas Chainsaw Massacre Pinball",
       "discount_percent": 50,
@@ -1296,6 +1362,29 @@
       "review_rank": 0
     },
     {
+      "appid": 70010000077920,
+      "name": "System Shock® 2: 25th Anniversary Remaster",
+      "discount_percent": 45,
+      "original_price": 29.99,
+      "final_price": 16.49,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000077920/4dd16482ea0c62a93eacd76cb5874fbb22263cea3117f7055f1ae66c7a64a43e",
+      "url": "https://www.nintendo.com/us/store/products/system-shock-2-25th-anniversary-remaster-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Shooting"
+      ],
+      "developers": [
+        "Nightdive Studios"
+      ],
+      "publishers": [
+        "Atari"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 70010000128435,
       "name": "System Shock® 2: 25th Anniversary Remaster - Nintendo Switch 2 Edition",
       "discount_percent": 45,
@@ -1408,6 +1497,29 @@
       "developers": [],
       "publishers": [
         "KONAMI"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000051304,
+      "name": "OneShot: World Machine Edition",
+      "discount_percent": 40,
+      "original_price": 14.99,
+      "final_price": 8.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000051304/935ca738d6be73c8ddad78a4e15dbf41b02520968dba67a396ce63bbf8fe36b3",
+      "url": "https://www.nintendo.com/us/store/products/oneshot-world-machine-edition-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Adventure"
+      ],
+      "developers": [
+        "Future Cat LLC"
+      ],
+      "publishers": [
+        "DANGEN Entertainment"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -1804,6 +1916,31 @@
       "review_rank": 0
     },
     {
+      "appid": 70010000103529,
+      "name": "The Elder Scrolls IV: Oblivion Remastered",
+      "discount_percent": 20,
+      "original_price": 49.99,
+      "final_price": 39.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000103529/c9f8be812f03ade6732c039d4e8d858b77f124d856080610dfb9f5d574fa7026",
+      "url": "https://www.nintendo.com/us/store/products/the-elder-scrolls-iv-oblivion-remastered-switch-2/",
+      "on_sale": true,
+      "platform": "Nintendo Switch 2",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Role playing"
+      ],
+      "developers": [
+        "Bethesda Game Studios"
+      ],
+      "publishers": [
+        "Bethesda"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 70010000098812,
       "name": "Indiana Jones and the Great Circle™",
       "discount_percent": 20,
@@ -1819,6 +1956,50 @@
         "Shooting"
       ],
       "developers": [],
+      "publishers": [
+        "Bethesda"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70050000066562,
+      "name": "Indiana Jones and the Great Circle™: The Order of Giants",
+      "discount_percent": 20,
+      "original_price": 19.99,
+      "final_price": 15.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70050000066562/a621389f269f0014d58124840bb298b8834734a03ce6d7c543784dd5212a832f",
+      "url": "https://www.nintendo.com/us/store/products/indiana-jones-and-the-great-circle-the-order-of-giants-70050000066562-switch-2/",
+      "on_sale": true,
+      "platform": "Nintendo Switch 2",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "Bethesda"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000101067,
+      "name": "Fallout 4: Anniversary Edition",
+      "discount_percent": 20,
+      "original_price": 59.99,
+      "final_price": 47.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000101067/319f3f75f023d52fcff40766c2468ac5164c5cf1a3f3f2f04cfafca9f7657901",
+      "url": "https://www.nintendo.com/us/store/products/fallout-4-anniversary-edition-switch-2/",
+      "on_sale": true,
+      "platform": "Nintendo Switch 2",
+      "genres": [
+        "Action",
+        "Role playing",
+        "Shooting"
+      ],
+      "developers": [
+        "Bethesda Game Studios"
+      ],
       "publishers": [
         "Bethesda"
       ],
@@ -1948,187 +2129,6 @@
       ],
       "publishers": [
         "Jackbox Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000103529,
-      "name": "The Elder Scrolls IV: Oblivion Remastered",
-      "discount_percent": 0,
-      "original_price": 49.99,
-      "final_price": 49.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000103529/c9f8be812f03ade6732c039d4e8d858b77f124d856080610dfb9f5d574fa7026",
-      "url": "https://www.nintendo.com/us/store/products/the-elder-scrolls-iv-oblivion-remastered-switch-2/",
-      "on_sale": false,
-      "platform": "Nintendo Switch 2",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Role playing"
-      ],
-      "developers": [
-        "Bethesda Game Studios"
-      ],
-      "publishers": [
-        "Bethesda"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70050000066562,
-      "name": "Indiana Jones and the Great Circle™: The Order of Giants",
-      "discount_percent": 0,
-      "original_price": 19.99,
-      "final_price": 19.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70050000066562/a621389f269f0014d58124840bb298b8834734a03ce6d7c543784dd5212a832f",
-      "url": "https://www.nintendo.com/us/store/products/indiana-jones-and-the-great-circle-the-order-of-giants-70050000066562-switch-2/",
-      "on_sale": false,
-      "platform": "Nintendo Switch 2",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "Bethesda"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000101067,
-      "name": "Fallout 4: Anniversary Edition",
-      "discount_percent": 0,
-      "original_price": 59.99,
-      "final_price": 59.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000101067/319f3f75f023d52fcff40766c2468ac5164c5cf1a3f3f2f04cfafca9f7657901",
-      "url": "https://www.nintendo.com/us/store/products/fallout-4-anniversary-edition-switch-2/",
-      "on_sale": false,
-      "platform": "Nintendo Switch 2",
-      "genres": [
-        "Action",
-        "Role playing",
-        "Shooting"
-      ],
-      "developers": [
-        "Bethesda Game Studios"
-      ],
-      "publishers": [
-        "Bethesda"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000095785,
-      "name": "Little Nightmares Enhanced Edition Complete Edition",
-      "discount_percent": 0,
-      "original_price": 29.99,
-      "final_price": 29.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000095785/6d4b4b71d3d37828c3c9c02678c016c28c2989e5102f8378a82c65768a698f0a",
-      "url": "https://www.nintendo.com/us/store/products/little-nightmares-enhanced-edition-complete-edition-switch-2/",
-      "on_sale": false,
-      "platform": "Nintendo Switch 2",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "developers": [],
-      "publishers": [
-        "BANDAI NAMCO Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000077920,
-      "name": "System Shock® 2: 25th Anniversary Remaster",
-      "discount_percent": 0,
-      "original_price": 29.99,
-      "final_price": 29.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000077920/4dd16482ea0c62a93eacd76cb5874fbb22263cea3117f7055f1ae66c7a64a43e",
-      "url": "https://www.nintendo.com/us/store/products/system-shock-2-25th-anniversary-remaster-switch/",
-      "on_sale": false,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Shooting"
-      ],
-      "developers": [
-        "Nightdive Studios"
-      ],
-      "publishers": [
-        "Atari"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000005065,
-      "name": "Wolfenstein II®: The New Colossus™",
-      "discount_percent": 0,
-      "original_price": 39.99,
-      "final_price": 39.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000005065/5ead2c14e51be5e8ddae1d504ec76fcd55aa0a22ecc3e1a1e79ae929c468dbb9",
-      "url": "https://www.nintendo.com/us/store/products/wolfenstein-ii-the-new-colossus-switch/",
-      "on_sale": false,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Shooting"
-      ],
-      "developers": [],
-      "publishers": [
-        "Bethesda"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000051304,
-      "name": "OneShot: World Machine Edition",
-      "discount_percent": 0,
-      "original_price": 14.99,
-      "final_price": 14.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000051304/935ca738d6be73c8ddad78a4e15dbf41b02520968dba67a396ce63bbf8fe36b3",
-      "url": "https://www.nintendo.com/us/store/products/oneshot-world-machine-edition-switch/",
-      "on_sale": false,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Adventure"
-      ],
-      "developers": [
-        "Future Cat LLC"
-      ],
-      "publishers": [
-        "DANGEN Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 70010000045164,
-      "name": "Bugsnax",
-      "discount_percent": 0,
-      "original_price": 24.99,
-      "final_price": 24.99,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000045164/62bd1e91fa13206fc7f29224eb7f5ef827b8ebd87356470d49e7d7da31e86472",
-      "url": "https://www.nintendo.com/us/store/products/bugsnax-switch/",
-      "on_sale": false,
-      "platform": "Nintendo Switch",
-      "genres": [
-        "Adventure"
-      ],
-      "developers": [
-        "Young Horses"
-      ],
-      "publishers": [
-        "Young Horses"
       ],
       "review_desc": null,
       "review_rank": 0

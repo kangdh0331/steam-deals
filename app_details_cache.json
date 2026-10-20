@@ -28181,5 +28181,41 @@
     "publishers": [
       "Total Mayhem Games"
     ]
+  },
+  "3247750": {
+    "genres": [
+      "액션",
+      "인디"
+    ],
+    "developers": [
+      "Pigeons at Play"
+    ],
+    "publishers": [
+      "Devolver Digital"
+    ]
+  },
+  "4893530": {
+    "genres": [
+      "액션",
+      "무료 플레이"
+    ],
+    "developers": [
+      "Ubisoft Montreal"
+    ],
+    "publishers": [
+      "Ubisoft"
+    ]
+  },
+  "2590240": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "4A Games"
+    ],
+    "publishers": [
+      "Deep Silver"
+    ]
   }
 }

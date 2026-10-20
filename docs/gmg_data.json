@@ -1,27 +1,6 @@
 {
-  "fetched_at": 1792513551.7206998,
+  "fetched_at": 1792531126.64759,
   "deals": [
-    {
-      "appid": 37875,
-      "name": "Bulletstorm: Full Clip Edition",
-      "discount_percent": 91,
-      "original_price": 41000.0,
-      "final_price": 3700.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/8cb3a49b7e2d4a4a8ebd6d9070c24423/28e4e9449d3142d6b75713f7f24e5d5a.jpg",
-      "url": "https://www.greenmangaming.com/games/bulletstorm-full-clip-edition-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Gearbox Publishing"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
     {
       "appid": 59702,
       "name": "The Wild Eight",
@@ -4104,27 +4083,6 @@
       "developers": [],
       "publishers": [
         "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 17519,
-      "name": "Homeworld Remastered Collection",
-      "discount_percent": 86,
-      "original_price": 38000.0,
-      "final_price": 5200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/252fc478cc4a406c9277b369bff2aeb8/2551b442dd904727a08dd2be3ab87d2c.jpg",
-      "url": "https://www.greenmangaming.com/games/homeworld-remastered-collection-pc/",
-      "on_sale": true,
-      "genres": [
-        "시뮬레이션",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Gearbox Publishing"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -9842,52 +9800,6 @@
       "review_rank": 0
     },
     {
-      "appid": 40766,
-      "name": "Tribes of Midgard",
-      "discount_percent": 77,
-      "original_price": 21000.0,
-      "final_price": 4800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/efa5e751e38c46c586fd8fe335adba1b/c7ab91f1faf944209c5a05757fafe191.jpg",
-      "url": "https://www.greenmangaming.com/games/tribes-of-midgard-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "인디",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Gearbox Publishing"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 40773,
-      "name": "Tribes of Midgard - Deluxe Edition",
-      "discount_percent": 77,
-      "original_price": 31500.0,
-      "final_price": 7200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/8924ebdfe62a41b3838697f76017bcf1/40feb5ecb52844099a0a7cf3fbadabad.jpg",
-      "url": "https://www.greenmangaming.com/games/tribes-of-midgard-deluxe-edition-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "인디",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Gearbox Publishing"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 37194,
       "name": "Gloomhaven",
       "discount_percent": 76,
@@ -11256,27 +11168,6 @@
       "review_rank": 0
     },
     {
-      "appid": 46259,
-      "name": "Blanc",
-      "discount_percent": 73,
-      "original_price": 15000.0,
-      "final_price": 4100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/d5dea946d23249f48130e528720d418a/8c8df9caac9b4644b0ccc87243b1cf52.jpg",
-      "url": "https://www.greenmangaming.com/games/blanc-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Gearbox Publishing"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 59701,
       "name": "There Is No Light: Enhanced Edition",
       "discount_percent": 73,
@@ -11425,27 +11316,6 @@
       "developers": [],
       "publishers": [
         "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 37671,
-      "name": "Risk of Rain 2",
-      "discount_percent": 70,
-      "original_price": 26000.0,
-      "final_price": 7800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/7b5c27f7555b4aa2af324d966a8a7450/d47ba348c585453086769daf03b8ee1f.jpg",
-      "url": "https://www.greenmangaming.com/games/risk-of-rain-2-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Gearbox Publishing"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -20960,6 +20830,27 @@
       "review_rank": 0
     },
     {
+      "appid": 37875,
+      "name": "Bulletstorm: Full Clip Edition",
+      "discount_percent": 0,
+      "original_price": 41000.0,
+      "final_price": 41000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/8cb3a49b7e2d4a4a8ebd6d9070c24423/28e4e9449d3142d6b75713f7f24e5d5a.jpg",
+      "url": "https://www.greenmangaming.com/games/bulletstorm-full-clip-edition-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Gearbox Publishing"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 7834,
       "name": "POSTAL 2",
       "discount_percent": 0,
@@ -24702,6 +24593,27 @@
       "review_rank": 0
     },
     {
+      "appid": 17519,
+      "name": "Homeworld Remastered Collection",
+      "discount_percent": 0,
+      "original_price": 38000.0,
+      "final_price": 38000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/252fc478cc4a406c9277b369bff2aeb8/2551b442dd904727a08dd2be3ab87d2c.jpg",
+      "url": "https://www.greenmangaming.com/games/homeworld-remastered-collection-pc/",
+      "on_sale": false,
+      "genres": [
+        "시뮬레이션",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Gearbox Publishing"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 6225,
       "name": "Omikron: The Nomad Soul",
       "discount_percent": 0,
@@ -26995,6 +26907,27 @@
       "developers": [],
       "publishers": [
         "Merge Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 37671,
+      "name": "Risk of Rain 2",
+      "discount_percent": 0,
+      "original_price": 26000.0,
+      "final_price": 26000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/7b5c27f7555b4aa2af324d966a8a7450/d47ba348c585453086769daf03b8ee1f.jpg",
+      "url": "https://www.greenmangaming.com/games/risk-of-rain-2-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Gearbox Publishing"
       ],
       "review_desc": null,
       "review_rank": 0
