@@ -1,69 +1,6 @@
 {
-  "fetched_at": 1792447370.742102,
+  "fetched_at": 1792467465.4283369,
   "deals": [
-    {
-      "appid": 52719,
-      "name": "The Black Within",
-      "discount_percent": 95,
-      "original_price": 5600.0,
-      "final_price": 300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/b302ebff2d0244d593d33a81e180fdcf/90b125c9d93c4aec9415940122f56fb8.jpg",
-      "url": "https://www.greenmangaming.com/games/the-black-within-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "인디",
-        "캐주얼"
-      ],
-      "developers": [],
-      "publishers": [
-        "Waleedzo"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 43127,
-      "name": "The Quarry Deluxe Edition",
-      "discount_percent": 91,
-      "original_price": 76000.0,
-      "final_price": 6900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/91514b6cafa64b43bf53ec43555f20a2/67ac9ac0eb194243af1226fefeae6346.jpg",
-      "url": "https://www.greenmangaming.com/games/the-quarry-deluxe-edition-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 34697,
-      "name": "Borderlands 3",
-      "discount_percent": 91,
-      "original_price": 64900.0,
-      "final_price": 5900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/de2336cf64c74860b81cf540351cefe2/549776a190584c998cae46fa176fdea2.jpg",
-      "url": "https://www.greenmangaming.com/games/borderlands-3-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
     {
       "appid": 37875,
       "name": "Bulletstorm: Full Clip Edition",
@@ -77,89 +14,6 @@
       "genres": [
         "액션",
         "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Gearbox Publishing"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 4706,
-      "name": "Borderlands: The Pre-Sequel",
-      "discount_percent": 91,
-      "original_price": 43000.0,
-      "final_price": 3900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/160f02d28ec94f4fa93dfbeb0846f7dc/4c7cf42ba911431b8af0035016a3e65b.jpg",
-      "url": "https://www.greenmangaming.com/games/borderlands-the-pre-sequel/",
-      "on_sale": true,
-      "genres": [
-        "슈팅",
-        "액션",
-        "Mac"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 43125,
-      "name": "The Quarry",
-      "discount_percent": 91,
-      "original_price": 65000.0,
-      "final_price": 5900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/8a05b373beef4c24b21e747eeeb3cd11/2c3a08c05edc41fa9dc9f8fe618b0181.jpg",
-      "url": "https://www.greenmangaming.com/games/the-quarry-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 19643,
-      "name": "Borderlands 3 (EPIC)",
-      "discount_percent": 91,
-      "original_price": 64900.0,
-      "final_price": 5900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/de2336cf64c74860b81cf540351cefe2/549776a190584c998cae46fa176fdea2.jpg",
-      "url": "https://www.greenmangaming.com/games/borderlands-3-epic-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 37883,
-      "name": "Homeworld: Deserts of Kharak",
-      "discount_percent": 91,
-      "original_price": 54000.0,
-      "final_price": 4900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/9a953e2f33124970b72b7149c475bd74/3ea914a866394f4e94518531549cac37.jpg",
-      "url": "https://www.greenmangaming.com/games/homeworld-deserts-of-kharak-pc/",
-      "on_sale": true,
-      "genres": [
-        "전략"
       ],
       "developers": [],
       "publishers": [
@@ -4212,50 +4066,6 @@
       "review_rank": 0
     },
     {
-      "appid": 8920,
-      "name": "Borderlands 2: Game of the Year Edition",
-      "discount_percent": 86,
-      "original_price": 43000.0,
-      "final_price": 5900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/1011943e684a4b0b867d034131bc7640/34e7a080e19a4264a17041e7fb21b10d.jpg",
-      "url": "https://www.greenmangaming.com/games/borderlands-2-game-of-the-year-edition/",
-      "on_sale": true,
-      "genres": [
-        "슈팅",
-        "RPG",
-        "Mac"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 34699,
-      "name": "Borderlands 3 Super Deluxe Edition",
-      "discount_percent": 86,
-      "original_price": 88900.0,
-      "final_price": 12100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/044f8ee7c5e544fcbd6a2f7e38b16f71/5327858a92764a26a075359910b1c617.jpg",
-      "url": "https://www.greenmangaming.com/games/borderlands-3-super-deluxe-edition-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "RPG",
-        "슈팅"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 28008,
       "name": "Golf Peaks",
       "discount_percent": 86,
@@ -4337,28 +4147,6 @@
       "developers": [],
       "publishers": [
         "RockGame SA"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 27308,
-      "name": "Borderlands 3 Super Deluxe Edition (EPIC)",
-      "discount_percent": 86,
-      "original_price": 88900.0,
-      "final_price": 12100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/044f8ee7c5e544fcbd6a2f7e38b16f71/5327858a92764a26a075359910b1c617.jpg",
-      "url": "https://www.greenmangaming.com/games/borderlands-3-super-deluxe-edition-epic-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "RPG",
-        "슈팅"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -8304,68 +8092,6 @@
       "review_rank": 0
     },
     {
-      "appid": 37663,
-      "name": "Borderlands 3: Ultimate Edition",
-      "discount_percent": 82,
-      "original_price": 116900.0,
-      "final_price": 21100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/4b5c6490ea1043428fef686f5e9784af/5d95fa363ce54733a49864f5df20ba69.jpg",
-      "url": "https://www.greenmangaming.com/games/borderlands-3-ultimate-edition-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 40595,
-      "name": "Tiny Tina's Wonderlands",
-      "discount_percent": 82,
-      "original_price": 36800.0,
-      "final_price": 6700.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/8161e01dcc5941c6b24da934bdb84cd1/e42b5c94a8444cbe933f0025e8051d05.jpg",
-      "url": "https://www.greenmangaming.com/games/tiny-tinas-wonderlands-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 27282,
-      "name": "Borderlands: Game of the Year Enhanced",
-      "discount_percent": 82,
-      "original_price": 31700.0,
-      "final_price": 5800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/4904859f89fc4a658786550dcc491279/a08d4d9603ba492baea8bb4176cc4f7b.jpg",
-      "url": "https://www.greenmangaming.com/games/borderlands-game-of-the-year-enhanced-pc/",
-      "on_sale": true,
-      "genres": [
-        "FPS",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 9195,
       "name": "Pongo",
       "discount_percent": 82,
@@ -8530,27 +8256,6 @@
       "developers": [],
       "publishers": [
         "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 37677,
-      "name": "Borderlands 3: Ultimate Edition (EPIC)",
-      "discount_percent": 82,
-      "original_price": 116900.0,
-      "final_price": 21100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/1b7ae894948e41018b80a46f55476f9f/cd3ece08e76b4778b3060cb372b0f6c5.jpg",
-      "url": "https://www.greenmangaming.com/games/borderlands-3-ultimate-edition-epic-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -8902,26 +8607,6 @@
       "developers": [],
       "publishers": [
         "HYPETRAIN DIGITAL LTD"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 40651,
-      "name": "Tiny Tina's Wonderlands",
-      "discount_percent": 82,
-      "original_price": 36800.0,
-      "final_price": 6700.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/8161e01dcc5941c6b24da934bdb84cd1/e42b5c94a8444cbe933f0025e8051d05.jpg",
-      "url": "https://www.greenmangaming.com/games/tiny-tinas-wonderlands-epic-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -10137,48 +9822,6 @@
       "review_rank": 0
     },
     {
-      "appid": 37877,
-      "name": "Duke Nukem 3D: 20th Anniversary World Tour",
-      "discount_percent": 77,
-      "original_price": 21000.0,
-      "final_price": 4800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/b3e415513a954fedbab49c1623e489cf/eb96678397a74a31b8a0eeb22d6c6270.jpg",
-      "url": "https://www.greenmangaming.com/games/duke-nukem-3d-20th-anniversary-world-tour-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Gearbox Publishing"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 43203,
-      "name": "Godfall Ultimate Edition",
-      "discount_percent": 77,
-      "original_price": 41000.0,
-      "final_price": 9300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/932c18d608f24fd7b45a476e05cf27e1/8e2d9fc2fa2c4f52bde973d8eb290291.jpg",
-      "url": "https://www.greenmangaming.com/games/godfall-ultimate-edition-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Gearbox Publishing"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 27350,
       "name": "Swim Out",
       "discount_percent": 77,
@@ -10194,49 +9837,6 @@
       "developers": [],
       "publishers": [
         "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 5012,
-      "name": "Duke Nukem Forever",
-      "discount_percent": 77,
-      "original_price": 21000.0,
-      "final_price": 4800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/5fa6452b8c264828962cadd39214d06a/7079baced1df46c4a635e774140adba1.jpg",
-      "url": "https://www.greenmangaming.com/games/duke-nukem-forever/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "Mac"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 29638,
-      "name": "Borderlands 2 VR",
-      "discount_percent": 77,
-      "original_price": 54000.0,
-      "final_price": 12200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/467a3d6d2a014a158bc7763bd6846631/e63297101dc1454a818196d945fa674c.jpg",
-      "url": "https://www.greenmangaming.com/games/borderlands-2-vr-pc/",
-      "on_sale": true,
-      "genres": [
-        "FPS",
-        "RPG",
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -10260,29 +9860,6 @@
       "developers": [],
       "publishers": [
         "Gearbox Publishing"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 44437,
-      "name": "Rollerdrome",
-      "discount_percent": 77,
-      "original_price": 34800.0,
-      "final_price": 7900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/2f05e66b5809430f887ec62f1439c42c/408533cc3ac74c7fb739aabea25c6d4e.jpg",
-      "url": "https://www.greenmangaming.com/games/rollerdrome-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디",
-        "스포츠",
-        "슈팅"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -11679,68 +11256,6 @@
       "review_rank": 0
     },
     {
-      "appid": 44050,
-      "name": "Tiny Tina's Wonderlands: Season Pass",
-      "discount_percent": 73,
-      "original_price": 24500.0,
-      "final_price": 6700.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/0e2aa182ec2c4fc49019a6cd3398c231/6d3cdb47ea64478bb8f12efc27a438af.jpg",
-      "url": "https://www.greenmangaming.com/games/tiny-tinas-wonderlands-season-pass-steam-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 29494,
-      "name": "Borderlands 3 Season Pass (EPIC)",
-      "discount_percent": 73,
-      "original_price": 53000.0,
-      "final_price": 14400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/da5c9924c3b64597a0992f12bedf37cb/7f12d63327db4156aea030383998c65d.jpg",
-      "url": "https://www.greenmangaming.com/games/borderlands-3-season-pass-epic-pc/",
-      "on_sale": true,
-      "genres": [
-        "FPS",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 34700,
-      "name": "Borderlands 3 Season Pass",
-      "discount_percent": 73,
-      "original_price": 53000.0,
-      "final_price": 14400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/da5c9924c3b64597a0992f12bedf37cb/7f12d63327db4156aea030383998c65d.jpg",
-      "url": "https://www.greenmangaming.com/games/borderlands-3-season-pass-pc/",
-      "on_sale": true,
-      "genres": [
-        "FPS",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 46259,
       "name": "Blanc",
       "discount_percent": 73,
@@ -11780,46 +11295,6 @@
       "developers": [],
       "publishers": [
         "HYPETRAIN DIGITAL LTD"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 41666,
-      "name": "Tiny Tina's Wonderlands: Chaotic Great Edition",
-      "discount_percent": 73,
-      "original_price": 48900.0,
-      "final_price": 13300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/23f706865f094b89ab4a7f6e309b2053/226822c1aa4a4c90bbaea16f1381cf18.jpg",
-      "url": "https://www.greenmangaming.com/games/tiny-tinas-wonderlands-chaotic-great-edition-epic-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 43182,
-      "name": "Tiny Tina's Wonderlands: Season Pass",
-      "discount_percent": 73,
-      "original_price": 24500.0,
-      "final_price": 6700.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/0e2aa182ec2c4fc49019a6cd3398c231/6d3cdb47ea64478bb8f12efc27a438af.jpg",
-      "url": "https://www.greenmangaming.com/games/tiny-tinas-wonderlands-season-pass-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -12062,27 +11537,6 @@
       "review_rank": 0
     },
     {
-      "appid": 42244,
-      "name": "Borderlands 3 Season Pass Bundle",
-      "discount_percent": 70,
-      "original_price": 84900.0,
-      "final_price": 25300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/a09066830f844b5584cb293d5a4562f2/24039440f2ab4a3d9fb61570ed7951db.jpg",
-      "url": "https://www.greenmangaming.com/games/borderlands-3-season-pass-bundle-pc/",
-      "on_sale": true,
-      "genres": [
-        "FPS",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 49182,
       "name": "Naheulbeuk's Dungeon Master",
       "discount_percent": 70,
@@ -12167,27 +11621,6 @@
       "developers": [],
       "publishers": [
         "Akupara Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 56120,
-      "name": "Homeworld 3",
-      "discount_percent": 70,
-      "original_price": 64000.0,
-      "final_price": 19100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/970b2a47028144f9970867be05568826/d19cc53cda6242e791cd0e2ed49467f1.jpg",
-      "url": "https://www.greenmangaming.com/games/homeworld-3-pc/",
-      "on_sale": true,
-      "genres": [
-        "시뮬레이션",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -12903,27 +12336,6 @@
       "developers": [],
       "publishers": [
         "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 56122,
-      "name": "Homeworld 3: Deluxe Edition",
-      "discount_percent": 68,
-      "original_price": 85500.0,
-      "final_price": 27000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/0162b6fa94cc40929178edbb6ed7946e/7ae0134599fc47b3b4bc01706546c720.jpg",
-      "url": "https://www.greenmangaming.com/games/homeworld-3-deluxe-edition-pc/",
-      "on_sale": true,
-      "genres": [
-        "시뮬레이션",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -13773,27 +13185,6 @@
       "developers": [],
       "publishers": [
         "Akupara Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 56124,
-      "name": "Homeworld 3: Fleet Command Edition",
-      "discount_percent": 64,
-      "original_price": 96600.0,
-      "final_price": 34900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/70ace8e80dbd4ab4a014f7b1f62cecfe/d7f885cfb3e943408745d1548404a145.jpg",
-      "url": "https://www.greenmangaming.com/games/homeworld-3-fleet-command-edition-pc/",
-      "on_sale": true,
-      "genres": [
-        "시뮬레이션",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -15101,29 +14492,6 @@
       "review_rank": 0
     },
     {
-      "appid": 51699,
-      "name": "Station to Station",
-      "discount_percent": 57,
-      "original_price": 19500.0,
-      "final_price": 8300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/3f494a41b5424e58b949347f5f674a4a/5cc218f338fd45498931def23528a50c.jpg",
-      "url": "https://www.greenmangaming.com/games/station-to-station-pc/",
-      "on_sale": true,
-      "genres": [
-        "캐주얼",
-        "전략",
-        "시뮬레이션",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 55032,
       "name": "Lyca",
       "discount_percent": 57,
@@ -15344,240 +14712,6 @@
       "review_rank": 0
     },
     {
-      "appid": 55222,
-      "name": "Borderlands 4 Super Deluxe Edition",
-      "discount_percent": 55,
-      "original_price": 154900.0,
-      "final_price": 69800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/ff5f4c8bcdb14c359dced21a8e155113/67623141dae147a0be966a2b2ecb60c4.jpg",
-      "url": "https://www.greenmangaming.com/games/borderlands-4-super-deluxe-edition-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "RPG",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 55218,
-      "name": "Borderlands 4",
-      "discount_percent": 55,
-      "original_price": 84800.0,
-      "final_price": 38200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/92aa0dc933d1406dbd59724f78ca8db4/585352f28fa64db0b71b583f76f752d7.jpg",
-      "url": "https://www.greenmangaming.com/games/borderlands-4-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "RPG",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 55220,
-      "name": "Borderlands 4 Deluxe Edition",
-      "discount_percent": 55,
-      "original_price": 119800.0,
-      "final_price": 54000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/27bdd121bde146f2bb65f9e09c004d12/a3a8fd4530f34af1ab4b3dbc9edae249.jpg",
-      "url": "https://www.greenmangaming.com/games/borderlands-4-deluxe-edition-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "RPG",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60157,
-      "name": "Risk of Rain 2: Seekers of the Storm",
-      "discount_percent": 55,
-      "original_price": 15000.0,
-      "final_price": 6800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/335d927390a948c19e7b76bedeaf48c7/269903205bb34bcf98fec6b49f3aa972.jpg",
-      "url": "https://www.greenmangaming.com/games/risk-of-rain-2-seekers-of-the-storm-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 43078,
-      "name": "Risk of Rain 2: Survivors of the Void",
-      "discount_percent": 55,
-      "original_price": 15000.0,
-      "final_price": 6800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/bb7a1a6541554ccdb62b9620f052e596/b623c162a702431381f52cdaab5d1461.jpg",
-      "url": "https://www.greenmangaming.com/games/risk-of-rain-2-survivors-of-the-void-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Gearbox Publishing"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 47689,
-      "name": "Risk of Rain Returns",
-      "discount_percent": 55,
-      "original_price": 16500.0,
-      "final_price": 7500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/e6268a0daf73482bbd5b8e77dd166794/2ae23fa4e44f45bd88237a1fea973dcd.jpg",
-      "url": "https://www.greenmangaming.com/games/risk-of-rain-returns-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Gearbox Publishing"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 44680,
-      "name": "New Tales from the Borderlands: Deluxe Edition",
-      "discount_percent": 55,
-      "original_price": 56800.0,
-      "final_price": 25600.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/cf25ca75ba454ff49b2bc8499654623d/810776ea0b3c420dbb34e74614250680.jpg",
-      "url": "https://www.greenmangaming.com/games/new-tales-from-the-borderlands-deluxe-edition-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 44678,
-      "name": "New Tales from the Borderlands",
-      "discount_percent": 55,
-      "original_price": 44800.0,
-      "final_price": 20200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/a42e874fb3c04ab5996dd2833ba28f34/8fd33c464835491eb1adb210c937c06a.jpg",
-      "url": "https://www.greenmangaming.com/games/new-tales-from-the-borderlands-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 55273,
-      "name": "Borderlands 4 Super Deluxe Edition",
-      "discount_percent": 55,
-      "original_price": 154900.0,
-      "final_price": 69800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/ff5f4c8bcdb14c359dced21a8e155113/67623141dae147a0be966a2b2ecb60c4.jpg",
-      "url": "https://www.greenmangaming.com/games/borderlands-4-super-deluxe-edition-epic-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "RPG",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 55271,
-      "name": "Borderlands 4",
-      "discount_percent": 55,
-      "original_price": 84800.0,
-      "final_price": 38200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/92aa0dc933d1406dbd59724f78ca8db4/585352f28fa64db0b71b583f76f752d7.jpg",
-      "url": "https://www.greenmangaming.com/games/borderlands-4-epic-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "RPG",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 55272,
-      "name": "Borderlands 4 Deluxe Edition",
-      "discount_percent": 55,
-      "original_price": 119800.0,
-      "final_price": 54000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/27bdd121bde146f2bb65f9e09c004d12/a3a8fd4530f34af1ab4b3dbc9edae249.jpg",
-      "url": "https://www.greenmangaming.com/games/borderlands-4-deluxe-edition-epic-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "RPG",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 45728,
       "name": "Lost Eidolons",
       "discount_percent": 54,
@@ -15615,27 +14749,6 @@
       "developers": [],
       "publishers": [
         "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 42271,
-      "name": "Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure",
-      "discount_percent": 54,
-      "original_price": 10500.0,
-      "final_price": 4800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/f55f7a26292841809c259638bf81773d/e782cf2f29be437da16b21fe1e6ece60.jpg",
-      "url": "https://www.greenmangaming.com/games/tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -15919,27 +15032,6 @@
       "developers": [],
       "publishers": [
         "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60274,
-      "name": "Risk of Rain 2: Bundle 4",
-      "discount_percent": 50,
-      "original_price": 70600.0,
-      "final_price": 35100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/bd160ab7d6e34f54931c26bf4a606d7f/369f24b8c64645b78a0a879ee3f27035.jpg",
-      "url": "https://www.greenmangaming.com/games/risk-of-rain-2-bundle-4-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -17507,48 +16599,6 @@
       "review_rank": 0
     },
     {
-      "appid": 37656,
-      "name": "Borderlands 3: Season Pass 2",
-      "discount_percent": 46,
-      "original_price": 34000.0,
-      "final_price": 18400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/a34b152086134660b61dfeeb3038ed0a/119b270b8a364ef2a3b0bceadeae13b7.jpg",
-      "url": "https://www.greenmangaming.com/games/borderlands-3-season-pass-2-pc/",
-      "on_sale": true,
-      "genres": [
-        "FPS",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 37661,
-      "name": "Borderlands 3: Season Pass 2 (EPIC)",
-      "discount_percent": 46,
-      "original_price": 34000.0,
-      "final_price": 18400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/a34b152086134660b61dfeeb3038ed0a/119b270b8a364ef2a3b0bceadeae13b7.jpg",
-      "url": "https://www.greenmangaming.com/games/borderlands-3-season-pass-2-epic-pc/",
-      "on_sale": true,
-      "genres": [
-        "FPS",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 57912,
       "name": "EverSiege: Untold Ages",
       "discount_percent": 45,
@@ -18019,27 +17069,6 @@
       "developers": [],
       "publishers": [
         "HYPETRAIN DIGITAL LTD"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60159,
-      "name": "Risk of Rain 2: Alloyed Collective",
-      "discount_percent": 41,
-      "original_price": 15000.0,
-      "final_price": 8900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/96f5ec01c8f343cdb01c714409e80ff4/ad58c747703a49258a95d2ceac2839d3.jpg",
-      "url": "https://www.greenmangaming.com/games/risk-of-rain-2-alloyed-collective-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -18518,28 +17547,6 @@
       "developers": [],
       "publishers": [
         "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60147,
-      "name": "Borderlands 4 - Story Pack 1: Mad Ellie and the Vault of the Damned",
-      "discount_percent": 37,
-      "original_price": 24500.0,
-      "final_price": 15500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/cdc817658b884c6aa9f71a4f0ba2d1f6/827df3d5d3a744d5929635058dddf620.jpg",
-      "url": "https://www.greenmangaming.com/games/borderlands-4-story-pack-1-mad-ellie-and-the-vault-of-the-damned-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "RPG",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -20712,27 +19719,6 @@
       "review_rank": 0
     },
     {
-      "appid": 60271,
-      "name": "Risk of Rain 2: Hallowed Concepts",
-      "discount_percent": 10,
-      "original_price": 15000.0,
-      "final_price": 13500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/f9b554b415c440d2a21097bf36224239/a1513bcdd3254c2abfe06ebaf01d2563.jpg",
-      "url": "https://www.greenmangaming.com/games/risk-of-rain-2-hallowed-concepts-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 56419,
       "name": "Echo Weaver",
       "discount_percent": 10,
@@ -20819,28 +19805,6 @@
       "review_rank": 0
     },
     {
-      "appid": 60310,
-      "name": "Dicevaders",
-      "discount_percent": 10,
-      "original_price": 16000.0,
-      "final_price": 14400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/f92f0acf8555444a9e4e12d4291aa4c6/7cdd0139735e4cd3a534866289b66f93.jpg",
-      "url": "https://www.greenmangaming.com/games/dicevaders-pc/",
-      "on_sale": true,
-      "genres": [
-        "캐주얼",
-        "인디",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Playstack Ltd"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 60054,
       "name": "Dune: Awakening - Filmic Archive DLC",
       "discount_percent": 10,
@@ -20859,28 +19823,6 @@
       "developers": [],
       "publishers": [
         "Funcom"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 58315,
-      "name": "Roadhouse Simulator",
-      "discount_percent": 10,
-      "original_price": 21500.0,
-      "final_price": 19400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/a9da98aa9319439fad8b9a3c8389cea8/d03744e4c3514141acf824b9063941c1.jpg",
-      "url": "https://www.greenmangaming.com/games/roadhouse-simulator-pc/",
-      "on_sale": true,
-      "genres": [
-        "캐주얼",
-        "시뮬레이션",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "DRAGO Entertainment SA"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -21193,6 +20135,48 @@
       "review_rank": 0
     },
     {
+      "appid": 60274,
+      "name": "Risk of Rain 2: Bundle 4",
+      "discount_percent": 0,
+      "original_price": 70600.0,
+      "final_price": 70600.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/bd160ab7d6e34f54931c26bf4a606d7f/369f24b8c64645b78a0a879ee3f27035.jpg",
+      "url": "https://www.greenmangaming.com/games/risk-of-rain-2-bundle-4-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "2K Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60271,
+      "name": "Risk of Rain 2: Hallowed Concepts",
+      "discount_percent": 0,
+      "original_price": 15000.0,
+      "final_price": 15000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/f9b554b415c440d2a21097bf36224239/a1513bcdd3254c2abfe06ebaf01d2563.jpg",
+      "url": "https://www.greenmangaming.com/games/risk-of-rain-2-hallowed-concepts-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "2K Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 58679,
       "name": "Assassin's Creed Black Flag Resynced",
       "discount_percent": 0,
@@ -21209,6 +20193,28 @@
       "developers": [],
       "publishers": [
         "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 55222,
+      "name": "Borderlands 4 Super Deluxe Edition",
+      "discount_percent": 0,
+      "original_price": 154900.0,
+      "final_price": 154900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/ff5f4c8bcdb14c359dced21a8e155113/67623141dae147a0be966a2b2ecb60c4.jpg",
+      "url": "https://www.greenmangaming.com/games/borderlands-4-super-deluxe-edition-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "RPG",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "2K Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -21497,6 +20503,50 @@
       "review_rank": 0
     },
     {
+      "appid": 60310,
+      "name": "Dicevaders",
+      "discount_percent": 0,
+      "original_price": 16000.0,
+      "final_price": 16000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/f92f0acf8555444a9e4e12d4291aa4c6/7cdd0139735e4cd3a534866289b66f93.jpg",
+      "url": "https://www.greenmangaming.com/games/dicevaders-pc/",
+      "on_sale": false,
+      "genres": [
+        "캐주얼",
+        "인디",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Playstack Ltd"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 58315,
+      "name": "Roadhouse Simulator",
+      "discount_percent": 0,
+      "original_price": 21500.0,
+      "final_price": 21500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/a9da98aa9319439fad8b9a3c8389cea8/d03744e4c3514141acf824b9063941c1.jpg",
+      "url": "https://www.greenmangaming.com/games/roadhouse-simulator-pc/",
+      "on_sale": false,
+      "genres": [
+        "캐주얼",
+        "시뮬레이션",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "DRAGO Entertainment SA"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 50196,
       "name": "The Outlast Trials Reagent Starter Pack Edition",
       "discount_percent": 0,
@@ -21563,6 +20613,49 @@
       "review_rank": 0
     },
     {
+      "appid": 55218,
+      "name": "Borderlands 4",
+      "discount_percent": 0,
+      "original_price": 84800.0,
+      "final_price": 84800.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/92aa0dc933d1406dbd59724f78ca8db4/585352f28fa64db0b71b583f76f752d7.jpg",
+      "url": "https://www.greenmangaming.com/games/borderlands-4-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "RPG",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "2K Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 37663,
+      "name": "Borderlands 3: Ultimate Edition",
+      "discount_percent": 0,
+      "original_price": 116900.0,
+      "final_price": 116900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/4b5c6490ea1043428fef686f5e9784af/5d95fa363ce54733a49864f5df20ba69.jpg",
+      "url": "https://www.greenmangaming.com/games/borderlands-3-ultimate-edition-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "2K Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 26360,
       "name": "Outlast",
       "discount_percent": 0,
@@ -21583,6 +20676,26 @@
       "review_rank": 0
     },
     {
+      "appid": 40595,
+      "name": "Tiny Tina's Wonderlands",
+      "discount_percent": 0,
+      "original_price": 36800.0,
+      "final_price": 36800.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/8161e01dcc5941c6b24da934bdb84cd1/e42b5c94a8444cbe933f0025e8051d05.jpg",
+      "url": "https://www.greenmangaming.com/games/tiny-tinas-wonderlands-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "2K Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 11821,
       "name": "Sid Meier's Civilization® VI",
       "discount_percent": 0,
@@ -21598,6 +20711,48 @@
       "developers": [],
       "publishers": [
         "2K Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 43127,
+      "name": "The Quarry Deluxe Edition",
+      "discount_percent": 0,
+      "original_price": 76000.0,
+      "final_price": 76000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/91514b6cafa64b43bf53ec43555f20a2/67ac9ac0eb194243af1226fefeae6346.jpg",
+      "url": "https://www.greenmangaming.com/games/the-quarry-deluxe-edition-pc/",
+      "on_sale": false,
+      "genres": [
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "2K Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 52719,
+      "name": "The Black Within",
+      "discount_percent": 0,
+      "original_price": 5600.0,
+      "final_price": 5600.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/b302ebff2d0244d593d33a81e180fdcf/90b125c9d93c4aec9415940122f56fb8.jpg",
+      "url": "https://www.greenmangaming.com/games/the-black-within-pc/",
+      "on_sale": false,
+      "genres": [
+        "어드벤처",
+        "인디",
+        "캐주얼"
+      ],
+      "developers": [],
+      "publishers": [
+        "Waleedzo"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -21707,6 +20862,28 @@
       "review_rank": 0
     },
     {
+      "appid": 8920,
+      "name": "Borderlands 2: Game of the Year Edition",
+      "discount_percent": 0,
+      "original_price": 43000.0,
+      "final_price": 43000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/1011943e684a4b0b867d034131bc7640/34e7a080e19a4264a17041e7fb21b10d.jpg",
+      "url": "https://www.greenmangaming.com/games/borderlands-2-game-of-the-year-edition/",
+      "on_sale": false,
+      "genres": [
+        "슈팅",
+        "RPG",
+        "Mac"
+      ],
+      "developers": [],
+      "publishers": [
+        "2K Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 59784,
       "name": "Crimson Moon: Deluxe Edition",
       "discount_percent": 0,
@@ -21729,6 +20906,27 @@
       "review_rank": 0
     },
     {
+      "appid": 34697,
+      "name": "Borderlands 3",
+      "discount_percent": 0,
+      "original_price": 64900.0,
+      "final_price": 64900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/de2336cf64c74860b81cf540351cefe2/549776a190584c998cae46fa176fdea2.jpg",
+      "url": "https://www.greenmangaming.com/games/borderlands-3-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "2K Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 17279,
       "name": "Inner Chains",
       "discount_percent": 0,
@@ -21744,6 +20942,27 @@
       "developers": [],
       "publishers": [
         "IMGN.PRO"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 27282,
+      "name": "Borderlands: Game of the Year Enhanced",
+      "discount_percent": 0,
+      "original_price": 31700.0,
+      "final_price": 31700.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/4904859f89fc4a658786550dcc491279/a08d4d9603ba492baea8bb4176cc4f7b.jpg",
+      "url": "https://www.greenmangaming.com/games/borderlands-game-of-the-year-enhanced-pc/",
+      "on_sale": false,
+      "genres": [
+        "FPS",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "2K Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -21835,6 +21054,28 @@
       "review_rank": 0
     },
     {
+      "appid": 4706,
+      "name": "Borderlands: The Pre-Sequel",
+      "discount_percent": 0,
+      "original_price": 43000.0,
+      "final_price": 43000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/160f02d28ec94f4fa93dfbeb0846f7dc/4c7cf42ba911431b8af0035016a3e65b.jpg",
+      "url": "https://www.greenmangaming.com/games/borderlands-the-pre-sequel/",
+      "on_sale": false,
+      "genres": [
+        "슈팅",
+        "액션",
+        "Mac"
+      ],
+      "developers": [],
+      "publishers": [
+        "2K Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 26364,
       "name": "Outlast 2",
       "discount_percent": 0,
@@ -21850,6 +21091,26 @@
       "developers": [],
       "publishers": [
         "Red Barrels"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 43125,
+      "name": "The Quarry",
+      "discount_percent": 0,
+      "original_price": 65000.0,
+      "final_price": 65000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/8a05b373beef4c24b21e747eeeb3cd11/2c3a08c05edc41fa9dc9f8fe618b0181.jpg",
+      "url": "https://www.greenmangaming.com/games/the-quarry-pc/",
+      "on_sale": false,
+      "genres": [
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "2K Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -22218,6 +21479,27 @@
       "review_rank": 0
     },
     {
+      "appid": 19643,
+      "name": "Borderlands 3 (EPIC)",
+      "discount_percent": 0,
+      "original_price": 64900.0,
+      "final_price": 64900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/de2336cf64c74860b81cf540351cefe2/549776a190584c998cae46fa176fdea2.jpg",
+      "url": "https://www.greenmangaming.com/games/borderlands-3-epic-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "2K Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 27822,
       "name": "Cris Tales",
       "discount_percent": 0,
@@ -22276,6 +21558,26 @@
       "developers": [],
       "publishers": [
         "Nacon"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 37883,
+      "name": "Homeworld: Deserts of Kharak",
+      "discount_percent": 0,
+      "original_price": 54000.0,
+      "final_price": 54000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/9a953e2f33124970b72b7149c475bd74/3ea914a866394f4e94518531549cac37.jpg",
+      "url": "https://www.greenmangaming.com/games/homeworld-deserts-of-kharak-pc/",
+      "on_sale": false,
+      "genres": [
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Gearbox Publishing"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -23064,6 +22366,28 @@
       "developers": [],
       "publishers": [
         "Silver Lining Interactive"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 34699,
+      "name": "Borderlands 3 Super Deluxe Edition",
+      "discount_percent": 0,
+      "original_price": 88900.0,
+      "final_price": 88900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/044f8ee7c5e544fcbd6a2f7e38b16f71/5327858a92764a26a075359910b1c617.jpg",
+      "url": "https://www.greenmangaming.com/games/borderlands-3-super-deluxe-edition-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "RPG",
+        "슈팅"
+      ],
+      "developers": [],
+      "publishers": [
+        "2K Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -24123,6 +23447,28 @@
       "review_rank": 0
     },
     {
+      "appid": 27308,
+      "name": "Borderlands 3 Super Deluxe Edition (EPIC)",
+      "discount_percent": 0,
+      "original_price": 88900.0,
+      "final_price": 88900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/044f8ee7c5e544fcbd6a2f7e38b16f71/5327858a92764a26a075359910b1c617.jpg",
+      "url": "https://www.greenmangaming.com/games/borderlands-3-super-deluxe-edition-epic-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "RPG",
+        "슈팅"
+      ],
+      "developers": [],
+      "publishers": [
+        "2K Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 45399,
       "name": "Fobia - St. Dinfna Hotel",
       "discount_percent": 0,
@@ -25169,6 +24515,27 @@
       "review_rank": 0
     },
     {
+      "appid": 37677,
+      "name": "Borderlands 3: Ultimate Edition (EPIC)",
+      "discount_percent": 0,
+      "original_price": 116900.0,
+      "final_price": 116900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/1b7ae894948e41018b80a46f55476f9f/cd3ece08e76b4778b3060cb372b0f6c5.jpg",
+      "url": "https://www.greenmangaming.com/games/borderlands-3-ultimate-edition-epic-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "2K Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 36478,
       "name": "Traffic Jams",
       "discount_percent": 0,
@@ -25918,6 +25285,27 @@
       "developers": [],
       "publishers": [
         "Vertigo Games BV"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 37877,
+      "name": "Duke Nukem 3D: 20th Anniversary World Tour",
+      "discount_percent": 0,
+      "original_price": 21000.0,
+      "final_price": 21000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/b3e415513a954fedbab49c1623e489cf/eb96678397a74a31b8a0eeb22d6c6270.jpg",
+      "url": "https://www.greenmangaming.com/games/duke-nukem-3d-20th-anniversary-world-tour-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Gearbox Publishing"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -26791,6 +26179,27 @@
       "review_rank": 0
     },
     {
+      "appid": 43203,
+      "name": "Godfall Ultimate Edition",
+      "discount_percent": 0,
+      "original_price": 41000.0,
+      "final_price": 41000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/932c18d608f24fd7b45a476e05cf27e1/8e2d9fc2fa2c4f52bde973d8eb290291.jpg",
+      "url": "https://www.greenmangaming.com/games/godfall-ultimate-edition-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Gearbox Publishing"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 27356,
       "name": "Lovecraft's Untold Stories + OST",
       "discount_percent": 0,
@@ -27050,6 +26459,49 @@
       "review_rank": 0
     },
     {
+      "appid": 5012,
+      "name": "Duke Nukem Forever",
+      "discount_percent": 0,
+      "original_price": 21000.0,
+      "final_price": 21000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/5fa6452b8c264828962cadd39214d06a/7079baced1df46c4a635e774140adba1.jpg",
+      "url": "https://www.greenmangaming.com/games/duke-nukem-forever/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "Mac"
+      ],
+      "developers": [],
+      "publishers": [
+        "2K Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 29638,
+      "name": "Borderlands 2 VR",
+      "discount_percent": 0,
+      "original_price": 54000.0,
+      "final_price": 54000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/467a3d6d2a014a158bc7763bd6846631/e63297101dc1454a818196d945fa674c.jpg",
+      "url": "https://www.greenmangaming.com/games/borderlands-2-vr-pc/",
+      "on_sale": false,
+      "genres": [
+        "FPS",
+        "RPG",
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "2K Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 52834,
       "name": "Red Dead Redemption",
       "discount_percent": 0,
@@ -27065,6 +26517,29 @@
       "developers": [],
       "publishers": [
         "Rockstar Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 44437,
+      "name": "Rollerdrome",
+      "discount_percent": 0,
+      "original_price": 34800.0,
+      "final_price": 34800.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/2f05e66b5809430f887ec62f1439c42c/408533cc3ac74c7fb739aabea25c6d4e.jpg",
+      "url": "https://www.greenmangaming.com/games/rollerdrome-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "인디",
+        "스포츠",
+        "슈팅"
+      ],
+      "developers": [],
+      "publishers": [
+        "2K Games"
       ],
       "review_desc": null,
       "review_rank": 0

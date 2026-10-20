@@ -28074,5 +28074,59 @@
     "publishers": [
       "Playsect"
     ]
+  },
+  "463530": {
+    "genres": [
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Slug Disco"
+    ],
+    "publishers": [
+      "Hooded Horse",
+      "Slug Disco"
+    ]
+  },
+  "1783560": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "시뮬레이션",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Channel37 Ltd"
+    ],
+    "publishers": [
+      "Channel37 Ltd"
+    ]
+  },
+  "1478970": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "Lion's Shade"
+    ],
+    "publishers": [
+      "Lion's Shade"
+    ]
+  },
+  "1853440": {
+    "genres": [
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      " Gaming Minds Studios"
+    ],
+    "publishers": [
+      "Kalypso Media"
+    ]
   }
 }
