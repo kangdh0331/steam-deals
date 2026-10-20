@@ -28139,5 +28139,47 @@
     "publishers": [
       "beindie"
     ]
+  },
+  "768200": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "Max Ent Games Ltd"
+    ],
+    "publishers": [
+      "Max Ent Games Ltd"
+    ]
+  },
+  "3645890": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "GONE Studios"
+    ],
+    "publishers": [
+      "GONE Studios"
+    ]
+  },
+  "2315050": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "캐주얼",
+      "인디",
+      "무료 플레이"
+    ],
+    "developers": [
+      "Total Mayhem Games"
+    ],
+    "publishers": [
+      "Total Mayhem Games"
+    ]
   }
 }

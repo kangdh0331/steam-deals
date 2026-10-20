@@ -1,6 +1,29 @@
 {
-  "fetched_at": 1792493994.8722265,
+  "fetched_at": 1792513552.7955773,
   "deals": [
+    {
+      "appid": 70010000020948,
+      "name": "CARRION ",
+      "discount_percent": 85,
+      "original_price": 19.99,
+      "final_price": 2.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000020948/d11860780286bcd035ad43f6cefa6e84f42c4cf5dc8d28e2dfaf89d286dfc989",
+      "url": "https://www.nintendo.com/us/store/products/carrion-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action"
+      ],
+      "developers": [
+        "Phobia Game Studio"
+      ],
+      "publishers": [
+        "Devolver Digital"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
     {
       "appid": 70010000003622,
       "name": "Street Fighter 30th Anniversary Collection",
@@ -18,6 +41,120 @@
       "developers": [],
       "publishers": [
         "CAPCOM"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70070000030830,
+      "name": "MLB® The Show™ 26 - Digital Deluxe Edition",
+      "discount_percent": 80,
+      "original_price": 99.99,
+      "final_price": 19.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000030830/1bd4a519ec12ca8a31afcb9bb8e42da3d01248efb3f25199db0164d732c9328a",
+      "url": "https://www.nintendo.com/us/store/products/mlb-the-show-26-digital-deluxe-edition-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "MLBAM"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000020090,
+      "name": "Hotline Miami Collection",
+      "discount_percent": 80,
+      "original_price": 24.99,
+      "final_price": 4.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000020090/cf4b2c6d6cbeb0ce3caa07a04697b202d8a4d8383e25834882b6a5bbadc0c5b9",
+      "url": "https://www.nintendo.com/us/store/products/hotline-miami-collection-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action"
+      ],
+      "developers": [
+        "Dennaton Games"
+      ],
+      "publishers": [
+        "Devolver Digital"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000046941,
+      "name": "Death's Door",
+      "discount_percent": 80,
+      "original_price": 19.99,
+      "final_price": 3.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000046941/1bd971db9b44f6cd0b0293392fb97d33055786bd9db98d8353aed65ff5f192a5",
+      "url": "https://www.nintendo.com/us/store/products/deaths-door-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "developers": [
+        "Acid Nerve"
+      ],
+      "publishers": [
+        "Devolver Digital"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000035945,
+      "name": "Shadow Man Remastered",
+      "discount_percent": 80,
+      "original_price": 19.99,
+      "final_price": 3.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000035945/4d2db8c4ee04eec4a2f006d2524b6eaed9c81b0177ef192c0b826ce2c96c98ca",
+      "url": "https://www.nintendo.com/us/store/products/shadow-man-remastered-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "developers": [
+        "Nightdive Studios"
+      ],
+      "publishers": [
+        "Atari"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000028411,
+      "name": "Dicey Dungeons",
+      "discount_percent": 80,
+      "original_price": 14.99,
+      "final_price": 2.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000028411/dd460df8e18f0c9207b689145ba52c6379e27bd5b2ad58e66c6d1b3d9fe5f888",
+      "url": "https://www.nintendo.com/us/store/products/dicey-dungeons-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Role playing",
+        "Tabletop"
+      ],
+      "developers": [
+        "Distractionware Limited"
+      ],
+      "publishers": [
+        "Distractionware"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -61,6 +198,54 @@
       "review_rank": 0
     },
     {
+      "appid": 70010000051034,
+      "name": "Inscryption",
+      "discount_percent": 75,
+      "original_price": 19.99,
+      "final_price": 4.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000051034/5f1d65045ab88c401b8dbfda3f447eb2c2064bf1815ca966a4265c31dfcd9b68",
+      "url": "https://www.nintendo.com/us/store/products/inscryption-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Adventure",
+        "Tabletop"
+      ],
+      "developers": [
+        "Daniel Mullins Games"
+      ],
+      "publishers": [
+        "Devolver Digital"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000002701,
+      "name": "The Mummy Demastered",
+      "discount_percent": 75,
+      "original_price": 19.99,
+      "final_price": 4.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000002701/98374d714b83507a7b3afb9e5b3ba77fd61c723580f6163f751f4ae546de15d9",
+      "url": "https://www.nintendo.com/us/store/products/the-mummy-demastered-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "developers": [
+        "WayForward"
+      ],
+      "publishers": [
+        "WayForward"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 70070000021424,
       "name": "Monster Hunter Stories Deluxe Collection",
       "discount_percent": 72,
@@ -78,6 +263,71 @@
       "developers": [],
       "publishers": [
         "CAPCOM"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000043147,
+      "name": "Persona 5 Royal",
+      "discount_percent": 70,
+      "original_price": 59.99,
+      "final_price": 17.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000043147/684bd8b00abcbf6dd122727a27c01a337f667bef825f4f4662efad9854b72fd4",
+      "url": "https://www.nintendo.com/us/store/products/persona-5-royal-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Role playing"
+      ],
+      "developers": [
+        "Atlus"
+      ],
+      "publishers": [
+        "SEGA"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70070000020786,
+      "name": "Shin Megami Tensei V: Vengeance Digital Deluxe Edition",
+      "discount_percent": 70,
+      "original_price": 69.99,
+      "final_price": 20.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000020786/97949dffecdd2c040d17046a968d53ecf36db7a4c3274f6ab472c1c4a1424f57",
+      "url": "https://www.nintendo.com/us/store/products/shin-megami-tensei-v-vengeance-digital-deluxe-edition-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "SEGA"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000027080,
+      "name": "Minoria",
+      "discount_percent": 70,
+      "original_price": 19.99,
+      "final_price": 5.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000027080/11777334c3b3ae9c3322dc3ea5a02be13e0bd5370565777484c5be1165cb8a9b",
+      "url": "https://www.nintendo.com/us/store/products/minoria-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action"
+      ],
+      "developers": [
+        "Bombservice"
+      ],
+      "publishers": [
+        "DANGEN Entertainment"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -124,6 +374,48 @@
       "review_rank": 0
     },
     {
+      "appid": 70010000053641,
+      "name": "Ghost Trick: Phantom Detective",
+      "discount_percent": 67,
+      "original_price": 29.99,
+      "final_price": 9.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000053641/995b2ea418d9d74e602e5614afe5731dff287c7423c49310d57ab2fc54a74998",
+      "url": "https://www.nintendo.com/us/store/products/ghost-trick-phantom-detective-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Adventure"
+      ],
+      "developers": [
+        "CAPCOM CO., LTD."
+      ],
+      "publishers": [
+        "CAPCOM"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70070000011025,
+      "name": "DOOM® Eternal",
+      "discount_percent": 67,
+      "original_price": 29.99,
+      "final_price": 9.89,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000011025/09fde58766118f7aec9f6ff30f3a8d6e7ba37ace336e79097643431c911d99c1",
+      "url": "https://www.nintendo.com/us/store/products/doom-eternal-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "Bethesda"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 70010000022555,
       "name": "Ghosts 'n Goblins Resurrection",
       "discount_percent": 67,
@@ -138,6 +430,29 @@
         "Action"
       ],
       "developers": [],
+      "publishers": [
+        "CAPCOM"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000003964,
+      "name": "Mega Man 11",
+      "discount_percent": 67,
+      "original_price": 29.99,
+      "final_price": 9.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000003964/50637ae3b8fe8d88c7617d9fa10f8a13ddad1c3e3066d4342f286771c6403c5f",
+      "url": "https://www.nintendo.com/us/store/products/mega-man-11-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action"
+      ],
+      "developers": [
+        "CAPCOM"
+      ],
       "publishers": [
         "CAPCOM"
       ],
@@ -167,47 +482,215 @@
       "review_rank": 0
     },
     {
-      "appid": 70010000053641,
-      "name": "Ghost Trick: Phantom Detective",
-      "discount_percent": 67,
-      "original_price": 29.99,
-      "final_price": 9.99,
+      "appid": 70010000104906,
+      "name": "Possessor(s)",
+      "discount_percent": 65,
+      "original_price": 9.99,
+      "final_price": 3.49,
       "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000053641/995b2ea418d9d74e602e5614afe5731dff287c7423c49310d57ab2fc54a74998",
-      "url": "https://www.nintendo.com/us/store/products/ghost-trick-phantom-detective-switch/",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000104906/352b0b653b92561708c89b72b99ab3261e295dd9498ea08b16b933898f259b1e",
+      "url": "https://www.nintendo.com/us/store/products/possessor-s-switch-2/",
       "on_sale": true,
-      "platform": "Nintendo Switch",
+      "platform": "Nintendo Switch 2",
       "genres": [
+        "Action",
         "Adventure"
       ],
       "developers": [
-        "CAPCOM CO., LTD."
+        "Heart Machine"
       ],
       "publishers": [
-        "CAPCOM"
+        "Devolver Digital"
       ],
       "review_desc": null,
       "review_rank": 0
     },
     {
-      "appid": 70010000003964,
-      "name": "Mega Man 11",
-      "discount_percent": 67,
-      "original_price": 29.99,
+      "appid": 70010000105175,
+      "name": "WWE 2K26 Standard Edition",
+      "discount_percent": 60,
+      "original_price": 69.99,
+      "final_price": 27.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000105175/a3907c91bd4a90e8dfba2df94e6fc5ee15c8cd8ff85f4409ce8db961ed878089",
+      "url": "https://www.nintendo.com/us/store/products/wwe-2k26-standard-edition-switch-2/",
+      "on_sale": true,
+      "platform": "Nintendo Switch 2",
+      "genres": [
+        "Fighting",
+        "Sports"
+      ],
+      "developers": [
+        "Visual Concepts"
+      ],
+      "publishers": [
+        "2K"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000047973,
+      "name": "Cult of the Lamb",
+      "discount_percent": 60,
+      "original_price": 24.99,
       "final_price": 9.99,
       "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000003964/50637ae3b8fe8d88c7617d9fa10f8a13ddad1c3e3066d4342f286771c6403c5f",
-      "url": "https://www.nintendo.com/us/store/products/mega-man-11-switch/",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000047973/f4bf3b2748a6571b0f0c62369b733a8386347abdb158fb985f9ffdf36a5567a6",
+      "url": "https://www.nintendo.com/us/store/products/cult-of-the-lamb-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "developers": [
+        "Massive Monster"
+      ],
+      "publishers": [
+        "Devolver Digital"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000016131,
+      "name": "Momodora: Reverie Under the Moonlight",
+      "discount_percent": 60,
+      "original_price": 14.99,
+      "final_price": 5.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000016131/54f4b4153a8dba0021e4105a86bf89bc6fe291c8c8a8eb41e20d3977b67a9d75",
+      "url": "https://www.nintendo.com/us/store/products/momodora-reverie-under-the-moonlight-switch/",
       "on_sale": true,
       "platform": "Nintendo Switch",
       "genres": [
         "Action"
       ],
       "developers": [
-        "CAPCOM"
+        "Bombservice"
       ],
       "publishers": [
-        "CAPCOM"
+        "DANGEN Entertainment"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000001579,
+      "name": "Batman - The Telltale Series",
+      "discount_percent": 60,
+      "original_price": 14.99,
+      "final_price": 5.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000001579/f208ff2764ec76c57e73e9d5efe5d03dda323f4c59bc7ff3c108ff9cc80cd776",
+      "url": "https://www.nintendo.com/us/store/products/batman-the-telltale-series-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Adventure"
+      ],
+      "developers": [
+        "Telltale"
+      ],
+      "publishers": [
+        "Telltale"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000009362,
+      "name": "Batman: The Enemy Within",
+      "discount_percent": 60,
+      "original_price": 14.99,
+      "final_price": 5.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000009362/e12139b5057ab0aaab64c840a341a15ae03821d35f04b5fca60eafe831221723",
+      "url": "https://www.nintendo.com/us/store/products/batman-the-enemy-within-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "developers": [
+        "Telltale"
+      ],
+      "publishers": [
+        "Telltale"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000013702,
+      "name": "Overland",
+      "discount_percent": 60,
+      "original_price": 19.99,
+      "final_price": 7.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000013702/751879d9c67efdf432b7b95be2985f00700083a69ef2ab87a27e5f15e623b214",
+      "url": "https://www.nintendo.com/us/store/products/overland-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Adventure",
+        "Strategy"
+      ],
+      "developers": [
+        "Finji"
+      ],
+      "publishers": [
+        "Finji"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70070000012572,
+      "name": "Crash Bandicoot™ - Crashiversary Bundle",
+      "discount_percent": 60,
+      "original_price": 99.99,
+      "final_price": 39.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000012572/3bac8c579466c1ceff34d14281bf88cf4d7c354cdc9d37cac24782109c5853b5",
+      "url": "https://www.nintendo.com/us/store/products/crash-bandicoot-crashiversary-bundle-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Party",
+        "Racing"
+      ],
+      "developers": [],
+      "publishers": [
+        "Activision"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000047171,
+      "name": "Ghostbusters: Spirits Unleashed Ecto Edition",
+      "discount_percent": 60,
+      "original_price": 19.99,
+      "final_price": 7.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000047171/7a1ffecd7726d0a7e3bc30cf3d0ca773a528ed739264f2dcac122a61e4cdd27b",
+      "url": "https://www.nintendo.com/us/store/products/ghostbusters-spirits-unleashed-ecto-edition-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Shooting"
+      ],
+      "developers": [
+        "IllFonic Inc."
+      ],
+      "publishers": [
+        "IllFonic"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -296,6 +779,394 @@
       "developers": [],
       "publishers": [
         "CAPCOM"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000103193,
+      "name": "The Elder Scrolls V: Skyrim Anniversary Edition",
+      "discount_percent": 50,
+      "original_price": 59.99,
+      "final_price": 29.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000103193/d9fa0e5b90ecb609a8f571e1f33bc58be9a0aa889157a0cb4ec414929b568340",
+      "url": "https://www.nintendo.com/us/store/products/the-elder-scrolls-v-skyrim-anniversary-edition-70010000103193-switch-2/",
+      "on_sale": true,
+      "platform": "Nintendo Switch 2",
+      "genres": [
+        "Action",
+        "Role playing"
+      ],
+      "developers": [
+        "Bethesda Game Studios"
+      ],
+      "publishers": [
+        "Bethesda"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70070000015127,
+      "name": "The Elder Scrolls V: Skyrim Anniversary Edition",
+      "discount_percent": 50,
+      "original_price": 59.99,
+      "final_price": 29.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000015127/aaf834471a446c24bdda7087a365fd2a3b7b9ef3f2b6e8bc41849cf02f2b238f",
+      "url": "https://www.nintendo.com/us/store/products/the-elder-scrolls-v-skyrim-anniversary-edition-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "Bethesda"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000073072,
+      "name": "Nine Sols",
+      "discount_percent": 50,
+      "original_price": 29.99,
+      "final_price": 14.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000073072/ff59ee3c049bdcd8df8e299a63464662880db710c07017a2bc56468a5f3b4424",
+      "url": "https://www.nintendo.com/us/store/products/nine-sols-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Role playing"
+      ],
+      "developers": [
+        "RED CANDLE GAMES"
+      ],
+      "publishers": [
+        "RED CANDLE GAMES"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000097159,
+      "name": "Sid Meier's Civilization® VII – Nintendo Switch™ 2 Edition",
+      "discount_percent": 50,
+      "original_price": 69.99,
+      "final_price": 34.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000097159/bdfa7aef70b76ce7091f28392e97fc3b01b32658aa951f7a0b41bf255787b3a8",
+      "url": "https://www.nintendo.com/us/store/products/sid-meiers-civilization-vii-nintendo-switch-2-edition-switch-2/",
+      "on_sale": true,
+      "platform": "Nintendo Switch 2",
+      "genres": [
+        "Strategy"
+      ],
+      "developers": [
+        "Firaxis Games"
+      ],
+      "publishers": [
+        "2K"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000045589,
+      "name": "TUNIC",
+      "discount_percent": 50,
+      "original_price": 29.99,
+      "final_price": 14.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000045589/acb37bc0c52cf0efc43615d0bd5d927034e95a9409fe4a63c88bda465e5bd4ca",
+      "url": "https://www.nintendo.com/us/store/products/tunic-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "developers": [
+        "Isometricorp Games LTD"
+      ],
+      "publishers": [
+        "Finji"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000001982,
+      "name": "Night in the Woods",
+      "discount_percent": 50,
+      "original_price": 19.99,
+      "final_price": 9.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000001982/8d76069e615f5e28ec56d9ee9abe8d5d6063e3e16740aaa22aa4488efab636ba",
+      "url": "https://www.nintendo.com/us/store/products/night-in-the-woods-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "developers": [
+        "Infinite Fall"
+      ],
+      "publishers": [
+        "Finji"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000077972,
+      "name": "The Thing: Remastered",
+      "discount_percent": 50,
+      "original_price": 29.99,
+      "final_price": 14.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000077972/fb50da618c707bc2cd6517ca9c5149c0d71d87486b5bd135b4d3ec445cf36c89",
+      "url": "https://www.nintendo.com/us/store/products/the-thing-remastered-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Shooting"
+      ],
+      "developers": [
+        "Nightdive Studios"
+      ],
+      "publishers": [
+        "Atari"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000094535,
+      "name": "Mortal Kombat: Legacy Kollection",
+      "discount_percent": 50,
+      "original_price": 49.99,
+      "final_price": 24.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000094535/011a211e39bfff50da66868770df08f4d0b603a7fdb3bcdc6e0811806a667dae",
+      "url": "https://www.nintendo.com/us/store/products/mortal-kombat-legacy-kollection-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Fighting",
+        "Shooting"
+      ],
+      "developers": [
+        "Digital Eclipse"
+      ],
+      "publishers": [
+        "Digital Eclipse"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000098412,
+      "name": "Mortal Kombat: Legacy Kollection",
+      "discount_percent": 50,
+      "original_price": 49.99,
+      "final_price": 24.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000098412/011a211e39bfff50da66868770df08f4d0b603a7fdb3bcdc6e0811806a667dae",
+      "url": "https://www.nintendo.com/us/store/products/mortal-kombat-legacy-kollection-switch-2/",
+      "on_sale": true,
+      "platform": "Nintendo Switch 2",
+      "genres": [
+        "Action",
+        "Fighting",
+        "Shooting"
+      ],
+      "developers": [
+        "Digital Eclipse"
+      ],
+      "publishers": [
+        "Digital Eclipse"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000097158,
+      "name": "Shadow Labyrinth Nintendo Switch™ 2 Edition",
+      "discount_percent": 50,
+      "original_price": 29.99,
+      "final_price": 14.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000097158/0fe91ef99db51662e2d6b7699ca7b42b6268b99778c353b29f2d194d4ca894f7",
+      "url": "https://www.nintendo.com/us/store/products/shadow-labyrinth-nintendo-switch-2-edition-switch-2/",
+      "on_sale": true,
+      "platform": "Nintendo Switch 2",
+      "genres": [
+        "Action"
+      ],
+      "developers": [],
+      "publishers": [
+        "Bandai Namco Entertainment"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000077016,
+      "name": "Shadow Labyrinth",
+      "discount_percent": 50,
+      "original_price": 29.99,
+      "final_price": 14.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000077016/dbce63a050a72207a26ad98dda9b3fc2a6fba4eb3487d9b26794a469f8881b7a",
+      "url": "https://www.nintendo.com/us/store/products/shadow-labyrinth-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action"
+      ],
+      "developers": [],
+      "publishers": [
+        "Bandai Namco Entertainment"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000068743,
+      "name": "Pentiment",
+      "discount_percent": 50,
+      "original_price": 19.99,
+      "final_price": 9.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000068743/74ca950f329e9713fd112dd3de092f94fbcca56a469fc333155804b00133560d",
+      "url": "https://www.nintendo.com/us/store/products/pentiment-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Adventure"
+      ],
+      "developers": [],
+      "publishers": [
+        "Microsoft Studios"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000036428,
+      "name": "Spelunky 2",
+      "discount_percent": 50,
+      "original_price": 19.99,
+      "final_price": 9.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000036428/5e2d777fa1459be3a152807b4c3e781bdee3813fba4d0facf9ec599197312084",
+      "url": "https://www.nintendo.com/us/store/products/spelunky-2-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "developers": [
+        "BlitWorks"
+      ],
+      "publishers": [
+        "Mossmouth"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000020362,
+      "name": "The Stanley Parable: Ultra Deluxe",
+      "discount_percent": 50,
+      "original_price": 24.99,
+      "final_price": 12.49,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000020362/0a74239685a51ad4dee1b7d6f8a3f1f22edf65257b2161a0632a5cb2ad5cc644",
+      "url": "https://www.nintendo.com/us/store/products/the-stanley-parable-ultra-deluxe-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Adventure"
+      ],
+      "developers": [
+        "Crows Crows Crows"
+      ],
+      "publishers": [
+        "Crows Crows Crows"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000061050,
+      "name": "Little Kitty, Big City",
+      "discount_percent": 50,
+      "original_price": 24.99,
+      "final_price": 12.49,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000061050/813e3bd006428f1a6618bf73584b107d262ce6f663428bca0566e0ab49540dd2",
+      "url": "https://www.nintendo.com/us/store/products/little-kitty-big-city-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "developers": [
+        "Double Dagger Studio LLC"
+      ],
+      "publishers": [
+        "Double Dagger Studio"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000045561,
+      "name": "Chicory: A Colorful Tale",
+      "discount_percent": 50,
+      "original_price": 19.99,
+      "final_price": 9.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000045561/8279c19cc173e820387b77d1e33e8a6eaf8db48366c910bdc8e3823d126f399e",
+      "url": "https://www.nintendo.com/us/store/products/chicory-a-colorful-tale-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Adventure"
+      ],
+      "developers": [
+        "Finji"
+      ],
+      "publishers": [
+        "Finji"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70050000049711,
+      "name": "Pinball FX Midnight - Texas Chainsaw Massacre Pinball",
+      "discount_percent": 50,
+      "original_price": 5.49,
+      "final_price": 2.74,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000049711/52f6b52ff4802543176d6a0045d5aa023ba3545b10381912f2e7f384449608a9",
+      "url": "https://www.nintendo.com/us/store/products/pinball-fx-midnight-texas-chainsaw-massacre-pinball-70050000049711-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "Zen Studios"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -425,6 +1296,147 @@
       "review_rank": 0
     },
     {
+      "appid": 70010000128435,
+      "name": "System Shock® 2: 25th Anniversary Remaster - Nintendo Switch 2 Edition",
+      "discount_percent": 45,
+      "original_price": 29.99,
+      "final_price": 16.49,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000128435/85be73906c21ab7c331ec15eb391be14179230cd199c3ac50c768920d272c906",
+      "url": "https://www.nintendo.com/us/store/products/system-shock-2-25th-anniversary-remaster-nintendo-switch-2-edition-switch-2/",
+      "on_sale": true,
+      "platform": "Nintendo Switch 2",
+      "genres": [
+        "Shooting"
+      ],
+      "developers": [
+        "Nightdive Studios"
+      ],
+      "publishers": [
+        "Atari"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000095777,
+      "name": "RAIDOU Remastered: The Mystery of the Soulless Army",
+      "discount_percent": 45,
+      "original_price": 49.99,
+      "final_price": 27.49,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000095777/d38c8715039edaa6578d9a69a37cc9573f48d43629c4e871a883eb4f1e6e375a",
+      "url": "https://www.nintendo.com/us/store/products/raidou-remastered-the-mystery-of-the-soulless-army-switch-2/",
+      "on_sale": true,
+      "platform": "Nintendo Switch 2",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Role playing",
+        "Shooting"
+      ],
+      "developers": [
+        "ATLUS"
+      ],
+      "publishers": [
+        "SEGA"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000065251,
+      "name": "RAIDOU Remastered: The Mystery of the Soulless Army",
+      "discount_percent": 45,
+      "original_price": 49.99,
+      "final_price": 27.49,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000065251/d38c8715039edaa6578d9a69a37cc9573f48d43629c4e871a883eb4f1e6e375a",
+      "url": "https://www.nintendo.com/us/store/products/raidou-remastered-the-mystery-of-the-soulless-army-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Role playing",
+        "Shooting"
+      ],
+      "developers": [
+        "ATLUS"
+      ],
+      "publishers": [
+        "SEGA"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70070000029618,
+      "name": "Persona 3 Reload Digital Deluxe Edition",
+      "discount_percent": 40,
+      "original_price": 69.99,
+      "final_price": 41.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70070000029618/656c5fa11f8a61c310bdd158504bd019ac3ea15a7118f884901870724999694a",
+      "url": "https://www.nintendo.com/us/store/products/persona-3-reload-digital-deluxe-edition-switch-2/",
+      "on_sale": true,
+      "platform": "Nintendo Switch 2",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "SEGA"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70070000024699,
+      "name": "Castlevania Collections Bundle",
+      "discount_percent": 40,
+      "original_price": 57.99,
+      "final_price": 34.79,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000024699/dfde682ebe9f2e7dfd0b68ee4566ba333fb9e1de13e650e96c4c22202ace70ef",
+      "url": "https://www.nintendo.com/us/store/products/castlevania-collections-bundle-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Role playing"
+      ],
+      "developers": [],
+      "publishers": [
+        "KONAMI"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000108238,
+      "name": "Sonic Frontiers - Definitive Edition",
+      "discount_percent": 40,
+      "original_price": 49.99,
+      "final_price": 29.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000108238/fac34531ef37ddb8652dbfdf6c718dc5eacc0e4869dc52cad9ab12c0433e2735",
+      "url": "https://www.nintendo.com/us/store/products/sonic-frontiers-definitive-edition-switch-2/",
+      "on_sale": true,
+      "platform": "Nintendo Switch 2",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "developers": [
+        "SONIC TEAM"
+      ],
+      "publishers": [
+        "SEGA"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 70070000036215,
       "name": "Mega Man Cyber Wave Pack",
       "discount_percent": 40,
@@ -485,25 +1497,6 @@
       "review_rank": 0
     },
     {
-      "appid": 70070000031462,
-      "name": "Monster Hunter Stories 3: Twisted Reflection Deluxe Edition",
-      "discount_percent": 34,
-      "original_price": 89.99,
-      "final_price": 59.39,
-      "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70070000031462/45d0725006b6fcaf3286c7341c3c8ab0b20e88ccb377e773783451306d52f00b",
-      "url": "https://www.nintendo.com/us/store/products/monster-hunter-stories-3-twisted-reflection-deluxe-edition-switch-2/",
-      "on_sale": true,
-      "platform": "Nintendo Switch 2",
-      "genres": [],
-      "developers": [],
-      "publishers": [
-        "CAPCOM"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 70070000034290,
       "name": "Resident Evil 7 Gold Edition & Village Gold Edition",
       "discount_percent": 34,
@@ -527,14 +1520,14 @@
       "review_rank": 0
     },
     {
-      "appid": 70070000031463,
-      "name": "Monster Hunter Stories 3: Twisted Reflection Premium Deluxe Edition",
-      "discount_percent": 30,
-      "original_price": 99.99,
-      "final_price": 69.99,
+      "appid": 70070000031462,
+      "name": "Monster Hunter Stories 3: Twisted Reflection Deluxe Edition",
+      "discount_percent": 34,
+      "original_price": 89.99,
+      "final_price": 59.39,
       "currency": "USD",
-      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70070000031463/023c8ea689368bb0065cd4897121c8ba3c2fd2a0da958101240cc1a1c96a0b63",
-      "url": "https://www.nintendo.com/us/store/products/monster-hunter-stories-3-twisted-reflection-premium-deluxe-edition-switch-2/",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70070000031462/45d0725006b6fcaf3286c7341c3c8ab0b20e88ccb377e773783451306d52f00b",
+      "url": "https://www.nintendo.com/us/store/products/monster-hunter-stories-3-twisted-reflection-deluxe-edition-switch-2/",
       "on_sale": true,
       "platform": "Nintendo Switch 2",
       "genres": [],
@@ -565,6 +1558,182 @@
       "review_rank": 0
     },
     {
+      "appid": 70010000065090,
+      "name": "ANIMAL WELL",
+      "discount_percent": 30,
+      "original_price": 24.99,
+      "final_price": 17.49,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000065090/63c78c2b7e586401115db25168c5e13054b9fdd261b16d9b65d0f23a68a8299f",
+      "url": "https://www.nintendo.com/us/store/products/animal-well-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action"
+      ],
+      "developers": [
+        "Shared Memory"
+      ],
+      "publishers": [
+        "Bigmode"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000111758,
+      "name": "Tales of ARISE - Beyond the Dawn Edition",
+      "discount_percent": 30,
+      "original_price": 49.99,
+      "final_price": 34.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000111758/9045ed5b3a7fed4a41c27994d27b7c029da1fb5bce0b8bc69a195d24c9718028",
+      "url": "https://www.nintendo.com/us/store/products/tales-of-arise-beyond-the-dawn-edition-switch-2/",
+      "on_sale": true,
+      "platform": "Nintendo Switch 2",
+      "genres": [
+        "Action",
+        "Role playing"
+      ],
+      "developers": [
+        "Bandai Namco Studios Inc."
+      ],
+      "publishers": [
+        "Bandai Namco Entertainment"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000042626,
+      "name": "FATAL FRAME: Maiden of Black Water",
+      "discount_percent": 30,
+      "original_price": 39.99,
+      "final_price": 27.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000042626/2a5b9fa104c8edbb45c9b84853c10d78f6b8d29008c165addbc012ff2ca5c1bf",
+      "url": "https://www.nintendo.com/us/store/products/fatal-frame-maiden-of-black-water-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "developers": [],
+      "publishers": [
+        "KOEI TECMO AMERICA"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70070000031463,
+      "name": "Monster Hunter Stories 3: Twisted Reflection Premium Deluxe Edition",
+      "discount_percent": 30,
+      "original_price": 99.99,
+      "final_price": 69.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70070000031463/023c8ea689368bb0065cd4897121c8ba3c2fd2a0da958101240cc1a1c96a0b63",
+      "url": "https://www.nintendo.com/us/store/products/monster-hunter-stories-3-twisted-reflection-premium-deluxe-edition-switch-2/",
+      "on_sale": true,
+      "platform": "Nintendo Switch 2",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "CAPCOM"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70070000036530,
+      "name": "EA SPORTS FC™ 27 Ultimate Edition",
+      "discount_percent": 25,
+      "original_price": 99.99,
+      "final_price": 74.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70070000036530/9e3c31bf1e047bd9e71fe68316e476b1737d136ec0b92a505f9fb2becdcf51d4",
+      "url": "https://www.nintendo.com/us/store/products/ea-sports-fc-27-ultimate-edition-70070000036530-switch-2/",
+      "on_sale": true,
+      "platform": "Nintendo Switch 2",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70070000036463,
+      "name": "EA SPORTS FC™ 27 Ultimate Edition",
+      "discount_percent": 25,
+      "original_price": 89.99,
+      "final_price": 67.49,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000036463/5ca70a5faf834247f3e4813da0c1331fc68eed4a4aea32b9ba55e0003daacab2",
+      "url": "https://www.nintendo.com/us/store/products/ea-sports-fc-27-ultimate-edition-70070000036463-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000098422,
+      "name": "UFO 50",
+      "discount_percent": 25,
+      "original_price": 24.99,
+      "final_price": 18.74,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000098422/a114057ff62030c85cdfab5fd3384e6913bd716f44164f147d95100a29efd872",
+      "url": "https://www.nintendo.com/us/store/products/ufo-50-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Racing",
+        "Shooting"
+      ],
+      "developers": [
+        "Mossmouth"
+      ],
+      "publishers": [
+        "Mossmouth"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000075091,
+      "name": "Poppy Playtime: Chapter 1",
+      "discount_percent": 25,
+      "original_price": 4.99,
+      "final_price": 3.74,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000075091/266a2c89eff8ee813d172a684eae776c00d950d69bc99926064ed2cb5b527bdd",
+      "url": "https://www.nintendo.com/us/store/products/poppy-playtime-chapter-1-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "developers": [
+        "Mob Entertainment"
+      ],
+      "publishers": [
+        "Mob Entertainment"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 70010000095325,
       "name": "Kunitsu-Gami: Path of the Goddess",
       "discount_percent": 25,
@@ -584,6 +1753,140 @@
       ],
       "publishers": [
         "CAPCOM"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000096640,
+      "name": "DELTARUNE",
+      "discount_percent": 20,
+      "original_price": 24.99,
+      "final_price": 19.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000096640/69a9b5c218fe9b06f7fca6c4a1a9f7344f40ac584997a0abe772bf80281ef999",
+      "url": "https://www.nintendo.com/us/store/products/deltarune-switch-2/",
+      "on_sale": true,
+      "platform": "Nintendo Switch 2",
+      "genres": [
+        "Role playing"
+      ],
+      "developers": [
+        "8-4"
+      ],
+      "publishers": [
+        "8-4"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000094450,
+      "name": "DELTARUNE",
+      "discount_percent": 20,
+      "original_price": 24.99,
+      "final_price": 19.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000094450/69a9b5c218fe9b06f7fca6c4a1a9f7344f40ac584997a0abe772bf80281ef999",
+      "url": "https://www.nintendo.com/us/store/products/deltarune-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Role playing"
+      ],
+      "developers": [
+        "8-4"
+      ],
+      "publishers": [
+        "8-4"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000098812,
+      "name": "Indiana Jones and the Great Circle™",
+      "discount_percent": 20,
+      "original_price": 69.99,
+      "final_price": 55.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000098812/7579bbf8c30a30703291f02516dab590f4583fb72b23d75287772feeaefaec33",
+      "url": "https://www.nintendo.com/us/store/products/indiana-jones-and-the-great-circle-switch-2/",
+      "on_sale": true,
+      "platform": "Nintendo Switch 2",
+      "genres": [
+        "Action",
+        "Shooting"
+      ],
+      "developers": [],
+      "publishers": [
+        "Bethesda"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000059002,
+      "name": "Vampire Survivors",
+      "discount_percent": 20,
+      "original_price": 4.99,
+      "final_price": 3.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000059002/e2c326b8fbab42b3f48c86c10c728b8bc04cf59fa51302c54837823879e6749f",
+      "url": "https://www.nintendo.com/us/store/products/vampire-survivors-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action"
+      ],
+      "developers": [
+        "Poncle"
+      ],
+      "publishers": [
+        "poncle"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70050000052062,
+      "name": "Vampire Survivors: Ode to Castlevania",
+      "discount_percent": 20,
+      "original_price": 3.99,
+      "final_price": 3.19,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000052062/483f67d8319b1355a65f19758891cfb64d69a99da357467eafc7474e55e54c27",
+      "url": "https://www.nintendo.com/us/store/products/vampire-survivors-ode-to-castlevania-70050000052062-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "poncle"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000071826,
+      "name": "Just Crow Things",
+      "discount_percent": 20,
+      "original_price": 19.99,
+      "final_price": 15.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000071826/5de8179f79a300c23ebb92b9c126832082628dcfd2a62ad6d40b15fcb4a4f959",
+      "url": "https://www.nintendo.com/us/store/products/just-crow-things-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "developers": [
+        "Unbound Creations"
+      ],
+      "publishers": [
+        "Unbound Creations"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -625,7 +1928,211 @@
       ],
       "review_desc": null,
       "review_rank": 0
+    },
+    {
+      "appid": 70010000092964,
+      "name": "The Jackbox Party Pack 11",
+      "discount_percent": 15,
+      "original_price": 29.99,
+      "final_price": 25.49,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000092964/ecc1ec4f3b7d4f85a5ba646e4bbf2e23945bf70cb6819a84b57b393d7242580d",
+      "url": "https://www.nintendo.com/us/store/products/the-jackbox-party-pack-11-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Party"
+      ],
+      "developers": [
+        "Jackbox Games, Inc."
+      ],
+      "publishers": [
+        "Jackbox Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000103529,
+      "name": "The Elder Scrolls IV: Oblivion Remastered",
+      "discount_percent": 0,
+      "original_price": 49.99,
+      "final_price": 49.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000103529/c9f8be812f03ade6732c039d4e8d858b77f124d856080610dfb9f5d574fa7026",
+      "url": "https://www.nintendo.com/us/store/products/the-elder-scrolls-iv-oblivion-remastered-switch-2/",
+      "on_sale": false,
+      "platform": "Nintendo Switch 2",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Role playing"
+      ],
+      "developers": [
+        "Bethesda Game Studios"
+      ],
+      "publishers": [
+        "Bethesda"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70050000066562,
+      "name": "Indiana Jones and the Great Circle™: The Order of Giants",
+      "discount_percent": 0,
+      "original_price": 19.99,
+      "final_price": 19.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70050000066562/a621389f269f0014d58124840bb298b8834734a03ce6d7c543784dd5212a832f",
+      "url": "https://www.nintendo.com/us/store/products/indiana-jones-and-the-great-circle-the-order-of-giants-70050000066562-switch-2/",
+      "on_sale": false,
+      "platform": "Nintendo Switch 2",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "Bethesda"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000101067,
+      "name": "Fallout 4: Anniversary Edition",
+      "discount_percent": 0,
+      "original_price": 59.99,
+      "final_price": 59.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000101067/319f3f75f023d52fcff40766c2468ac5164c5cf1a3f3f2f04cfafca9f7657901",
+      "url": "https://www.nintendo.com/us/store/products/fallout-4-anniversary-edition-switch-2/",
+      "on_sale": false,
+      "platform": "Nintendo Switch 2",
+      "genres": [
+        "Action",
+        "Role playing",
+        "Shooting"
+      ],
+      "developers": [
+        "Bethesda Game Studios"
+      ],
+      "publishers": [
+        "Bethesda"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000095785,
+      "name": "Little Nightmares Enhanced Edition Complete Edition",
+      "discount_percent": 0,
+      "original_price": 29.99,
+      "final_price": 29.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000095785/6d4b4b71d3d37828c3c9c02678c016c28c2989e5102f8378a82c65768a698f0a",
+      "url": "https://www.nintendo.com/us/store/products/little-nightmares-enhanced-edition-complete-edition-switch-2/",
+      "on_sale": false,
+      "platform": "Nintendo Switch 2",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "developers": [],
+      "publishers": [
+        "BANDAI NAMCO Entertainment"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000077920,
+      "name": "System Shock® 2: 25th Anniversary Remaster",
+      "discount_percent": 0,
+      "original_price": 29.99,
+      "final_price": 29.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000077920/4dd16482ea0c62a93eacd76cb5874fbb22263cea3117f7055f1ae66c7a64a43e",
+      "url": "https://www.nintendo.com/us/store/products/system-shock-2-25th-anniversary-remaster-switch/",
+      "on_sale": false,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Shooting"
+      ],
+      "developers": [
+        "Nightdive Studios"
+      ],
+      "publishers": [
+        "Atari"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000005065,
+      "name": "Wolfenstein II®: The New Colossus™",
+      "discount_percent": 0,
+      "original_price": 39.99,
+      "final_price": 39.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000005065/5ead2c14e51be5e8ddae1d504ec76fcd55aa0a22ecc3e1a1e79ae929c468dbb9",
+      "url": "https://www.nintendo.com/us/store/products/wolfenstein-ii-the-new-colossus-switch/",
+      "on_sale": false,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Shooting"
+      ],
+      "developers": [],
+      "publishers": [
+        "Bethesda"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000051304,
+      "name": "OneShot: World Machine Edition",
+      "discount_percent": 0,
+      "original_price": 14.99,
+      "final_price": 14.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000051304/935ca738d6be73c8ddad78a4e15dbf41b02520968dba67a396ce63bbf8fe36b3",
+      "url": "https://www.nintendo.com/us/store/products/oneshot-world-machine-edition-switch/",
+      "on_sale": false,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Adventure"
+      ],
+      "developers": [
+        "Future Cat LLC"
+      ],
+      "publishers": [
+        "DANGEN Entertainment"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000045164,
+      "name": "Bugsnax",
+      "discount_percent": 0,
+      "original_price": 24.99,
+      "final_price": 24.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000045164/62bd1e91fa13206fc7f29224eb7f5ef827b8ebd87356470d49e7d7da31e86472",
+      "url": "https://www.nintendo.com/us/store/products/bugsnax-switch/",
+      "on_sale": false,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Adventure"
+      ],
+      "developers": [
+        "Young Horses"
+      ],
+      "publishers": [
+        "Young Horses"
+      ],
+      "review_desc": null,
+      "review_rank": 0
     }
   ],
-  "usd_krw_rate": 1329.49
+  "usd_krw_rate": 1327.84
 }
