@@ -28217,5 +28217,27 @@
     "publishers": [
       "Deep Silver"
     ]
+  },
+  "22370": {
+    "genres": [
+      "RPG"
+    ],
+    "developers": [
+      "Bethesda Game Studios"
+    ],
+    "publishers": [
+      "Bethesda Softworks"
+    ]
+  },
+  "4131220": {
+    "genres": [
+      "어드벤처"
+    ],
+    "developers": [
+      "IzanagiGames"
+    ],
+    "publishers": [
+      "IzanagiGames"
+    ]
   }
 }
