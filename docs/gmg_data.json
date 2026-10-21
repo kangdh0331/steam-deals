@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1792581387.953551,
+  "fetched_at": 1792617529.0421324,
   "deals": [
     {
       "appid": 59702,
@@ -17778,6 +17778,28 @@
       "developers": [],
       "publishers": [
         "Plug-in Digital"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60261,
+      "name": "The Artisan of Glimmith",
+      "discount_percent": 32,
+      "original_price": 14500.0,
+      "final_price": 9900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/c6b797e3252a4531af4865497c24fb1f/8ffcb0ad0be0455b9c48a8008fdac335.jpg",
+      "url": "https://www.greenmangaming.com/games/the-artisan-of-glimmith-pc/",
+      "on_sale": true,
+      "genres": [
+        "캐주얼",
+        "전략",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "983 Interactive"
       ],
       "review_desc": null,
       "review_rank": 0
