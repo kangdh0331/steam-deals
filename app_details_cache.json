@@ -28253,5 +28253,32 @@
     "publishers": [
       "Mob Entertainment"
     ]
+  },
+  "206440": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "Freebird Games"
+    ],
+    "publishers": [
+      "Freebird Games",
+      "Serenity Forge"
+    ]
+  },
+  "3486530": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "RPG"
+    ],
+    "developers": [
+      "GPTRACK50 Inc."
+    ],
+    "publishers": [
+      "GPTRACK50 Inc."
+    ]
   }
 }
