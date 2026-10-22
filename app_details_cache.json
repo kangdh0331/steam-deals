@@ -28280,5 +28280,33 @@
     "publishers": [
       "GPTRACK50 Inc."
     ]
+  },
+  "5306540": {
+    "genres": [
+      "시뮬레이션",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "XYZ STUDIO"
+    ],
+    "publishers": [
+      "XYZ STUDIO"
+    ]
+  },
+  "5413620": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "RPG",
+      "무료 플레이"
+    ],
+    "developers": [
+      "Nugem Studio",
+      "Tesseract Studio"
+    ],
+    "publishers": [
+      "Nugem Studio",
+      "Tesseract Studio"
+    ]
   }
 }
