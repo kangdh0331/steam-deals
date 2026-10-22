@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1792687386.2974558,
+  "fetched_at": 1792703713.8788977,
   "deals": [
     {
       "appid": 59702,
@@ -8653,6 +8653,48 @@
       "review_rank": 0
     },
     {
+      "appid": 46293,
+      "name": "Warhammer: Vermintide 2",
+      "discount_percent": 80,
+      "original_price": 32000.0,
+      "final_price": 6400.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/d0a151de775e482592a5d6197a056fe9/5e0354279e6a4fbe9bc003f70d9a4afa.jpg",
+      "url": "https://www.greenmangaming.com/games/warhammer-vermintide-2-ztorm-0c27d4cd-en.aspx/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Fatshark"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 46350,
+      "name": "Warhammer: End Times - Vermintide Collector's Edition",
+      "discount_percent": 80,
+      "original_price": 47000.0,
+      "final_price": 9400.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/3bb823245c1a4031974a5ec76de4990c/7e676ff3bd5e4da295f2145f2bc58c40.jpg",
+      "url": "https://www.greenmangaming.com/games/warhammer-end-times-vermintide-collectors-edition-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Fatshark"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 8271,
       "name": "Whispering Willows",
       "discount_percent": 80,
@@ -9890,6 +9932,50 @@
       "review_rank": 0
     },
     {
+      "appid": 47197,
+      "name": "Warhammer 40,000: Darktide - Imperial Edition",
+      "discount_percent": 75,
+      "original_price": 66000.0,
+      "final_price": 16500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/fb762c00fe07499e80e5f4855c26caa5/7b8ab610a064423d9a8ffce9228d6819.jpg",
+      "url": "https://www.greenmangaming.com/games/warhammer-40000-darktide-imperial-edition-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "인디",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Fatshark"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 47195,
+      "name": "Warhammer 40,000: Darktide",
+      "discount_percent": 75,
+      "original_price": 44000.0,
+      "final_price": 11000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/d0fc1e6fb5f74413856d13795f00e4b4/49ce2f3ad578461bb0e1bd235f47e560.jpg",
+      "url": "https://www.greenmangaming.com/games/warhammer-40000-darktide-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "인디",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Fatshark"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 7324,
       "name": "Tales from the Dragon Mountain 2: The Lair",
       "discount_percent": 75,
@@ -11012,26 +11098,6 @@
       "developers": [],
       "publishers": [
         "HYPETRAIN DIGITAL LTD"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 44049,
-      "name": "Tiny Tina's Wonderlands: Chaotic Great Edition",
-      "discount_percent": 73,
-      "original_price": 48900.0,
-      "final_price": 13300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/23f706865f094b89ab4a7f6e309b2053/226822c1aa4a4c90bbaea16f1381cf18.jpg",
-      "url": "https://www.greenmangaming.com/games/tiny-tinas-wonderlands-chaotic-great-edition-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -14944,6 +15010,69 @@
       "developers": [],
       "publishers": [
         "Giants Software"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 46342,
+      "name": "Warhammer: Vermintide 2 - Winds of Magic",
+      "discount_percent": 50,
+      "original_price": 21500.0,
+      "final_price": 10800.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/ba693c9cd2894d6c9d152a0572ba6d44/42e2406db71344cab0a9a6c7a6a0a231.jpg",
+      "url": "https://www.greenmangaming.com/games/warhammer-vermintide-2-winds-of-magic-ztorm-ad561eb4-en.aspx/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Fatshark"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 46340,
+      "name": "Warhammer: Vermintide 2 - Shadows Over Bögenhafen",
+      "discount_percent": 50,
+      "original_price": 11000.0,
+      "final_price": 5500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/574c42a4db3f4423a54f12a5ccb53de9/99f9a111da874129b0efa1491a9f4fd2.jpg",
+      "url": "https://www.greenmangaming.com/games/warhammer-vermintide-2-shadows-over-bogenhafen-ztorm-1f08f91c-en.aspx/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Fatshark"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 46344,
+      "name": "Warhammer: Vermintide 2 - Back to Ubersreik",
+      "discount_percent": 50,
+      "original_price": 11000.0,
+      "final_price": 5500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/489559f68e784f8980f1b6cb5618ea3f/6d01218688fe4e34a58407737f7ce86b.jpg",
+      "url": "https://www.greenmangaming.com/games/warhammer-vermintide-2-back-to-ubersreik-ztorm-403798ce-en.aspx/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Fatshark"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -19507,28 +19636,6 @@
       "review_rank": 0
     },
     {
-      "appid": 59246,
-      "name": "The Relic: First Guardian",
-      "discount_percent": 12,
-      "original_price": 36500.0,
-      "final_price": 32200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/28bfa45a7148481b923552d727bae3bb/f566eae444f949d284e981aed412d5b2.jpg",
-      "url": "https://www.greenmangaming.com/games/the-relic-first-guardian-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "RPG",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Perp Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 58573,
       "name": "Fallout 76: Deathclaw Pet - Deluxe Edition",
       "discount_percent": 12,
@@ -20315,6 +20422,26 @@
       "developers": [],
       "publishers": [
         "Hello Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 44049,
+      "name": "Tiny Tina's Wonderlands: Chaotic Great Edition",
+      "discount_percent": 0,
+      "original_price": 48900.0,
+      "final_price": 48900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/23f706865f094b89ab4a7f6e309b2053/226822c1aa4a4c90bbaea16f1381cf18.jpg",
+      "url": "https://www.greenmangaming.com/games/tiny-tinas-wonderlands-chaotic-great-edition-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "2K Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -28202,27 +28329,6 @@
       "review_rank": 0
     },
     {
-      "appid": 46293,
-      "name": "Warhammer: Vermintide 2",
-      "discount_percent": 0,
-      "original_price": 32000.0,
-      "final_price": 32000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/d0a151de775e482592a5d6197a056fe9/5e0354279e6a4fbe9bc003f70d9a4afa.jpg",
-      "url": "https://www.greenmangaming.com/games/warhammer-vermintide-2-ztorm-0c27d4cd-en.aspx/",
-      "on_sale": false,
-      "genres": [
-        "액션",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Fatshark"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 4972,
       "name": "F.E.A.R. 3",
       "discount_percent": 0,
@@ -28280,27 +28386,6 @@
       "developers": [],
       "publishers": [
         "Warner Bros Interactive Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 46350,
-      "name": "Warhammer: End Times - Vermintide Collector's Edition",
-      "discount_percent": 0,
-      "original_price": 47000.0,
-      "final_price": 47000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/3bb823245c1a4031974a5ec76de4990c/7e676ff3bd5e4da295f2145f2bc58c40.jpg",
-      "url": "https://www.greenmangaming.com/games/warhammer-end-times-vermintide-collectors-edition-pc/",
-      "on_sale": false,
-      "genres": [
-        "액션",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Fatshark"
       ],
       "review_desc": null,
       "review_rank": 0

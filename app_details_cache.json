@@ -28396,5 +28396,76 @@
     "publishers": [
       "Beijing Happy Entertainment Technology"
     ]
+  },
+  "1449690": {
+    "genres": [
+      "어드벤처"
+    ],
+    "developers": [
+      "Skybound Games"
+    ],
+    "publishers": [
+      "Skybound Games"
+    ]
+  },
+  "5165600": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "INTI CREATES CO., LTD."
+    ],
+    "publishers": [
+      "INTI CREATES CO., LTD."
+    ]
+  },
+  "3813350": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "INTI CREATES CO., LTD."
+    ],
+    "publishers": [
+      "INTI CREATES CO., LTD."
+    ]
+  },
+  "4395300": {
+    "genres": [
+      "캐주얼"
+    ],
+    "developers": [
+      "Somnartis",
+      "Cheetah Technology Corporation Limited"
+    ],
+    "publishers": [
+      "Cheetah Technology Corporation Limited"
+    ]
+  },
+  "1880620": {
+    "genres": [
+      "액션",
+      "캐주얼"
+    ],
+    "developers": [
+      "RENGAME"
+    ],
+    "publishers": [
+      "Bandai Namco Entertainment Inc."
+    ]
+  },
+  "5085740": {
+    "genres": [
+      "캐주얼",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "NoGlyph"
+    ],
+    "publishers": [
+      "NoGlyph"
+    ]
   }
 }
