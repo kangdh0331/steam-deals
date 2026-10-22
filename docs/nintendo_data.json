@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1792667683.6608908,
+  "fetched_at": 1792687386.6396458,
   "deals": [
     {
       "appid": 70010000005065,
@@ -1609,6 +1609,29 @@
       "review_rank": 0
     },
     {
+      "appid": 70010000122485,
+      "name": "Resident Evil 3",
+      "discount_percent": 34,
+      "original_price": 29.99,
+      "final_price": 19.79,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000122485/59dde5b554f0cf65f6f99c36fbcc8cc1aae40a8a6b2ee6141dda9b10e2d6e36b",
+      "url": "https://www.nintendo.com/us/store/products/resident-evil-3-switch-2/",
+      "on_sale": true,
+      "platform": "Nintendo Switch 2",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Shooting"
+      ],
+      "developers": [],
+      "publishers": [
+        "CAPCOM"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 70070000034290,
       "name": "Resident Evil 7 Gold Edition & Village Gold Edition",
       "discount_percent": 34,
@@ -1750,6 +1773,29 @@
       "on_sale": true,
       "platform": "Nintendo Switch 2",
       "genres": [],
+      "developers": [],
+      "publishers": [
+        "CAPCOM"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000114442,
+      "name": "Resident Evil 2 Deluxe Edition",
+      "discount_percent": 25,
+      "original_price": 39.99,
+      "final_price": 29.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000114442/e7ac2cfb384f6f7af91e8ef7c76fa8dc849350bf02cb6c28b50a32be69ef3957",
+      "url": "https://www.nintendo.com/us/store/products/resident-evil-2-deluxe-edition-switch-2/",
+      "on_sale": true,
+      "platform": "Nintendo Switch 2",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Shooting"
+      ],
       "developers": [],
       "publishers": [
         "CAPCOM"
@@ -2134,5 +2180,5 @@
       "review_rank": 0
     }
   ],
-  "usd_krw_rate": 1325.57
+  "usd_krw_rate": 1324.63
 }

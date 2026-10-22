@@ -28308,5 +28308,93 @@
       "Nugem Studio",
       "Tesseract Studio"
     ]
+  },
+  "278080": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "KOEI TECMO GAMES CO., LTD."
+    ],
+    "publishers": [
+      "KOEI TECMO GAMES CO., LTD."
+    ]
+  },
+  "3990960": {
+    "genres": [
+      "액션",
+      "캐주얼"
+    ],
+    "developers": [
+      "TAITO CORP.",
+      "ArcSystemWorks"
+    ],
+    "publishers": [
+      "ArcSystemWorks"
+    ]
+  },
+  "2328240": {
+    "genres": [
+      "액션",
+      "RPG"
+    ],
+    "developers": [
+      "Ninetail"
+    ],
+    "publishers": [
+      "MB Game Studio"
+    ]
+  },
+  "2001340": {
+    "genres": [
+      "RPG",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "CyberConnect2"
+    ],
+    "publishers": [
+      "CyberConnect2"
+    ]
+  },
+  "1088630": {
+    "genres": [
+      "어드벤처",
+      "RPG",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "SystemSoft Alpha Corporation"
+    ],
+    "publishers": [
+      "Interwise Multimedia Corporation ",
+      "英特衛多媒體股份有限公司"
+    ]
+  },
+  "3905010": {
+    "genres": [
+      "캐주얼",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Kairosoft Co.,Ltd"
+    ],
+    "publishers": [
+      "Bandai Namco Entertainment Inc."
+    ]
+  },
+  "1487590": {
+    "genres": [
+      "어드벤처",
+      "RPG"
+    ],
+    "developers": [
+      "MariaCrown"
+    ],
+    "publishers": [
+      "Beijing Happy Entertainment Technology"
+    ]
   }
 }

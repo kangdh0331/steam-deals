@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1792667683.142663,
+  "fetched_at": 1792687386.2974558,
   "deals": [
     {
       "appid": 59702,
@@ -18176,7 +18176,7 @@
       "original_price": 32000.0,
       "final_price": 24000.0,
       "currency": "KRW",
-      "image": "https://images.greenmangaming.com/945141b02b3d464c87a326cfe0ddeb0b/63280c70a52a4b03b9cdc45dfbf2b5a8.jpg",
+      "image": "https://images.greenmangaming.com/6e7918581526420589687003de1fdfeb/29f80821c9544795831813a59181c4d7.jpg",
       "url": "https://www.greenmangaming.com/games/no-more-room-in-hell-2-pc/",
       "on_sale": true,
       "genres": [
@@ -18884,29 +18884,6 @@
       "developers": [],
       "publishers": [
         "Gamera Interactive"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 41318,
-      "name": "Greak: Memories of Azur - Deluxe Edition",
-      "discount_percent": 20,
-      "original_price": 32500.0,
-      "final_price": 26000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/f20227b8f6fb453293e0dba04d94c597/01d5d3b4697542e2bf11edd5f0b4179b.jpg",
-      "url": "https://www.greenmangaming.com/games/great-memories-of-azur-deluxe-edition-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "인디",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Team 17"
       ],
       "review_desc": null,
       "review_rank": 0
