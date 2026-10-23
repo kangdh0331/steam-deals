@@ -28496,5 +28496,36 @@
     "publishers": [
       "MAY19 STUDIO"
     ]
+  },
+  "5335510": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "DragDrop Games"
+    ],
+    "publishers": [
+      "DragDrop Games"
+    ]
+  },
+  "4067130": {
+    "genres": [
+      "어드벤처",
+      "캐주얼",
+      "인디",
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "Kayla Studio"
+    ],
+    "publishers": [
+      "Happy Kayla"
+    ]
   }
 }
