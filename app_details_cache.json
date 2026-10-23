@@ -28527,5 +28527,92 @@
     "publishers": [
       "Happy Kayla"
     ]
+  },
+  "2072560": {
+    "genres": [
+      "액션",
+      "무료 플레이"
+    ],
+    "developers": [
+      "GANBARION Co., Ltd."
+    ],
+    "publishers": [
+      "Bandai Namco Entertainment"
+    ]
+  },
+  "860510": {
+    "genres": [
+      "어드벤처"
+    ],
+    "developers": [
+      "Tarsier Studios"
+    ],
+    "publishers": [
+      "BANDAI NAMCO Entertainment"
+    ]
+  },
+  "2356560": {
+    "genres": [
+      "RPG"
+    ],
+    "developers": [
+      "CAPCOM Co., Ltd."
+    ],
+    "publishers": [
+      "CAPCOM Co., Ltd."
+    ]
+  },
+  "1534980": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "RPG",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Longplay Studios"
+    ],
+    "publishers": [
+      "Longplay Studios"
+    ]
+  },
+  "2411231": {
+    "genres": [
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Paradox Development Studio"
+    ],
+    "publishers": [
+      "Paradox Interactive"
+    ]
+  },
+  "4024600": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "캐주얼",
+      "인디"
+    ],
+    "developers": [
+      "TechDevAYDIN"
+    ],
+    "publishers": [
+      "TechDevAYDIN"
+    ]
+  },
+  "3960600": {
+    "genres": [
+      "어드벤처",
+      "RPG"
+    ],
+    "developers": [
+      "Bamtang Games"
+    ],
+    "publishers": [
+      "Trailmark Games"
+    ]
   }
 }

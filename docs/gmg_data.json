@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1792753582.0006697,
+  "fetched_at": 1792773224.6524518,
   "deals": [
     {
       "appid": 27436,
@@ -8313,6 +8313,26 @@
       "review_rank": 0
     },
     {
+      "appid": 21194,
+      "name": "Assassin's Creed® Origins - Gold Edition",
+      "discount_percent": 86,
+      "original_price": 95000.0,
+      "final_price": 12900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/0f6b60db8ea64e5b81ff8b922dba5242/a685966de2944bb6a09f69f1936c710a.jpg",
+      "url": "https://www.greenmangaming.com/games/assassins-creed-origins-gold-edition/",
+      "on_sale": true,
+      "genres": [
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 6888,
       "name": "BioShock 2",
       "discount_percent": 86,
@@ -8329,6 +8349,68 @@
       "developers": [],
       "publishers": [
         "2K Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 12077,
+      "name": "Watch_Dogs® 2 Gold Edition",
+      "discount_percent": 86,
+      "original_price": 89000.0,
+      "final_price": 12100.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/032bee9fd43c4e0b9a28e1a8391a0875/5355f14bc44a43e1bae0aca65b5663f8.jpg",
+      "url": "https://www.greenmangaming.com/games/watch-dogs-2-gold-edition/",
+      "on_sale": true,
+      "genres": [
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 19660,
+      "name": "Far Cry® 5",
+      "discount_percent": 86,
+      "original_price": 65000.0,
+      "final_price": 8900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/bda4d27d4ca146a2936bae852325b468/4cb4797dafbe4be0b177eeee1534a6c2.jpg",
+      "url": "https://www.greenmangaming.com/games/far-cry-5-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "액션",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 21170,
+      "name": "Far Cry® 5 - Gold Edition",
+      "discount_percent": 86,
+      "original_price": 95000.0,
+      "final_price": 12900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/1f21f674abfb44cb9af16760a499d5b3/aaa649c843c04ccaadccae131f5ff8e0.jpg",
+      "url": "https://www.greenmangaming.com/games/far-cry-5-gold-edition-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -8399,6 +8481,27 @@
       "review_rank": 0
     },
     {
+      "appid": 50312,
+      "name": "For Honor Year 8 Ultimate Edition",
+      "discount_percent": 86,
+      "original_price": 110000.0,
+      "final_price": 14900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/859ddf6cfe124b12a00543f342dce171/a5d61e7d7ce845ebba6749c0521bc948.jpg",
+      "url": "https://www.greenmangaming.com/games/for-honor-year-8-ultimate-edition-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 41593,
       "name": "Marvel's Midnight Suns",
       "discount_percent": 86,
@@ -8435,6 +8538,26 @@
       "developers": [],
       "publishers": [
         "11 Bit Studios SA"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 12037,
+      "name": "Watch_Dogs® 2",
+      "discount_percent": 86,
+      "original_price": 65000.0,
+      "final_price": 8900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/9c9c2baf5f014abf8913a93340a9ecfe/98f69a95f6b44ea2a63d21b66d190e1e.jpg",
+      "url": "https://www.greenmangaming.com/games/watch-dogs-2/",
+      "on_sale": true,
+      "genres": [
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -8503,6 +8626,27 @@
       "review_rank": 0
     },
     {
+      "appid": 50308,
+      "name": "For Honor Year 8 Standard Edition",
+      "discount_percent": 86,
+      "original_price": 34000.0,
+      "final_price": 4600.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/9eaa7256ff784aa6a11bc53b446b0dfd/cf40f7f9956842d18217ac7f9a5ba16d.jpg",
+      "url": "https://www.greenmangaming.com/games/for-honor-year-8-standard-edition-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 17519,
       "name": "Homeworld Remastered Collection",
       "discount_percent": 86,
@@ -8519,6 +8663,87 @@
       "developers": [],
       "publishers": [
         "Gearbox Publishing"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 12049,
+      "name": "Watch_Dogs® 2 Deluxe Edition",
+      "discount_percent": 86,
+      "original_price": 75000.0,
+      "final_price": 10200.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/56f8a2b4d2bc4fde947b741173478440/29cf238df2174a3e8d4b2a5e20b90ce9.jpg",
+      "url": "https://www.greenmangaming.com/games/watch-dogs-2-deluxe-edition/",
+      "on_sale": true,
+      "genres": [
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 21848,
+      "name": "Assassin's Creed Origins: Season Pass",
+      "discount_percent": 86,
+      "original_price": 44000.0,
+      "final_price": 6000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/3f78fc3364a349b09bf19e6b421c86da/57eef73c50c34774bfea9104d9331420.jpg",
+      "url": "https://www.greenmangaming.com/games/assassins-creed-origins-season-pass-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 21190,
+      "name": "Assassin's Creed® Origins - Deluxe Edition",
+      "discount_percent": 86,
+      "original_price": 75000.0,
+      "final_price": 10200.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/e7a547a77d184914afd10ace51849118/bd30120f17cb4e3f90549ef57ece24e0.jpg",
+      "url": "https://www.greenmangaming.com/games/assassins-creed-origins-deluxe-edition/",
+      "on_sale": true,
+      "genres": [
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 50310,
+      "name": "For Honor Year 8 Gold Edition",
+      "discount_percent": 86,
+      "original_price": 68000.0,
+      "final_price": 9200.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/a0fa26b9f55641edae2d6138f1e80edc/0c985055837a4ef190705bcda6051754.jpg",
+      "url": "https://www.greenmangaming.com/games/for-honor-year-8-gold-edition-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -8546,6 +8771,26 @@
       "review_rank": 0
     },
     {
+      "appid": 14963,
+      "name": "STEEP",
+      "discount_percent": 86,
+      "original_price": 33000.0,
+      "final_price": 4500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/f3d11357ba304b96bd99a3fd1f8b8b20/bdde1f6a412243ddb197d187fb9fa56a.jpg",
+      "url": "https://www.greenmangaming.com/games/steep/",
+      "on_sale": true,
+      "genres": [
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 45399,
       "name": "Fobia - St. Dinfna Hotel",
       "discount_percent": 86,
@@ -8561,6 +8806,197 @@
       "developers": [],
       "publishers": [
         "Maximum Entertainment"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 26844,
+      "name": "Far Cry® New Dawn Ultimate Bundle",
+      "discount_percent": 86,
+      "original_price": 130000.0,
+      "final_price": 17600.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/fd6567ab9c284227a207ba57f2d4aa4e/e96eb93466a745afb64ef56fd66227fd.jpg",
+      "url": "https://www.greenmangaming.com/games/far-cry-5-gold-edition-far-cry-new-dawn-deluxe-edition-bundle/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처",
+        "FPS"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 25763,
+      "name": "Steep X Games Gold Edition",
+      "discount_percent": 86,
+      "original_price": 44000.0,
+      "final_price": 6000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/69cb49f870e044d7b7aacec1b736f7fb/787260c0aa114e1bbf5b957a4efcdf12.jpg",
+      "url": "https://www.greenmangaming.com/games/steep-x-games-gold-edition-pc/",
+      "on_sale": true,
+      "genres": [
+        "스포츠",
+        "액션",
+        "레이싱"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 23307,
+      "name": "Far Cry 5 - Season Pass",
+      "discount_percent": 86,
+      "original_price": 33000.0,
+      "final_price": 4500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/2390df91a4db445eaccc8ded1b5a8269/cbbcabd971e34fc485e58092a5ae6af9.jpg",
+      "url": "https://www.greenmangaming.com/games/far-cry-5-season-pass-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "액션",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 26833,
+      "name": "Far Cry® New Dawn Complete Bundle",
+      "discount_percent": 86,
+      "original_price": 110000.0,
+      "final_price": 14900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/e378e9be32f84fbe99293a9bba2ba789/b7fd45375bcd47a08bfca7b22dab1f3c.jpg",
+      "url": "https://www.greenmangaming.com/games/far-cry-5-far-cry-new-dawn-deluxe-edition-bundle-pc/",
+      "on_sale": true,
+      "genres": [
+        "슈팅",
+        "액션",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 42169,
+      "name": "Watch Dogs:® Legion",
+      "discount_percent": 86,
+      "original_price": 65000.0,
+      "final_price": 8900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/64ad9007e6f44f9a96e5f6cc3b0b85c3/58403c9a3352452fb6d9937485ea39f6.jpg",
+      "url": "https://www.greenmangaming.com/games/watch-dogs-legion-ubisoft-connect/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 42172,
+      "name": "Watch Dogs Legion - Deluxe Edition",
+      "discount_percent": 86,
+      "original_price": 75000.0,
+      "final_price": 10200.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/aac57cb8307745a19a8ee681935dfae0/273dd99778f44f9796b6ade9b26f7288.jpg",
+      "url": "https://www.greenmangaming.com/games/watch-dogs-legion-deluxe-edition-ubisoft-connect/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 5484,
+      "name": "Far Cry 4 Season Pass",
+      "discount_percent": 86,
+      "original_price": 33000.0,
+      "final_price": 4500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/fabe665ec8dc441381fcb0b138c6b881/02857389a2d443ff9b5e2cb04bfbd47f.jpg",
+      "url": "https://www.greenmangaming.com/games/far-cry-4-season-pass/",
+      "on_sale": true,
+      "genres": [
+        "슈팅"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 16975,
+      "name": "STEEP: Season Pass",
+      "discount_percent": 86,
+      "original_price": 22000.0,
+      "final_price": 3000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/d518248c352643ddaa7568961623d00c/2007078e7c1f445d9ec55ea8c9c9ad69.jpg",
+      "url": "https://www.greenmangaming.com/games/steep-season-pass/",
+      "on_sale": true,
+      "genres": [
+        "스포츠"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 25766,
+      "name": "Steep X Games Pass",
+      "discount_percent": 86,
+      "original_price": 16500.0,
+      "final_price": 2300.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/b2565e74086f4a31a7e65b435e5e1eed/616cfd683b164934b6e28c6001ed019b.jpg",
+      "url": "https://www.greenmangaming.com/games/steep-x-games-pass-pc/",
+      "on_sale": true,
+      "genres": [
+        "스포츠",
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -8624,6 +9060,27 @@
       "developers": [],
       "publishers": [
         "RockGame SA"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 9150,
+      "name": "Anno 2205",
+      "discount_percent": 86,
+      "original_price": 44000.0,
+      "final_price": 6000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/a77c365ea0cf4125b47e3919be198d2b/b432d99436254a778f880827ca3afd17.jpg",
+      "url": "https://www.greenmangaming.com/games/anno-2205-pc/",
+      "on_sale": true,
+      "genres": [
+        "시뮬레이션",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -13002,27 +13459,6 @@
       "review_rank": 0
     },
     {
-      "appid": 40744,
-      "name": "Tin & Kuna",
-      "discount_percent": 84,
-      "original_price": 31000.0,
-      "final_price": 5100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/68ae9fac3ca445e0b5c402d963194ca9/8d7652efddc141a6bb5d7315ff684ab6.jpg",
-      "url": "https://www.greenmangaming.com/games/tin-kuna-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "캐주얼"
-      ],
-      "developers": [],
-      "publishers": [
-        "Aksys"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 4976,
       "name": "Batman: Arkham Knight",
       "discount_percent": 83,
@@ -14809,48 +15245,6 @@
       "review_rank": 0
     },
     {
-      "appid": 27108,
-      "name": "Aegis of Earth: Protonovus Assault",
-      "discount_percent": 83,
-      "original_price": 21000.0,
-      "final_price": 3500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/a232d7926d3149eb96742d42f75baf5a/c1cf937a2d584d5d8a6d117ef7dfc926.jpg",
-      "url": "https://www.greenmangaming.com/games/aegis-of-earth-protonovus-assault-pc/",
-      "on_sale": true,
-      "genres": [
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Aksys"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 26063,
-      "name": "The Spiral Scouts",
-      "discount_percent": 83,
-      "original_price": 10500.0,
-      "final_price": 1800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/109d486fe5cd4b949995d627b760323e/e8647d86f48e4c10abbb714ab9ee3353.jpg",
-      "url": "https://www.greenmangaming.com/games/the-spiral-scouts-pc/",
-      "on_sale": true,
-      "genres": [
-        "인디",
-        "어드벤처",
-        "퍼즐"
-      ],
-      "developers": [],
-      "publishers": [
-        "Cantaloupe Kids LLC"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 39282,
       "name": "Red Dead Redemption 2: Ultimate Edition",
       "discount_percent": 82,
@@ -15057,6 +15451,48 @@
       "review_rank": 0
     },
     {
+      "appid": 8470,
+      "name": "Tom Clancy's Ghost Recon Wildlands",
+      "discount_percent": 82,
+      "original_price": 54800.0,
+      "final_price": 9900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/4e21c457de764c5fbf1e94f8b8da70fc/3baeea6f23b5449ab0f4d59b6951197a.jpg",
+      "url": "https://www.greenmangaming.com/games/tom-clancys-ghost-recon-wildlands/",
+      "on_sale": true,
+      "genres": [
+        "슈팅",
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 27828,
+      "name": "Tom Clancy's Ghost Recon®: Breakpoint",
+      "discount_percent": 82,
+      "original_price": 65000.0,
+      "final_price": 11700.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/fc46cc50e2bd476c8ea87be4ddb4631f/ea66f229e4e740919365d9f173341171.jpg",
+      "url": "https://www.greenmangaming.com/games/tom-clancys-ghost-recon-breakpoint-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "슈팅"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 9195,
       "name": "Pongo",
       "discount_percent": 82,
@@ -15095,6 +15531,28 @@
       "developers": [],
       "publishers": [
         "Warner Bros Interactive Entertainment"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 24322,
+      "name": "Assassin's Creed Odyssey Ultimate Edition",
+      "discount_percent": 82,
+      "original_price": 125000.0,
+      "final_price": 22500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/30da13786b7b4c43992ff823dbc780f5/398647bb2a9c46de87d5b326fb1cd23f.jpg",
+      "url": "https://www.greenmangaming.com/games/assassins-creed-odyssey-ultimate-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -15141,6 +15599,28 @@
       "review_rank": 0
     },
     {
+      "appid": 24308,
+      "name": "Assassin's Creed Odyssey Gold Edition",
+      "discount_percent": 82,
+      "original_price": 110000.0,
+      "final_price": 19800.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/8fc9955dfaac4c319c450c69da088da1/bf9d3e32b86f48faadc1f8c6502758c8.jpg",
+      "url": "https://www.greenmangaming.com/games/assassins-creed-odyssey-gold-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 35123,
       "name": "Mafia II: Definitive Edition",
       "discount_percent": 82,
@@ -15157,6 +15637,27 @@
       "developers": [],
       "publishers": [
         "2K Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 37243,
+      "name": "Tom Clancy's Ghost Recon®: Breakpoint - Gold Edition",
+      "discount_percent": 82,
+      "original_price": 110000.0,
+      "final_price": 19800.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/b063090174cc49f08d61c20048eb84ad/06c4db2872d4479b8f64eeeb397dd383.jpg",
+      "url": "https://www.greenmangaming.com/games/tom-clancys-ghost-recon-breakpoint-gold-edition-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "슈팅"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -15267,6 +15768,27 @@
       "review_rank": 0
     },
     {
+      "appid": 26374,
+      "name": "Assassin's Creed Odyssey - Season Pass",
+      "discount_percent": 82,
+      "original_price": 44000.0,
+      "final_price": 8000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/caa36f287dad49b49a7b8fc25abb7fc5/f8e39de04c8e4332a0b2d63d762e01ed.jpg",
+      "url": "https://www.greenmangaming.com/games/assassins-creed-odyssey-season-pass-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 46655,
       "name": "Smalland: Survive the Wilds",
       "discount_percent": 82,
@@ -15326,6 +15848,26 @@
       "developers": [],
       "publishers": [
         "2K Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 17836,
+      "name": "Tom Clancy's Ghost Recon Wildlands Season Pass Year 1",
+      "discount_percent": 82,
+      "original_price": 44000.0,
+      "final_price": 8000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/a6fdfa92ec1b464e886d50fb3e3e6f6a/e5a490d4028d435bafeea461fe87f709.jpg",
+      "url": "https://www.greenmangaming.com/games/tom-clancys-ghost-recon-wildlands-season-pass/",
+      "on_sale": true,
+      "genres": [
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -15395,6 +15937,26 @@
       "review_rank": 0
     },
     {
+      "appid": 23482,
+      "name": "Tom Clancy's Ghost Recon Wildlands - Year 2 Pass",
+      "discount_percent": 82,
+      "original_price": 16900.0,
+      "final_price": 3100.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/779f03c175734b89a34abccf4c049932/55369a8046074df880e9983ebe6e1d6e.jpg",
+      "url": "https://www.greenmangaming.com/games/tom-clancys-ghost-recon-wildlands-year-2-pass/",
+      "on_sale": true,
+      "genres": [
+        "슈팅"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 48798,
       "name": "Astria Ascending - The Art Of Astria Ascending",
       "discount_percent": 82,
@@ -15437,6 +15999,27 @@
       "review_rank": 0
     },
     {
+      "appid": 41850,
+      "name": "Tom Clancy's Ghost Recon®: Breakpoint - Deluxe Edition",
+      "discount_percent": 82,
+      "original_price": 75000.0,
+      "final_price": 13500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/8bc06f3a19a5452ca400f4125fbf0e75/af0e970333a14c2eae9718398348573f.jpg",
+      "url": "https://www.greenmangaming.com/games/tom-clancys-ghost-recon-breakpoint-deluxe-edition-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "슈팅"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 58789,
       "name": "Witch It - 2 Pack",
       "discount_percent": 82,
@@ -15453,6 +16036,47 @@
       "developers": [],
       "publishers": [
         "Barrel Roll Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 13694,
+      "name": "Watch_Dogs Complete Edition",
+      "discount_percent": 82,
+      "original_price": 34000.0,
+      "final_price": 6200.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/39ac0bbbfa264b28bec589a65931dcfa/f7a410f98b0f4249866ed2e44d6bd1fa.jpg",
+      "url": "https://www.greenmangaming.com/games/watch_dogs-complete-edition/",
+      "on_sale": true,
+      "genres": [
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 45204,
+      "name": "Riders Republic™",
+      "discount_percent": 82,
+      "original_price": 45500.0,
+      "final_price": 8200.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/b718140805f54d72a99fd18e2852350b/a7a5ab42167743b7a0f2588945f573cf.jpg",
+      "url": "https://www.greenmangaming.com/games/riders-republic-pc/",
+      "on_sale": true,
+      "genres": [
+        "스포츠",
+        "레이싱"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -15722,6 +16346,27 @@
       "review_rank": 0
     },
     {
+      "appid": 9259,
+      "name": "Tom Clancy's The Division",
+      "discount_percent": 82,
+      "original_price": 34000.0,
+      "final_price": 6200.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/1ba05fc7d345447ea9917533f3c8cb4e/87c733d052fa492b94c98707e78aae79.jpg",
+      "url": "https://www.greenmangaming.com/games/tom-clancys-the-division/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "슈팅"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 58434,
       "name": "Darkest Dungeon Soundtrack",
       "discount_percent": 82,
@@ -15807,6 +16452,28 @@
       "review_rank": 0
     },
     {
+      "appid": 11475,
+      "name": "Tom Clancy's The Division Season Pass",
+      "discount_percent": 82,
+      "original_price": 22400.0,
+      "final_price": 4100.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/4cf81d666fb84ebb90e0857245b74ddd/ec9103511c1447b99a84feddd40a3f60.jpg",
+      "url": "https://www.greenmangaming.com/games/tom-clancys-the-division-season-pass/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "RPG",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 55017,
       "name": "Mortal Kombat™ 1: Definitive Edition Upgrade",
       "discount_percent": 82,
@@ -15822,6 +16489,49 @@
       "developers": [],
       "publishers": [
         "Warner Bros Interactive Entertainment"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 5482,
+      "name": "Far Cry 4",
+      "discount_percent": 82,
+      "original_price": 33000.0,
+      "final_price": 6000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/8caa565d03844aebb0cdb556e7ecc0f3/94e4e8f15fef4b0b91b46f22a3638d10.jpg",
+      "url": "https://www.greenmangaming.com/games/far-cry-4/",
+      "on_sale": true,
+      "genres": [
+        "슈팅",
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 24306,
+      "name": "Assassin's Creed Odyssey Deluxe Edition",
+      "discount_percent": 82,
+      "original_price": 81000.0,
+      "final_price": 14600.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/9084cb54495b4dc19ccfc488ee0a0942/780ac9dfb8c549659ff8530ac253b720.jpg",
+      "url": "https://www.greenmangaming.com/games/assassins-creed-odyssey-deluxe-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -15843,6 +16553,27 @@
       "developers": [],
       "publishers": [
         "2K Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 5574,
+      "name": "Prince of Persia: Forgotten Sands",
+      "discount_percent": 82,
+      "original_price": 11000.0,
+      "final_price": 2000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/6c45eb65321b456b8d8a4fb725be982f/f26ccc9a3b914e46bab7df48dc533604.jpg",
+      "url": "https://www.greenmangaming.com/games/prince-of-persia-forgotten-sands/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -15893,6 +16624,232 @@
       "review_rank": 0
     },
     {
+      "appid": 5578,
+      "name": "Prince of Persia: The Sands of Time",
+      "discount_percent": 82,
+      "original_price": 11000.0,
+      "final_price": 2000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/d96d30bf26394fb79347ae36ca61a419/269b0e351b544845a1d3fec31d00e361.jpg",
+      "url": "https://www.greenmangaming.com/games/prince-of-persia-the-sands-of-time/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 26401,
+      "name": "Far Cry New Dawn Deluxe Edition",
+      "discount_percent": 82,
+      "original_price": 60000.0,
+      "final_price": 10800.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/8288b3ec555942f3964c61b43a11c791/58f27a02e7d24c59a511473eda531e62.jpg",
+      "url": "https://www.greenmangaming.com/games/far-cry-new-dawn-deluxe-edition-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 5581,
+      "name": "Prince of Persia: The Warrior Within",
+      "discount_percent": 82,
+      "original_price": 11000.0,
+      "final_price": 2000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/22d2402c4e2748bdb87fc8d2a9ccdbc1/4760a97a7c654f3098bc1582722646c4.jpg",
+      "url": "https://www.greenmangaming.com/games/prince-of-persia-the-warrior-within/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 5579,
+      "name": "Prince of Persia: The Two Thrones",
+      "discount_percent": 82,
+      "original_price": 11000.0,
+      "final_price": 2000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/0a866aca3b924f9899a0a0e12a4ccea3/e55540f2cb2a483ab53c0b29e8db3613.jpg",
+      "url": "https://www.greenmangaming.com/games/prince-of-persia-the-two-thrones/",
+      "on_sale": true,
+      "genres": [
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 24911,
+      "name": "Trials Rising Gold Edition",
+      "discount_percent": 82,
+      "original_price": 33000.0,
+      "final_price": 6000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/705e453ddaba47009f02a631f3a5f00d/7f9962df90724f9b9f5fc3355373c77e.jpg",
+      "url": "https://www.greenmangaming.com/games/trials-rising-gold-edition-pc/",
+      "on_sale": true,
+      "genres": [
+        "레이싱"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 13690,
+      "name": "Anno 2205: Ultimate Edition",
+      "discount_percent": 82,
+      "original_price": 55000.0,
+      "final_price": 9900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/73d5c378f94948b58e5c2c346981d942/9b4c98377e8d4f9c86661fc6e0f8e8aa.jpg",
+      "url": "https://www.greenmangaming.com/games/anno-2205-ultimate-edition/",
+      "on_sale": true,
+      "genres": [
+        "시뮬레이션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 42421,
+      "name": "Immortals Fenyx Rising",
+      "discount_percent": 82,
+      "original_price": 45500.0,
+      "final_price": 8200.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/1ecb422a81144eb98f63a7e8cbc8ee8a/62ee53713e6648a79398bde0c94509e0.jpg",
+      "url": "https://www.greenmangaming.com/games/immortals-fenyx-rising-ubisoft-connect/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 42170,
+      "name": "Watch Dogs:® Legion - Gold Edition",
+      "discount_percent": 82,
+      "original_price": 110000.0,
+      "final_price": 19800.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/da9aeca69d4048f4b953b8d063e0fedd/db87b7323dd945858000229ce2ba7fde.jpg",
+      "url": "https://www.greenmangaming.com/games/watch-dogs-legion-gold-edition-ubisoft-connect/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 16923,
+      "name": "Watch_Dogs 2: Season Pass",
+      "discount_percent": 82,
+      "original_price": 34000.0,
+      "final_price": 6200.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/d44c50fddc8b48eb8ae51a7dc9c91d42/2cb90880714345d2aa104c6138063d89.jpg",
+      "url": "https://www.greenmangaming.com/games/watch-dogs-2-season-pass/",
+      "on_sale": true,
+      "genres": [
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 23309,
+      "name": "Trials Fusion Awesome Max Edition",
+      "discount_percent": 82,
+      "original_price": 44000.0,
+      "final_price": 8000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/4416c5a2db8d4333b6df813d06cc2f17/2a4682630562469c901a9c96d942103f.jpg",
+      "url": "https://www.greenmangaming.com/games/trials-fusion-awesome-max-edition-pc/",
+      "on_sale": true,
+      "genres": [
+        "레이싱",
+        "레이싱"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 5483,
+      "name": "Far Cry 4 Gold Edition",
+      "discount_percent": 82,
+      "original_price": 65000.0,
+      "final_price": 11700.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/fd9ed0b8f3454512b370c7c8b558b103/983edddd7e3d4121a271771d05ae91b3.jpg",
+      "url": "https://www.greenmangaming.com/games/far-cry-4-gold-edition/",
+      "on_sale": true,
+      "genres": [
+        "슈팅"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 11518,
       "name": "HunieCam Studio",
       "discount_percent": 82,
@@ -15916,6 +16873,27 @@
       "review_rank": 0
     },
     {
+      "appid": 42173,
+      "name": "Watch Dogs:® Legion - Ultimate Edition",
+      "discount_percent": 82,
+      "original_price": 130000.0,
+      "final_price": 23400.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/27799964e822488787678ebb0020b353/25a1bcb538d64487812f9fd6745515b8.jpg",
+      "url": "https://www.greenmangaming.com/games/watch-dogs-legion-ultimate-edition-ubisoft-connect/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 43596,
       "name": "The Red Lantern",
       "discount_percent": 82,
@@ -15934,6 +16912,48 @@
       "developers": [],
       "publishers": [
         "Kepler Interactive Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 26396,
+      "name": "Far Cry New Dawn",
+      "discount_percent": 82,
+      "original_price": 49000.0,
+      "final_price": 8900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/7dfd0de0159e47869c5ae958b72d5a1d/939bf23c078c40f5a35aec0f938f021c.jpg",
+      "url": "https://www.greenmangaming.com/games/far-cry-new-dawn-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 5572,
+      "name": "Prince of Persia",
+      "discount_percent": 82,
+      "original_price": 11000.0,
+      "final_price": 2000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/aae0cd96c3424e0bbcd9f66a9dd9c9e7/394869fa463e46a7bc338ce5c7b86412.jpg",
+      "url": "https://www.greenmangaming.com/games/prince-of-persia/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -15995,6 +17015,66 @@
       "developers": [],
       "publishers": [
         "City Interactive"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 24269,
+      "name": "Trials Rising",
+      "discount_percent": 82,
+      "original_price": 22000.0,
+      "final_price": 4000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/b936afc771de411a8d6b674e7987b448/07b86088013748689475e352a75ceff6.jpg",
+      "url": "https://www.greenmangaming.com/games/trials-rising-pc/",
+      "on_sale": true,
+      "genres": [
+        "레이싱"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 45349,
+      "name": "Trials Fusion Season Pass",
+      "discount_percent": 82,
+      "original_price": 22000.0,
+      "final_price": 4000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/c5f6216d50f2412fb826cf93c6ebb77e/6a08e3894cf048639a1cbbd2522bccf8.jpg",
+      "url": "https://www.greenmangaming.com/games/trials-fusion-season-pass-pc/",
+      "on_sale": true,
+      "genres": [
+        "레이싱"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 5741,
+      "name": "Trials Fusion",
+      "discount_percent": 82,
+      "original_price": 22000.0,
+      "final_price": 4000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/aefb6609d854482ea1762b0dd9a9e854/21dcc6bc002e44e38ea4f958eee16deb.jpg",
+      "url": "https://www.greenmangaming.com/games/trials-fusion/",
+      "on_sale": true,
+      "genres": [
+        "레이싱"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -17844,899 +18924,6 @@
       "review_rank": 0
     },
     {
-      "appid": 27304,
-      "name": "Lovecraft's Untold Stories",
-      "discount_percent": 80,
-      "original_price": 16000.0,
-      "final_price": 3200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/2a455fd0e01849ecb4441c08b2246040/476789ab140c472a8ce7cd5402b07dba.jpg",
-      "url": "https://www.greenmangaming.com/games/lovecrafts-untold-stories-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "RPG",
-        "인디",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Fulqrum Publishing"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 45095,
-      "name": "GUILTY GEAR Xrd REV 2 Deluxe Edition",
-      "discount_percent": 80,
-      "original_price": 42500.0,
-      "final_price": 8500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/03d59cc9292849ac8e388e62d5fd151b/a26e0096ebf74c9e9b26efe5c1b5e8d4.jpg",
-      "url": "https://www.greenmangaming.com/games/guilty-gear-xrd-rev-2-deluxe-edition-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Arc System Works"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 37126,
-      "name": "8Doors: Arum's Afterlife Adventure",
-      "discount_percent": 80,
-      "original_price": 21000.0,
-      "final_price": 4200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/a641942ef728406994fccc6ffecb0fcf/4488cb1ddb204c0f9e48517831a43102.jpg",
-      "url": "https://www.greenmangaming.com/games/8doors-arums-afterlife-adventure-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "NEOWIZ"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 35212,
-      "name": "Plebby Quest: The Crusades",
-      "discount_percent": 80,
-      "original_price": 20500.0,
-      "final_price": 4100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/748e1c14c0014ba9bb536bad98ff55e3/31dc26558c754799b7d562fe7cc4ab58.jpg",
-      "url": "https://www.greenmangaming.com/games/plebby-quest-the-crusades-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "캐주얼",
-        "인디",
-        "RPG",
-        "전략",
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "NEOWIZ"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 33120,
-      "name": "Melty Blood Actress Again Current Code",
-      "discount_percent": 80,
-      "original_price": 27000.0,
-      "final_price": 5400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/50dd841a8b47458ab1c979c227b8d40b/546eabb83e3644e0a1294b5798c38d7a.jpg",
-      "url": "https://www.greenmangaming.com/games/melty-blood-actress-again-current-code-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Arc System Works"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 42190,
-      "name": "Indoorlands",
-      "discount_percent": 80,
-      "original_price": 20500.0,
-      "final_price": 4100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/c95e304d3fc24e63bebc567871b4fac9/5f32deeb8d9643b5bb15e2fcdfd092a8.jpg",
-      "url": "https://www.greenmangaming.com/games/indoorlands-pc/",
-      "on_sale": true,
-      "genres": [
-        "캐주얼",
-        "인디",
-        "시뮬레이션",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Pixelsplit GmbH & Co. KG"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 16284,
-      "name": "In Fear I Trust - Episode 1: Waking Up",
-      "discount_percent": 80,
-      "original_price": 4400.0,
-      "final_price": 900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/835cfd38a5174c088984ec34459bcf6d/d4f7dfb341da4515b5f12af6284afd4a.jpg",
-      "url": "https://www.greenmangaming.com/games/in-fear-i-trust-episode-1-waking-up/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Fulqrum Publishing"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 13686,
-      "name": "Caravan",
-      "discount_percent": 80,
-      "original_price": 7500.0,
-      "final_price": 1500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/629639fe71484552820dcf0f80cc8708/8167a46ec56045d4a0ed1980bbca3ddd.jpg",
-      "url": "https://www.greenmangaming.com/games/caravan/",
-      "on_sale": true,
-      "genres": [
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Daedalic"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 9239,
-      "name": "Vertigo Void",
-      "discount_percent": 80,
-      "original_price": 5500.0,
-      "final_price": 1100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/55f666df9115455fa7af09f02e05ac05/4eae6602d7bc409caa34680452d6df12.jpg",
-      "url": "https://www.greenmangaming.com/games/vertigo-void/",
-      "on_sale": true,
-      "genres": [
-        "인디",
-        "Mac",
-        "리눅스"
-      ],
-      "developers": [],
-      "publishers": [
-        "Silver Lining Interactive"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 6067,
-      "name": "The Night of the Rabbit",
-      "discount_percent": 80,
-      "original_price": 21000.0,
-      "final_price": 4200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/3c2001fe0a1e47578670a0b37362490f/2c5c6db52b7047f2947646b158e1ca01.jpg",
-      "url": "https://www.greenmangaming.com/games/the-night-of-the-rabbit/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "Mac"
-      ],
-      "developers": [],
-      "publishers": [
-        "Daedalic"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 33111,
-      "name": "GUILTY GEAR",
-      "discount_percent": 80,
-      "original_price": 10500.0,
-      "final_price": 2100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/cbabee99fb4d454b9bbd64fe77f8d9eb/f27f9f4eaa5f42fdba542e3e8767451c.jpg",
-      "url": "https://www.greenmangaming.com/games/guilty-gear-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Arc System Works"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 32965,
-      "name": "BLAZBLUE CROSS TAG BATTLE Basic Edition",
-      "discount_percent": 80,
-      "original_price": 39800.0,
-      "final_price": 8000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/0df1d66175ac4aa389e891d183a916fc/d44b309457e54bb3b23752ccc7e752f1.jpg",
-      "url": "https://www.greenmangaming.com/games/blazblue-cross-tag-battle-basic-edition-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Arc System Works"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 6089,
-      "name": "Cultures: Northland and 8th Wonder of the World",
-      "discount_percent": 80,
-      "original_price": 9500.0,
-      "final_price": 1900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/525cfefabb00474384f8eaaa52b81926/257737505aa643d48261e75ffc7287ab.jpg",
-      "url": "https://www.greenmangaming.com/games/cultures-northland-and-8th-wonder-of-the-world/",
-      "on_sale": true,
-      "genres": [
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Daedalic"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 33114,
-      "name": "GUILTY GEAR 2 -OVERTURE-",
-      "discount_percent": 80,
-      "original_price": 21000.0,
-      "final_price": 4200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/19d68ffd28604730bed8e0f204513da9/f8d7cf3e88754c25af4ce6bb8a382f8c.jpg",
-      "url": "https://www.greenmangaming.com/games/guilty-gear-2-overture-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Arc System Works"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 49058,
-      "name": "Warhammer Age of Sigmar: Realms of Ruin",
-      "discount_percent": 80,
-      "original_price": 63000.0,
-      "final_price": 12600.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/53184605ee0f49c4a7656ea70ac8989f/12bd70fd4c754bbe81cf516e40337ffe.jpg",
-      "url": "https://www.greenmangaming.com/games/warhammer-age-of-sigmar-realms-of-ruin-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Frontier Developments"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 46243,
-      "name": "Guilty Gear X2 #Reload",
-      "discount_percent": 80,
-      "original_price": 10500.0,
-      "final_price": 2100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/13f8ecad20ec4131a950f1349850cf88/c6d6717b0367484e97e97953ad6ec03b.jpg",
-      "url": "https://www.greenmangaming.com/games/guilty-gear-x-2-reload-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Arc System Works"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 49064,
-      "name": "Warhammer Age of Sigmar: Realms of Ruin Deluxe Edition",
-      "discount_percent": 80,
-      "original_price": 73500.0,
-      "final_price": 14700.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/be4c0687663a48a290f1020674bea66a/faa767f6be524b78a5ea925eda32244b.jpg",
-      "url": "https://www.greenmangaming.com/games/warhammer-age-of-sigmar-realms-of-ruin-deluxe-edition-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Frontier Developments"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 9343,
-      "name": "Guilty Gear Isuka",
-      "discount_percent": 80,
-      "original_price": 10500.0,
-      "final_price": 2100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/c231e5edec9240de95185b90e65184f0/d6a52c7451ce4ca2b918b78ceb5f416d.jpg",
-      "url": "https://www.greenmangaming.com/games/guilty-gear-isuka/",
-      "on_sale": true,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Arc System Works"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 42799,
-      "name": "Blood and Zombies",
-      "discount_percent": 80,
-      "original_price": 11000.0,
-      "final_price": 2200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/e87ba91c2a23463f8d1bd9037c26f848/05a7b2f51fc84fe1859f0c6899707b45.jpg",
-      "url": "https://www.greenmangaming.com/games/blood-and-zombies-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "indie.io"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 46298,
-      "name": "The Great War: Western Front Victory Edition",
-      "discount_percent": 80,
-      "original_price": 43000.0,
-      "final_price": 8600.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/edf99d29fe894a408004ced47cbc9748/f0cec28dc6244329983b729a13b4fcab.jpg",
-      "url": "https://www.greenmangaming.com/games/the-great-war-western-front-victory-edition-pc/",
-      "on_sale": true,
-      "genres": [
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Frontier Developments"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 46296,
-      "name": "The Great War: Western Front",
-      "discount_percent": 80,
-      "original_price": 37500.0,
-      "final_price": 7500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/0aac66e476884b019a7c58647f71eca0/c2c908d5162d4a938e193d6bd7e96129.jpg",
-      "url": "https://www.greenmangaming.com/games/the-great-war-western-front-pc/",
-      "on_sale": true,
-      "genres": [
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Frontier Developments"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 45201,
-      "name": "TERRACOTTA",
-      "discount_percent": 80,
-      "original_price": 21500.0,
-      "final_price": 4300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/ba2e79ccebb04528a57da43a19d49550/6e7fccc9429a4a948aa6c1808144c61d.jpg",
-      "url": "https://www.greenmangaming.com/games/terracotta-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "indie.io"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 45019,
-      "name": "Mars Base",
-      "discount_percent": 80,
-      "original_price": 21500.0,
-      "final_price": 4300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/fdd021671f37402fb5474ae209145d06/b0191a56371b4069b87970ecf08a066c.jpg",
-      "url": "https://www.greenmangaming.com/games/mars-base-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "indie.io"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 44417,
-      "name": "Tyrant's Blessing",
-      "discount_percent": 80,
-      "original_price": 21500.0,
-      "final_price": 4300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/a9e39e3a69004c1b9f70c0365e4751cb/2189c3cfe3b84495a914ce6b19e8f545.jpg",
-      "url": "https://www.greenmangaming.com/games/tyrants-blessing-pc/",
-      "on_sale": true,
-      "genres": [
-        "인디",
-        "전략",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "indie.io"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 44742,
-      "name": "Funtasia",
-      "discount_percent": 80,
-      "original_price": 16000.0,
-      "final_price": 3200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/502a9f6bed944ac2b6b2afcfb1dec48f/206c92fca94b4a19acbb33caa8715f14.jpg",
-      "url": "https://www.greenmangaming.com/games/funtasia-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디",
-        "레이싱"
-      ],
-      "developers": [],
-      "publishers": [
-        "indie.io"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 53517,
-      "name": "Footgun: Underground",
-      "discount_percent": 80,
-      "original_price": 16500.0,
-      "final_price": 3300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/7c514e2cdac848829d60462fce716c22/19e3ce9ca4f54d62b1feb3253968e2d9.jpg",
-      "url": "https://www.greenmangaming.com/games/footgun-underground-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Cobratekku Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 54297,
-      "name": "Ruined Kingdom",
-      "discount_percent": 80,
-      "original_price": 8400.0,
-      "final_price": 1700.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/1fe4664cc76a4bebb96658c8b24fed07/46da91a72ab947da8db2053864d2ece0.jpg",
-      "url": "https://www.greenmangaming.com/games/ruined-kingdom-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "캐주얼",
-        "인디",
-        "전략",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "indie.io"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 41195,
-      "name": "City of Gangsters",
-      "discount_percent": 80,
-      "original_price": 32000.0,
-      "final_price": 6400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/8093469373264900a752b593fa634077/f6c8c45452a341ada464fa2ed68d2b13.jpg",
-      "url": "https://www.greenmangaming.com/games/city-of-gangsters-pc/",
-      "on_sale": true,
-      "genres": [
-        "시뮬레이션",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Kasedo Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 43113,
-      "name": "Ashen",
-      "discount_percent": 80,
-      "original_price": 46000.0,
-      "final_price": 9200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/7a45ca1c6873407ebab17bf213232f91/d787f95ea3eb4afc99ab105b6ec41d16.jpg",
-      "url": "https://www.greenmangaming.com/games/ashen-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Annapurna Interactive"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 34935,
-      "name": "Filament: Marmalade Edition",
-      "discount_percent": 80,
-      "original_price": 21500.0,
-      "final_price": 4300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/6b70fb51bb05412293db065602bf094d/2320f8a005d24924b472fe5dbaf9d736.jpg",
-      "url": "https://www.greenmangaming.com/games/filament-marmalade-edition-pc/",
-      "on_sale": true,
-      "genres": [
-        "퍼즐",
-        "전략",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Kasedo Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 43069,
-      "name": "Last Stop",
-      "discount_percent": 80,
-      "original_price": 29500.0,
-      "final_price": 5900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/90c927933b6d418482093c16cfee493d/0960f0dba6d945fc8ffabe7818775502.jpg",
-      "url": "https://www.greenmangaming.com/games/last-stop-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Annapurna Interactive"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 31921,
-      "name": "Filament",
-      "discount_percent": 80,
-      "original_price": 18500.0,
-      "final_price": 3700.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/5c0a9dedc4344f42a55953c8e07f5a8f/2f567f82969b4d3588c6ddecad758311.jpg",
-      "url": "https://www.greenmangaming.com/games/filament-pc/",
-      "on_sale": true,
-      "genres": [
-        "퍼즐",
-        "전략",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Kasedo Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 27356,
-      "name": "Lovecraft's Untold Stories + OST",
-      "discount_percent": 80,
-      "original_price": 18300.0,
-      "final_price": 3700.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/e4e50ad82efb4612b4e47b301498da67/711972d9190146c8b6e9b6975ecd2f84.jpg",
-      "url": "https://www.greenmangaming.com/games/lovecrafts-untold-stories-plus-ost-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "RPG",
-        "인디",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Fulqrum Publishing"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 19579,
-      "name": "Dungeons 3",
-      "discount_percent": 80,
-      "original_price": 35400.0,
-      "final_price": 7100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/5f019e99c28f4f1681210a6d477fd10c/02ffdf1bf7584eabad8fcff06b495d69.jpg",
-      "url": "https://www.greenmangaming.com/games/dungeons-3-pc/",
-      "on_sale": true,
-      "genres": [
-        "시뮬레이션",
-        "전략",
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Kalypso Media"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 22601,
-      "name": "Railway Empire",
-      "discount_percent": 80,
-      "original_price": 35400.0,
-      "final_price": 7100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/72852c4f67484d46bcab0248b66433ba/395cd5aee45d403bb41e7c9c41177660.jpg",
-      "url": "https://www.greenmangaming.com/games/railway-empire-pc/",
-      "on_sale": true,
-      "genres": [
-        "시뮬레이션",
-        "전략",
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Kalypso Media"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 5848,
-      "name": "Rise of Venice",
-      "discount_percent": 80,
-      "original_price": 23600.0,
-      "final_price": 4800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/e9f6b742f67a40f798aed9f429a112ca/f45a438d229a494483bfaecdd56489f3.jpg",
-      "url": "https://www.greenmangaming.com/games/rise-of-venice/",
-      "on_sale": true,
-      "genres": [
-        "인디",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Kalypso Media"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 5919,
-      "name": "Airline Tycoon 2 Gold Edition",
-      "discount_percent": 80,
-      "original_price": 23600.0,
-      "final_price": 4800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/a93ec8df2bcb4dd8b993ac0fa9304566/5e92e9fb600144a397c454e93fb707e3.jpg",
-      "url": "https://www.greenmangaming.com/games/airline-tycoon-2-gold-edition/",
-      "on_sale": true,
-      "genres": [
-        "전략",
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Kalypso Media"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 5923,
-      "name": "Airline Tycoon 2",
-      "discount_percent": 80,
-      "original_price": 11800.0,
-      "final_price": 2400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/18de2f1a8010488fa48d8e28413e1f81/a68cf0280f814dbf8d9e94a352d9bd2a.jpg",
-      "url": "https://www.greenmangaming.com/games/airline-tycoon-2/",
-      "on_sale": true,
-      "genres": [
-        "전략",
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Kalypso Media"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 5846,
-      "name": "Rise of Venice: Beyond the Sea",
-      "discount_percent": 80,
-      "original_price": 11800.0,
-      "final_price": 2400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/d4cabf506e1a48bfbf13e42d7d840de5/d23686c380cf473ca273cce75ef30bfb.jpg",
-      "url": "https://www.greenmangaming.com/games/rise-of-venice-beyond-the-sea/",
-      "on_sale": true,
-      "genres": [
-        "인디",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Kalypso Media"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 8747,
-      "name": "Crookz – The Big Heist",
-      "discount_percent": 80,
-      "original_price": 10500.0,
-      "final_price": 2100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/ae1dd7d20c3347369a606c06742c5277/93c9dbed13464fe0a036d2eb94031566.jpg",
-      "url": "https://www.greenmangaming.com/games/crookz-the-big-heist/",
-      "on_sale": true,
-      "genres": [
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Kalypso Media"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 37128,
-      "name": "GRAVEN",
-      "discount_percent": 80,
-      "original_price": 26500.0,
-      "final_price": 5300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/09b0ea08166c4f0caeba2edbc8ce1b50/b0406e9ed4b842b78514031c27700da0.jpg",
-      "url": "https://www.greenmangaming.com/games/graven-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Fulqrum Publishing"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 49784,
-      "name": "GRAVEN Deluxe Edition",
-      "discount_percent": 80,
-      "original_price": 31800.0,
-      "final_price": 6400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/b0bc1418099941a7bc5ec35ad334117b/bacc8a06499c41c8842ae7f74bf01b14.jpg",
-      "url": "https://www.greenmangaming.com/games/graven-deluxe-edition-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "RPG",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Fulqrum Publishing"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 60409,
       "name": "The Green Light",
       "discount_percent": 79,
@@ -19261,218 +19448,6 @@
       "review_rank": 0
     },
     {
-      "appid": 43576,
-      "name": "Dawn of the Monsters",
-      "discount_percent": 79,
-      "original_price": 31000.0,
-      "final_price": 6600.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/62e25797ca00491299a6bdbbbd82933c/0e85b5e293614076a1b94fd6cd74ebe1.jpg",
-      "url": "https://www.greenmangaming.com/games/dawn-of-the-monsters-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 44858,
-      "name": "Fire Commander",
-      "discount_percent": 79,
-      "original_price": 15500.0,
-      "final_price": 3200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/fcde3619dd3a4ca496efa3f57df64553/f53996d5cafb4cefab92b306a56ac107.jpg",
-      "url": "https://www.greenmangaming.com/games/fire-commander-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디",
-        "시뮬레이션",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 41045,
-      "name": "Kana Quest",
-      "discount_percent": 79,
-      "original_price": 15500.0,
-      "final_price": 3300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/a89e8f8cccca4a849e4a0af7bd91501f/d96911f2ea3146c98665d48e122709c0.jpg",
-      "url": "https://www.greenmangaming.com/games/kana-quest-pc/",
-      "on_sale": true,
-      "genres": [
-        "캐주얼",
-        "전략",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 8868,
-      "name": "Valhalla Hills",
-      "discount_percent": 79,
-      "original_price": 7800.0,
-      "final_price": 1600.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/0a0f29940bde40a2b0f3131322c5f932/210548a62a9c4d4c9d8db515df6b2ab9.jpg",
-      "url": "https://www.greenmangaming.com/games/valhalla-hills/",
-      "on_sale": true,
-      "genres": [
-        "인디",
-        "전략",
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Daedalic"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 25212,
-      "name": "Seers Isle",
-      "discount_percent": 79,
-      "original_price": 15500.0,
-      "final_price": 3300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/95bdc980a5d2481da658ddb8db151dc1/53ec354a8c084aaf9d6d100b43541e68.jpg",
-      "url": "https://www.greenmangaming.com/games/seers-isle/",
-      "on_sale": true,
-      "genres": [
-        "인디",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 36526,
-      "name": "Across the Grooves",
-      "discount_percent": 79,
-      "original_price": 15500.0,
-      "final_price": 3300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/9243e36ccbf0469b929d364ca59d0658/94fccbb45a37410bae095c33a678673e.jpg",
-      "url": "https://www.greenmangaming.com/games/across-the-grooves-pc/",
-      "on_sale": true,
-      "genres": [
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 4980,
-      "name": "Batman Arkham Origins: Season Pass",
-      "discount_percent": 79,
-      "original_price": 21000.0,
-      "final_price": 4400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/f1512017bb56436394ab69d9c4401aae/cc5fe6feffd84a53b84fdc8c5114705b.jpg",
-      "url": "https://www.greenmangaming.com/games/batman-arkham-origins-season-pass/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Warner Bros Interactive Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 5918,
-      "name": "Airline Tycoon 2: Honey Airlines",
-      "discount_percent": 79,
-      "original_price": 7100.0,
-      "final_price": 1500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/3a1d366666be41349c9543052295a3af/c40b0dda33394f2c8aa39979e8bcaba1.jpg",
-      "url": "https://www.greenmangaming.com/games/airline-tycoon-2-honey-airlines/",
-      "on_sale": true,
-      "genres": [
-        "전략",
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Kalypso Media"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 5920,
-      "name": "Airline Tycoon 2: Falcon Airlines",
-      "discount_percent": 79,
-      "original_price": 7100.0,
-      "final_price": 1500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/bb8786e6b46745ec901fb8d552f9228f/990f28a2b3594323ab51f1721c40100f.jpg",
-      "url": "https://www.greenmangaming.com/games/airline-tycoon-2-falcon-airlines/",
-      "on_sale": true,
-      "genres": [
-        "전략",
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Kalypso Media"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 5803,
-      "name": "Who's That Flying",
-      "discount_percent": 79,
-      "original_price": 7100.0,
-      "final_price": 1500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/7c088a5590ad47028d03667dabe7e8ec/f34df7f91c534149a9ea6ebc6d65a06f.jpg",
-      "url": "https://www.greenmangaming.com/games/whos-that-flying/",
-      "on_sale": true,
-      "genres": [
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Kalypso Media"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 56591,
       "name": "The Evil Within Bundle",
       "discount_percent": 78,
@@ -19532,6 +19507,27 @@
       "developers": [],
       "publishers": [
         "Plug-in Digital"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 27170,
+      "name": "Assassin's Creed III Remastered",
+      "discount_percent": 78,
+      "original_price": 44000.0,
+      "final_price": 9900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/fd6f5e44f0db41c9b4e840a81dff442e/87f92d391f374e01a5c37ee7939e59a5.jpg",
+      "url": "https://www.greenmangaming.com/games/assassins-creed-iii-remastered/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -19643,94 +19639,6 @@
       "review_rank": 0
     },
     {
-      "appid": 48345,
-      "name": "Dawn of the Monsters: Arcade + Character DLC Pack",
-      "discount_percent": 78,
-      "original_price": 7800.0,
-      "final_price": 1700.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/627aeef467ae483181bc6681d8042783/140bf3a8e41941c8a3f580803b840595.jpg",
-      "url": "https://www.greenmangaming.com/games/dawn-of-the-monsters-arcade-character-dlc-pack-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 54669,
-      "name": "Card Hog",
-      "discount_percent": 78,
-      "original_price": 6700.0,
-      "final_price": 1500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/dd299406594a47369f324625ac9565b0/a397d66378fc493db8d1fdedc95d7c3f.jpg",
-      "url": "https://www.greenmangaming.com/games/card-hog-pc/",
-      "on_sale": true,
-      "genres": [
-        "캐주얼",
-        "전략",
-        "RPG",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 49470,
-      "name": "John Mambo",
-      "discount_percent": 78,
-      "original_price": 11000.0,
-      "final_price": 2400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/fc968c2e522f4bbca1b985da7555f198/aaa79bd97d88414a9f790b55339911b0.jpg",
-      "url": "https://www.greenmangaming.com/games/john-mambo-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 43271,
-      "name": "I See Red",
-      "discount_percent": 78,
-      "original_price": 11000.0,
-      "final_price": 2400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/1b4ed1936fc043d1a775e905836b5bee/04e3fe77fa3b43d98e12210864ae7db9.jpg",
-      "url": "https://www.greenmangaming.com/games/i-see-red-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디",
-        "캐주얼"
-      ],
-      "developers": [],
-      "publishers": [
-        "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 39281,
       "name": "Red Dead Redemption 2",
       "discount_percent": 77,
@@ -19747,6 +19655,46 @@
       "developers": [],
       "publishers": [
         "Rockstar Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 45034,
+      "name": "Far Cry 6 Game of the Year Edition ",
+      "discount_percent": 77,
+      "original_price": 130000.0,
+      "final_price": 29300.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/f7f06649fe184745a236d8b561ef3b78/0ae9a1d9b1d644f087148eab8dc6c87c.jpg",
+      "url": "https://www.greenmangaming.com/games/far-cry-6-game-of-the-year-edition-pc/",
+      "on_sale": true,
+      "genres": [
+        "슈팅"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 45029,
+      "name": "Far Cry 6",
+      "discount_percent": 77,
+      "original_price": 65000.0,
+      "final_price": 14700.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/63148bab1d2142f9b8c3fd618686282e/34ec50167fce451db50316a9ad6e4449.jpg",
+      "url": "https://www.greenmangaming.com/games/far-cry-6-pc/",
+      "on_sale": true,
+      "genres": [
+        "슈팅"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -19774,6 +19722,27 @@
       "review_rank": 0
     },
     {
+      "appid": 42984,
+      "name": "Assassin's Creed Valhalla - Complete Edition",
+      "discount_percent": 77,
+      "original_price": 151000.0,
+      "final_price": 34100.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/2c77fc9d90b84bf4969ad11c9c571f9e/f1b934e47d174e6ba617a12988c3e251.jpg",
+      "url": "https://www.greenmangaming.com/games/assassins-creed-valhalla-complete-edition-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 46649,
       "name": "SIFU",
       "discount_percent": 77,
@@ -19790,6 +19759,48 @@
       "developers": [],
       "publishers": [
         "Sloclap"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 24914,
+      "name": "Anno 1800",
+      "discount_percent": 77,
+      "original_price": 65000.0,
+      "final_price": 14700.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/ec540b3b02df4e8397daf17e486e8b58/8b72f04c73614aa7985313b2876a349d.jpg",
+      "url": "https://www.greenmangaming.com/games/anno-1800-pc/",
+      "on_sale": true,
+      "genres": [
+        "전략",
+        "시뮬레이션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 24585,
+      "name": "Tom Clancy's The Division 2 - Standard Edition",
+      "discount_percent": 77,
+      "original_price": 34000.0,
+      "final_price": 7700.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/26ee75dabd7b44e2b2b78d76fe93a29b/49e337484d014fb9a4703f891654c1b4.jpg",
+      "url": "https://www.greenmangaming.com/games/tom-clancys-the-division-2-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "슈팅"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -19858,22 +19869,41 @@
       "review_rank": 0
     },
     {
-      "appid": 43203,
-      "name": "Godfall Ultimate Edition",
+      "appid": 50518,
+      "name": "STAR WARS: OUTLAWS – Ultimate Edition",
       "discount_percent": 77,
-      "original_price": 41000.0,
-      "final_price": 9300.0,
+      "original_price": 145000.0,
+      "final_price": 32700.0,
       "currency": "KRW",
-      "image": "https://images.greenmangaming.com/932c18d608f24fd7b45a476e05cf27e1/8e2d9fc2fa2c4f52bde973d8eb290291.jpg",
-      "url": "https://www.greenmangaming.com/games/godfall-ultimate-edition-pc/",
+      "image": "https://images.greenmangaming.com/fd924e2810f74a6eb0600ee2b65b799e/3571885d9b7f4516ae85d4cd8651a95e.jpg",
+      "url": "https://www.greenmangaming.com/games/star-wars-outlaws-ultimate-edition-pc/",
       "on_sale": true,
       "genres": [
-        "액션",
-        "어드벤처"
+        "액션"
       ],
       "developers": [],
       "publishers": [
-        "Gearbox Publishing"
+        "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 5370,
+      "name": "Assassin’s Creed Unity",
+      "discount_percent": 77,
+      "original_price": 33000.0,
+      "final_price": 7500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/3a9250bd4b7246ae94bd92f4c4940e0c/f03f50ab5733425bba47b48d4ca8a0b5.jpg",
+      "url": "https://www.greenmangaming.com/games/assassins-creed-unity/",
+      "on_sale": true,
+      "genres": [
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Ubisoft"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -19901,23 +19931,22 @@
       "review_rank": 0
     },
     {
-      "appid": 48739,
-      "name": "What Lies in the Multiverse - Soundtrack",
+      "appid": 44995,
+      "name": "Assassin’s Creed II",
       "discount_percent": 76,
-      "original_price": 3300.0,
-      "final_price": 800.0,
+      "original_price": 11000.0,
+      "final_price": 2600.0,
       "currency": "KRW",
-      "image": "https://images.greenmangaming.com/0b03ce28515d4bdb8ac4b3f899da3ab6/82e77f7691204f0a9cb3c275de3677a7.jpg",
-      "url": "https://www.greenmangaming.com/games/what-lies-in-the-multiverse-soundtrack-pc/",
+      "image": "https://images.greenmangaming.com/4838bc15b9cd4fa78422e32702420a64/33c7ae12faaa4e68b3f15ae372175254.jpg",
+      "url": "https://www.greenmangaming.com/games/assassins-creed-ii-pc/",
       "on_sale": true,
       "genres": [
-        "어드벤처",
-        "인디",
-        "캐주얼"
+        "액션",
+        "어드벤처"
       ],
       "developers": [],
       "publishers": [
-        "Plug-in Digital"
+        "Ubisoft"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -20097,28 +20126,6 @@
       "review_rank": 0
     },
     {
-      "appid": 41192,
-      "name": "The Last Stand: Aftermath",
-      "discount_percent": 72,
-      "original_price": 27000.0,
-      "final_price": 7600.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/f4d147c1a0b94cb691a6e769ada65828/cbecbde91fef4e0f9dd53a97642d8b1d.jpg",
-      "url": "https://www.greenmangaming.com/games/the-last-stand-aftermath-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Armor Games Inc"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 48487,
       "name": "The Outlast Trials",
       "discount_percent": 70,
@@ -20273,24 +20280,22 @@
       "review_rank": 0
     },
     {
-      "appid": 49382,
-      "name": "Warhammer 40,000 Rogue Trader: Voidfarer Edition",
-      "discount_percent": 65,
-      "original_price": 107100.0,
-      "final_price": 37500.0,
+      "appid": 59200,
+      "name": "Tom Clancy’s Ghost Recon Wildlands – Definitive Edition",
+      "discount_percent": 64,
+      "original_price": 117900.0,
+      "final_price": 42500.0,
       "currency": "KRW",
-      "image": "https://images.greenmangaming.com/3ad9122e8a5e4f88985dc895c17fea64/f0314045d45d4647accc8989654c5fe0.jpg",
-      "url": "https://www.greenmangaming.com/games/warhammer-40000-rogue-trader-voidfarer-edition-pc/",
+      "image": "https://images.greenmangaming.com/8b1c2ea184f64f0592783d9e32a15db1/c260a0ed99804711826f0456134fe18c.jpg",
+      "url": "https://www.greenmangaming.com/games/tom-clancys-ghost-recon-wildlands-definitive-edition-pc/",
       "on_sale": true,
       "genres": [
-        "어드벤처",
-        "전략",
-        "RPG",
-        "인디"
+        "슈팅",
+        "액션"
       ],
       "developers": [],
       "publishers": [
-        "Owlcat Games"
+        "Ubisoft"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -20635,26 +20640,6 @@
       "review_rank": 0
     },
     {
-      "appid": 52834,
-      "name": "Red Dead Redemption",
-      "discount_percent": 55,
-      "original_price": 62000.0,
-      "final_price": 27900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/3c0c22a04ffa4d3587ce04ef2a18e43f/5d0b0d7b70da4fb5ac05a6e1ac7d6465.jpg",
-      "url": "https://www.greenmangaming.com/games/red-dead-redemption-epic-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Rockstar Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 57359,
       "name": "Stormbridge",
       "discount_percent": 53,
@@ -20764,28 +20749,6 @@
       "developers": [],
       "publishers": [
         "tobspr Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 58818,
-      "name": "33 Immortals",
-      "discount_percent": 49,
-      "original_price": 15900.0,
-      "final_price": 8100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/d932e0eda94d465d9d83de758696d8eb/7a3ca16c949e455f876d25e28d3e0067.jpg",
-      "url": "https://www.greenmangaming.com/games/33-immortals-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디",
-        "대규모 멀티플레이어"
-      ],
-      "developers": [],
-      "publishers": [
-        "Plug-in Digital"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -21879,26 +21842,6 @@
       "review_rank": 0
     },
     {
-      "appid": 21194,
-      "name": "Assassin's Creed® Origins - Gold Edition",
-      "discount_percent": 0,
-      "original_price": 95000.0,
-      "final_price": 95000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/0f6b60db8ea64e5b81ff8b922dba5242/a685966de2944bb6a09f69f1936c710a.jpg",
-      "url": "https://www.greenmangaming.com/games/assassins-creed-origins-gold-edition/",
-      "on_sale": false,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 52556,
       "name": "Funko Fusion",
       "discount_percent": 0,
@@ -21936,47 +21879,6 @@
       "developers": [],
       "publishers": [
         "1010 Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 8470,
-      "name": "Tom Clancy's Ghost Recon Wildlands",
-      "discount_percent": 0,
-      "original_price": 54800.0,
-      "final_price": 54800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/4e21c457de764c5fbf1e94f8b8da70fc/3baeea6f23b5449ab0f4d59b6951197a.jpg",
-      "url": "https://www.greenmangaming.com/games/tom-clancys-ghost-recon-wildlands/",
-      "on_sale": false,
-      "genres": [
-        "슈팅",
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 12077,
-      "name": "Watch_Dogs® 2 Gold Edition",
-      "discount_percent": 0,
-      "original_price": 89000.0,
-      "final_price": 89000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/032bee9fd43c4e0b9a28e1a8391a0875/5355f14bc44a43e1bae0aca65b5663f8.jpg",
-      "url": "https://www.greenmangaming.com/games/watch-dogs-2-gold-edition/",
-      "on_sale": false,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -22020,90 +21922,6 @@
       "developers": [],
       "publishers": [
         "1010 Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 19660,
-      "name": "Far Cry® 5",
-      "discount_percent": 0,
-      "original_price": 65000.0,
-      "final_price": 65000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/bda4d27d4ca146a2936bae852325b468/4cb4797dafbe4be0b177eeee1534a6c2.jpg",
-      "url": "https://www.greenmangaming.com/games/far-cry-5-pc/",
-      "on_sale": false,
-      "genres": [
-        "액션",
-        "액션",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 21170,
-      "name": "Far Cry® 5 - Gold Edition",
-      "discount_percent": 0,
-      "original_price": 95000.0,
-      "final_price": 95000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/1f21f674abfb44cb9af16760a499d5b3/aaa649c843c04ccaadccae131f5ff8e0.jpg",
-      "url": "https://www.greenmangaming.com/games/far-cry-5-gold-edition-pc/",
-      "on_sale": false,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 59200,
-      "name": "Tom Clancy’s Ghost Recon Wildlands – Definitive Edition",
-      "discount_percent": 0,
-      "original_price": 117900.0,
-      "final_price": 117900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/8b1c2ea184f64f0592783d9e32a15db1/c260a0ed99804711826f0456134fe18c.jpg",
-      "url": "https://www.greenmangaming.com/games/tom-clancys-ghost-recon-wildlands-definitive-edition-pc/",
-      "on_sale": false,
-      "genres": [
-        "슈팅",
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 27828,
-      "name": "Tom Clancy's Ghost Recon®: Breakpoint",
-      "discount_percent": 0,
-      "original_price": 65000.0,
-      "final_price": 65000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/fc46cc50e2bd476c8ea87be4ddb4631f/ea66f229e4e740919365d9f173341171.jpg",
-      "url": "https://www.greenmangaming.com/games/tom-clancys-ghost-recon-breakpoint-pc/",
-      "on_sale": false,
-      "genres": [
-        "액션",
-        "슈팅"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -22171,27 +21989,6 @@
       "review_rank": 0
     },
     {
-      "appid": 50312,
-      "name": "For Honor Year 8 Ultimate Edition",
-      "discount_percent": 0,
-      "original_price": 110000.0,
-      "final_price": 110000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/859ddf6cfe124b12a00543f342dce171/a5d61e7d7ce845ebba6749c0521bc948.jpg",
-      "url": "https://www.greenmangaming.com/games/for-honor-year-8-ultimate-edition-pc/",
-      "on_sale": false,
-      "genres": [
-        "액션",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 55519,
       "name": "Funko Fusion - The Walking Dead Pack",
       "discount_percent": 0,
@@ -22213,129 +22010,6 @@
       "review_rank": 0
     },
     {
-      "appid": 45034,
-      "name": "Far Cry 6 Game of the Year Edition ",
-      "discount_percent": 0,
-      "original_price": 130000.0,
-      "final_price": 130000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/f7f06649fe184745a236d8b561ef3b78/0ae9a1d9b1d644f087148eab8dc6c87c.jpg",
-      "url": "https://www.greenmangaming.com/games/far-cry-6-game-of-the-year-edition-pc/",
-      "on_sale": false,
-      "genres": [
-        "슈팅"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 12037,
-      "name": "Watch_Dogs® 2",
-      "discount_percent": 0,
-      "original_price": 65000.0,
-      "final_price": 65000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/9c9c2baf5f014abf8913a93340a9ecfe/98f69a95f6b44ea2a63d21b66d190e1e.jpg",
-      "url": "https://www.greenmangaming.com/games/watch-dogs-2/",
-      "on_sale": false,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 24322,
-      "name": "Assassin's Creed Odyssey Ultimate Edition",
-      "discount_percent": 0,
-      "original_price": 125000.0,
-      "final_price": 125000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/30da13786b7b4c43992ff823dbc780f5/398647bb2a9c46de87d5b326fb1cd23f.jpg",
-      "url": "https://www.greenmangaming.com/games/assassins-creed-odyssey-ultimate-pc/",
-      "on_sale": false,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 50308,
-      "name": "For Honor Year 8 Standard Edition",
-      "discount_percent": 0,
-      "original_price": 34000.0,
-      "final_price": 34000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/9eaa7256ff784aa6a11bc53b446b0dfd/cf40f7f9956842d18217ac7f9a5ba16d.jpg",
-      "url": "https://www.greenmangaming.com/games/for-honor-year-8-standard-edition-pc/",
-      "on_sale": false,
-      "genres": [
-        "액션",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 12049,
-      "name": "Watch_Dogs® 2 Deluxe Edition",
-      "discount_percent": 0,
-      "original_price": 75000.0,
-      "final_price": 75000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/56f8a2b4d2bc4fde947b741173478440/29cf238df2174a3e8d4b2a5e20b90ce9.jpg",
-      "url": "https://www.greenmangaming.com/games/watch-dogs-2-deluxe-edition/",
-      "on_sale": false,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 21848,
-      "name": "Assassin's Creed Origins: Season Pass",
-      "discount_percent": 0,
-      "original_price": 44000.0,
-      "final_price": 44000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/3f78fc3364a349b09bf19e6b421c86da/57eef73c50c34774bfea9104d9331420.jpg",
-      "url": "https://www.greenmangaming.com/games/assassins-creed-origins-season-pass-pc/",
-      "on_sale": false,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 48855,
       "name": "GONNER2",
       "discount_percent": 0,
@@ -22352,363 +22026,6 @@
       "developers": [],
       "publishers": [
         "Raw Fury"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 21190,
-      "name": "Assassin's Creed® Origins - Deluxe Edition",
-      "discount_percent": 0,
-      "original_price": 75000.0,
-      "final_price": 75000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/e7a547a77d184914afd10ace51849118/bd30120f17cb4e3f90549ef57ece24e0.jpg",
-      "url": "https://www.greenmangaming.com/games/assassins-creed-origins-deluxe-edition/",
-      "on_sale": false,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 50310,
-      "name": "For Honor Year 8 Gold Edition",
-      "discount_percent": 0,
-      "original_price": 68000.0,
-      "final_price": 68000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/a0fa26b9f55641edae2d6138f1e80edc/0c985055837a4ef190705bcda6051754.jpg",
-      "url": "https://www.greenmangaming.com/games/for-honor-year-8-gold-edition-pc/",
-      "on_sale": false,
-      "genres": [
-        "액션",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 14963,
-      "name": "STEEP",
-      "discount_percent": 0,
-      "original_price": 33000.0,
-      "final_price": 33000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/f3d11357ba304b96bd99a3fd1f8b8b20/bdde1f6a412243ddb197d187fb9fa56a.jpg",
-      "url": "https://www.greenmangaming.com/games/steep/",
-      "on_sale": false,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 26844,
-      "name": "Far Cry® New Dawn Ultimate Bundle",
-      "discount_percent": 0,
-      "original_price": 130000.0,
-      "final_price": 130000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/fd6567ab9c284227a207ba57f2d4aa4e/e96eb93466a745afb64ef56fd66227fd.jpg",
-      "url": "https://www.greenmangaming.com/games/far-cry-5-gold-edition-far-cry-new-dawn-deluxe-edition-bundle/",
-      "on_sale": false,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "FPS"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 25763,
-      "name": "Steep X Games Gold Edition",
-      "discount_percent": 0,
-      "original_price": 44000.0,
-      "final_price": 44000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/69cb49f870e044d7b7aacec1b736f7fb/787260c0aa114e1bbf5b957a4efcdf12.jpg",
-      "url": "https://www.greenmangaming.com/games/steep-x-games-gold-edition-pc/",
-      "on_sale": false,
-      "genres": [
-        "스포츠",
-        "액션",
-        "레이싱"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 23307,
-      "name": "Far Cry 5 - Season Pass",
-      "discount_percent": 0,
-      "original_price": 33000.0,
-      "final_price": 33000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/2390df91a4db445eaccc8ded1b5a8269/cbbcabd971e34fc485e58092a5ae6af9.jpg",
-      "url": "https://www.greenmangaming.com/games/far-cry-5-season-pass-pc/",
-      "on_sale": false,
-      "genres": [
-        "액션",
-        "액션",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 26833,
-      "name": "Far Cry® New Dawn Complete Bundle",
-      "discount_percent": 0,
-      "original_price": 110000.0,
-      "final_price": 110000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/e378e9be32f84fbe99293a9bba2ba789/b7fd45375bcd47a08bfca7b22dab1f3c.jpg",
-      "url": "https://www.greenmangaming.com/games/far-cry-5-far-cry-new-dawn-deluxe-edition-bundle-pc/",
-      "on_sale": false,
-      "genres": [
-        "슈팅",
-        "액션",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 42169,
-      "name": "Watch Dogs:® Legion",
-      "discount_percent": 0,
-      "original_price": 65000.0,
-      "final_price": 65000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/64ad9007e6f44f9a96e5f6cc3b0b85c3/58403c9a3352452fb6d9937485ea39f6.jpg",
-      "url": "https://www.greenmangaming.com/games/watch-dogs-legion-ubisoft-connect/",
-      "on_sale": false,
-      "genres": [
-        "액션",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 42172,
-      "name": "Watch Dogs Legion - Deluxe Edition",
-      "discount_percent": 0,
-      "original_price": 75000.0,
-      "final_price": 75000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/aac57cb8307745a19a8ee681935dfae0/273dd99778f44f9796b6ade9b26f7288.jpg",
-      "url": "https://www.greenmangaming.com/games/watch-dogs-legion-deluxe-edition-ubisoft-connect/",
-      "on_sale": false,
-      "genres": [
-        "액션",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 5484,
-      "name": "Far Cry 4 Season Pass",
-      "discount_percent": 0,
-      "original_price": 33000.0,
-      "final_price": 33000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/fabe665ec8dc441381fcb0b138c6b881/02857389a2d443ff9b5e2cb04bfbd47f.jpg",
-      "url": "https://www.greenmangaming.com/games/far-cry-4-season-pass/",
-      "on_sale": false,
-      "genres": [
-        "슈팅"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 24308,
-      "name": "Assassin's Creed Odyssey Gold Edition",
-      "discount_percent": 0,
-      "original_price": 110000.0,
-      "final_price": 110000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/8fc9955dfaac4c319c450c69da088da1/bf9d3e32b86f48faadc1f8c6502758c8.jpg",
-      "url": "https://www.greenmangaming.com/games/assassins-creed-odyssey-gold-pc/",
-      "on_sale": false,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 16975,
-      "name": "STEEP: Season Pass",
-      "discount_percent": 0,
-      "original_price": 22000.0,
-      "final_price": 22000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/d518248c352643ddaa7568961623d00c/2007078e7c1f445d9ec55ea8c9c9ad69.jpg",
-      "url": "https://www.greenmangaming.com/games/steep-season-pass/",
-      "on_sale": false,
-      "genres": [
-        "스포츠"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 25766,
-      "name": "Steep X Games Pass",
-      "discount_percent": 0,
-      "original_price": 16500.0,
-      "final_price": 16500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/b2565e74086f4a31a7e65b435e5e1eed/616cfd683b164934b6e28c6001ed019b.jpg",
-      "url": "https://www.greenmangaming.com/games/steep-x-games-pass-pc/",
-      "on_sale": false,
-      "genres": [
-        "스포츠",
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 37243,
-      "name": "Tom Clancy's Ghost Recon®: Breakpoint - Gold Edition",
-      "discount_percent": 0,
-      "original_price": 110000.0,
-      "final_price": 110000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/b063090174cc49f08d61c20048eb84ad/06c4db2872d4479b8f64eeeb397dd383.jpg",
-      "url": "https://www.greenmangaming.com/games/tom-clancys-ghost-recon-breakpoint-gold-edition-pc/",
-      "on_sale": false,
-      "genres": [
-        "액션",
-        "슈팅"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 45029,
-      "name": "Far Cry 6",
-      "discount_percent": 0,
-      "original_price": 65000.0,
-      "final_price": 65000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/63148bab1d2142f9b8c3fd618686282e/34ec50167fce451db50316a9ad6e4449.jpg",
-      "url": "https://www.greenmangaming.com/games/far-cry-6-pc/",
-      "on_sale": false,
-      "genres": [
-        "슈팅"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 26374,
-      "name": "Assassin's Creed Odyssey - Season Pass",
-      "discount_percent": 0,
-      "original_price": 44000.0,
-      "final_price": 44000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/caa36f287dad49b49a7b8fc25abb7fc5/f8e39de04c8e4332a0b2d63d762e01ed.jpg",
-      "url": "https://www.greenmangaming.com/games/assassins-creed-odyssey-season-pass-pc/",
-      "on_sale": false,
-      "genres": [
-        "액션",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 9150,
-      "name": "Anno 2205",
-      "discount_percent": 0,
-      "original_price": 44000.0,
-      "final_price": 44000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/a77c365ea0cf4125b47e3919be198d2b/b432d99436254a778f880827ca3afd17.jpg",
-      "url": "https://www.greenmangaming.com/games/anno-2205-pc/",
-      "on_sale": false,
-      "genres": [
-        "시뮬레이션",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -22736,67 +22053,6 @@
       "review_rank": 0
     },
     {
-      "appid": 17836,
-      "name": "Tom Clancy's Ghost Recon Wildlands Season Pass Year 1",
-      "discount_percent": 0,
-      "original_price": 44000.0,
-      "final_price": 44000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/a6fdfa92ec1b464e886d50fb3e3e6f6a/e5a490d4028d435bafeea461fe87f709.jpg",
-      "url": "https://www.greenmangaming.com/games/tom-clancys-ghost-recon-wildlands-season-pass/",
-      "on_sale": false,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 23482,
-      "name": "Tom Clancy's Ghost Recon Wildlands - Year 2 Pass",
-      "discount_percent": 0,
-      "original_price": 16900.0,
-      "final_price": 16900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/779f03c175734b89a34abccf4c049932/55369a8046074df880e9983ebe6e1d6e.jpg",
-      "url": "https://www.greenmangaming.com/games/tom-clancys-ghost-recon-wildlands-year-2-pass/",
-      "on_sale": false,
-      "genres": [
-        "슈팅"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 41850,
-      "name": "Tom Clancy's Ghost Recon®: Breakpoint - Deluxe Edition",
-      "discount_percent": 0,
-      "original_price": 75000.0,
-      "final_price": 75000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/8bc06f3a19a5452ca400f4125fbf0e75/af0e970333a14c2eae9718398348573f.jpg",
-      "url": "https://www.greenmangaming.com/games/tom-clancys-ghost-recon-breakpoint-deluxe-edition-pc/",
-      "on_sale": false,
-      "genres": [
-        "액션",
-        "슈팅"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 53178,
       "name": "Funko Fusion - Bob Ross Pack",
       "discount_percent": 0,
@@ -22813,47 +22069,6 @@
       "developers": [],
       "publishers": [
         "1010 Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 13694,
-      "name": "Watch_Dogs Complete Edition",
-      "discount_percent": 0,
-      "original_price": 34000.0,
-      "final_price": 34000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/39ac0bbbfa264b28bec589a65931dcfa/f7a410f98b0f4249866ed2e44d6bd1fa.jpg",
-      "url": "https://www.greenmangaming.com/games/watch_dogs-complete-edition/",
-      "on_sale": false,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 45204,
-      "name": "Riders Republic™",
-      "discount_percent": 0,
-      "original_price": 45500.0,
-      "final_price": 45500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/b718140805f54d72a99fd18e2852350b/a7a5ab42167743b7a0f2588945f573cf.jpg",
-      "url": "https://www.greenmangaming.com/games/riders-republic-pc/",
-      "on_sale": false,
-      "genres": [
-        "스포츠",
-        "레이싱"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
       ],
       "review_desc": null,
       "review_rank": 0
