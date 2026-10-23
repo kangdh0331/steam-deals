@@ -28467,5 +28467,34 @@
     "publishers": [
       "NoGlyph"
     ]
+  },
+  "2552310": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Cat Society"
+    ],
+    "publishers": [
+      "Spiral Up Games"
+    ]
+  },
+  "4890760": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "RPG",
+      "시뮬레이션",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "MAY19 STUDIO"
+    ],
+    "publishers": [
+      "MAY19 STUDIO"
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1792703713.8788977,
+  "fetched_at": 1792726520.77597,
   "deals": [
     {
       "appid": 59702,
@@ -13712,28 +13712,6 @@
       "review_rank": 0
     },
     {
-      "appid": 49888,
-      "name": "Astral Ascent",
-      "discount_percent": 60,
-      "original_price": 26000.0,
-      "final_price": 10400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/1f893a8fa78a437b9f199390a0a6c773/c0ef8fcbd1dd4c8ca411bb4b76c56972.jpg",
-      "url": "https://www.greenmangaming.com/games/astral-ascent-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Hibernian Workshop"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 48761,
       "name": "The Forgotten City Soundtrack",
       "discount_percent": 60,
@@ -14995,26 +14973,6 @@
       "review_rank": 0
     },
     {
-      "appid": 42854,
-      "name": "Farming Simulator 17 Platinum Edition",
-      "discount_percent": 50,
-      "original_price": 20500.0,
-      "final_price": 10300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/ce5fcdacb30442dc83a0fd9bd46ef1eb/d986659bd3f4414dbafe876c2593700f.jpg",
-      "url": "https://www.greenmangaming.com/games/farming-simulator-17-platinum-edition-pc/",
-      "on_sale": true,
-      "genres": [
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Giants Software"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 46342,
       "name": "Warhammer: Vermintide 2 - Winds of Magic",
       "discount_percent": 50,
@@ -15093,26 +15051,6 @@
       "developers": [],
       "publishers": [
         "Behaviour Interactive"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 42852,
-      "name": "Farming Simulator 15 Gold Edition",
-      "discount_percent": 50,
-      "original_price": 15500.0,
-      "final_price": 7800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/a42abd6174a641be9fc766dd12c91376/77c11dc23e1c4b378f1e70e7b6313ee9.jpg",
-      "url": "https://www.greenmangaming.com/games/farming-simulator-15-gold-edition-pc/",
-      "on_sale": true,
-      "genres": [
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Giants Software"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -15262,26 +15200,6 @@
       "review_rank": 0
     },
     {
-      "appid": 54753,
-      "name": "Project Motor Racing",
-      "discount_percent": 50,
-      "original_price": 34800.0,
-      "final_price": 17400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/906281822af040aba6f3cd8f47c83fb6/e54556acc6ed4770a4a36ea020cc5d9e.jpg",
-      "url": "https://www.greenmangaming.com/games/project-motor-racing-pc/",
-      "on_sale": true,
-      "genres": [
-        "레이싱"
-      ],
-      "developers": [],
-      "publishers": [
-        "Giants Software"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 52386,
       "name": "Debtors' Club",
       "discount_percent": 50,
@@ -15322,46 +15240,6 @@
       "developers": [],
       "publishers": [
         "META Publishing"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 25347,
-      "name": "Farming Simulator 19",
-      "discount_percent": 50,
-      "original_price": 19800.0,
-      "final_price": 9900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/761d46a354a8457799beb7aef0fb61c2/b4a5296f302244179405c192eee03647.jpg",
-      "url": "https://www.greenmangaming.com/games/farming-simulator-19-pc/",
-      "on_sale": true,
-      "genres": [
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Giants Software"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 12575,
-      "name": "Farming Simulator 17",
-      "discount_percent": 50,
-      "original_price": 14800.0,
-      "final_price": 7400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/a67575b0c1e9469fb8236b26a17ecb26/50624436de404b2e851e6c4c7d0c6612.jpg",
-      "url": "https://www.greenmangaming.com/games/farming-simulator-17-pc/",
-      "on_sale": true,
-      "genres": [
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Giants Software"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -15885,26 +15763,6 @@
       "developers": [],
       "publishers": [
         "Behaviour Interactive"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 42861,
-      "name": "Farming Simulator 2011",
-      "discount_percent": 49,
-      "original_price": 8500.0,
-      "final_price": 4300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/9eaac45447784e20a5fed19cf9eaafb4/32113cba2f7545ea985a0f44a7a93657.jpg",
-      "url": "https://www.greenmangaming.com/games/farming-simulator-2011-pc/",
-      "on_sale": true,
-      "genres": [
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Giants Software"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -17974,26 +17832,6 @@
       "review_rank": 0
     },
     {
-      "appid": 42052,
-      "name": "Farming Simulator 22",
-      "discount_percent": 30,
-      "original_price": 33900.0,
-      "final_price": 23800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/cd8b86f302fb41c585c3f6bf027480d2/6e920aabbdcf4143abddd5d9bf801950.jpg",
-      "url": "https://www.greenmangaming.com/games/farming-simulator-22-pc/",
-      "on_sale": true,
-      "genres": [
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Giants Software"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 52976,
       "name": "VR Bundle",
       "discount_percent": 30,
@@ -18362,46 +18200,6 @@
       "review_rank": 0
     },
     {
-      "appid": 51766,
-      "name": "Farming Simulator 25",
-      "discount_percent": 25,
-      "original_price": 29800.0,
-      "final_price": 22400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/632ad9df239e40de8ed124487b3bc8ef/be2cacd2a44e4106a049f33d77c777e9.jpg",
-      "url": "https://www.greenmangaming.com/games/farming-simulator-25-pc/",
-      "on_sale": true,
-      "genres": [
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Giants Software"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 55291,
-      "name": "Farming Simulator 25: Highlands Fishing Edition",
-      "discount_percent": 25,
-      "original_price": 53200.0,
-      "final_price": 39900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/9aa76abc623b463e9095fb1f7a86b0c7/8bcc1ad4d27a49eda741dff8b3049914.jpg",
-      "url": "https://www.greenmangaming.com/games/farming-simulator-25-highlands-fishing-edition-pc/",
-      "on_sale": true,
-      "genres": [
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Giants Software"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 37750,
       "name": "Dead Ground VR Pack",
       "discount_percent": 25,
@@ -18679,111 +18477,6 @@
       "review_rank": 0
     },
     {
-      "appid": 58195,
-      "name": "Dead as Disco",
-      "discount_percent": 20,
-      "original_price": 28000.0,
-      "final_price": 22400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/ffa715dd687f460e85cf67331d49f4da/00d929f22d5b46e68ea0485d3e5e809a.jpg",
-      "url": "https://www.greenmangaming.com/games/dead-as-disco-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Brain Jar Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 58285,
-      "name": "Dead as Disco - Superfan Bundle",
-      "discount_percent": 20,
-      "original_price": 35200.0,
-      "final_price": 28200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/d35a2711f4664b7faa35ad05de5bcf41/7cb9f57a241349fc86740bde0c60ed2a.jpg",
-      "url": "https://www.greenmangaming.com/games/dead-as-disco-superfan-bundle-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Brain Jar Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 58362,
-      "name": "Astral Ascent - Arven the Wolf Blade",
-      "discount_percent": 20,
-      "original_price": 5600.0,
-      "final_price": 4500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/f8c0a7290b7b456882ae223247320f2b/4f65513d775b4d3b9bda93725703c93f.jpg",
-      "url": "https://www.greenmangaming.com/games/astral-ascent-arven-the-wolf-blade-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Hibernian Workshop"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 58287,
-      "name": "Dead as Disco Streamer Safe Soundtrack Vol.1",
-      "discount_percent": 20,
-      "original_price": 11100.0,
-      "final_price": 8900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/9d23a558f9e1438789c345266f5d403a/ba2fd7b7db80403baa642961a65bb03f.jpg",
-      "url": "https://www.greenmangaming.com/games/dead-as-disco-streamer-safe-soundtrack-vol-1-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Brain Jar Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 57876,
-      "name": "Project Motor Racing: Japanese GT500 Pack",
-      "discount_percent": 20,
-      "original_price": 9600.0,
-      "final_price": 7700.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/09c285dc5da04745afa5e55640d68411/09302c7c36044c6bbca9238f575c8c46.jpg",
-      "url": "https://www.greenmangaming.com/games/project-motor-racing-japanese-gt500-pack-pc/",
-      "on_sale": true,
-      "genres": [
-        "레이싱"
-      ],
-      "developers": [],
-      "publishers": [
-        "Giants Software"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 37471,
       "name": "Outlast Trinity",
       "discount_percent": 20,
@@ -18801,73 +18494,6 @@
       "developers": [],
       "publishers": [
         "Red Barrels"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 58056,
-      "name": "The Last Caretaker",
-      "discount_percent": 20,
-      "original_price": 35300.0,
-      "final_price": 28300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/d019a37ad4e742e098f5fcf1be7fa64d/9d5fb23b755445129d3a204ce2e48a02.jpg",
-      "url": "https://www.greenmangaming.com/games/the-last-caretaker-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "시뮬레이션",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Channel37 Ltd"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 56610,
-      "name": "Astral Ascent - The Outer Reaches",
-      "discount_percent": 20,
-      "original_price": 11000.0,
-      "final_price": 8800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/eece5588bbd04e0b884c6cfacd07573e/8da771ca1e9a45eab89d2eb8e1b13732.jpg",
-      "url": "https://www.greenmangaming.com/games/astral-ascent-the-outer-reaches-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Hibernian Workshop"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 52161,
-      "name": "Astral Ascent - Yamat the Breach Traveler",
-      "discount_percent": 20,
-      "original_price": 5600.0,
-      "final_price": 4500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/fc1caea5efeb4fe188a301c665307aa4/9085d7fbfc854d0eb0f5a21512fa747a.jpg",
-      "url": "https://www.greenmangaming.com/games/astral-ascent-yamat-the-breach-traveler-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Hibernian Workshop"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -18917,86 +18543,6 @@
       "review_rank": 0
     },
     {
-      "appid": 50542,
-      "name": "Farming Simulator 22 - Farm Production Pack",
-      "discount_percent": 20,
-      "original_price": 13600.0,
-      "final_price": 10900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/5e168024721343cab3d93a46bd7a553f/dc309d2ef7f3471abfab29b6ea8fba29.jpg",
-      "url": "https://www.greenmangaming.com/games/farming-simulator-22-farm-production-pack-pc/",
-      "on_sale": true,
-      "genres": [
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Giants Software"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 48611,
-      "name": "Farming Simulator 22 - OXBO Pack",
-      "discount_percent": 20,
-      "original_price": 10200.0,
-      "final_price": 8200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/9ef93a02e0c74bba9cb015405018da54/f791b610a85e4888ae0f8f567dd47995.jpg",
-      "url": "https://www.greenmangaming.com/games/farming-simulator-22-oxbo-pack-pc/",
-      "on_sale": true,
-      "genres": [
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Giants Software"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 43145,
-      "name": "Farming Simulator 22 - ANTONIO CARRARO Pack",
-      "discount_percent": 20,
-      "original_price": 16900.0,
-      "final_price": 13600.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/3c1fad99025345e981e4abba3d3f5343/efbc27a24b204499b754bc479e3ac023.jpg",
-      "url": "https://www.greenmangaming.com/games/farming-simulator-22-antonio-carraro-pack-pc/",
-      "on_sale": true,
-      "genres": [
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Giants Software"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 43732,
-      "name": "Farming Simulator 22 - Kubota Pack",
-      "discount_percent": 20,
-      "original_price": 22200.0,
-      "final_price": 17800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/eb06fd026137447a8d8cbb28cde6bb03/7cae5d6c2fec4ca38609be20fb4db7cf.jpg",
-      "url": "https://www.greenmangaming.com/games/farming-simulator-22-kubota-pack-pc/",
-      "on_sale": true,
-      "genres": [
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Giants Software"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 48604,
       "name": "The Wardrobe - Complete Bundle",
       "discount_percent": 20,
@@ -19013,66 +18559,6 @@
       "developers": [],
       "publishers": [
         "Gamera Interactive"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 59735,
-      "name": "Project Motor Racing: V8 Power Pack",
-      "discount_percent": 19,
-      "original_price": 14900.0,
-      "final_price": 12000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/7e24768f824743d8b47e9bcdac09cb09/f9a719f46c6440e98ca61248caad0290.jpg",
-      "url": "https://www.greenmangaming.com/games/project-motor-racing-v8-power-pack-pc/",
-      "on_sale": true,
-      "genres": [
-        "레이싱"
-      ],
-      "developers": [],
-      "publishers": [
-        "Giants Software"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 58407,
-      "name": "Project Motor Racing: GT Icons Pack",
-      "discount_percent": 19,
-      "original_price": 14900.0,
-      "final_price": 12000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/d13c5b25d9d544b5ab49ac62cc8c0ad2/27d97823c53646278cb11f00de628cea.jpg",
-      "url": "https://www.greenmangaming.com/games/project-motor-racing-gt-icons-pack-pc/",
-      "on_sale": true,
-      "genres": [
-        "레이싱"
-      ],
-      "developers": [],
-      "publishers": [
-        "Giants Software"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 49016,
-      "name": "Farming Simulator 22 - Case IH Farmall Anniversary Pack",
-      "discount_percent": 18,
-      "original_price": 3400.0,
-      "final_price": 2800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/090abae5cd164e9e90d9b794f2b9957f/7d0a2f857def4e5a8db9c166b73e9596.jpg",
-      "url": "https://www.greenmangaming.com/games/farming-simulator-22-case-ih-farmall-anniversary-pack-pc/",
-      "on_sale": true,
-      "genres": [
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Giants Software"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -19287,86 +18773,6 @@
       "review_rank": 0
     },
     {
-      "appid": 55523,
-      "name": "Farming Simulator 25 - Mercedes-Benz Trucks Pack",
-      "discount_percent": 15,
-      "original_price": 12800.0,
-      "final_price": 10900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/9e0e74cffa6a46f394b4da10a0488cdb/9c653cb443424132adbff3d01d550cb3.jpg",
-      "url": "https://www.greenmangaming.com/games/farming-simulator-25-mercedes-benz-trucks-pack-pc/",
-      "on_sale": true,
-      "genres": [
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Giants Software"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 54004,
-      "name": "Farming Simulator 25 - Nexat Pack",
-      "discount_percent": 15,
-      "original_price": 11000.0,
-      "final_price": 9400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/b496a3083c2f47d8887109abfce467c3/232ca3beb4144da6bf7682f2cb32e270.jpg",
-      "url": "https://www.greenmangaming.com/games/farming-simulator-25-nexat-pack-pc/",
-      "on_sale": true,
-      "genres": [
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Giants Software"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 55293,
-      "name": "Farming Simulator 25: Highlands Fishing Expansion",
-      "discount_percent": 15,
-      "original_price": 29800.0,
-      "final_price": 25400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/3f514741347b4da5b924cf6ff76d84ae/5049230acfe544459feda9d1e5977864.jpg",
-      "url": "https://www.greenmangaming.com/games/farming-simulator-25-highlands-fishing-expansion-pc/",
-      "on_sale": true,
-      "genres": [
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Giants Software"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60244,
-      "name": "Farming Simulator 25: Plains & Prairies Pack",
-      "discount_percent": 15,
-      "original_price": 11000.0,
-      "final_price": 9400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/20e20674c0b94f0e8230c76e4bfc6166/2c3a83d1a6e64bfe8dafb482a734d5b8.jpg",
-      "url": "https://www.greenmangaming.com/games/farming-simulator-25-plains-prairies-pack-pc/",
-      "on_sale": true,
-      "genres": [
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Giants Software"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 55414,
       "name": "Marathon",
       "discount_percent": 14,
@@ -19444,26 +18850,6 @@
       "developers": [],
       "publishers": [
         "Bungie"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60239,
-      "name": "Farming Simulator 25: MacDon Pack",
-      "discount_percent": 14,
-      "original_price": 5600.0,
-      "final_price": 4800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/4f636293d5894a1fa6834dec95bf5f5c/dd27e694b04748ac8b9e0ab678246ce2.jpg",
-      "url": "https://www.greenmangaming.com/games/farming-simulator-25-macdon-pack-pc/",
-      "on_sale": true,
-      "genres": [
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Giants Software"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -19781,28 +19167,6 @@
       "review_rank": 0
     },
     {
-      "appid": 56419,
-      "name": "Echo Weaver",
-      "discount_percent": 10,
-      "original_price": 21500.0,
-      "final_price": 19400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/1f7a143ceab64da2917fe928e9692349/ce4d5ea3103f4cba92250d702dfce4e9.jpg",
-      "url": "https://www.greenmangaming.com/games/echo-weaver-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Akupara Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 44615,
       "name": "Forever Ago",
       "discount_percent": 10,
@@ -20021,26 +19385,6 @@
       "developers": [],
       "publishers": [
         "Meridian4"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60241,
-      "name": "Farming Simulator 25: New Holland CR11 Gold Edition",
-      "discount_percent": 9,
-      "original_price": 1100.0,
-      "final_price": 1000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/26e0a8c19bd34a3cb18ff3d399737fc5/2c42c809346243a99fb023770485e567.jpg",
-      "url": "https://www.greenmangaming.com/games/farming-simulator-25-new-holland-cr11-gold-edition-pc/",
-      "on_sale": true,
-      "genres": [
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Giants Software"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -20339,6 +19683,28 @@
       "developers": [],
       "publishers": [
         "Remedy Entertainment"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 56419,
+      "name": "Echo Weaver",
+      "discount_percent": 0,
+      "original_price": 21500.0,
+      "final_price": 21500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/1f7a143ceab64da2917fe928e9692349/ce4d5ea3103f4cba92250d702dfce4e9.jpg",
+      "url": "https://www.greenmangaming.com/games/echo-weaver-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "어드벤처",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Akupara Games"
       ],
       "review_desc": null,
       "review_rank": 0
