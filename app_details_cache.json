@@ -28614,5 +28614,23 @@
     "publishers": [
       "Trailmark Games"
     ]
+  },
+  "5008900": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Infinity Ward",
+      "Beenox",
+      "Digital Legends",
+      "Activision Shanghai",
+      "Raven Software",
+      "Treyarch",
+      "Sledgehammer Games",
+      "High Moon Studios"
+    ],
+    "publishers": [
+      "Activision"
+    ]
   }
 }
