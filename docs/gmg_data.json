@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1792789426.0311346,
+  "fetched_at": 1792812556.4870777,
   "deals": [
     {
       "appid": 27436,
@@ -19657,6 +19657,28 @@
       "review_rank": 0
     },
     {
+      "appid": 52194,
+      "name": "Wife Quest",
+      "discount_percent": 78,
+      "original_price": 6700.0,
+      "final_price": 1500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/d52826838c454fdcba20c41824b442cd/cff041e34008428899bfefd5111d7f30.jpg",
+      "url": "https://www.greenmangaming.com/games/wife-quest-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "인디",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Plug-in Digital"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 39281,
       "name": "Red Dead Redemption 2",
       "discount_percent": 77,
@@ -21329,27 +21351,6 @@
       "review_rank": 0
     },
     {
-      "appid": 44615,
-      "name": "Forever Ago",
-      "discount_percent": 10,
-      "original_price": 21500.0,
-      "final_price": 19400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/105f01081ece459e9f974d9684d0c4ec/30c1a824bb1c4e81a0ffe22d3c3b7f29.jpg",
-      "url": "https://www.greenmangaming.com/games/forever-ago-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Annapurna Interactive"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 57452,
       "name": "MARVEL Tōkon: Fighting Souls Digital Deluxe Edition",
       "discount_percent": 10,
@@ -21599,6 +21600,27 @@
       "developers": [],
       "publishers": [
         "Remedy Entertainment"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 44615,
+      "name": "Forever Ago",
+      "discount_percent": 0,
+      "original_price": 21500.0,
+      "final_price": 21500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/105f01081ece459e9f974d9684d0c4ec/30c1a824bb1c4e81a0ffe22d3c3b7f29.jpg",
+      "url": "https://www.greenmangaming.com/games/forever-ago-pc/",
+      "on_sale": false,
+      "genres": [
+        "어드벤처",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Annapurna Interactive"
       ],
       "review_desc": null,
       "review_rank": 0
