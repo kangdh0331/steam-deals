@@ -28674,5 +28674,33 @@
     "publishers": [
       "Behaviour Interactive Inc."
     ]
+  },
+  "2525380": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Aspyr",
+      "Crystal Dynamics"
+    ],
+    "publishers": [
+      "Aspyr"
+    ]
+  },
+  "8500": {
+    "genres": [
+      "액션",
+      "대규모 멀티플레이어",
+      "RPG",
+      "전략",
+      "무료 플레이"
+    ],
+    "developers": [
+      "Fenris Creations"
+    ],
+    "publishers": [
+      "Fenris Creations"
+    ]
   }
 }
