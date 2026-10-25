@@ -28715,5 +28715,20 @@
     "publishers": [
       "Aspyr"
     ]
+  },
+  "1335830": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "Flow Studio"
+    ],
+    "publishers": [
+      "Flow Studio",
+      "Fireshine Games"
+    ]
   }
 }
