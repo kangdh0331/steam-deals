@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1793017359.280251,
+  "fetched_at": 1793053309.5831413,
   "deals": [
     {
       "appid": 27436,
@@ -17504,6 +17504,29 @@
       "review_rank": 0
     },
     {
+      "appid": 52433,
+      "name": "Leo: The Firefighter Cat",
+      "discount_percent": 81,
+      "original_price": 34700.0,
+      "final_price": 6500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/ef26539f23cc4926bcea76f8d9907f72/4290ee196b994d51ac0ee5cf01af792a.jpg",
+      "url": "https://www.greenmangaming.com/games/leo-the-firefighter-cat-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "시뮬레이션",
+        "캐주얼",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Maximum Entertainment"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 8851,
       "name": "Planetary Annihilation: TITANS",
       "discount_percent": 80,
@@ -21012,27 +21035,6 @@
       "developers": [],
       "publishers": [
         "Torn Banner Studios"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 58654,
-      "name": "Witchspire",
-      "discount_percent": 25,
-      "original_price": 24400.0,
-      "final_price": 18300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/b83634da2fe245acb05270612790cbaa/180b642454ad4e67a553f22ee50f3671.jpg",
-      "url": "https://www.greenmangaming.com/games/witchspire-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Envar Games AB"
       ],
       "review_desc": null,
       "review_rank": 0

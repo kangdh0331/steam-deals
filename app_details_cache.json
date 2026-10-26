@@ -29537,5 +29537,177 @@
       "Atari",
       "Digital Eclipse"
     ]
+  },
+  "414700": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "Red Barrels"
+    ],
+    "publishers": [
+      "Red Barrels"
+    ]
+  },
+  "214490": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Creative Assembly",
+      "Feral Interactive (Mac)",
+      "Feral Interactive (Linux)"
+    ],
+    "publishers": [
+      "SEGA",
+      "Feral Interactive (Mac)",
+      "Feral Interactive (Linux)"
+    ]
+  },
+  "324160": {
+    "genres": [
+      "어드벤처",
+      "캐주얼"
+    ],
+    "developers": [
+      "VisualArts/Key"
+    ],
+    "publishers": [
+      "Sekai Project"
+    ]
+  },
+  "1244090": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "Sabotage Studio"
+    ],
+    "publishers": [
+      "Sabotage Studio"
+    ]
+  },
+  "1857740": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "RPG"
+    ],
+    "developers": [
+      "Bandai Namco Forge Digitals Inc."
+    ],
+    "publishers": [
+      "Bandai Namco Entertainment Inc."
+    ]
+  },
+  "3500390": {
+    "genres": [
+      "액션",
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "CAPCOM Co., Ltd."
+    ],
+    "publishers": [
+      "CAPCOM Co., Ltd."
+    ]
+  },
+  "1177980": {
+    "genres": [
+      "어드벤처",
+      "캐주얼",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Double Dagger Studio"
+    ],
+    "publishers": [
+      "Double Dagger Studio"
+    ]
+  },
+  "4704520": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "전략"
+    ],
+    "developers": [
+      "Weird Penguin Games"
+    ],
+    "publishers": [
+      "Weird Penguin Games"
+    ]
+  },
+  "4312190": {
+    "genres": [
+      "어드벤처",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Rafoli"
+    ],
+    "publishers": [
+      "Rafoli"
+    ]
+  },
+  "3757210": {
+    "genres": [
+      "액션",
+      "인디"
+    ],
+    "developers": [
+      "べすとまん"
+    ],
+    "publishers": [
+      "べすとまん"
+    ]
+  },
+  "244850": {
+    "genres": [
+      "액션",
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Keen Software House"
+    ],
+    "publishers": [
+      "Keen Software House"
+    ]
+  },
+  "4893510": {
+    "genres": [
+      "액션",
+      "무료 플레이"
+    ],
+    "developers": [
+      "Ubisoft Montreal"
+    ],
+    "publishers": [
+      "Ubisoft"
+    ]
+  },
+  "2774040": {
+    "genres": [
+      "액션",
+      "인디",
+      "RPG",
+      "시뮬레이션",
+      "전략",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "BEF GAMES"
+    ],
+    "publishers": [
+      "Tripwire Presents"
+    ]
   }
 }
