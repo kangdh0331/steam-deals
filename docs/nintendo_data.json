@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1792959999.9851582,
+  "fetched_at": 1792985221.9922903,
   "deals": [
     {
       "appid": 70010000005065,
@@ -1909,6 +1909,29 @@
       "developers": [
         "CAPCOM CO., LTD."
       ],
+      "publishers": [
+        "CAPCOM"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000122497,
+      "name": "Resident Evil 4 Gold Edition",
+      "discount_percent": 20,
+      "original_price": 49.99,
+      "final_price": 39.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000122497/beee3d58ac46f78bc26f7584bcaed50a645af2262d6581791a0381aaf56392c7",
+      "url": "https://www.nintendo.com/us/store/products/resident-evil-4-gold-edition-switch-2/",
+      "on_sale": true,
+      "platform": "Nintendo Switch 2",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Shooting"
+      ],
+      "developers": [],
       "publishers": [
         "CAPCOM"
       ],
