@@ -29723,5 +29723,91 @@
     "publishers": [
       " Gamincat, Inc."
     ]
+  },
+  "867210": {
+    "genres": [
+      "어드벤처",
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "Lavapotion"
+    ],
+    "publishers": [
+      "Coffee Stain Publishing"
+    ]
+  },
+  "702050": {
+    "genres": [
+      "어드벤처",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Nitroplus"
+    ],
+    "publishers": [
+      "JAST"
+    ]
+  },
+  "1395520": {
+    "genres": [
+      "어드벤처"
+    ],
+    "developers": [
+      "Spooky Doorway"
+    ],
+    "publishers": [
+      "Raw Fury"
+    ]
+  },
+  "1901370": {
+    "genres": [
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "kouri"
+    ],
+    "publishers": [
+      "PLAYISM"
+    ]
+  },
+  "209160": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Infinity Ward"
+    ],
+    "publishers": [
+      "Activision"
+    ]
+  },
+  "1266840": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "Con Artist Games"
+    ],
+    "publishers": [
+      "Armor Games Studios"
+    ]
+  },
+  "2232880": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "嘉兴黑曜石(Jiaxing Obsidian)"
+    ],
+    "publishers": [
+      "嘉兴黑曜石(Jiaxing Obsidian)",
+      "Owl Digital Entertainment"
+    ]
   }
 }
