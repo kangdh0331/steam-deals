@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1793101278.2762804,
+  "fetched_at": 1793122374.48102,
   "deals": [
     {
       "appid": 27436,
@@ -20968,27 +20968,6 @@
       "review_rank": 0
     },
     {
-      "appid": 60336,
-      "name": "Deep Dish Dungeon",
-      "discount_percent": 21,
-      "original_price": 16000.0,
-      "final_price": 12600.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/a144d776d1e2414eb788d6475efa6b51/7882b86041d449ab8cf643ba7707b6f9.jpg",
-      "url": "https://www.greenmangaming.com/games/deep-dish-dungeon-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Raw Fury"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 60227,
       "name": "Coal Duty",
       "discount_percent": 20,
@@ -21157,6 +21136,27 @@
       "developers": [],
       "publishers": [
         "Frontier Developments"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60336,
+      "name": "Deep Dish Dungeon",
+      "discount_percent": 12,
+      "original_price": 16000.0,
+      "final_price": 14100.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/a144d776d1e2414eb788d6475efa6b51/7882b86041d449ab8cf643ba7707b6f9.jpg",
+      "url": "https://www.greenmangaming.com/games/deep-dish-dungeon-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Raw Fury"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -21398,8 +21398,8 @@
       "appid": 59144,
       "name": "Farming Simulator 25: Beans & Alpacas Edition",
       "discount_percent": 0,
-      "original_price": 49800.0,
-      "final_price": 49800.0,
+      "original_price": 49600.0,
+      "final_price": 49600.0,
       "currency": "KRW",
       "image": "https://images.greenmangaming.com/9efd09247e854691b2635863a186ae70/edbd623a8abd4b5c888255b3e100f5af.jpg",
       "url": "https://www.greenmangaming.com/games/farming-simulator-25-beans-and-alpacas-edition-pc/",

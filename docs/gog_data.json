@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1793101263.8473563,
+  "fetched_at": 1793122361.6137865,
   "deals": [
     {
       "appid": 1254210921,
@@ -1638,6 +1638,30 @@
       "review_rank": 38
     },
     {
+      "appid": 1075740587,
+      "name": "Vambrace: Cold Soul",
+      "discount_percent": 90,
+      "original_price": 24.99,
+      "final_price": 2.49,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/e4bd4829fe05534671abd1e5c7b315c3fbf64f9e7f6109ec4ae79545463eec91.png",
+      "url": "https://www.gog.com/en/game/vambrace_cold_soul",
+      "on_sale": true,
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Role-playing"
+      ],
+      "developers": [
+        "Devespresso Games"
+      ],
+      "publishers": [
+        "Headup"
+      ],
+      "review_desc": "3.3★",
+      "review_rank": 33
+    },
+    {
       "appid": 1705092808,
       "name": "Train Valley 2",
       "discount_percent": 90,
@@ -3176,30 +3200,6 @@
       ],
       "review_desc": "3.2★",
       "review_rank": 32
-    },
-    {
-      "appid": 1075740587,
-      "name": "Vambrace: Cold Soul",
-      "discount_percent": 90,
-      "original_price": 24.99,
-      "final_price": 2.49,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/e4bd4829fe05534671abd1e5c7b315c3fbf64f9e7f6109ec4ae79545463eec91.png",
-      "url": "https://www.gog.com/en/game/vambrace_cold_soul",
-      "on_sale": true,
-      "genres": [
-        "Fantasy",
-        "Adventure",
-        "Role-playing"
-      ],
-      "developers": [
-        "Devespresso Games"
-      ],
-      "publishers": [
-        "Headup"
-      ],
-      "review_desc": "3.3★",
-      "review_rank": 33
     },
     {
       "appid": 1396468236,
@@ -5318,6 +5318,30 @@
       "review_rank": 42
     },
     {
+      "appid": 1522289470,
+      "name": "Call of Cthulhu®",
+      "discount_percent": 85,
+      "original_price": 19.99,
+      "final_price": 2.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/17313f2ca09f07b7a8e63700834e248521dc0c4c5ccde786d4fbfd11216214de.png",
+      "url": "https://www.gog.com/en/game/call_of_cthulhu",
+      "on_sale": true,
+      "genres": [
+        "Horror",
+        "Adventure",
+        "Role-playing"
+      ],
+      "developers": [
+        "Cyanide Studio"
+      ],
+      "publishers": [
+        "Focus Entertainment"
+      ],
+      "review_desc": "3.6★",
+      "review_rank": 36
+    },
+    {
       "appid": 1296690054,
       "name": "Deus Ex: Mankind Divided",
       "discount_percent": 85,
@@ -6040,30 +6064,6 @@
       ],
       "review_desc": "4.0★",
       "review_rank": 40
-    },
-    {
-      "appid": 1522289470,
-      "name": "Call of Cthulhu®",
-      "discount_percent": 85,
-      "original_price": 19.99,
-      "final_price": 2.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/17313f2ca09f07b7a8e63700834e248521dc0c4c5ccde786d4fbfd11216214de.png",
-      "url": "https://www.gog.com/en/game/call_of_cthulhu",
-      "on_sale": true,
-      "genres": [
-        "Horror",
-        "Adventure",
-        "Role-playing"
-      ],
-      "developers": [
-        "Cyanide Studio"
-      ],
-      "publishers": [
-        "Focus Entertainment"
-      ],
-      "review_desc": "3.6★",
-      "review_rank": 36
     },
     {
       "appid": 1084764045,
@@ -6979,30 +6979,6 @@
       "review_rank": 45
     },
     {
-      "appid": 1207659008,
-      "name": "Robin Hood: The Legend of Sherwood",
-      "discount_percent": 80,
-      "original_price": 7.99,
-      "final_price": 1.59,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/39b3ce25d3fe1c5cc9df2109aea5bb87401d56fddebc07f467e4f57317de2b4f.png",
-      "url": "https://www.gog.com/en/game/robin_hood",
-      "on_sale": true,
-      "genres": [
-        "Strategy",
-        "Real-time",
-        "Tactical"
-      ],
-      "developers": [
-        "Spellbound Entertainment AG"
-      ],
-      "publishers": [
-        "Microids"
-      ],
-      "review_desc": "4.5★",
-      "review_rank": 45
-    },
-    {
       "appid": 1207658715,
       "name": "Painkiller Black Edition",
       "discount_percent": 80,
@@ -7025,6 +7001,30 @@
       ],
       "review_desc": "4.3★",
       "review_rank": 43
+    },
+    {
+      "appid": 1207659008,
+      "name": "Robin Hood: The Legend of Sherwood",
+      "discount_percent": 80,
+      "original_price": 7.99,
+      "final_price": 1.59,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/39b3ce25d3fe1c5cc9df2109aea5bb87401d56fddebc07f467e4f57317de2b4f.png",
+      "url": "https://www.gog.com/en/game/robin_hood",
+      "on_sale": true,
+      "genres": [
+        "Strategy",
+        "Real-time",
+        "Tactical"
+      ],
+      "developers": [
+        "Spellbound Entertainment AG"
+      ],
+      "publishers": [
+        "Microids"
+      ],
+      "review_desc": "4.5★",
+      "review_rank": 45
     },
     {
       "appid": 1207658747,
@@ -8031,54 +8031,6 @@
       ],
       "review_desc": "3.6★",
       "review_rank": 36
-    },
-    {
-      "appid": 1083486950,
-      "name": "Lust from Beyond",
-      "discount_percent": 80,
-      "original_price": 19.99,
-      "final_price": 3.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/ce50322cc1799b046880b5cef3d031fa7e58738ed3acedcb3cee4652df2e347f.png",
-      "url": "https://www.gog.com/en/game/lust_from_beyond",
-      "on_sale": true,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Puzzle"
-      ],
-      "developers": [
-        "Movie Games Lunarium"
-      ],
-      "publishers": [
-        "Movie Games S.A."
-      ],
-      "review_desc": "3.6★",
-      "review_rank": 36
-    },
-    {
-      "appid": 1111421371,
-      "name": "Leap of Love",
-      "discount_percent": 80,
-      "original_price": 14.99,
-      "final_price": 2.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/958daf19e29f7ca7eaa2c5c7d6b0c6f0e3469c07f0dade7e6e0d2fe809b93673.png",
-      "url": "https://www.gog.com/en/game/leap_of_love",
-      "on_sale": true,
-      "genres": [
-        "Role-playing",
-        "Fantasy",
-        "Visual Novel"
-      ],
-      "developers": [
-        "Andrealphus Games"
-      ],
-      "publishers": [
-        "Andrealphus Games"
-      ],
-      "review_desc": "3.3★",
-      "review_rank": 33
     },
     {
       "appid": 1714817458,
@@ -9812,6 +9764,30 @@
       "review_rank": 24
     },
     {
+      "appid": 1083486950,
+      "name": "Lust from Beyond",
+      "discount_percent": 80,
+      "original_price": 19.99,
+      "final_price": 3.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/ce50322cc1799b046880b5cef3d031fa7e58738ed3acedcb3cee4652df2e347f.png",
+      "url": "https://www.gog.com/en/game/lust_from_beyond",
+      "on_sale": true,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Puzzle"
+      ],
+      "developers": [
+        "Movie Games Lunarium"
+      ],
+      "publishers": [
+        "Movie Games S.A."
+      ],
+      "review_desc": "3.6★",
+      "review_rank": 36
+    },
+    {
       "appid": 1791830361,
       "name": "Good Night, Knight",
       "discount_percent": 80,
@@ -9858,6 +9834,30 @@
       ],
       "review_desc": null,
       "review_rank": 0
+    },
+    {
+      "appid": 1111421371,
+      "name": "Leap of Love",
+      "discount_percent": 80,
+      "original_price": 14.99,
+      "final_price": 2.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/958daf19e29f7ca7eaa2c5c7d6b0c6f0e3469c07f0dade7e6e0d2fe809b93673.png",
+      "url": "https://www.gog.com/en/game/leap_of_love",
+      "on_sale": true,
+      "genres": [
+        "Role-playing",
+        "Fantasy",
+        "Visual Novel"
+      ],
+      "developers": [
+        "Andrealphus Games"
+      ],
+      "publishers": [
+        "Andrealphus Games"
+      ],
+      "review_desc": "3.3★",
+      "review_rank": 33
     },
     {
       "appid": 1585377690,
@@ -20619,6 +20619,30 @@
       "review_rank": 38
     },
     {
+      "appid": 1097760859,
+      "name": "The Mildew Children",
+      "discount_percent": 65,
+      "original_price": 9.99,
+      "final_price": 3.49,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/c1fd444960d3f00d03319675aebe822c042643914d722dcc8a2accc6f2b08b0c.png",
+      "url": "https://www.gog.com/en/game/the_mildew_children",
+      "on_sale": true,
+      "genres": [
+        "Adventure",
+        "Point-and-click",
+        "Mystery"
+      ],
+      "developers": [
+        "The Growing Stones"
+      ],
+      "publishers": [
+        "Valkyrie Initiative"
+      ],
+      "review_desc": "3.5★",
+      "review_rank": 35
+    },
+    {
       "appid": 1421047985,
       "name": "Nikopol: Secrets of the Immortals",
       "discount_percent": 65,
@@ -20763,30 +20787,6 @@
       ],
       "review_desc": "3.1★",
       "review_rank": 31
-    },
-    {
-      "appid": 1097760859,
-      "name": "The Mildew Children",
-      "discount_percent": 65,
-      "original_price": 9.99,
-      "final_price": 3.49,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/c1fd444960d3f00d03319675aebe822c042643914d722dcc8a2accc6f2b08b0c.png",
-      "url": "https://www.gog.com/en/game/the_mildew_children",
-      "on_sale": true,
-      "genres": [
-        "Adventure",
-        "Point-and-click",
-        "Mystery"
-      ],
-      "developers": [
-        "The Growing Stones"
-      ],
-      "publishers": [
-        "Valkyrie Initiative"
-      ],
-      "review_desc": "3.5★",
-      "review_rank": 35
     },
     {
       "appid": 2024971321,
@@ -26762,30 +26762,6 @@
       ],
       "review_desc": "4.8★",
       "review_rank": 48
-    },
-    {
-      "appid": 1594803857,
-      "name": "Sector Unknown",
-      "discount_percent": 50,
-      "original_price": 24.99,
-      "final_price": 12.49,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/608c7eb0f8207635411dc5baf2531ecb9b64d607023523a75d62337f7b66fda6.png",
-      "url": "https://www.gog.com/en/game/sector_unknown",
-      "on_sale": true,
-      "genres": [
-        "Role-playing",
-        "TPP",
-        "Sci-fi"
-      ],
-      "developers": [
-        "Creative Storm Entertainment"
-      ],
-      "publishers": [
-        "Creative Storm Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
     },
     {
       "appid": 1541066319,
@@ -37408,30 +37384,6 @@
       "review_rank": 36
     },
     {
-      "appid": 1105269488,
-      "name": "3001: A Lust Odyssey",
-      "discount_percent": 35,
-      "original_price": 14.99,
-      "final_price": 9.75,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/843e1e18431edd7c6a7f327a995208d8c3d346b1b4da4663116401828656024a.png",
-      "url": "https://www.gog.com/en/game/3001_a_lust_odyssey",
-      "on_sale": true,
-      "genres": [
-        "Sci-fi",
-        "Adventure",
-        "Visual Novel"
-      ],
-      "developers": [
-        "XCentric"
-      ],
-      "publishers": [
-        "XCentric"
-      ],
-      "review_desc": "3.4★",
-      "review_rank": 34
-    },
-    {
       "appid": 1108345769,
       "name": "Gore Screaming Show",
       "discount_percent": 35,
@@ -37937,6 +37889,30 @@
       ],
       "review_desc": "3.1★",
       "review_rank": 31
+    },
+    {
+      "appid": 1105269488,
+      "name": "3001: A Lust Odyssey",
+      "discount_percent": 35,
+      "original_price": 14.99,
+      "final_price": 9.75,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/843e1e18431edd7c6a7f327a995208d8c3d346b1b4da4663116401828656024a.png",
+      "url": "https://www.gog.com/en/game/3001_a_lust_odyssey",
+      "on_sale": true,
+      "genres": [
+        "Sci-fi",
+        "Adventure",
+        "Visual Novel"
+      ],
+      "developers": [
+        "XCentric"
+      ],
+      "publishers": [
+        "XCentric"
+      ],
+      "review_desc": "3.4★",
+      "review_rank": 34
     },
     {
       "appid": 1216455810,
@@ -38776,30 +38752,6 @@
       ],
       "publishers": [
         "PolarityFlow"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 2142293863,
-      "name": "Servant of the Lake",
-      "discount_percent": 30,
-      "original_price": 7.99,
-      "final_price": 5.59,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/d6da96d4443ff2d480d0c4716af33f2fb0685832524d9612719f1896b401cb6c.png",
-      "url": "https://www.gog.com/en/game/servant_of_the_lake",
-      "on_sale": true,
-      "genres": [
-        "Adventure",
-        "Point-and-click",
-        "Puzzle"
-      ],
-      "developers": [
-        "Rusty Lake"
-      ],
-      "publishers": [
-        "Rusty Lake"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -43338,6 +43290,30 @@
       "review_rank": 44
     },
     {
+      "appid": 1347262334,
+      "name": "The Boss Gangster: Criminal Empire",
+      "discount_percent": 20,
+      "original_price": 18.99,
+      "final_price": 15.19,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/4a54a454bf8d33ddb6444ef1fab0609cb30135126126ac568e17b1c526dfeda5.png",
+      "url": "https://www.gog.com/en/game/the_boss_gangster_criminal_empire",
+      "on_sale": true,
+      "genres": [
+        "Simulation",
+        "Action",
+        "Sandbox"
+      ],
+      "developers": [
+        "BEF GAMES"
+      ],
+      "publishers": [
+        "Tripwire Presents"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 1442284498,
       "name": "Dunebound Tactics",
       "discount_percent": 20,
@@ -43477,6 +43453,31 @@
       ],
       "publishers": [
         "indie.io"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 1731786241,
+      "name": "Cat Isle",
+      "discount_percent": 20,
+      "original_price": 5.99,
+      "final_price": 4.79,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/409e046405f377a682a8b7451f9144025bcafbe6d7a9eef1da7875a8aa4ecc96.png",
+      "url": "https://www.gog.com/en/game/cat_isle",
+      "on_sale": true,
+      "genres": [
+        "Simulation",
+        "Strategy",
+        "Managerial"
+      ],
+      "developers": [
+        "pixelduckoo",
+        "domkegames"
+      ],
+      "publishers": [
+        "Tiny Tail, MB"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -44591,6 +44592,30 @@
       "review_rank": 0
     },
     {
+      "appid": 1385694717,
+      "name": "Hidden Capybaras with Orange in the Whimsical Library",
+      "discount_percent": 20,
+      "original_price": 1.99,
+      "final_price": 1.59,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/4333cfde4306d97e099f21e39171c42874cf4049af974d1286f6b655cc4a7b1f.png",
+      "url": "https://www.gog.com/en/game/hidden_capybaras_with_orange_in_the_whimsical_library",
+      "on_sale": true,
+      "genres": [
+        "Strategy",
+        "Point-and-click",
+        "Puzzle"
+      ],
+      "developers": [
+        "Whimsical Universes"
+      ],
+      "publishers": [
+        "Whimsical Universes"
+      ],
+      "review_desc": "4.8★",
+      "review_rank": 48
+    },
+    {
       "appid": 1694294427,
       "name": "Parasite Black",
       "discount_percent": 20,
@@ -45067,6 +45092,30 @@
       ],
       "publishers": [
         "Kagura Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 1377032007,
+      "name": "Hidden Capybaras with Orange",
+      "discount_percent": 20,
+      "original_price": 1.99,
+      "final_price": 1.59,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/b1cf3c0e78a1ba75f392022a9e8e90ba38fd0f02f3494e4dfd698b471e483653.png",
+      "url": "https://www.gog.com/en/game/hidden_capybaras_with_orange",
+      "on_sale": true,
+      "genres": [
+        "Strategy",
+        "Point-and-click",
+        "Puzzle"
+      ],
+      "developers": [
+        "Whimsical Universes"
+      ],
+      "publishers": [
+        "Whimsical Universes"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -45985,8 +46034,8 @@
       "publishers": [
         "SNEG"
       ],
-      "review_desc": "4.8★",
-      "review_rank": 48
+      "review_desc": "4.9★",
+      "review_rank": 49
     },
     {
       "appid": 1434747230,
@@ -46083,6 +46132,29 @@
       ],
       "review_desc": "3.3★",
       "review_rank": 33
+    },
+    {
+      "appid": 1122895100,
+      "name": "Love n Life: Lucky Teacher",
+      "discount_percent": 10,
+      "original_price": 8.99,
+      "final_price": 8.09,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/830007c68120f5a3f65c6902bffaa69d3c23fef10e5cac63555b33007b575da2.png",
+      "url": "https://www.gog.com/en/game/love_n_life_lucky_teacher",
+      "on_sale": true,
+      "genres": [
+        "Adventure",
+        "Visual Novel"
+      ],
+      "developers": [
+        "Reborn Entertainment"
+      ],
+      "publishers": [
+        "MediBang Games"
+      ],
+      "review_desc": "4.2★",
+      "review_rank": 42
     },
     {
       "appid": 1686500330,
@@ -46395,29 +46467,6 @@
       ],
       "review_desc": "3.3★",
       "review_rank": 33
-    },
-    {
-      "appid": 1122895100,
-      "name": "Love n Life: Lucky Teacher",
-      "discount_percent": 10,
-      "original_price": 8.99,
-      "final_price": 8.09,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/830007c68120f5a3f65c6902bffaa69d3c23fef10e5cac63555b33007b575da2.png",
-      "url": "https://www.gog.com/en/game/love_n_life_lucky_teacher",
-      "on_sale": true,
-      "genres": [
-        "Adventure",
-        "Visual Novel"
-      ],
-      "developers": [
-        "Reborn Entertainment"
-      ],
-      "publishers": [
-        "MediBang Games"
-      ],
-      "review_desc": "4.2★",
-      "review_rank": 42
     },
     {
       "appid": 2077016765,
@@ -46902,6 +46951,30 @@
       "review_rank": 42
     },
     {
+      "appid": 1594803857,
+      "name": "Sector Unknown",
+      "discount_percent": 0,
+      "original_price": 24.99,
+      "final_price": 24.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/608c7eb0f8207635411dc5baf2531ecb9b64d607023523a75d62337f7b66fda6.png",
+      "url": "https://www.gog.com/en/game/sector_unknown",
+      "on_sale": false,
+      "genres": [
+        "Role-playing",
+        "TPP",
+        "Sci-fi"
+      ],
+      "developers": [
+        "Creative Storm Entertainment"
+      ],
+      "publishers": [
+        "Creative Storm Entertainment"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 1875180273,
       "name": "Celestian Tales: Realms Beyond",
       "discount_percent": 0,
@@ -47116,6 +47189,30 @@
       ],
       "review_desc": "4.8★",
       "review_rank": 48
+    },
+    {
+      "appid": 2142293863,
+      "name": "Servant of the Lake",
+      "discount_percent": 0,
+      "original_price": 7.99,
+      "final_price": 7.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/d6da96d4443ff2d480d0c4716af33f2fb0685832524d9612719f1896b401cb6c.png",
+      "url": "https://www.gog.com/en/game/servant_of_the_lake",
+      "on_sale": false,
+      "genres": [
+        "Adventure",
+        "Point-and-click",
+        "Puzzle"
+      ],
+      "developers": [
+        "Rusty Lake"
+      ],
+      "publishers": [
+        "Rusty Lake"
+      ],
+      "review_desc": null,
+      "review_rank": 0
     },
     {
       "appid": 1254594850,
@@ -47936,30 +48033,6 @@
       "review_rank": 35
     },
     {
-      "appid": 1217589235,
-      "name": "F.E.A.R. 3",
-      "discount_percent": 0,
-      "original_price": 19.99,
-      "final_price": 19.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/f385740d136d8e9424b7db662a0ab2f66c3dd955a5b0f066ba07ffafa8083c43.png",
-      "url": "https://www.gog.com/en/game/fear_3",
-      "on_sale": false,
-      "genres": [
-        "Action",
-        "FPP",
-        "Horror"
-      ],
-      "developers": [
-        "Day 1 Studios"
-      ],
-      "publishers": [
-        "Warner Bros. Interactive Entertainment"
-      ],
-      "review_desc": "3.2★",
-      "review_rank": 32
-    },
-    {
       "appid": 1577877141,
       "name": "Red Faction: Armageddon",
       "discount_percent": 0,
@@ -48079,30 +48152,6 @@
       ],
       "review_desc": "4.2★",
       "review_rank": 42
-    },
-    {
-      "appid": 1207658777,
-      "name": "Empire Earth Gold Edition",
-      "discount_percent": 0,
-      "original_price": 5.99,
-      "final_price": 5.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/df49f2b1be2f16ce1664b0653fd623223066cf80e9723cc86049185eea1fa0c9.png",
-      "url": "https://www.gog.com/en/game/empire_earth_gold_edition",
-      "on_sale": false,
-      "genres": [
-        "Strategy",
-        "Real-time",
-        "Historical"
-      ],
-      "developers": [
-        "Stainless Steel Studios"
-      ],
-      "publishers": [
-        "Rebellion"
-      ],
-      "review_desc": "4.4★",
-      "review_rank": 44
     },
     {
       "appid": 1471405734,
@@ -49261,6 +49310,30 @@
       "review_rank": 41
     },
     {
+      "appid": 1217589235,
+      "name": "F.E.A.R. 3",
+      "discount_percent": 0,
+      "original_price": 19.99,
+      "final_price": 19.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/f385740d136d8e9424b7db662a0ab2f66c3dd955a5b0f066ba07ffafa8083c43.png",
+      "url": "https://www.gog.com/en/game/fear_3",
+      "on_sale": false,
+      "genres": [
+        "Action",
+        "FPP",
+        "Horror"
+      ],
+      "developers": [
+        "Day 1 Studios"
+      ],
+      "publishers": [
+        "Warner Bros. Interactive Entertainment"
+      ],
+      "review_desc": "3.2★",
+      "review_rank": 32
+    },
+    {
       "appid": 1174280500,
       "name": "STAR WARS™: The Force Unleashed™ II",
       "discount_percent": 0,
@@ -49477,6 +49550,30 @@
       ],
       "review_desc": "4.6★",
       "review_rank": 46
+    },
+    {
+      "appid": 1207658666,
+      "name": "I.G.I. 2: Covert Strike",
+      "discount_percent": 0,
+      "original_price": 9.99,
+      "final_price": 9.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/39ee4e983d71b4e4ffdda66b2469009799da02cacd6e6017c4dc11fedd667c38.png",
+      "url": "https://www.gog.com/en/game/i_g_i_2_covert_strike",
+      "on_sale": false,
+      "genres": [
+        "Shooter",
+        "FPP",
+        "Stealth"
+      ],
+      "developers": [
+        "Innerloop Studios"
+      ],
+      "publishers": [
+        "Codemasters"
+      ],
+      "review_desc": "3.6★",
+      "review_rank": 36
     },
     {
       "appid": 1207658957,
@@ -49789,6 +49886,30 @@
       ],
       "review_desc": "4.3★",
       "review_rank": 43
+    },
+    {
+      "appid": 1207659174,
+      "name": "Leisure Suit Larry: Love for Sail!",
+      "discount_percent": 0,
+      "original_price": 5.99,
+      "final_price": 5.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/b8b56718cb68f6ae9eeea743432bf6906ff93ae257d24763514720fefb184a59.png",
+      "url": "https://www.gog.com/en/game/leisure_suit_larry_love_for_sail",
+      "on_sale": false,
+      "genres": [
+        "Adventure",
+        "Point-and-click",
+        "Puzzle"
+      ],
+      "developers": [
+        "Sierra"
+      ],
+      "publishers": [
+        "Codemasters"
+      ],
+      "review_desc": "4.5★",
+      "review_rank": 45
     },
     {
       "appid": 1207658785,
@@ -53406,30 +53527,6 @@
       "review_rank": 39
     },
     {
-      "appid": 1120387413,
-      "name": "Battlezone: Combat Commander",
-      "discount_percent": 0,
-      "original_price": 19.99,
-      "final_price": 19.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/44f47b72a5495818b36c0a6c5ef398fa836af3001d48b2add17948f79d249662.png",
-      "url": "https://www.gog.com/en/game/battlezone_combat_commander",
-      "on_sale": false,
-      "genres": [
-        "Strategy",
-        "Real-time",
-        "Sci-fi"
-      ],
-      "developers": [
-        "Big Boat Interactive"
-      ],
-      "publishers": [
-        "Rebellion"
-      ],
-      "review_desc": "4.0★",
-      "review_rank": 40
-    },
-    {
       "appid": 1739650883,
       "name": "Battle Chef Brigade Deluxe",
       "discount_percent": 0,
@@ -55136,30 +55233,6 @@
       "review_rank": 40
     },
     {
-      "appid": 1207658666,
-      "name": "I.G.I. 2: Covert Strike",
-      "discount_percent": 0,
-      "original_price": 9.99,
-      "final_price": 9.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/39ee4e983d71b4e4ffdda66b2469009799da02cacd6e6017c4dc11fedd667c38.png",
-      "url": "https://www.gog.com/en/game/i_g_i_2_covert_strike",
-      "on_sale": false,
-      "genres": [
-        "Shooter",
-        "FPP",
-        "Stealth"
-      ],
-      "developers": [
-        "Innerloop Studios"
-      ],
-      "publishers": [
-        "Codemasters"
-      ],
-      "review_desc": "3.6★",
-      "review_rank": 36
-    },
-    {
       "appid": 1207658858,
       "name": "Master of Orion 3",
       "discount_percent": 0,
@@ -55327,6 +55400,30 @@
       ],
       "review_desc": "2.0★",
       "review_rank": 20
+    },
+    {
+      "appid": 1207658777,
+      "name": "Empire Earth Gold Edition",
+      "discount_percent": 0,
+      "original_price": 5.99,
+      "final_price": 5.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/df49f2b1be2f16ce1664b0653fd623223066cf80e9723cc86049185eea1fa0c9.png",
+      "url": "https://www.gog.com/en/game/empire_earth_gold_edition",
+      "on_sale": false,
+      "genres": [
+        "Strategy",
+        "Real-time",
+        "Historical"
+      ],
+      "developers": [
+        "Stainless Steel Studios"
+      ],
+      "publishers": [
+        "Rebellion"
+      ],
+      "review_desc": "4.4★",
+      "review_rank": 44
     },
     {
       "appid": 1207659112,
@@ -56341,30 +56438,6 @@
       "review_rank": 46
     },
     {
-      "appid": 1207659174,
-      "name": "Leisure Suit Larry: Love for Sail!",
-      "discount_percent": 0,
-      "original_price": 5.99,
-      "final_price": 5.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/b8b56718cb68f6ae9eeea743432bf6906ff93ae257d24763514720fefb184a59.png",
-      "url": "https://www.gog.com/en/game/leisure_suit_larry_love_for_sail",
-      "on_sale": false,
-      "genres": [
-        "Adventure",
-        "Point-and-click",
-        "Puzzle"
-      ],
-      "developers": [
-        "Sierra"
-      ],
-      "publishers": [
-        "Codemasters"
-      ],
-      "review_desc": "4.5★",
-      "review_rank": 45
-    },
-    {
       "appid": 1403485498,
       "name": "Mortal Kombat Trilogy",
       "discount_percent": 0,
@@ -56940,6 +57013,31 @@
       ],
       "review_desc": "3.8★",
       "review_rank": 38
+    },
+    {
+      "appid": 1933416452,
+      "name": "Remothered: Red Nun's Legacy",
+      "discount_percent": 0,
+      "original_price": 29.99,
+      "final_price": 29.99,
+      "currency": "USD",
+      "image": "https://images.gog-statics.com/5694a2d15fc9ee8c9f4bb4728748f2bebceddeb831db6508eb31ed135cbb5d73.png",
+      "url": "https://www.gog.com/en/game/remothered_red_nuns_legacy",
+      "on_sale": false,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Horror"
+      ],
+      "developers": [
+        "Stormind Games"
+      ],
+      "publishers": [
+        "Stormind Games",
+        "Soft Source"
+      ],
+      "review_desc": null,
+      "review_rank": 0
     },
     {
       "appid": 1749944763,
@@ -57763,31 +57861,7 @@
       ],
       "review_desc": null,
       "review_rank": 0
-    },
-    {
-      "appid": 1218681429,
-      "name": "The Immortal John Triptych",
-      "discount_percent": 0,
-      "original_price": 24.99,
-      "final_price": 24.99,
-      "currency": "USD",
-      "image": "https://images.gog-statics.com/613d9b9804f5fe22154442b8bf63d189cf4fb3dd58ed7b6b5f483a66493bbdb9.png",
-      "url": "https://www.gog.com/en/game/the_immortal_john_triptych",
-      "on_sale": false,
-      "genres": [
-        "Adventure",
-        "Point-and-click",
-        "Comedy"
-      ],
-      "developers": [
-        "Joe Richardson"
-      ],
-      "publishers": [
-        "Akupara Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
     }
   ],
-  "usd_krw_rate": 1325.28
+  "usd_krw_rate": 1327.75
 }

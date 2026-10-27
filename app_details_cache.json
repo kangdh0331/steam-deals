@@ -29809,5 +29809,42 @@
       "嘉兴黑曜石(Jiaxing Obsidian)",
       "Owl Digital Entertainment"
     ]
+  },
+  "5062910": {
+    "genres": [
+      "액션",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "Anonymous Works"
+    ],
+    "publishers": [
+      "syn Sophia, Inc."
+    ]
+  },
+  "3322630": {
+    "genres": [
+      "어드벤처",
+      "캐주얼",
+      "전략"
+    ],
+    "developers": [
+      "Neos Corporation"
+    ],
+    "publishers": [
+      "Neos Corporation"
+    ]
+  },
+  "1932640": {
+    "genres": [
+      "RPG"
+    ],
+    "developers": [
+      "KONAMI"
+    ],
+    "publishers": [
+      "KONAMI"
+    ]
   }
 }
