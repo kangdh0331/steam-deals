@@ -29846,5 +29846,35 @@
     "publishers": [
       "KONAMI"
     ]
+  },
+  "4922630": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "시뮬레이션",
+      "전략",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Hinterland Studio Inc."
+    ],
+    "publishers": [
+      "Hinterland Studio Inc."
+    ]
+  },
+  "2223980": {
+    "genres": [
+      "어드벤처",
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Indie Devil"
+    ],
+    "publishers": [
+      "Indie Devil"
+    ]
   }
 }
