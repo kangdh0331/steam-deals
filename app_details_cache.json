@@ -29929,5 +29929,111 @@
     "publishers": [
       "Monkey Cube"
     ]
+  },
+  "453090": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Texel Raptor"
+    ],
+    "publishers": [
+      "Texel Raptor"
+    ]
+  },
+  "2747660": {
+    "genres": [
+      "액션",
+      "RPG"
+    ],
+    "developers": [
+      "Ninja Kiwi"
+    ],
+    "publishers": [
+      "Ninja Kiwi"
+    ]
+  },
+  "4348910": {
+    "genres": [
+      "인디",
+      "RPG",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Questing Goose Studio"
+    ],
+    "publishers": [
+      "tinyBuild"
+    ]
+  },
+  "4017880": {
+    "genres": [
+      "액션",
+      "RPG"
+    ],
+    "developers": [
+      "FURYU CORPORATION",
+      "Winning Entertainment Group Inc."
+    ],
+    "publishers": [
+      "FURYU CORPORATION"
+    ]
+  },
+  "940230": {
+    "genres": [
+      "인디",
+      "시뮬레이션",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Polytale Games"
+    ],
+    "publishers": [
+      "Polytale Games"
+    ]
+  },
+  "1128920": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "RPG",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "ROCKFISH Games"
+    ],
+    "publishers": [
+      "ROCKFISH Games"
+    ]
+  },
+  "4542090": {
+    "genres": [
+      "디자인과 일러스트레이션",
+      "유틸리티",
+      "게임 개발"
+    ],
+    "developers": [
+      "Sharp Knife Games"
+    ],
+    "publishers": [
+      "Sharp Knife Games"
+    ]
+  },
+  "3026450": {
+    "genres": [
+      "액션",
+      "인디",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Pixelsplit"
+    ],
+    "publishers": [
+      "Sidekick Publishing"
+    ]
   }
 }
