@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1793137921.0939918,
+  "fetched_at": 1793160894.6671917,
   "deals": [
     {
       "appid": 27436,
@@ -19246,6 +19246,29 @@
       "review_rank": 0
     },
     {
+      "appid": 59676,
+      "name": "Black Book",
+      "discount_percent": 74,
+      "original_price": 27000.0,
+      "final_price": 7100.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/6063ea5b21a447168c522e1e0cbd2c1e/913d88f87f5f4c46af78759c20759d66.jpg",
+      "url": "https://www.greenmangaming.com/games/black-book-pc/",
+      "on_sale": true,
+      "genres": [
+        "어드벤처",
+        "인디",
+        "RPG",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "HYPETRAIN DIGITAL LTD"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 44049,
       "name": "Tiny Tina's Wonderlands: Chaotic Great Edition",
       "discount_percent": 73,
@@ -21226,26 +21249,6 @@
       "review_rank": 0
     },
     {
-      "appid": 60269,
-      "name": "Star Trek: Outposts Unknown",
-      "discount_percent": 10,
-      "original_price": 34500.0,
-      "final_price": 31100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/786b8ea4d96d43b788b0bdfdb1226374/5ad04b7a78c545c9b84996a5300a2169.jpg",
-      "url": "https://www.greenmangaming.com/games/star-trek-outposts-unknown-pc/",
-      "on_sale": true,
-      "genres": [
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Playstack Ltd"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 58255,
       "name": "Beast of Reincarnation - Deluxe Edition",
       "discount_percent": 10,
@@ -21410,6 +21413,26 @@
       "developers": [],
       "publishers": [
         "Giants Software"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60269,
+      "name": "Star Trek: Outposts Unknown",
+      "discount_percent": 0,
+      "original_price": 34500.0,
+      "final_price": 34500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/786b8ea4d96d43b788b0bdfdb1226374/5ad04b7a78c545c9b84996a5300a2169.jpg",
+      "url": "https://www.greenmangaming.com/games/star-trek-outposts-unknown-pc/",
+      "on_sale": false,
+      "genres": [
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Playstack Ltd"
       ],
       "review_desc": null,
       "review_rank": 0

@@ -29876,5 +29876,46 @@
     "publishers": [
       "Indie Devil"
     ]
+  },
+  "3375990": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "전략",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Sangwoon Jin"
+    ],
+    "publishers": [
+      "FLUXJIN"
+    ]
+  },
+  "3218230": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "대규모 멀티플레이어",
+      "RPG",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "XLGAMES"
+    ],
+    "publishers": [
+      "XLGAMES"
+    ]
+  },
+  "4404070": {
+    "genres": [
+      "시뮬레이션"
+    ],
+    "developers": [
+      "GIANTS Software"
+    ],
+    "publishers": [
+      "GIANTS Software"
+    ]
   }
 }
