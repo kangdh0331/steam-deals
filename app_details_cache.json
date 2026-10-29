@@ -30131,5 +30131,59 @@
     "publishers": [
       "S-GAME Publishing"
     ]
+  },
+  "1875580": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Yacht Club Games"
+    ],
+    "publishers": [
+      "Yacht Club Games"
+    ]
+  },
+  "3884860": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "캐주얼"
+    ],
+    "developers": [
+      "Telltale"
+    ],
+    "publishers": [
+      "Telltale",
+      "PM Studios, Inc."
+    ]
+  },
+  "4530370": {
+    "genres": [
+      "시뮬레이션",
+      "스포츠",
+      "전략"
+    ],
+    "developers": [
+      "Sports Interactive"
+    ],
+    "publishers": [
+      "SEGA"
+    ]
+  },
+  "1798230": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "캐주얼",
+      "인디",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Apog Labs"
+    ],
+    "publishers": [
+      "SHUEISHA GAMES"
+    ]
   }
 }

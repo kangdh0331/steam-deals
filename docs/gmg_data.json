@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1793276599.5921907,
+  "fetched_at": 1793312961.2533655,
   "deals": [
     {
       "appid": 27436,
@@ -20842,6 +20842,29 @@
       "review_rank": 0
     },
     {
+      "appid": 60571,
+      "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+      "discount_percent": 26,
+      "original_price": 19900.0,
+      "final_price": 14800.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/019532d9467a421ab152fc732d79f43c/b3443cb491b34003b550e55f42d8cb67.jpg",
+      "url": "https://www.greenmangaming.com/games/probably-stolen-cyberpunk-shopkeeper-sim-pc/",
+      "on_sale": true,
+      "genres": [
+        "인디",
+        "RPG",
+        "전략",
+        "시뮬레이션"
+      ],
+      "developers": [],
+      "publishers": [
+        "tinyBuild Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 58294,
       "name": "Corsair Cove",
       "discount_percent": 25,
@@ -21183,29 +21206,6 @@
       "developers": [],
       "publishers": [
         "Playstation Publishing LLC"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60571,
-      "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
-      "discount_percent": 10,
-      "original_price": 19900.0,
-      "final_price": 18000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/019532d9467a421ab152fc732d79f43c/b3443cb491b34003b550e55f42d8cb67.jpg",
-      "url": "https://www.greenmangaming.com/games/probably-stolen-cyberpunk-shopkeeper-sim-pc/",
-      "on_sale": true,
-      "genres": [
-        "인디",
-        "RPG",
-        "전략",
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "tinyBuild Games"
       ],
       "review_desc": null,
       "review_rank": 0
