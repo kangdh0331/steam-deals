@@ -30035,5 +30035,101 @@
     "publishers": [
       "Sidekick Publishing"
     ]
+  },
+  "2099110": {
+    "genres": [
+      "액션",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Xefier Games",
+      "Hillcrest Games Inc."
+    ],
+    "publishers": [
+      "Xefier Games"
+    ]
+  },
+  "2482760": {
+    "genres": [
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Nacon Studio Ghent"
+    ],
+    "publishers": [
+      "Nacon"
+    ]
+  },
+  "5189500": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "CubeQuad Games"
+    ],
+    "publishers": [
+      "CubeQuad Games"
+    ]
+  },
+  "5344930": {
+    "genres": [
+      "액션",
+      "캐주얼"
+    ],
+    "developers": [
+      "ANDAMIRO"
+    ],
+    "publishers": []
+  },
+  "3447280": {
+    "genres": [
+      "인디",
+      "RPG",
+      "시뮬레이션",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Florian Alushaj"
+    ],
+    "publishers": [
+      "Legendary Pixels"
+    ]
+  },
+  "5072430": {
+    "genres": [
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Isaac MENARD"
+    ],
+    "publishers": [
+      "Isaac MENARD"
+    ]
+  },
+  "2384550": {
+    "genres": [
+      "인디",
+      "애니메이션과 모델링",
+      "동영상 제작"
+    ],
+    "developers": [
+      "DenchiSoft"
+    ],
+    "publishers": []
+  },
+  "5041150": {
+    "genres": [
+      "액션",
+      "RPG"
+    ],
+    "developers": [
+      "S-GAME Studio"
+    ],
+    "publishers": [
+      "S-GAME Publishing"
+    ]
   }
 }
