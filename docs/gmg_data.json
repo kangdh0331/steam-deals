@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1793225739.099788,
+  "fetched_at": 1793248592.3762066,
   "deals": [
     {
       "appid": 27436,
@@ -18120,6 +18120,48 @@
       "review_rank": 0
     },
     {
+      "appid": 23991,
+      "name": "Shadows: Awakening",
+      "discount_percent": 75,
+      "original_price": 35400.0,
+      "final_price": 8900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/97170cc65efa49ea85162163499c041d/f49d8b39c785486cba954698589a2a19.jpg",
+      "url": "https://www.greenmangaming.com/games/shadows-awakening-pc/",
+      "on_sale": true,
+      "genres": [
+        "RPG",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "Kalypso Media"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 36634,
+      "name": "Spacebase Startopia Extended Edition",
+      "discount_percent": 75,
+      "original_price": 49000.0,
+      "final_price": 12300.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/405a4241f5434a1da343bd9eed69f27d/0b63525fe10e49dbb5a3843ab81ca71b.jpg",
+      "url": "https://www.greenmangaming.com/games/spacebase-startopia-extended-edition-pc/",
+      "on_sale": true,
+      "genres": [
+        "시뮬레이션",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Kalypso Media"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 47804,
       "name": "Another Fisherman's Tale",
       "discount_percent": 74,
@@ -20786,31 +20828,6 @@
       "review_rank": 0
     },
     {
-      "appid": 59762,
-      "name": "over the hill",
-      "discount_percent": 28,
-      "original_price": 42900.0,
-      "final_price": 31000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/5d036b5365b741f19140e89a52ad12bc/822ff205d9f44d89909516aaf8c3b39e.jpg",
-      "url": "https://www.greenmangaming.com/games/over-the-hill-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "캐주얼",
-        "인디",
-        "레이싱",
-        "시뮬레이션",
-        "스포츠"
-      ],
-      "developers": [],
-      "publishers": [
-        "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 60392,
       "name": "Warding Witches",
       "discount_percent": 25,
@@ -20981,27 +20998,6 @@
       "developers": [],
       "publishers": [
         "Hooded Horse"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 59936,
-      "name": "Cozy Builder",
-      "discount_percent": 20,
-      "original_price": 16100.0,
-      "final_price": 12900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/77875987de424c6593fb8622afb7d099/67174b133da040ef92c96aa214aff3e0.jpg",
-      "url": "https://www.greenmangaming.com/games/cozy-builder-pc/",
-      "on_sale": true,
-      "genres": [
-        "캐주얼",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "indie.io"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -21372,6 +21368,31 @@
       "review_rank": 0
     },
     {
+      "appid": 59762,
+      "name": "over the hill",
+      "discount_percent": 0,
+      "original_price": 42900.0,
+      "final_price": 42900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/5d036b5365b741f19140e89a52ad12bc/822ff205d9f44d89909516aaf8c3b39e.jpg",
+      "url": "https://www.greenmangaming.com/games/over-the-hill-pc/",
+      "on_sale": false,
+      "genres": [
+        "어드벤처",
+        "캐주얼",
+        "인디",
+        "레이싱",
+        "시뮬레이션",
+        "스포츠"
+      ],
+      "developers": [],
+      "publishers": [
+        "Plug-in Digital"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 59986,
       "name": "Valor Mortis",
       "discount_percent": 0,
@@ -21411,6 +21432,27 @@
       "developers": [],
       "publishers": [
         "Lyrical Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 59936,
+      "name": "Cozy Builder",
+      "discount_percent": 0,
+      "original_price": 16100.0,
+      "final_price": 16100.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/77875987de424c6593fb8622afb7d099/67174b133da040ef92c96aa214aff3e0.jpg",
+      "url": "https://www.greenmangaming.com/games/cozy-builder-pc/",
+      "on_sale": false,
+      "genres": [
+        "캐주얼",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "indie.io"
       ],
       "review_desc": null,
       "review_rank": 0
