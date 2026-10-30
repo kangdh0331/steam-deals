@@ -30185,5 +30185,32 @@
     "publishers": [
       "SHUEISHA GAMES"
     ]
+  },
+  "291550": {
+    "genres": [
+      "액션",
+      "인디",
+      "무료 플레이"
+    ],
+    "developers": [
+      "Blue Mammoth Games"
+    ],
+    "publishers": [
+      "Ubisoft"
+    ]
+  },
+  "4096830": {
+    "genres": [
+      "어드벤처",
+      "캐주얼",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Abylight Barcelona"
+    ],
+    "publishers": [
+      "Abylight Studios"
+    ]
   }
 }
