@@ -30212,5 +30212,102 @@
     "publishers": [
       "Abylight Studios"
     ]
+  },
+  "4261080": {
+    "genres": [
+      "어드벤처",
+      "RPG"
+    ],
+    "developers": [
+      "Chubby Meow Game"
+    ],
+    "publishers": [
+      "Gamersky Games"
+    ]
+  },
+  "4715160": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "DESTINYbit"
+    ],
+    "publishers": [
+      "Pretty Soon"
+    ]
+  },
+  "2325460": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "스포츠"
+    ],
+    "developers": [
+      "SQUARE PIXELS",
+      "Neonovice Co., Ltd."
+    ],
+    "publishers": [
+      "Neonovice Co., Ltd."
+    ]
+  },
+  "2920220": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "전략",
+      "무료 플레이"
+    ],
+    "developers": [
+      "WDR Studios LLC"
+    ],
+    "publishers": [
+      "Digital Pajamas",
+      "Behaviour Interactive Inc."
+    ]
+  },
+  "3144010": {
+    "genres": [
+      "캐주얼",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "studio rabbiko"
+    ],
+    "publishers": [
+      "studio rabbiko",
+      "Wholesome Games Presents"
+    ]
+  },
+  "5445520": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "스포츠"
+    ],
+    "developers": [
+      "SQUARE PIXELS",
+      "Neonovice Co., Ltd."
+    ],
+    "publishers": [
+      "Neonovice Co., Ltd."
+    ]
+  },
+  "5362340": {
+    "genres": [
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Frontier Developments"
+    ],
+    "publishers": [
+      "Frontier Developments"
+    ]
   }
 }
