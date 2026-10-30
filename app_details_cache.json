@@ -30309,5 +30309,58 @@
     "publishers": [
       "Frontier Developments"
     ]
+  },
+  "1023700": {
+    "genres": [
+      "어드벤처"
+    ],
+    "developers": [
+      "KOGADO STUDIO"
+    ],
+    "publishers": [
+      "KOMODO"
+    ]
+  },
+  "2688860": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "스포츠"
+    ],
+    "developers": [
+      "SQUARE PIXELS",
+      "Neonovice Co., Ltd."
+    ],
+    "publishers": [
+      "Neonovice Co., Ltd."
+    ]
+  },
+  "5031210": {
+    "genres": [
+      "시뮬레이션",
+      "전략",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Black Duke Games"
+    ],
+    "publishers": [
+      "Black Duke Games",
+      "Three River Games (3RG)"
+    ]
+  },
+  "4714010": {
+    "genres": [
+      "액션",
+      "인디",
+      "스포츠",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "TurtlePunch Studios"
+    ],
+    "publishers": [
+      "TurtlePunch Studios"
+    ]
   }
 }
