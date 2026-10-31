@@ -30423,5 +30423,20 @@
     "publishers": [
       "Asobimo, Inc."
     ]
+  },
+  "781030": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "대규모 멀티플레이어",
+      "RPG",
+      "무료 플레이"
+    ],
+    "developers": [
+      "Masangsoft"
+    ],
+    "publishers": [
+      "Masangsoft"
+    ]
   }
 }
