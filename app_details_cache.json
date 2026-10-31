@@ -30398,5 +30398,30 @@
     "publishers": [
       "Future Friends Games"
     ]
+  },
+  "1643310": {
+    "genres": [
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Realmforge Studios"
+    ],
+    "publishers": [
+      "Kalypso Media"
+    ]
+  },
+  "1827180": {
+    "genres": [
+      "대규모 멀티플레이어",
+      "RPG",
+      "무료 플레이"
+    ],
+    "developers": [
+      "Asobimo, Inc."
+    ],
+    "publishers": [
+      "Asobimo, Inc."
+    ]
   }
 }
