@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1793397526.8462348,
+  "fetched_at": 1793420326.543777,
   "deals": [
     {
       "appid": 39339,
@@ -18589,6 +18589,29 @@
       "review_rank": 0
     },
     {
+      "appid": 43016,
+      "name": "Donut County",
+      "discount_percent": 75,
+      "original_price": 16000.0,
+      "final_price": 4000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/ad442d710d124ddba5b13978bbb53de2/ab615ecf5d194ba0aab0f38cf03ce7a4.jpg",
+      "url": "https://www.greenmangaming.com/games/donut-county-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처",
+        "가족",
+        "퍼즐"
+      ],
+      "developers": [],
+      "publishers": [
+        "Annapurna Interactive"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 47804,
       "name": "Another Fisherman's Tale",
       "discount_percent": 74,
@@ -21036,27 +21059,6 @@
       "review_rank": 0
     },
     {
-      "appid": 60080,
-      "name": "Beyond These Stars",
-      "discount_percent": 20,
-      "original_price": 29900.0,
-      "final_price": 24000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/a0d523f2c8a549eb86952f98b1a4b795/3b1968af6dfa448cad59c4fb4f9b772e.jpg",
-      "url": "https://www.greenmangaming.com/games/beyond-these-stars-pc/",
-      "on_sale": true,
-      "genres": [
-        "시뮬레이션",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Hooded Horse"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 59857,
       "name": "Valheim",
       "discount_percent": 17,
@@ -21377,6 +21379,27 @@
       "developers": [],
       "publishers": [
         "Waleedzo"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60080,
+      "name": "Beyond These Stars",
+      "discount_percent": 0,
+      "original_price": 29900.0,
+      "final_price": 29900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/a0d523f2c8a549eb86952f98b1a4b795/3b1968af6dfa448cad59c4fb4f9b772e.jpg",
+      "url": "https://www.greenmangaming.com/games/beyond-these-stars-pc/",
+      "on_sale": false,
+      "genres": [
+        "시뮬레이션",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Hooded Horse"
       ],
       "review_desc": null,
       "review_rank": 0

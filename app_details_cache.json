@@ -30362,5 +30362,41 @@
     "publishers": [
       "TurtlePunch Studios"
     ]
+  },
+  "411950": {
+    "genres": [
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Eagle Dynamics SA"
+    ],
+    "publishers": [
+      "Eagle Dynamics SA"
+    ]
+  },
+  "4386090": {
+    "genres": [
+      "캐주얼"
+    ],
+    "developers": [
+      "Studio LEF"
+    ],
+    "publishers": [
+      "Studio LEF"
+    ]
+  },
+  "1799840": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "Freshly Baked Games LLC"
+    ],
+    "publishers": [
+      "Future Friends Games"
+    ]
   }
 }
