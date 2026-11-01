@@ -30438,5 +30438,45 @@
     "publishers": [
       "Masangsoft"
     ]
+  },
+  "872670": {
+    "genres": [
+      "액션",
+      "인디",
+      "대규모 멀티플레이어",
+      "전략",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Affray Interactive"
+    ],
+    "publishers": [
+      "Balor Games"
+    ]
+  },
+  "3347910": {
+    "genres": [
+      "액션",
+      "인디"
+    ],
+    "developers": [
+      "Sokpop Collective"
+    ],
+    "publishers": [
+      "Sokpop Collective"
+    ]
+  },
+  "5109220": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "RPG"
+    ],
+    "developers": [
+      "Ubisoft"
+    ],
+    "publishers": [
+      "Ubisoft"
+    ]
   }
 }
