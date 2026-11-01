@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1793537145.0226357,
+  "fetched_at": 1793569513.653508,
   "deals": [
     {
       "appid": 39339,
@@ -807,27 +807,6 @@
       "developers": [],
       "publishers": [
         "2K Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 52556,
-      "name": "Funko Fusion",
-      "discount_percent": 91,
-      "original_price": 37500.0,
-      "final_price": 3500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/2d7b67c4332742eea3e5dd679d821ae0/b8e52a6697c04ef6b8d6eedc3ab48456.jpg",
-      "url": "https://www.greenmangaming.com/games/funko-fusion-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "1010 Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -2114,27 +2093,6 @@
       "review_rank": 0
     },
     {
-      "appid": 53334,
-      "name": "Funko Fusion - Invincible Pack",
-      "discount_percent": 90,
-      "original_price": 11000.0,
-      "final_price": 1100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/a0b9eb344b9c42769ed7ecc3cf637997/1c38f99fbb5945409b172361a26c8776.jpg",
-      "url": "https://www.greenmangaming.com/games/funko-fusion-invincible-pack-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "1010 Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 21261,
       "name": "White Day: A Labyrinth Named School",
       "discount_percent": 90,
@@ -2150,27 +2108,6 @@
       "developers": [],
       "publishers": [
         "PQube Limited"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 53692,
-      "name": "Funko Fusion - Mega Man Pack",
-      "discount_percent": 90,
-      "original_price": 11000.0,
-      "final_price": 1100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/bb9ba2be4821411cb9cf6138abdf2f7e/8b55e76ac8354bd9a4d2c1c51c5632d1.jpg",
-      "url": "https://www.greenmangaming.com/games/funko-fusion-mega-man-pack-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "1010 Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -2215,28 +2152,6 @@
       "developers": [],
       "publishers": [
         "3DClouds"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 54142,
-      "name": "Funko Fusion - Universal Monsters Pack",
-      "discount_percent": 90,
-      "original_price": 11000.0,
-      "final_price": 1100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/75dcad3625f14482bbed5e3682b50beb/85ab515915394911b52e1ce6f51e9cd8.jpg",
-      "url": "https://www.greenmangaming.com/games/funko-fusion-universal-monsters-pack-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "캐주얼"
-      ],
-      "developers": [],
-      "publishers": [
-        "1010 Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -4692,27 +4607,6 @@
       "review_rank": 0
     },
     {
-      "appid": 55519,
-      "name": "Funko Fusion - The Walking Dead Pack",
-      "discount_percent": 88,
-      "original_price": 11000.0,
-      "final_price": 1300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/170cae1b5ff245829e21c7367d8c7257/f9b0b17ad924462590bec1fc1817909f.jpg",
-      "url": "https://www.greenmangaming.com/games/funko-fusion-the-walking-dead-pack-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "1010 Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 23092,
       "name": "Warhammer 40,000: Mechanicus",
       "discount_percent": 88,
@@ -5701,27 +5595,6 @@
       "developers": [],
       "publishers": [
         "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 48855,
-      "name": "GONNER2",
-      "discount_percent": 86,
-      "original_price": 14500.0,
-      "final_price": 2000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/b076c9fbe9fc403cb76acfdddf7ec92e/e98b6fbf5dd24b829fa136e7e2669e6f.jpg",
-      "url": "https://www.greenmangaming.com/games/gonner2-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Raw Fury"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -9038,28 +8911,6 @@
       "review_rank": 0
     },
     {
-      "appid": 48977,
-      "name": "West of Dead",
-      "discount_percent": 82,
-      "original_price": 21500.0,
-      "final_price": 3800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/9288140177fc49a198a64e9a5de16718/da48da0684a94af28a8de360ab22221f.jpg",
-      "url": "https://www.greenmangaming.com/games/west-of-dead-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Raw Fury"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 37677,
       "name": "Borderlands 3: Ultimate Edition (EPIC)",
       "discount_percent": 82,
@@ -9201,27 +9052,6 @@
       "developers": [],
       "publishers": [
         "RockGame SA"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 48823,
-      "name": "Tails Noir",
-      "discount_percent": 82,
-      "original_price": 27000.0,
-      "final_price": 4800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/209e8c8e91cf4472b0381fc3453bf3b9/2728874d374f4dddbda5dbf813f44134.jpg",
-      "url": "https://www.greenmangaming.com/games/tails-noir-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Raw Fury"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -10235,215 +10065,6 @@
       "review_rank": 0
     },
     {
-      "appid": 60249,
-      "name": "HUNTDOWN",
-      "discount_percent": 81,
-      "original_price": 22000.0,
-      "final_price": 4100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/bdb9b212d74a4ceb89613dd87a5852d9/4fad6b0488184dd5a25705cf3ccbe75f.jpg",
-      "url": "https://www.greenmangaming.com/games/huntdown-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Coffee Stain Publishing AB"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60301,
-      "name": "Goat Simulator",
-      "discount_percent": 81,
-      "original_price": 11000.0,
-      "final_price": 2100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/e3da856d9ace42c6a65b5005d1e7f53c/109f45f60a82463da081774088ce50d0.jpg",
-      "url": "https://www.greenmangaming.com/games/goat-simulator-pc/",
-      "on_sale": true,
-      "genres": [
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Coffee Stain Publishing AB"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 55323,
-      "name": "Funko Fusion - Manchester City Pack",
-      "discount_percent": 81,
-      "original_price": 11000.0,
-      "final_price": 2100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/bd99004dc50343cdaf7509686c255cd7/046e2fc44a7c432885a0d110c0f89b8d.jpg",
-      "url": "https://www.greenmangaming.com/games/funko-fusion-manchester-city-pack-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "1010 Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60264,
-      "name": "Sanctum: Map Pack 2",
-      "discount_percent": 81,
-      "original_price": 7000.0,
-      "final_price": 1300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/ffd4872004924baa86746d3f17d2509a/dda9cb7c28904937986016efbe37a20d.jpg",
-      "url": "https://www.greenmangaming.com/games/sanctum-map-pack-2-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "전략",
-        "인디",
-        "캐주얼"
-      ],
-      "developers": [],
-      "publishers": [
-        "Coffee Stain Publishing AB"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60285,
-      "name": "Sanctum",
-      "discount_percent": 81,
-      "original_price": 11000.0,
-      "final_price": 2100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/c68ff433108c4d6881131df885146d56/e8b1cd610cc540a0b30534023b78a206.jpg",
-      "url": "https://www.greenmangaming.com/games/sanctum-pc/",
-      "on_sale": true,
-      "genres": [
-        "슈팅",
-        "액션",
-        "Mac"
-      ],
-      "developers": [],
-      "publishers": [
-        "Coffee Stain Publishing AB"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60263,
-      "name": "Sanctum: Map Pack 1",
-      "discount_percent": 81,
-      "original_price": 7000.0,
-      "final_price": 1300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/34085a87110e4e0ab00cb6d1ae404119/d0df3d97cf004e6c95b6f6cdf6919a7f.jpg",
-      "url": "https://www.greenmangaming.com/games/sanctum-map-pack-1-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Coffee Stain Publishing AB"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60266,
-      "name": "Sanctum 2: The Last Stand",
-      "discount_percent": 81,
-      "original_price": 7000.0,
-      "final_price": 1300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/de51a0256dfc48b49e75028b50b322a5/c9a241c9fc2142f99c78c0698eaa2924.jpg",
-      "url": "https://www.greenmangaming.com/games/sanctum-2-the-last-stand-pc/",
-      "on_sale": true,
-      "genres": [
-        "전략",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Coffee Stain Publishing AB"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60265,
-      "name": "Sanctum 2: The Pursuit",
-      "discount_percent": 81,
-      "original_price": 7000.0,
-      "final_price": 1300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/95b75bd00a15443797f3f9b6c93001ea/1ce77091290640d4967c3ed886c530e1.jpg",
-      "url": "https://www.greenmangaming.com/games/sanctum-2-the-pursuit-pc/",
-      "on_sale": true,
-      "genres": [
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Coffee Stain Publishing AB"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60277,
-      "name": "Sanctum 2: Road to Elysion",
-      "discount_percent": 81,
-      "original_price": 7000.0,
-      "final_price": 1300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/5285bbf01dbc458180e767070ba258fc/de2dbdeee87d45158f3c534dc508bcb7.jpg",
-      "url": "https://www.greenmangaming.com/games/sanctum-2-road-to-elysion-pc/",
-      "on_sale": true,
-      "genres": [
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Coffee Stain Publishing AB"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60267,
-      "name": "Sanctum 2: Ruins of Brightholme",
-      "discount_percent": 81,
-      "original_price": 7000.0,
-      "final_price": 1300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/4fa2d5396b7a4f5897376f434351d5fe/9ac2ad15a4e845118485149a68615f5c.jpg",
-      "url": "https://www.greenmangaming.com/games/sanctum-2-ruins-of-brightholme-pc/",
-      "on_sale": true,
-      "genres": [
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Coffee Stain Publishing AB"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 52244,
       "name": "Wild Bastards",
       "discount_percent": 81,
@@ -10723,27 +10344,6 @@
       "developers": [],
       "publishers": [
         "Thunderful Publishing AB"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 53178,
-      "name": "Funko Fusion - Bob Ross Pack",
-      "discount_percent": 80,
-      "original_price": 5600.0,
-      "final_price": 1100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/9a892767d36f486f93c51d064765220d/a667d1dc75264e6da1e66108a5102ed8.jpg",
-      "url": "https://www.greenmangaming.com/games/funko-fusion-bob-ross-pack-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "1010 Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -13487,114 +13087,6 @@
       "review_rank": 0
     },
     {
-      "appid": 60302,
-      "name": "Goat Simulator : Waste of Space",
-      "discount_percent": 79,
-      "original_price": 5600.0,
-      "final_price": 1200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/0155867ac31c47c9aa29f1f174c97025/bc03a85a5cb5446f95e2a5c0e5bf3781.jpg",
-      "url": "https://www.greenmangaming.com/games/goat-simulator-waste-of-space-pc/",
-      "on_sale": true,
-      "genres": [
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Coffee Stain Publishing AB"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60328,
-      "name": "Goat Simulator: GoatZ",
-      "discount_percent": 79,
-      "original_price": 5600.0,
-      "final_price": 1200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/6ee08a2e716c4a9aabe17d2903966ed5/27fde7b6c8bd48d98468403e620ac88c.jpg",
-      "url": "https://www.greenmangaming.com/games/goat-simulator-goatz-pc/",
-      "on_sale": true,
-      "genres": [
-        "캐주얼",
-        "시뮬레이션",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Coffee Stain Publishing AB"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60317,
-      "name": "Goat Simulator: PAYDAY",
-      "discount_percent": 79,
-      "original_price": 5600.0,
-      "final_price": 1200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/79c3799099ae4ac38253f2b5ff60ea83/35efc97150e74c3cac5372165602f7a3.jpg",
-      "url": "https://www.greenmangaming.com/games/goat-simulator-payday-pc/",
-      "on_sale": true,
-      "genres": [
-        "시뮬레이션",
-        "인디",
-        "캐주얼"
-      ],
-      "developers": [],
-      "publishers": [
-        "Coffee Stain Publishing AB"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60262,
-      "name": "Super Sanctum TD",
-      "discount_percent": 79,
-      "original_price": 5600.0,
-      "final_price": 1200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/9476d353dbec43758dd2bf2312ecb74e/fa17ff0dec8d426c9dd1e18d273cd7f9.jpg",
-      "url": "https://www.greenmangaming.com/games/super-sanctum-td-pc/",
-      "on_sale": true,
-      "genres": [
-        "캐주얼",
-        "인디",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Coffee Stain Publishing AB"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60284,
-      "name": "Sanctum 2: Britech Skin Pack",
-      "discount_percent": 79,
-      "original_price": 5600.0,
-      "final_price": 1200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/cea900b554c1494089c1555fd1c76c2e/08a57a70c22c43d1a5dfc8549c2249b9.jpg",
-      "url": "https://www.greenmangaming.com/games/sanctum-2-britech-skin-pack-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Coffee Stain Publishing AB"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 21027,
       "name": "Star Vikings Forever",
       "discount_percent": 79,
@@ -13757,116 +13249,6 @@
       "developers": [],
       "publishers": [
         "Kalypso Media"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 55327,
-      "name": "Funko Fusion - Jurassic World Rebirth Pack 2",
-      "discount_percent": 79,
-      "original_price": 5600.0,
-      "final_price": 1200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/d7805f06c0014198ac8a7e5f1c1ca07a/26376373b53e421c8aeb5473f66fe9d4.jpg",
-      "url": "https://www.greenmangaming.com/games/funko-fusion-jurassic-world-rebirth-pack-2-dr-henry-loomis-and-raptor-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디",
-        "캐주얼",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "1010 Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 55325,
-      "name": "Funko Fusion - Jurassic World Rebirth Pack 1 -Zora Bennett and Spinosaurus",
-      "discount_percent": 79,
-      "original_price": 5600.0,
-      "final_price": 1200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/73a37da3783c450089680d40d5551c63/39ecfa24e6cb417e8e71fdccf0d29133.jpg",
-      "url": "https://www.greenmangaming.com/games/funko-fusion-jurassic-world-rebirth-pack-1-zora-bennett-and-spinosaurus-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디",
-        "캐주얼",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "1010 Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 53995,
-      "name": "Funko Fusion - Wicked Movie Pack 1",
-      "discount_percent": 79,
-      "original_price": 5600.0,
-      "final_price": 1200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/e91cc9dce4304f12aa8999e2437ffd1c/e1c410209b0f4622a8853601005c2d82.jpg",
-      "url": "https://www.greenmangaming.com/games/funko-fusion-wicked-movie-pack-1-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "1010 Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 53992,
-      "name": "Funko Fusion - Wicked Movie Pack 2",
-      "discount_percent": 79,
-      "original_price": 5600.0,
-      "final_price": 1200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/0f7c7fb5d1e24d678cfbc5cb736d1a21/0bcfde8cc53d46de9c68675bc2197f9e.jpg",
-      "url": "https://www.greenmangaming.com/games/funko-fusion-wicked-movie-pack-2-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "1010 Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 54389,
-      "name": "Funko Fusion - Wicked Movie Pack 3",
-      "discount_percent": 79,
-      "original_price": 5600.0,
-      "final_price": 1200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/d4f680798c9648a7a1c60761d4b7f534/01b36a87f65c4915a80c5a61c95567fc.jpg",
-      "url": "https://www.greenmangaming.com/games/funko-fusion-wicked-movie-pack-3-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "캐주얼",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "1010 Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -14161,27 +13543,6 @@
       "developers": [],
       "publishers": [
         "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 48854,
-      "name": "Kathy Rain: Director's Cut",
-      "discount_percent": 78,
-      "original_price": 16500.0,
-      "final_price": 3700.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/a90f20650b86456b8b4e4a4bd514eed8/8764a41d194b4e27a04627987a331efe.jpg",
-      "url": "https://www.greenmangaming.com/games/kathy-rain-directors-cut-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Raw Fury"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -14769,29 +14130,6 @@
       "developers": [],
       "publishers": [
         "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 48407,
-      "name": "Dome Keeper",
-      "discount_percent": 77,
-      "original_price": 19500.0,
-      "final_price": 4400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/af7593943e5645e4b96beed9de0b3c6e/68ae094da3d24fb2a3627b5b117ecd25.jpg",
-      "url": "https://www.greenmangaming.com/games/dome-keeper-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "시뮬레이션",
-        "인디",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Raw Fury"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -15494,27 +14832,6 @@
       "review_rank": 0
     },
     {
-      "appid": 60292,
-      "name": "Midnight Ghost Hunt",
-      "discount_percent": 77,
-      "original_price": 22000.0,
-      "final_price": 5100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/a76ef7ecd0314d5eb37187038b1815d2/fa96d8c77c17480eb9e76162191516d6.jpg",
-      "url": "https://www.greenmangaming.com/games/midnight-ghost-hunt-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Coffee Stain Publishing AB"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 5618,
       "name": "Silent Hunter IV: Wolves of the Pacific Gold",
       "discount_percent": 77,
@@ -16107,27 +15424,6 @@
       "developers": [],
       "publishers": [
         "2K Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 53589,
-      "name": "Funko Fusion - The Office Cameo Pack",
-      "discount_percent": 76,
-      "original_price": 11000.0,
-      "final_price": 2600.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/22576589a438447ebca95169abef2f00/3a68e1cc22ee44299990d5d572234005.jpg",
-      "url": "https://www.greenmangaming.com/games/funko-fusion-the-office-cameo-pack-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "1010 Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -18568,6 +17864,240 @@
       "review_rank": 0
     },
     {
+      "appid": 48351,
+      "name": "Terra Bomber",
+      "discount_percent": 75,
+      "original_price": 5600.0,
+      "final_price": 1400.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/1697945d07af404e962f064dd28d973c/946a04258fe7475aa5937ea1ba2c9841.jpg",
+      "url": "https://www.greenmangaming.com/games/terra-bomber-pc/",
+      "on_sale": true,
+      "genres": [
+        "캐주얼",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Funbox Media Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 48295,
+      "name": "KYOKI",
+      "discount_percent": 75,
+      "original_price": 5600.0,
+      "final_price": 1400.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/15542dfd62ea4174bd29c6a57b44bce7/9f5999b4b98c4695bf6c5346850ca414.jpg",
+      "url": "https://www.greenmangaming.com/games/kyoki-pc/",
+      "on_sale": true,
+      "genres": [
+        "캐주얼",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Funbox Media Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 43048,
+      "name": "Gorogoa",
+      "discount_percent": 75,
+      "original_price": 18000.0,
+      "final_price": 4500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/e060b30357c24143b6731547eb4e53be/28f20cd1794f49c9b5970b1aca4610c6.jpg",
+      "url": "https://www.greenmangaming.com/games/gorogoa-pc/",
+      "on_sale": true,
+      "genres": [
+        "어드벤처",
+        "캐주얼",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Annapurna Interactive"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 43036,
+      "name": "Wattam",
+      "discount_percent": 75,
+      "original_price": 24000.0,
+      "final_price": 6000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/02a48baa92294f4a815ddf32a7eee377/3cff1d8275e64941a9a5719ad3968d8e.jpg",
+      "url": "https://www.greenmangaming.com/games/wattam-pc/",
+      "on_sale": true,
+      "genres": [
+        "어드벤처",
+        "캐주얼",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Annapurna Interactive"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 43053,
+      "name": "I Am Dead",
+      "discount_percent": 75,
+      "original_price": 24000.0,
+      "final_price": 6000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/8571324e00764527b62558a67d5bbd32/3d0e95a5ba7d4603a3e6aee38591831e.jpg",
+      "url": "https://www.greenmangaming.com/games/i-am-dead-pc/",
+      "on_sale": true,
+      "genres": [
+        "어드벤처",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Annapurna Interactive"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 41958,
+      "name": "Recipe for Disaster",
+      "discount_percent": 75,
+      "original_price": 16500.0,
+      "final_price": 4200.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/db8d4e5a030c469693b02a0fac5d9902/c0670993ca4744ecb448f06424a6e9fe.jpg",
+      "url": "https://www.greenmangaming.com/games/recipe-for-disaster-pc/",
+      "on_sale": true,
+      "genres": [
+        "캐주얼",
+        "인디",
+        "전략",
+        "시뮬레이션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Kasedo Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 36520,
+      "name": "Horizon Shift '81",
+      "discount_percent": 75,
+      "original_price": 9500.0,
+      "final_price": 2400.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/129c2eda0a7a44c7a18debcc181d5d24/28e06597ecc742fe9daa28d74e2ce140.jpg",
+      "url": "https://www.greenmangaming.com/games/horizon-shift-81-pc/",
+      "on_sale": true,
+      "genres": [
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Funbox Media Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 11898,
+      "name": "Hyper Bounce Blast",
+      "discount_percent": 75,
+      "original_price": 5500.0,
+      "final_price": 1400.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/0eb50dbd54c84d2bb8bda954a281618e/f765a133763442728c94fcbaa48eb216.jpg",
+      "url": "https://www.greenmangaming.com/games/hyper-bounce-blast/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Funbox Media Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 8326,
+      "name": "Horizon Shift",
+      "discount_percent": 75,
+      "original_price": 5500.0,
+      "final_price": 1400.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/c0ee18154eff4e91a8498ab4308f092b/7644779ae479479d80feb68d74a3e607.jpg",
+      "url": "https://www.greenmangaming.com/games/horizon-shift/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Funbox Media Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 23991,
+      "name": "Shadows: Awakening",
+      "discount_percent": 75,
+      "original_price": 35400.0,
+      "final_price": 8900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/97170cc65efa49ea85162163499c041d/f49d8b39c785486cba954698589a2a19.jpg",
+      "url": "https://www.greenmangaming.com/games/shadows-awakening-pc/",
+      "on_sale": true,
+      "genres": [
+        "RPG",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "Kalypso Media"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 36634,
+      "name": "Spacebase Startopia Extended Edition",
+      "discount_percent": 75,
+      "original_price": 49000.0,
+      "final_price": 12300.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/405a4241f5434a1da343bd9eed69f27d/0b63525fe10e49dbb5a3843ab81ca71b.jpg",
+      "url": "https://www.greenmangaming.com/games/spacebase-startopia-extended-edition-pc/",
+      "on_sale": true,
+      "genres": [
+        "시뮬레이션",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Kalypso Media"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 47804,
       "name": "Another Fisherman's Tale",
       "discount_percent": 74,
@@ -19233,6 +18763,449 @@
       "review_rank": 0
     },
     {
+      "appid": 43042,
+      "name": "Ashen - Nightstorm Isle",
+      "discount_percent": 74,
+      "original_price": 12500.0,
+      "final_price": 3200.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/64b45a7f69e440f7a1e2243a040f8959/bd5affe38bb84697b5bec5920927340b.jpg",
+      "url": "https://www.greenmangaming.com/games/ashen-nightstorm-isle-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "Annapurna Interactive"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 48319,
+      "name": "Premier Manager 02/03",
+      "discount_percent": 74,
+      "original_price": 3400.0,
+      "final_price": 900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/d1ea02c4142c40b394b1bb29234c6073/d32b2d3190b949179042da309fafb202.jpg",
+      "url": "https://www.greenmangaming.com/games/premier-manager-02-03-pc/",
+      "on_sale": true,
+      "genres": [
+        "시뮬레이션",
+        "스포츠"
+      ],
+      "developers": [],
+      "publishers": [
+        "Funbox Media Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 48323,
+      "name": "Premier Manager 04/05",
+      "discount_percent": 74,
+      "original_price": 3400.0,
+      "final_price": 900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/fb3a9ebac25740ff8ddffd3c787b57d4/631243ebc3e2402ba9fae9d7d4019a6c.jpg",
+      "url": "https://www.greenmangaming.com/games/premier-manager-04-05-pc/",
+      "on_sale": true,
+      "genres": [
+        "시뮬레이션",
+        "스포츠"
+      ],
+      "developers": [],
+      "publishers": [
+        "Funbox Media Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 9437,
+      "name": "Marine Sharpshooter II: Jungle Warfare",
+      "discount_percent": 74,
+      "original_price": 3400.0,
+      "final_price": 900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/35b8749afbed4133b2aceeae348b38ff/f2f252c2311a46f5bf2fcd8c4f44cc9b.jpg",
+      "url": "https://www.greenmangaming.com/games/marine-sharpshooter-ii-jungle-warfare/",
+      "on_sale": true,
+      "genres": [
+        "슈팅"
+      ],
+      "developers": [],
+      "publishers": [
+        "Funbox Media Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 9476,
+      "name": "Terra Lander",
+      "discount_percent": 74,
+      "original_price": 3400.0,
+      "final_price": 900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/3e697330dae148759209654ab5e981d1/86ab38afd3e34d7d9d23a6c838a621f1.jpg",
+      "url": "https://www.greenmangaming.com/games/terra-lander/",
+      "on_sale": true,
+      "genres": [
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Funbox Media Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 17113,
+      "name": "Krinkle Krusher",
+      "discount_percent": 74,
+      "original_price": 3400.0,
+      "final_price": 900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/a2c5f85bc05a4bf8925caea052ed836d/390ab2eb61384934bf1aa5379d83a93d.jpg",
+      "url": "https://www.greenmangaming.com/games/krinkle-krusher/",
+      "on_sale": true,
+      "genres": [
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Funbox Media Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 9421,
+      "name": "Hyper Fighters",
+      "discount_percent": 74,
+      "original_price": 3400.0,
+      "final_price": 900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/eac81c814add4571bf794077ca081c7f/7b8718d931ff46f380903b579576dd6b.jpg",
+      "url": "https://www.greenmangaming.com/games/hyper-fighters/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "슈팅"
+      ],
+      "developers": [],
+      "publishers": [
+        "Funbox Media Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 9426,
+      "name": "Incoming Forces",
+      "discount_percent": 74,
+      "original_price": 3400.0,
+      "final_price": 900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/fa2bd4661e9548baadfff9af5fe184ed/e3c2c34ba9984b16996c187b4cb78dae.jpg",
+      "url": "https://www.greenmangaming.com/games/incoming-forces/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "슈팅"
+      ],
+      "developers": [],
+      "publishers": [
+        "Funbox Media Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 48349,
+      "name": "Premier Manager 09",
+      "discount_percent": 74,
+      "original_price": 3400.0,
+      "final_price": 900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/39e7f20273154c26b66cdca44d84a2d5/6291679b8e374833b663e72c2cf79389.jpg",
+      "url": "https://www.greenmangaming.com/games/premier-manager-09-pc/",
+      "on_sale": true,
+      "genres": [
+        "시뮬레이션",
+        "스포츠"
+      ],
+      "developers": [],
+      "publishers": [
+        "Funbox Media Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 9454,
+      "name": "Pressured\t",
+      "discount_percent": 74,
+      "original_price": 3400.0,
+      "final_price": 900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/cdf8a1063c7049ee90d4a9436db7acfd/b37c1aff512a405090bab70e2efe7665.jpg",
+      "url": "https://www.greenmangaming.com/games/pressured/",
+      "on_sale": true,
+      "genres": [
+        "인디",
+        "퍼즐"
+      ],
+      "developers": [],
+      "publishers": [
+        "Funbox Media Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 48333,
+      "name": "Premier Manager 08",
+      "discount_percent": 74,
+      "original_price": 3400.0,
+      "final_price": 900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/ff18f33e4365492bac8b0a40bc85ed11/600b96e943d24f519f270c160febdb52.jpg",
+      "url": "https://www.greenmangaming.com/games/premier-manager-08-pc/",
+      "on_sale": true,
+      "genres": [
+        "시뮬레이션",
+        "스포츠"
+      ],
+      "developers": [],
+      "publishers": [
+        "Funbox Media Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 36717,
+      "name": "Madness of the Architect",
+      "discount_percent": 74,
+      "original_price": 3400.0,
+      "final_price": 900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/535b4845f31f4f509bf17591be5fa0a0/26da008d155548a291a1910edbc9c3b3.jpg",
+      "url": "https://www.greenmangaming.com/games/madness-of-the-architect-pc/",
+      "on_sale": true,
+      "genres": [
+        "어드벤처",
+        "인디",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Funbox Media Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 36498,
+      "name": "Casino Poker",
+      "discount_percent": 74,
+      "original_price": 3400.0,
+      "final_price": 900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/dcf17a78fd834d5390d57297b1c83fa9/d2d877d9cea34d0d996695101c71a3ac.jpg",
+      "url": "https://www.greenmangaming.com/games/casino-poker-pc/",
+      "on_sale": true,
+      "genres": [
+        "캐주얼",
+        "인디",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Funbox Media Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 48325,
+      "name": "Premier Manager 05/06",
+      "discount_percent": 74,
+      "original_price": 3400.0,
+      "final_price": 900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/c63d6b409eae463d846e2a847a3377b8/56549c3a5f1b4c369ebbb28c2e95e698.jpg",
+      "url": "https://www.greenmangaming.com/games/premier-manager-05-06-pc/",
+      "on_sale": true,
+      "genres": [
+        "시뮬레이션",
+        "스포츠"
+      ],
+      "developers": [],
+      "publishers": [
+        "Funbox Media Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 36506,
+      "name": "Cosmic Buddies Town",
+      "discount_percent": 74,
+      "original_price": 3400.0,
+      "final_price": 900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/1f0c06a04acb4a5f8ba3df2faa2367de/570b8894c03149c396781a1e96e8c441.jpg",
+      "url": "https://www.greenmangaming.com/games/cosmic-buddies-town-pc/",
+      "on_sale": true,
+      "genres": [
+        "시뮬레이션",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Funbox Media Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 48329,
+      "name": "Premier Manager 06/07",
+      "discount_percent": 74,
+      "original_price": 3400.0,
+      "final_price": 900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/afed2fcc85ba488abb082ab8eebaba89/c4dc88f321ac40b3b4f017728eea846a.jpg",
+      "url": "https://www.greenmangaming.com/games/premier-manager-06-07-pc/",
+      "on_sale": true,
+      "genres": [
+        "시뮬레이션",
+        "스포츠"
+      ],
+      "developers": [],
+      "publishers": [
+        "Funbox Media Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 9480,
+      "name": "Top Trumps™ Turbo",
+      "discount_percent": 74,
+      "original_price": 3400.0,
+      "final_price": 900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/e5c8b90dff6a45e584f7a2dd8c405e7a/36d42c8e12724c99af86d875672f2c61.jpg",
+      "url": "https://www.greenmangaming.com/games/top-trumps-turbo/",
+      "on_sale": true,
+      "genres": [
+        "전략",
+        "Mac",
+        "리눅스"
+      ],
+      "developers": [],
+      "publishers": [
+        "Funbox Media Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 48321,
+      "name": "Premier Manager 03/04",
+      "discount_percent": 74,
+      "original_price": 3400.0,
+      "final_price": 900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/9d272e31dfd54aefb183cdb1a252cc44/e2bbe8b5f30e42dda696e415aeed0235.jpg",
+      "url": "https://www.greenmangaming.com/games/premier-manager-03-04-pc/",
+      "on_sale": true,
+      "genres": [
+        "시뮬레이션",
+        "스포츠"
+      ],
+      "developers": [],
+      "publishers": [
+        "Funbox Media Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 36496,
+      "name": "Casino Blackjack",
+      "discount_percent": 74,
+      "original_price": 3400.0,
+      "final_price": 900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/defa48df5a194949937577873653cf44/9c6ebe1e06424f1f838a53274d5130a2.jpg",
+      "url": "https://www.greenmangaming.com/games/casino-blackjack-pc/",
+      "on_sale": true,
+      "genres": [
+        "캐주얼",
+        "인디",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Funbox Media Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 9435,
+      "name": "Litil Divil\t",
+      "discount_percent": 74,
+      "original_price": 3400.0,
+      "final_price": 900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/8952ff467ea246b883a1721355171390/2ce71050695448e1a55a39f02aa613fa.jpg",
+      "url": "https://www.greenmangaming.com/games/litil-divil/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처",
+        "퍼즐"
+      ],
+      "developers": [],
+      "publishers": [
+        "Funbox Media Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 36504,
+      "name": "Contraptions",
+      "discount_percent": 74,
+      "original_price": 10500.0,
+      "final_price": 2700.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/617662e9ffea4a62a3498b3ff6d18b02/c927e225882b4cb59c8720cef1e92425.jpg",
+      "url": "https://www.greenmangaming.com/games/contraptions-pc/",
+      "on_sale": true,
+      "genres": [
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Funbox Media Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 44049,
       "name": "Tiny Tina's Wonderlands: Chaotic Great Edition",
       "discount_percent": 73,
@@ -19401,27 +19374,6 @@
       "review_rank": 0
     },
     {
-      "appid": 48462,
-      "name": "Kingdom Eighties",
-      "discount_percent": 73,
-      "original_price": 13500.0,
-      "final_price": 3700.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/aa4a78fb79f14180a2feeaf192953f78/940a9ea45db8487d9ad1f1d5b22e1f07.jpg",
-      "url": "https://www.greenmangaming.com/games/kingdom-eighties-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Raw Fury"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 36528,
       "name": "Mobile Forces",
       "discount_percent": 73,
@@ -19440,6 +19392,26 @@
       "developers": [],
       "publishers": [
         "Funbox Media Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 44050,
+      "name": "Tiny Tina's Wonderlands: Season Pass",
+      "discount_percent": 73,
+      "original_price": 24500.0,
+      "final_price": 6700.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/0e2aa182ec2c4fc49019a6cd3398c231/6d3cdb47ea64478bb8f12efc27a438af.jpg",
+      "url": "https://www.greenmangaming.com/games/tiny-tinas-wonderlands-season-pass-steam-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "2K Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -19524,26 +19496,6 @@
       "developers": [],
       "publishers": [
         "Bethesda Softworks"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 59968,
-      "name": "Deep Rock Galactic",
-      "discount_percent": 72,
-      "original_price": 32000.0,
-      "final_price": 8900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/cc08a0b0acac47caaa5d4db25df27ad9/c4ddb55875554fea8413f7d19d5d81aa.jpg",
-      "url": "https://www.greenmangaming.com/games/deep-rock-galactic-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Coffee Stain Publishing AB"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -19993,6 +19945,48 @@
       "developers": [],
       "publishers": [
         "Red Barrels"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 52877,
+      "name": "Viewfinder",
+      "discount_percent": 70,
+      "original_price": 27000.0,
+      "final_price": 8100.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/65fc153fb13c4d82b9cdb5265933162a/edcd5ae645c44d56927fd33cfe740c72.jpg",
+      "url": "https://www.greenmangaming.com/games/viewfinder-pc/",
+      "on_sale": true,
+      "genres": [
+        "어드벤처",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Thunderful Publishing AB"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 5866,
+      "name": "Sid Meier’s Civilization® V: The Complete Edition",
+      "discount_percent": 70,
+      "original_price": 54000.0,
+      "final_price": 16200.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/0f3c3b9988b048bd929e07e366bf5e17/f81a4b5ce7334baaaca5b2aa713b2452.jpg",
+      "url": "https://www.greenmangaming.com/games/sid-meiers-civilization-v-the-complete-edition/",
+      "on_sale": true,
+      "genres": [
+        "전략",
+        "Mac"
+      ],
+      "developers": [],
+      "publishers": [
+        "2K Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -20694,6 +20688,30 @@
       "review_rank": 0
     },
     {
+      "appid": 53605,
+      "name": "Soulmask",
+      "discount_percent": 40,
+      "original_price": 32000.0,
+      "final_price": 19200.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/4d9297e3dc5142c794ced749789f23ab/9b40616ec5a5419da24d4c92cbb5ec5c.jpg",
+      "url": "https://www.greenmangaming.com/games/soulmask-pc/",
+      "on_sale": true,
+      "genres": [
+        "어드벤처",
+        "시뮬레이션",
+        "RPG",
+        "대규모 멀티플레이어",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Qooland Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 59214,
       "name": "NBA 2K27 Deluxe",
       "discount_percent": 37,
@@ -21036,29 +21054,6 @@
       "developers": [],
       "publishers": [
         "Perfect Circle Team SA"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 59857,
-      "name": "Valheim",
-      "discount_percent": 17,
-      "original_price": 32000.0,
-      "final_price": 26500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/4da42a0efbf743a6b26ab6c84ec014b0/d104006dee9e467c8a7fa66c24f4cd23.jpg",
-      "url": "https://www.greenmangaming.com/games/valheim-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "RPG",
-        "인디",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Coffee Stain Publishing AB"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -21594,6 +21589,27 @@
       "review_rank": 0
     },
     {
+      "appid": 52556,
+      "name": "Funko Fusion",
+      "discount_percent": 0,
+      "original_price": 37500.0,
+      "final_price": 37500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/2d7b67c4332742eea3e5dd679d821ae0/b8e52a6697c04ef6b8d6eedc3ab48456.jpg",
+      "url": "https://www.greenmangaming.com/games/funko-fusion-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "1010 Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 58798,
       "name": "DRAGON QUEST MONSTERS: The Withered World DIGITAL DELUXE EDITION",
       "discount_percent": 0,
@@ -21611,6 +21627,70 @@
       "developers": [],
       "publishers": [
         "Square Enix"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 53334,
+      "name": "Funko Fusion - Invincible Pack",
+      "discount_percent": 0,
+      "original_price": 11000.0,
+      "final_price": 11000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/a0b9eb344b9c42769ed7ecc3cf637997/1c38f99fbb5945409b172361a26c8776.jpg",
+      "url": "https://www.greenmangaming.com/games/funko-fusion-invincible-pack-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "1010 Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 53692,
+      "name": "Funko Fusion - Mega Man Pack",
+      "discount_percent": 0,
+      "original_price": 11000.0,
+      "final_price": 11000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/bb9ba2be4821411cb9cf6138abdf2f7e/8b55e76ac8354bd9a4d2c1c51c5632d1.jpg",
+      "url": "https://www.greenmangaming.com/games/funko-fusion-mega-man-pack-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "1010 Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 54142,
+      "name": "Funko Fusion - Universal Monsters Pack",
+      "discount_percent": 0,
+      "original_price": 11000.0,
+      "final_price": 11000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/75dcad3625f14482bbed5e3682b50beb/85ab515915394911b52e1ce6f51e9cd8.jpg",
+      "url": "https://www.greenmangaming.com/games/funko-fusion-universal-monsters-pack-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "어드벤처",
+        "캐주얼"
+      ],
+      "developers": [],
+      "publishers": [
+        "1010 Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -21678,6 +21758,48 @@
       "review_rank": 0
     },
     {
+      "appid": 55519,
+      "name": "Funko Fusion - The Walking Dead Pack",
+      "discount_percent": 0,
+      "original_price": 11000.0,
+      "final_price": 11000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/170cae1b5ff245829e21c7367d8c7257/f9b0b17ad924462590bec1fc1817909f.jpg",
+      "url": "https://www.greenmangaming.com/games/funko-fusion-the-walking-dead-pack-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "1010 Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 48855,
+      "name": "GONNER2",
+      "discount_percent": 0,
+      "original_price": 14500.0,
+      "final_price": 14500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/b076c9fbe9fc403cb76acfdddf7ec92e/e98b6fbf5dd24b829fa136e7e2669e6f.jpg",
+      "url": "https://www.greenmangaming.com/games/gonner2-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Raw Fury"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 59286,
       "name": "Torchlight II",
       "discount_percent": 0,
@@ -21723,6 +21845,28 @@
       "review_rank": 0
     },
     {
+      "appid": 48977,
+      "name": "West of Dead",
+      "discount_percent": 0,
+      "original_price": 21500.0,
+      "final_price": 21500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/9288140177fc49a198a64e9a5de16718/da48da0684a94af28a8de360ab22221f.jpg",
+      "url": "https://www.greenmangaming.com/games/west-of-dead-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "어드벤처",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Raw Fury"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 59284,
       "name": "Torchlight",
       "discount_percent": 0,
@@ -21738,6 +21882,411 @@
       "developers": [],
       "publishers": [
         "XD NETWORK INC"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 53178,
+      "name": "Funko Fusion - Bob Ross Pack",
+      "discount_percent": 0,
+      "original_price": 5600.0,
+      "final_price": 5600.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/9a892767d36f486f93c51d064765220d/a667d1dc75264e6da1e66108a5102ed8.jpg",
+      "url": "https://www.greenmangaming.com/games/funko-fusion-bob-ross-pack-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "1010 Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 59857,
+      "name": "Valheim",
+      "discount_percent": 0,
+      "original_price": 32000.0,
+      "final_price": 32000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/4da42a0efbf743a6b26ab6c84ec014b0/d104006dee9e467c8a7fa66c24f4cd23.jpg",
+      "url": "https://www.greenmangaming.com/games/valheim-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "RPG",
+        "인디",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Coffee Stain Publishing AB"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 48823,
+      "name": "Tails Noir",
+      "discount_percent": 0,
+      "original_price": 27000.0,
+      "final_price": 27000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/209e8c8e91cf4472b0381fc3453bf3b9/2728874d374f4dddbda5dbf813f44134.jpg",
+      "url": "https://www.greenmangaming.com/games/tails-noir-pc/",
+      "on_sale": false,
+      "genres": [
+        "어드벤처",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Raw Fury"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60249,
+      "name": "HUNTDOWN",
+      "discount_percent": 0,
+      "original_price": 22000.0,
+      "final_price": 22000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/bdb9b212d74a4ceb89613dd87a5852d9/4fad6b0488184dd5a25705cf3ccbe75f.jpg",
+      "url": "https://www.greenmangaming.com/games/huntdown-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Coffee Stain Publishing AB"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60301,
+      "name": "Goat Simulator",
+      "discount_percent": 0,
+      "original_price": 11000.0,
+      "final_price": 11000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/e3da856d9ace42c6a65b5005d1e7f53c/109f45f60a82463da081774088ce50d0.jpg",
+      "url": "https://www.greenmangaming.com/games/goat-simulator-pc/",
+      "on_sale": false,
+      "genres": [
+        "시뮬레이션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Coffee Stain Publishing AB"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 55323,
+      "name": "Funko Fusion - Manchester City Pack",
+      "discount_percent": 0,
+      "original_price": 11000.0,
+      "final_price": 11000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/bd99004dc50343cdaf7509686c255cd7/046e2fc44a7c432885a0d110c0f89b8d.jpg",
+      "url": "https://www.greenmangaming.com/games/funko-fusion-manchester-city-pack-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "인디",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "1010 Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60302,
+      "name": "Goat Simulator : Waste of Space",
+      "discount_percent": 0,
+      "original_price": 5600.0,
+      "final_price": 5600.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/0155867ac31c47c9aa29f1f174c97025/bc03a85a5cb5446f95e2a5c0e5bf3781.jpg",
+      "url": "https://www.greenmangaming.com/games/goat-simulator-waste-of-space-pc/",
+      "on_sale": false,
+      "genres": [
+        "시뮬레이션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Coffee Stain Publishing AB"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60264,
+      "name": "Sanctum: Map Pack 2",
+      "discount_percent": 0,
+      "original_price": 7000.0,
+      "final_price": 7000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/ffd4872004924baa86746d3f17d2509a/dda9cb7c28904937986016efbe37a20d.jpg",
+      "url": "https://www.greenmangaming.com/games/sanctum-map-pack-2-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "전략",
+        "인디",
+        "캐주얼"
+      ],
+      "developers": [],
+      "publishers": [
+        "Coffee Stain Publishing AB"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60328,
+      "name": "Goat Simulator: GoatZ",
+      "discount_percent": 0,
+      "original_price": 5600.0,
+      "final_price": 5600.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/6ee08a2e716c4a9aabe17d2903966ed5/27fde7b6c8bd48d98468403e620ac88c.jpg",
+      "url": "https://www.greenmangaming.com/games/goat-simulator-goatz-pc/",
+      "on_sale": false,
+      "genres": [
+        "캐주얼",
+        "시뮬레이션",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Coffee Stain Publishing AB"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60317,
+      "name": "Goat Simulator: PAYDAY",
+      "discount_percent": 0,
+      "original_price": 5600.0,
+      "final_price": 5600.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/79c3799099ae4ac38253f2b5ff60ea83/35efc97150e74c3cac5372165602f7a3.jpg",
+      "url": "https://www.greenmangaming.com/games/goat-simulator-payday-pc/",
+      "on_sale": false,
+      "genres": [
+        "시뮬레이션",
+        "인디",
+        "캐주얼"
+      ],
+      "developers": [],
+      "publishers": [
+        "Coffee Stain Publishing AB"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60285,
+      "name": "Sanctum",
+      "discount_percent": 0,
+      "original_price": 11000.0,
+      "final_price": 11000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/c68ff433108c4d6881131df885146d56/e8b1cd610cc540a0b30534023b78a206.jpg",
+      "url": "https://www.greenmangaming.com/games/sanctum-pc/",
+      "on_sale": false,
+      "genres": [
+        "슈팅",
+        "액션",
+        "Mac"
+      ],
+      "developers": [],
+      "publishers": [
+        "Coffee Stain Publishing AB"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60262,
+      "name": "Super Sanctum TD",
+      "discount_percent": 0,
+      "original_price": 5600.0,
+      "final_price": 5600.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/9476d353dbec43758dd2bf2312ecb74e/fa17ff0dec8d426c9dd1e18d273cd7f9.jpg",
+      "url": "https://www.greenmangaming.com/games/super-sanctum-td-pc/",
+      "on_sale": false,
+      "genres": [
+        "캐주얼",
+        "인디",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Coffee Stain Publishing AB"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60284,
+      "name": "Sanctum 2: Britech Skin Pack",
+      "discount_percent": 0,
+      "original_price": 5600.0,
+      "final_price": 5600.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/cea900b554c1494089c1555fd1c76c2e/08a57a70c22c43d1a5dfc8549c2249b9.jpg",
+      "url": "https://www.greenmangaming.com/games/sanctum-2-britech-skin-pack-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "인디",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Coffee Stain Publishing AB"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60263,
+      "name": "Sanctum: Map Pack 1",
+      "discount_percent": 0,
+      "original_price": 7000.0,
+      "final_price": 7000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/34085a87110e4e0ab00cb6d1ae404119/d0df3d97cf004e6c95b6f6cdf6919a7f.jpg",
+      "url": "https://www.greenmangaming.com/games/sanctum-map-pack-1-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Coffee Stain Publishing AB"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60266,
+      "name": "Sanctum 2: The Last Stand",
+      "discount_percent": 0,
+      "original_price": 7000.0,
+      "final_price": 7000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/de51a0256dfc48b49e75028b50b322a5/c9a241c9fc2142f99c78c0698eaa2924.jpg",
+      "url": "https://www.greenmangaming.com/games/sanctum-2-the-last-stand-pc/",
+      "on_sale": false,
+      "genres": [
+        "전략",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Coffee Stain Publishing AB"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60265,
+      "name": "Sanctum 2: The Pursuit",
+      "discount_percent": 0,
+      "original_price": 7000.0,
+      "final_price": 7000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/95b75bd00a15443797f3f9b6c93001ea/1ce77091290640d4967c3ed886c530e1.jpg",
+      "url": "https://www.greenmangaming.com/games/sanctum-2-the-pursuit-pc/",
+      "on_sale": false,
+      "genres": [
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Coffee Stain Publishing AB"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60277,
+      "name": "Sanctum 2: Road to Elysion",
+      "discount_percent": 0,
+      "original_price": 7000.0,
+      "final_price": 7000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/5285bbf01dbc458180e767070ba258fc/de2dbdeee87d45158f3c534dc508bcb7.jpg",
+      "url": "https://www.greenmangaming.com/games/sanctum-2-road-to-elysion-pc/",
+      "on_sale": false,
+      "genres": [
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Coffee Stain Publishing AB"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60267,
+      "name": "Sanctum 2: Ruins of Brightholme",
+      "discount_percent": 0,
+      "original_price": 7000.0,
+      "final_price": 7000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/4fa2d5396b7a4f5897376f434351d5fe/9ac2ad15a4e845118485149a68615f5c.jpg",
+      "url": "https://www.greenmangaming.com/games/sanctum-2-ruins-of-brightholme-pc/",
+      "on_sale": false,
+      "genres": [
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Coffee Stain Publishing AB"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 48407,
+      "name": "Dome Keeper",
+      "discount_percent": 0,
+      "original_price": 19500.0,
+      "final_price": 19500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/af7593943e5645e4b96beed9de0b3c6e/68ae094da3d24fb2a3627b5b117ecd25.jpg",
+      "url": "https://www.greenmangaming.com/games/dome-keeper-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "시뮬레이션",
+        "인디",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Raw Fury"
       ],
       "review_desc": null,
       "review_rank": 0

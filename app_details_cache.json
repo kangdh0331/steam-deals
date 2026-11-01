@@ -30478,5 +30478,82 @@
     "publishers": [
       "Ubisoft"
     ]
+  },
+  "307960": {
+    "genres": [
+      "액션",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "FOR-GAMES CR LTD"
+    ],
+    "publishers": [
+      "FOR-GAMES CR LTD"
+    ]
+  },
+  "1295500": {
+    "genres": [
+      "전략"
+    ],
+    "developers": [
+      "Slitherine Ltd."
+    ],
+    "publishers": [
+      "Slitherine Ltd."
+    ]
+  },
+  "335670": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "Dingaling Productions"
+    ],
+    "publishers": [
+      "Serenity Forge"
+    ]
+  },
+  "5317700": {
+    "genres": [
+      "캐주얼",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "BinkyGames"
+    ],
+    "publishers": [
+      "BinkyGames"
+    ]
+  },
+  "3459340": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "ghosttundra",
+      "Euroclipse",
+      "Brand New Groove"
+    ],
+    "publishers": [
+      "Brand New Groove",
+      "Euroclipse"
+    ]
+  },
+  "2526380": {
+    "genres": [
+      "RPG",
+      "전략",
+      "무료 플레이"
+    ],
+    "developers": [
+      "XD"
+    ],
+    "publishers": [
+      "XD"
+    ]
   }
 }
