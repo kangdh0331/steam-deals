@@ -30555,5 +30555,55 @@
     "publishers": [
       "XD"
     ]
+  },
+  "752590": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Asobo Studio"
+    ],
+    "publishers": [
+      "Focus Entertainment"
+    ]
+  },
+  "4740930": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "전략"
+    ],
+    "developers": [
+      "KaiPlay Studio"
+    ],
+    "publishers": [
+      "Gamersky Games"
+    ]
+  },
+  "5345040": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Flowdot"
+    ],
+    "publishers": [
+      "Flowdot"
+    ]
+  },
+  "1858720": {
+    "genres": [
+      "인디",
+      "전략"
+    ],
+    "developers": [
+      "Artless Games"
+    ],
+    "publishers": [
+      "Artless Games"
+    ]
   }
 }
