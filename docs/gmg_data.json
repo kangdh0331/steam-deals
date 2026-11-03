@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1793631195.4523015,
+  "fetched_at": 1793666136.1996615,
   "deals": [
     {
       "appid": 39339,
@@ -4567,6 +4567,28 @@
       "review_rank": 0
     },
     {
+      "appid": 59290,
+      "name": "Torchlight III",
+      "discount_percent": 88,
+      "original_price": 41000.0,
+      "final_price": 5100.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/cb45b433ed6b48c5b3c38759032acde5/e1d77090bace48c78e85077e0057c183.jpg",
+      "url": "https://www.greenmangaming.com/games/torchlight-iii-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "XD NETWORK INC"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 37695,
       "name": "Mortal Kombat 11 Ultimate Edition",
       "discount_percent": 88,
@@ -5322,28 +5344,6 @@
       "developers": [],
       "publishers": [
         "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 58426,
-      "name": "Darkest Dungeon®",
-      "discount_percent": 86,
-      "original_price": 27000.0,
-      "final_price": 3700.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/cb16e465f1784daf8731aee16990751e/e3765e584fa544a0b1011020b8925955.jpg",
-      "url": "https://www.greenmangaming.com/games/darkest-dungeon-pc/",
-      "on_sale": true,
-      "genres": [
-        "인디",
-        "전략",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Red Hook Studios"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -7959,6 +7959,29 @@
       "review_rank": 0
     },
     {
+      "appid": 59286,
+      "name": "Torchlight II",
+      "discount_percent": 83,
+      "original_price": 21000.0,
+      "final_price": 3500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/98dfa6441d8242c0a442211c234f747a/ca06798416ea4c509cf3387bf490d8c3.jpg",
+      "url": "https://www.greenmangaming.com/games/torchlight-ii-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처",
+        "인디",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "XD NETWORK INC"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 9230,
       "name": "HuniePop",
       "discount_percent": 83,
@@ -7996,6 +8019,26 @@
       "developers": [],
       "publishers": [
         "Warner Bros Interactive Entertainment"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 59284,
+      "name": "Torchlight",
+      "discount_percent": 83,
+      "original_price": 16000.0,
+      "final_price": 2700.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/6fdc2aedbf4540afa69205607954cb72/b2b9db65278f47309a3c35873f5c1245.jpg",
+      "url": "https://www.greenmangaming.com/games/torchlight-pc/",
+      "on_sale": true,
+      "genres": [
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "XD NETWORK INC"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -8387,27 +8430,6 @@
       "review_rank": 0
     },
     {
-      "appid": 36646,
-      "name": "Drone Swarm Deluxe Edition",
-      "discount_percent": 83,
-      "original_price": 21500.0,
-      "final_price": 3700.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/6123d8f58a144f418083be11d73dfc95/5b8b862e7dfb4babbc79f56716f8f335.jpg",
-      "url": "https://www.greenmangaming.com/games/drone-swarm-deluxe-edition-pc/",
-      "on_sale": true,
-      "genres": [
-        "인디",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Astragon Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 27108,
       "name": "Aegis of Earth: Protonovus Assault",
       "discount_percent": 83,
@@ -8423,27 +8445,6 @@
       "developers": [],
       "publishers": [
         "Aksys"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 36644,
-      "name": "Drone Swarm",
-      "discount_percent": 83,
-      "original_price": 18500.0,
-      "final_price": 3200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/a3036a580d2549a58f76c85e0da5e0e2/e6c8e3efcbd04693a2ff6a5b936e3b90.jpg",
-      "url": "https://www.greenmangaming.com/games/drone-swarm-pc/",
-      "on_sale": true,
-      "genres": [
-        "인디",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Astragon Entertainment"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -9136,28 +9137,6 @@
       "developers": [],
       "publishers": [
         "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 58434,
-      "name": "Darkest Dungeon Soundtrack",
-      "discount_percent": 82,
-      "original_price": 10500.0,
-      "final_price": 1900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/273e40771c1d43c2a9b39d28d164ca02/088b8b2b928a48d0a3e95fe6bec2661a.jpg",
-      "url": "https://www.greenmangaming.com/games/darkest-dungeon-soundtrack-pc/",
-      "on_sale": true,
-      "genres": [
-        "인디",
-        "전략",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Red Hook Studios"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -12239,27 +12218,6 @@
       "developers": [],
       "publishers": [
         "Frontier Developments"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 37475,
-      "name": "Drone Swarm - Deluxe Upgrade",
-      "discount_percent": 80,
-      "original_price": 5600.0,
-      "final_price": 1100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/ed79bc557f1d415a8f5b2e76e6d79025/a8a42a80ea304125bc98f3d2ce35db6b.jpg",
-      "url": "https://www.greenmangaming.com/games/drone-swarm-deluxe-upgrade-pc/",
-      "on_sale": true,
-      "genres": [
-        "인디",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Astragon Entertainment"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -18015,6 +17973,26 @@
       "review_rank": 0
     },
     {
+      "appid": 36520,
+      "name": "Horizon Shift '81",
+      "discount_percent": 75,
+      "original_price": 9500.0,
+      "final_price": 2400.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/129c2eda0a7a44c7a18debcc181d5d24/28e06597ecc742fe9daa28d74e2ce140.jpg",
+      "url": "https://www.greenmangaming.com/games/horizon-shift-81-pc/",
+      "on_sale": true,
+      "genres": [
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Funbox Media Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 47804,
       "name": "Another Fisherman's Tale",
       "discount_percent": 74,
@@ -19094,6 +19072,26 @@
         "전략",
         "Mac",
         "리눅스"
+      ],
+      "developers": [],
+      "publishers": [
+        "Funbox Media Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 36504,
+      "name": "Contraptions",
+      "discount_percent": 74,
+      "original_price": 10500.0,
+      "final_price": 2700.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/617662e9ffea4a62a3498b3ff6d18b02/c927e225882b4cb59c8720cef1e92425.jpg",
+      "url": "https://www.greenmangaming.com/games/contraptions-pc/",
+      "on_sale": true,
+      "genres": [
+        "인디"
       ],
       "developers": [],
       "publishers": [
@@ -20606,28 +20604,6 @@
       "review_rank": 0
     },
     {
-      "appid": 59246,
-      "name": "The Relic: First Guardian",
-      "discount_percent": 42,
-      "original_price": 36500.0,
-      "final_price": 21000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/28bfa45a7148481b923552d727bae3bb/f566eae444f949d284e981aed412d5b2.jpg",
-      "url": "https://www.greenmangaming.com/games/the-relic-first-guardian-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "RPG",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Perp Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 54448,
       "name": "Moonlighter 2: The Endless Vault",
       "discount_percent": 41,
@@ -20645,6 +20621,30 @@
       "developers": [],
       "publishers": [
         "11 Bit Studios SA"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 53605,
+      "name": "Soulmask",
+      "discount_percent": 40,
+      "original_price": 32000.0,
+      "final_price": 19200.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/4d9297e3dc5142c794ced749789f23ab/9b40616ec5a5419da24d4c92cbb5ec5c.jpg",
+      "url": "https://www.greenmangaming.com/games/soulmask-pc/",
+      "on_sale": true,
+      "genres": [
+        "어드벤처",
+        "시뮬레이션",
+        "RPG",
+        "대규모 멀티플레이어",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Qooland Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -20840,48 +20840,6 @@
       "review_rank": 0
     },
     {
-      "appid": 60392,
-      "name": "Warding Witches",
-      "discount_percent": 25,
-      "original_price": 14000.0,
-      "final_price": 10500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/dfb1c73db5614d23a59792c3b591554a/e2b790ca208f4fb2be7bb8ac41575127.jpg",
-      "url": "https://www.greenmangaming.com/games/warding-witches-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Headup"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 58322,
-      "name": "No More Room in Hell 2",
-      "discount_percent": 25,
-      "original_price": 32000.0,
-      "final_price": 24000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/6e7918581526420589687003de1fdfeb/29f80821c9544795831813a59181c4d7.jpg",
-      "url": "https://www.greenmangaming.com/games/no-more-room-in-hell-2-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Torn Banner Studios"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 58294,
       "name": "Corsair Cove",
       "discount_percent": 25,
@@ -20944,6 +20902,27 @@
       "developers": [],
       "publishers": [
         "Ludogram"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 59938,
+      "name": "Mayday: The Survival Island",
+      "discount_percent": 20,
+      "original_price": 15000.0,
+      "final_price": 12000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/27fe7fc711bc4a79bc203fdb7c0c36c8/54febe9c418a4ebb9f82582747e70957.jpg",
+      "url": "https://www.greenmangaming.com/games/mayday-the-survival-island-pc/",
+      "on_sale": true,
+      "genres": [
+        "어드벤처",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "indie.io"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -21139,6 +21118,28 @@
       "developers": [],
       "publishers": [
         "Raw Fury"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 59246,
+      "name": "The Relic: First Guardian",
+      "discount_percent": 12,
+      "original_price": 36500.0,
+      "final_price": 32200.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/28bfa45a7148481b923552d727bae3bb/f566eae444f949d284e981aed412d5b2.jpg",
+      "url": "https://www.greenmangaming.com/games/the-relic-first-guardian-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "RPG",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Perp Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -21380,6 +21381,27 @@
       "review_rank": 0
     },
     {
+      "appid": 60392,
+      "name": "Warding Witches",
+      "discount_percent": 0,
+      "original_price": 14000.0,
+      "final_price": 14000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/dfb1c73db5614d23a59792c3b591554a/e2b790ca208f4fb2be7bb8ac41575127.jpg",
+      "url": "https://www.greenmangaming.com/games/warding-witches-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Headup"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 59986,
       "name": "Valor Mortis",
       "discount_percent": 0,
@@ -21419,6 +21441,27 @@
       "developers": [],
       "publishers": [
         "Lyrical Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 58322,
+      "name": "No More Room in Hell 2",
+      "discount_percent": 0,
+      "original_price": 32000.0,
+      "final_price": 32000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/6e7918581526420589687003de1fdfeb/29f80821c9544795831813a59181c4d7.jpg",
+      "url": "https://www.greenmangaming.com/games/no-more-room-in-hell-2-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Torn Banner Studios"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -21590,28 +21633,6 @@
       "review_rank": 0
     },
     {
-      "appid": 59290,
-      "name": "Torchlight III",
-      "discount_percent": 0,
-      "original_price": 41000.0,
-      "final_price": 41000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/cb45b433ed6b48c5b3c38759032acde5/e1d77090bace48c78e85077e0057c183.jpg",
-      "url": "https://www.greenmangaming.com/games/torchlight-iii-pc/",
-      "on_sale": false,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "XD NETWORK INC"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 38103,
       "name": "Aldorlea Games RPG Bundle",
       "discount_percent": 0,
@@ -21627,6 +21648,28 @@
       "developers": [],
       "publishers": [
         "Aldorlea Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 58426,
+      "name": "Darkest Dungeon®",
+      "discount_percent": 0,
+      "original_price": 27000.0,
+      "final_price": 27000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/cb16e465f1784daf8731aee16990751e/e3765e584fa544a0b1011020b8925955.jpg",
+      "url": "https://www.greenmangaming.com/games/darkest-dungeon-pc/",
+      "on_sale": false,
+      "genres": [
+        "인디",
+        "전략",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "Red Hook Studios"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -21674,29 +21717,6 @@
       "review_rank": 0
     },
     {
-      "appid": 59286,
-      "name": "Torchlight II",
-      "discount_percent": 0,
-      "original_price": 21000.0,
-      "final_price": 21000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/98dfa6441d8242c0a442211c234f747a/ca06798416ea4c509cf3387bf490d8c3.jpg",
-      "url": "https://www.greenmangaming.com/games/torchlight-ii-pc/",
-      "on_sale": false,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "인디",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "XD NETWORK INC"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 57250,
       "name": "The Adventures of Elliot: The Millennium Tales",
       "discount_percent": 0,
@@ -21714,26 +21734,6 @@
       "developers": [],
       "publishers": [
         "Square Enix"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 59284,
-      "name": "Torchlight",
-      "discount_percent": 0,
-      "original_price": 16000.0,
-      "final_price": 16000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/6fdc2aedbf4540afa69205607954cb72/b2b9db65278f47309a3c35873f5c1245.jpg",
-      "url": "https://www.greenmangaming.com/games/torchlight-pc/",
-      "on_sale": false,
-      "genres": [
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "XD NETWORK INC"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -21762,6 +21762,28 @@
       "review_rank": 0
     },
     {
+      "appid": 58434,
+      "name": "Darkest Dungeon Soundtrack",
+      "discount_percent": 0,
+      "original_price": 10500.0,
+      "final_price": 10500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/273e40771c1d43c2a9b39d28d164ca02/088b8b2b928a48d0a3e95fe6bec2661a.jpg",
+      "url": "https://www.greenmangaming.com/games/darkest-dungeon-soundtrack-pc/",
+      "on_sale": false,
+      "genres": [
+        "인디",
+        "전략",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "Red Hook Studios"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 58796,
       "name": "DRAGON QUEST MONSTERS: The Withered World",
       "discount_percent": 0,
@@ -21779,6 +21801,69 @@
       "developers": [],
       "publishers": [
         "Square Enix"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 36646,
+      "name": "Drone Swarm Deluxe Edition",
+      "discount_percent": 0,
+      "original_price": 21500.0,
+      "final_price": 21500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/6123d8f58a144f418083be11d73dfc95/5b8b862e7dfb4babbc79f56716f8f335.jpg",
+      "url": "https://www.greenmangaming.com/games/drone-swarm-deluxe-edition-pc/",
+      "on_sale": false,
+      "genres": [
+        "인디",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Astragon Entertainment"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 36644,
+      "name": "Drone Swarm",
+      "discount_percent": 0,
+      "original_price": 18500.0,
+      "final_price": 18500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/a3036a580d2549a58f76c85e0da5e0e2/e6c8e3efcbd04693a2ff6a5b936e3b90.jpg",
+      "url": "https://www.greenmangaming.com/games/drone-swarm-pc/",
+      "on_sale": false,
+      "genres": [
+        "인디",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Astragon Entertainment"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 37475,
+      "name": "Drone Swarm - Deluxe Upgrade",
+      "discount_percent": 0,
+      "original_price": 5600.0,
+      "final_price": 5600.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/ed79bc557f1d415a8f5b2e76e6d79025/a8a42a80ea304125bc98f3d2ce35db6b.jpg",
+      "url": "https://www.greenmangaming.com/games/drone-swarm-deluxe-upgrade-pc/",
+      "on_sale": false,
+      "genres": [
+        "인디",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Astragon Entertainment"
       ],
       "review_desc": null,
       "review_rank": 0

@@ -30605,5 +30605,63 @@
     "publishers": [
       "Artless Games"
     ]
+  },
+  "3683940": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Rogue Duck Interactive"
+    ],
+    "publishers": [
+      "Rogue Duck Interactive",
+      "Gamersky Games"
+    ]
+  },
+  "4521700": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Timon Herzog"
+    ],
+    "publishers": [
+      "Metaroot",
+      "Timon Herzog"
+    ]
+  },
+  "3686580": {
+    "genres": [
+      "인디",
+      "전략"
+    ],
+    "developers": [
+      "RefinedBearGames"
+    ],
+    "publishers": [
+      "Goblinz Publishing",
+      "WR game"
+    ]
+  },
+  "4498220": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "Blobfish Games",
+      "Evil Empire"
+    ],
+    "publishers": [
+      "Blobfish Games"
+    ]
   }
 }

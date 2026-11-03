@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1793631195.6779733,
+  "fetched_at": 1793666136.4641633,
   "deals": [
     {
       "appid": 70010000003622,
@@ -18,6 +18,113 @@
       "developers": [],
       "publishers": [
         "CAPCOM"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000056316,
+      "name": "DRAGON QUEST MONSTERS: The Dark Prince",
+      "discount_percent": 85,
+      "original_price": 39.99,
+      "final_price": 5.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000056316/837d468fe11ee53367bd224b9f2da583abc6d328891bbafda427b08a3ac4960e",
+      "url": "https://www.nintendo.com/us/store/products/dragon-quest-monsters-the-dark-prince-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Role playing"
+      ],
+      "developers": [],
+      "publishers": [
+        "SQUARE ENIX"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000112477,
+      "name": "FINAL FANTASY VII REBIRTH",
+      "discount_percent": 85,
+      "original_price": 49.99,
+      "final_price": 7.49,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000112477/99d3f9086b7b97984916c93456752d6981d56dcab942421cf71cd45836a62b72",
+      "url": "https://www.nintendo.com/us/store/products/final-fantasy-vii-rebirth-switch-2/",
+      "on_sale": true,
+      "platform": "Nintendo Switch 2",
+      "genres": [
+        "Action",
+        "Role playing"
+      ],
+      "developers": [],
+      "publishers": [
+        "SQUARE ENIX"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000101698,
+      "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "discount_percent": 80,
+      "original_price": 39.99,
+      "final_price": 7.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000101698/833214b25828c4b093c4abde2564f399991438c9498594b3d88f3fc54dad4d75",
+      "url": "https://www.nintendo.com/us/store/products/final-fantasy-vii-remake-intergrade-switch-2/",
+      "on_sale": true,
+      "platform": "Nintendo Switch 2",
+      "genres": [
+        "Role playing"
+      ],
+      "developers": [],
+      "publishers": [
+        "SQUARE ENIX"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000029410,
+      "name": "Life is Strange 2",
+      "discount_percent": 80,
+      "original_price": 31.99,
+      "final_price": 6.39,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000029410/52be3f7eb93e5b9f00ab2a0bf048cb73c30d000b20b06560ef5a60a9cbd6aae7",
+      "url": "https://www.nintendo.com/us/store/products/life-is-strange-2-70010000029410-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Adventure"
+      ],
+      "developers": [],
+      "publishers": [
+        "Square Enix Europe LTD"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70070000013661,
+      "name": "Life is Strange Arcadia Bay Collection",
+      "discount_percent": 80,
+      "original_price": 39.99,
+      "final_price": 7.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000013661/4c53d272b470ebbf50fc54f2e4e785e8babb9f8a7f3b6af1e154aa8b58de339b",
+      "url": "https://www.nintendo.com/us/store/products/life-is-strange-arcadia-bay-collection-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "developers": [],
+      "publishers": [
+        "Square Enix Europe LTD"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -97,6 +204,51 @@
       "developers": [],
       "publishers": [
         "CAPCOM"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000036878,
+      "name": "NEO: The World Ends with You",
+      "discount_percent": 70,
+      "original_price": 59.99,
+      "final_price": 17.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000036878/18b56214018a274fa4ac8bbf83933e4a8105282208b85cc831d96464bc3938a0",
+      "url": "https://www.nintendo.com/us/store/products/neo-the-world-ends-with-you-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Role playing"
+      ],
+      "developers": [],
+      "publishers": [
+        "SQUARE ENIX"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000034699,
+      "name": "Life is Strange: True Colors™",
+      "discount_percent": 70,
+      "original_price": 59.99,
+      "final_price": 17.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000034699/e639e27e04a1c736fada3aa91f88e53c655a8ddd8b8c3d332f60a00f9e2ec9a8",
+      "url": "https://www.nintendo.com/us/store/products/life-is-strange-true-colors-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Adventure"
+      ],
+      "developers": [
+        "Dragon's Lake Entertainment"
+      ],
+      "publishers": [
+        "Square Enix Europe LTD"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -213,6 +365,67 @@
       "review_rank": 0
     },
     {
+      "appid": 70010000089058,
+      "name": "Vagrus - The Riven Realms",
+      "discount_percent": 65,
+      "original_price": 29.99,
+      "final_price": 10.49,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000089058/847828053c6512a175939928da5db0795a20eb8647cd3eb86112ed2d7b13b85e",
+      "url": "https://www.nintendo.com/us/store/products/vagrus-the-riven-realms-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Narrative adventure",
+        "Role playing",
+        "Simulation"
+      ],
+      "developers": [],
+      "publishers": [
+        "LOST PILGRIMS STUDIOS"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70050000055971,
+      "name": "Vagrus - The Riven Realms Patronage Pack",
+      "discount_percent": 65,
+      "original_price": 9.99,
+      "final_price": 3.49,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000055971/d385012aae7829efca29a46301aead71b1d52072bbfd612826e819395a315333",
+      "url": "https://www.nintendo.com/us/store/products/vagrus-the-riven-realms-patronage-pack-70050000055971-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "LOST PILGRIMS STUDIOS"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70050000055975,
+      "name": "Vagrus - The Riven Realms Soundtrack",
+      "discount_percent": 65,
+      "original_price": 9.99,
+      "final_price": 3.49,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000055975/19d50e76b3b8840d3209436ce74781ad441c5043483c390041da158d648cc565",
+      "url": "https://www.nintendo.com/us/store/products/vagrus-the-riven-realms-soundtrack-70050000055975-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "LOST PILGRIMS STUDIOS"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 70010000095203,
       "name": "Street Fighter™ 6",
       "discount_percent": 60,
@@ -296,6 +509,208 @@
       "developers": [],
       "publishers": [
         "CAPCOM"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000018086,
+      "name": "Collection of Mana",
+      "discount_percent": 60,
+      "original_price": 39.99,
+      "final_price": 15.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000018086/312e5c1961061621c0ec81d4c3663e4b451de29c66d6fbca26e97fa92cc6bb48",
+      "url": "https://www.nintendo.com/us/store/products/collection-of-mana-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Role playing"
+      ],
+      "developers": [],
+      "publishers": [
+        "SQUARE ENIX"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000079157,
+      "name": "FANTASIAN Neo Dimension",
+      "discount_percent": 60,
+      "original_price": 49.99,
+      "final_price": 19.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000079157/0a3fd04d3dda2e664da4a47fabccddc60f9125111d97cd87f165a61955ff62d0",
+      "url": "https://www.nintendo.com/us/store/products/fantasian-neo-dimension-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Role playing"
+      ],
+      "developers": [
+        "Mistwalker Corporation"
+      ],
+      "publishers": [
+        "SQUARE ENIX"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000051139,
+      "name": "HARVESTELLA",
+      "discount_percent": 60,
+      "original_price": 59.99,
+      "final_price": 23.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000051139/77d06082ac9bc9dc6a00e8b559602d39808ccb6dde473db6e06f8128c28e0f4f",
+      "url": "https://www.nintendo.com/us/store/products/harvestella-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Role playing",
+        "Simulation"
+      ],
+      "developers": [],
+      "publishers": [
+        "SQUARE ENIX"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000030586,
+      "name": "KINGDOM HEARTS Melody of Memory",
+      "discount_percent": 60,
+      "original_price": 59.99,
+      "final_price": 23.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000030586/0e5b67229e94d1258b2dd907045cffa244f39e604bfeaf59b79e721e4ea99998",
+      "url": "https://www.nintendo.com/us/store/products/kingdom-hearts-melody-of-memory-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Music"
+      ],
+      "developers": [
+        "SQUARE ENIX"
+      ],
+      "publishers": [
+        "SQUARE ENIX"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000045182,
+      "name": "NieR:Automata The End of YoRHa Edition",
+      "discount_percent": 60,
+      "original_price": 39.99,
+      "final_price": 15.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000045182/74fb568c43f9c43895db89d4ebb2b510894de7141b066b953aebda427a46af87",
+      "url": "https://www.nintendo.com/us/store/products/nier-automata-the-end-of-yorha-edition-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Action",
+        "Role playing",
+        "Shooting"
+      ],
+      "developers": [
+        "Virtuos"
+      ],
+      "publishers": [
+        "SQUARE ENIX"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000036047,
+      "name": "SaGa Frontier Remastered",
+      "discount_percent": 60,
+      "original_price": 24.99,
+      "final_price": 9.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000036047/10f879c512f30c8c9a56f8f5b1c4ebb87a93c368e5e63d2eebfaa682b660ccad",
+      "url": "https://www.nintendo.com/us/store/products/saga-frontier-remastered-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Role playing"
+      ],
+      "developers": [],
+      "publishers": [
+        "SQUARE ENIX"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000046322,
+      "name": "TRIANGLE STRATEGY™",
+      "discount_percent": 60,
+      "original_price": 59.99,
+      "final_price": 23.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000046322/c7af014983654332ba890b29e4aa686169c8149a294cff422e98686ffeeb8c1e",
+      "url": "https://www.nintendo.com/us/store/products/triangle-strategy-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Role playing",
+        "Strategy"
+      ],
+      "developers": [],
+      "publishers": [
+        "SQUARE ENIX"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70070000024998,
+      "name": "Life is Strange: Double Exposure Ultimate Edition",
+      "discount_percent": 60,
+      "original_price": 79.99,
+      "final_price": 31.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000024998/ac0abd089ff53758c55e6ab8e2a21337c249915a41c15c2ce280a4239c02fe77",
+      "url": "https://www.nintendo.com/us/store/products/life-is-strange-double-exposure-ultimate-edition-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "Square Enix Europe LTD"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000081783,
+      "name": "Life is Strange: Double Exposure",
+      "discount_percent": 60,
+      "original_price": 49.99,
+      "final_price": 19.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000081783/563a56f34a8d1823f294cbdd0293e2df43fb1903be9f3bdb4391ef2bfc748d7c",
+      "url": "https://www.nintendo.com/us/store/products/life-is-strange-double-exposure-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Adventure"
+      ],
+      "developers": [
+        "Deck Nine Games"
+      ],
+      "publishers": [
+        "Square Enix Europe LTD"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -425,6 +840,131 @@
       "review_rank": 0
     },
     {
+      "appid": 70010000113865,
+      "name": "FINAL FANTASY X/X-2 HD Remaster",
+      "discount_percent": 50,
+      "original_price": 49.99,
+      "final_price": 24.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000113865/1d64f4ba11f085404d1b255a1686683fa65a26117bee7b0d4d60d31985d25f2c",
+      "url": "https://www.nintendo.com/us/store/products/final-fantasy-x-x-2-hd-remaster-switch-2/",
+      "on_sale": true,
+      "platform": "Nintendo Switch 2",
+      "genres": [
+        "Role playing"
+      ],
+      "developers": [],
+      "publishers": [
+        "SQUARE ENIX"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000096471,
+      "name": "OCTOPATH TRAVELER 0",
+      "discount_percent": 50,
+      "original_price": 49.99,
+      "final_price": 24.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000096471/456a25e08dc3e0d2209cd1261a804e08d4eb939649df234da36752d874e9a7cb",
+      "url": "https://www.nintendo.com/us/store/products/octopath-traveler-0-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Role playing"
+      ],
+      "developers": [],
+      "publishers": [
+        "SQUARE ENIX"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000067815,
+      "name": "Romancing SaGa 2: Revenge of the Seven",
+      "discount_percent": 50,
+      "original_price": 49.99,
+      "final_price": 24.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000067815/a884d75f6316622f3729feaf1f8ba4646bab301e0520ac091c1400532995e6e6",
+      "url": "https://www.nintendo.com/us/store/products/romancing-saga-2-revenge-of-the-seven-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Role playing"
+      ],
+      "developers": [],
+      "publishers": [
+        "SQUARE ENIX"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000121077,
+      "name": "STAR OCEAN THE SECOND STORY R",
+      "discount_percent": 50,
+      "original_price": 49.99,
+      "final_price": 24.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000121077/d5b9f6a79f708284a50ffcb43481e2579127692efb8d965bd9daa83c16eca51d",
+      "url": "https://www.nintendo.com/us/store/products/star-ocean-the-second-story-r-switch-2/",
+      "on_sale": true,
+      "platform": "Nintendo Switch 2",
+      "genres": [
+        "Action",
+        "Role playing"
+      ],
+      "developers": [],
+      "publishers": [
+        "SQUARE ENIX"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000062771,
+      "name": "Little Goody Two Shoes",
+      "discount_percent": 50,
+      "original_price": 19.99,
+      "final_price": 9.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000062771/729b556799760359cd0bff143a73dd53acf4a18ca0dfe5ab3cfb7ac175b588e6",
+      "url": "https://www.nintendo.com/us/store/products/little-goody-two-shoes-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "Square Enix Europe LTD"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000056360,
+      "name": "THEATRHYTHM FINAL BAR LINE",
+      "discount_percent": 50,
+      "original_price": 49.99,
+      "final_price": 24.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000056360/47c3fdb4931de69435b6993b17602838378fbcb0816c1dfca0b83df4151d36d6",
+      "url": "https://www.nintendo.com/us/store/products/theatrhythm-final-bar-line-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Music"
+      ],
+      "developers": [],
+      "publishers": [
+        "SQUARE ENIX"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 70070000036215,
       "name": "Mega Man Cyber Wave Pack",
       "discount_percent": 40,
@@ -442,6 +982,117 @@
       "developers": [],
       "publishers": [
         "CAPCOM"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70070000037953,
+      "name": "CRISIS CORE –FINAL FANTASY VII– REUNION –DIGITAL DELUXE EDITION–",
+      "discount_percent": 40,
+      "original_price": 69.99,
+      "final_price": 41.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70070000037953/e03bee48f2bb18fef1f14e8b8f0594d96a2f84c25d6a76cf68566a3b8dde3925",
+      "url": "https://www.nintendo.com/us/store/products/crisis-core-final-fantasy-vii-reunion-digital-deluxe-edition-switch-2/",
+      "on_sale": true,
+      "platform": "Nintendo Switch 2",
+      "genres": [
+        "Action",
+        "Role playing"
+      ],
+      "developers": [],
+      "publishers": [
+        "SQUARE ENIX"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000088802,
+      "name": "FINAL FANTASY TACTICS - The Ivalice Chronicles",
+      "discount_percent": 40,
+      "original_price": 49.99,
+      "final_price": 29.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70010000088802/11a925adc5d9adb1c937bb13a972e530257a4b3cad695bb467a9fa5b32e7a851",
+      "url": "https://www.nintendo.com/us/store/products/final-fantasy-tactics-the-ivalice-chronicles-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Role playing",
+        "Strategy"
+      ],
+      "developers": [],
+      "publishers": [
+        "SQUARE ENIX"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70070000017105,
+      "name": "FINAL FANTASY I-VI Bundle",
+      "discount_percent": 40,
+      "original_price": 74.99,
+      "final_price": 44.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70070000017105/665dad530a02655c926000cca05aeeb1e182384a2f530c5b9d3525778673e631",
+      "url": "https://www.nintendo.com/us/store/products/final-fantasy-i-vi-bundle-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [
+        "Role playing"
+      ],
+      "developers": [],
+      "publishers": [
+        "SQUARE ENIX"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000108543,
+      "name": "Octopath Traveler™ ",
+      "discount_percent": 40,
+      "original_price": 59.99,
+      "final_price": 35.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000108543/0d76808e6265d40cd0a3f0cbe761e193645fa3c1be5f83b5090946a676b802ee",
+      "url": "https://www.nintendo.com/us/store/products/octopath-traveler-switch-2/",
+      "on_sale": true,
+      "platform": "Nintendo Switch 2",
+      "genres": [
+        "Role playing"
+      ],
+      "developers": [
+        "ACQUIRE Corp."
+      ],
+      "publishers": [
+        "SQUARE ENIX"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000108548,
+      "name": "OCTOPATH TRAVELER II",
+      "discount_percent": 40,
+      "original_price": 59.99,
+      "final_price": 35.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000108548/1e6e0b547a00e768e9c67263fedd6c34be54521169b7eb597892767bc72113b4",
+      "url": "https://www.nintendo.com/us/store/products/octopath-traveler-ii-switch-2/",
+      "on_sale": true,
+      "platform": "Nintendo Switch 2",
+      "genres": [
+        "Role playing"
+      ],
+      "developers": [
+        "ACQUIRE Corp."
+      ],
+      "publishers": [
+        "SQUARE ENIX"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -480,6 +1131,48 @@
       "developers": [],
       "publishers": [
         "CAPCOM"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70070000031761,
+      "name": "DRAGON QUEST - HD-2D Erdrick Trilogy Collection",
+      "discount_percent": 35,
+      "original_price": 99.99,
+      "final_price": 64.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70070000031761/900711e9956513b9b72814aa454756f196a4f4b82e66228e859532169750149e",
+      "url": "https://www.nintendo.com/us/store/products/dragon-quest-hd-2d-erdrick-trilogy-collection-switch-2/",
+      "on_sale": true,
+      "platform": "Nintendo Switch 2",
+      "genres": [
+        "Role playing"
+      ],
+      "developers": [],
+      "publishers": [
+        "SQUARE ENIX"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70010000098990,
+      "name": "DRAGON QUEST VII Reimagined",
+      "discount_percent": 35,
+      "original_price": 59.99,
+      "final_price": 38.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70010000098990/78759e8c3ad458d67d31fae6519a364ef6eb6eda9d9dcebb19b72e7aa48290e0",
+      "url": "https://www.nintendo.com/us/store/products/dragon-quest-vii-reimagined-switch-2/",
+      "on_sale": true,
+      "platform": "Nintendo Switch 2",
+      "genres": [
+        "Role playing"
+      ],
+      "developers": [],
+      "publishers": [
+        "SQUARE ENIX"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -565,6 +1258,120 @@
       "review_rank": 0
     },
     {
+      "appid": 70050000053042,
+      "name": "Vagrus - The Riven Realms At the Heart of Ruin",
+      "discount_percent": 30,
+      "original_price": 19.99,
+      "final_price": 13.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000053042/996a91086328f8f61ee14199dbe14a9df24f328018b93febe5479ea655c461e9",
+      "url": "https://www.nintendo.com/us/store/products/vagrus-the-riven-realms-at-the-heart-of-ruin-70050000053042-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "LOST PILGRIMS STUDIOS"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70050000061915,
+      "name": "Vagrus - The Riven Realms Ruinous Supporter Pack",
+      "discount_percent": 30,
+      "original_price": 9.99,
+      "final_price": 6.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000061915/2f9a2fad9f5d667a73602f8d9c2bc7ab5cb1161e39ed1495913dcee7920163c0",
+      "url": "https://www.nintendo.com/us/store/products/vagrus-the-riven-realms-ruinous-supporter-pack-70050000061915-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "LOST PILGRIMS STUDIOS"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70050000052972,
+      "name": "Vagrus - The Riven Realms Sunfire and Moonshadow",
+      "discount_percent": 30,
+      "original_price": 19.99,
+      "final_price": 13.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000052972/6a3be96c705952b68bf442b7bb26bc215cd31b96a8e87b268f1db9a518e666f3",
+      "url": "https://www.nintendo.com/us/store/products/vagrus-the-riven-realms-sunfire-and-moonshadow-70050000052972-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "LOST PILGRIMS STUDIOS"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70050000052971,
+      "name": "Vagrus - The Riven Realms Old Acquaintances",
+      "discount_percent": 30,
+      "original_price": 8.99,
+      "final_price": 6.29,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000052971/fbf41057c15308292ed7576506ffdd177985ab7c2a35b257767df62b41a386a9",
+      "url": "https://www.nintendo.com/us/store/products/vagrus-the-riven-realms-old-acquaintances-70050000052971-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "LOST PILGRIMS STUDIOS"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70050000070910,
+      "name": "Vagrus - The Riven Realms Cultured Supporter Pack",
+      "discount_percent": 30,
+      "original_price": 9.99,
+      "final_price": 6.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch/70050000070910/fa8cb9416fdeefb9282d76f803eae8c37894d998314b27aa1a6fc45557740051",
+      "url": "https://www.nintendo.com/us/store/products/vagrus-the-riven-realms-cultured-supporter-pack-70050000070910-switch/",
+      "on_sale": true,
+      "platform": "Nintendo Switch",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "LOST PILGRIMS STUDIOS"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70070000033129,
+      "name": "The Adventures of Elliot: The Millennium Tales Digital Deluxe Edition",
+      "discount_percent": 30,
+      "original_price": 69.99,
+      "final_price": 48.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70070000033129/d805c8db8a24a21ddf39ec30144d761965ed0db227f43354a58b3026e72016f7",
+      "url": "https://www.nintendo.com/us/store/products/the-adventures-of-elliot-the-millennium-tales-digital-deluxe-edition-switch-2/",
+      "on_sale": true,
+      "platform": "Nintendo Switch 2",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "SQUARE ENIX"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 70010000095325,
       "name": "Kunitsu-Gami: Path of the Goddess",
       "discount_percent": 25,
@@ -627,5 +1434,5 @@
       "review_rank": 0
     }
   ],
-  "usd_krw_rate": 1335.27
+  "usd_krw_rate": 1342.9
 }
