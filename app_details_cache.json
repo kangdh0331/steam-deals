@@ -31110,5 +31110,247 @@
     "publishers": [
       "CAPCOM Co., Ltd."
     ]
+  },
+  "972660": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Thunder Lotus"
+    ],
+    "publishers": [
+      "Thunder Lotus"
+    ]
+  },
+  "729040": {
+    "genres": [
+      "액션",
+      "RPG"
+    ],
+    "developers": [
+      "Gearbox Software",
+      "Blind Squirrel Games"
+    ],
+    "publishers": [
+      "2K"
+    ]
+  },
+  "1286680": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "RPG"
+    ],
+    "developers": [
+      "Gearbox Software"
+    ],
+    "publishers": [
+      "2K"
+    ]
+  },
+  "2307470": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "레이싱",
+      "스포츠"
+    ],
+    "developers": [
+      "NEOWIZ"
+    ],
+    "publishers": [
+      "NEOWIZ"
+    ]
+  },
+  "1386612": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "스포츠"
+    ],
+    "developers": [
+      "NEOWIZ"
+    ],
+    "publishers": [
+      "NEOWIZ"
+    ]
+  },
+  "1356220": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "스포츠"
+    ],
+    "developers": [
+      "NEOWIZ"
+    ],
+    "publishers": []
+  },
+  "1233062": {
+    "genres": [
+      "액션",
+      "RPG"
+    ],
+    "developers": [
+      "Gearbox Software"
+    ],
+    "publishers": [
+      "2K"
+    ]
+  },
+  "1684350": {
+    "genres": [
+      "어드벤처",
+      "RPG"
+    ],
+    "developers": [
+      "Fool's Theory"
+    ],
+    "publishers": [
+      "11 bit studios"
+    ]
+  },
+  "2138090": {
+    "genres": [
+      "캐주얼",
+      "RPG"
+    ],
+    "developers": [
+      "KOEI TECMO GAMES CO., LTD."
+    ],
+    "publishers": [
+      "KOEI TECMO GAMES CO., LTD."
+    ]
+  },
+  "330830": {
+    "genres": [
+      "어드벤처"
+    ],
+    "developers": [
+      "Telltale Games"
+    ],
+    "publishers": [
+      "2K"
+    ]
+  },
+  "481510": {
+    "genres": [
+      "어드벤처"
+    ],
+    "developers": [
+      "Infinite Fall"
+    ],
+    "publishers": [
+      "Finji"
+    ]
+  },
+  "1396474": {
+    "genres": [
+      "액션",
+      "RPG"
+    ],
+    "developers": [
+      "Gearbox Software"
+    ],
+    "publishers": [
+      "2K"
+    ]
+  },
+  "4621810": {
+    "genres": [
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Clover Rock Games"
+    ],
+    "publishers": [
+      "Clover Rock Games",
+      "Ritual Interactive"
+    ]
+  },
+  "4779470": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Punch Interactive"
+    ],
+    "publishers": [
+      "Punch Interactive"
+    ]
+  },
+  "5345280": {
+    "genres": [
+      "레이싱",
+      "시뮬레이션",
+      "스포츠"
+    ],
+    "developers": [
+      "Flowdot"
+    ],
+    "publishers": [
+      "Flowdot"
+    ]
+  },
+  "2320980": {
+    "genres": [
+      "어드벤처",
+      "캐주얼",
+      "인디",
+      "대규모 멀티플레이어",
+      "RPG",
+      "시뮬레이션",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Qloud Games"
+    ],
+    "publishers": [
+      "Qloud Games"
+    ]
+  },
+  "5266240": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      " Golden Horn Studios"
+    ],
+    "publishers": [
+      " Golden Horn Studios"
+    ]
+  },
+  "5101960": {
+    "genres": [
+      "RPG",
+      "시뮬레이션",
+      "전략",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Bretticus82"
+    ],
+    "publishers": [
+      "Surefire.Games"
+    ]
+  },
+  "4251460": {
+    "genres": [
+      "액션",
+      "캐주얼"
+    ],
+    "developers": [
+      "Pipeworks Studios"
+    ],
+    "publishers": [
+      "Atari"
+    ]
   }
 }

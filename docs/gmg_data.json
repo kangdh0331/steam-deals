@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1793713407.5441363,
+  "fetched_at": 1793746656.3880022,
   "deals": [
     {
       "appid": 39339,
@@ -18917,27 +18917,6 @@
       "review_rank": 0
     },
     {
-      "appid": 48349,
-      "name": "Premier Manager 09",
-      "discount_percent": 74,
-      "original_price": 3400.0,
-      "final_price": 900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/39e7f20273154c26b66cdca44d84a2d5/6291679b8e374833b663e72c2cf79389.jpg",
-      "url": "https://www.greenmangaming.com/games/premier-manager-09-pc/",
-      "on_sale": true,
-      "genres": [
-        "시뮬레이션",
-        "스포츠"
-      ],
-      "developers": [],
-      "publishers": [
-        "Funbox Media Limited"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 44049,
       "name": "Tiny Tina's Wonderlands: Chaotic Great Edition",
       "discount_percent": 73,
@@ -20568,7 +20547,7 @@
       "original_price": 34900.0,
       "final_price": 21000.0,
       "currency": "KRW",
-      "image": "https://images.greenmangaming.com/1c18c22df9c24a758aec5cf92de61e7f/2ebc551d2d944188aca8f4a801f9d986.jpg",
+      "image": "https://images.greenmangaming.com/8a10f58ff757465dbbccac9d572906ce/d2256e95f303421e9cb07b2e3b9cf266.jpg",
       "url": "https://www.greenmangaming.com/games/the-crust-pc/",
       "on_sale": true,
       "genres": [
@@ -20707,6 +20686,28 @@
       "developers": [],
       "publishers": [
         "Curve Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 54942,
+      "name": "Stellar Blade™ Complete Edition",
+      "discount_percent": 33,
+      "original_price": 83800.0,
+      "final_price": 56200.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/22cb949d207b4480a62fef5425d9e24e/cba812b26c5b465486253d96c86290d1.jpg",
+      "url": "https://www.greenmangaming.com/games/stellar-blade-complete-edition-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "Playstation Publishing LLC"
       ],
       "review_desc": null,
       "review_rank": 0
