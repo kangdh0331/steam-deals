@@ -30663,5 +30663,452 @@
     "publishers": [
       "Blobfish Games"
     ]
+  },
+  "261640": {
+    "genres": [
+      "액션",
+      "RPG"
+    ],
+    "developers": [
+      "2K Australia",
+      "Gearbox Software",
+      "Aspyr (Linux)"
+    ],
+    "publishers": [
+      "2K",
+      "Aspyr (Linux)"
+    ]
+  },
+  "3038800": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "레이싱",
+      "스포츠"
+    ],
+    "developers": [
+      "NEOWIZ"
+    ],
+    "publishers": []
+  },
+  "2681820": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "스포츠"
+    ],
+    "developers": [
+      "NEOWIZ"
+    ],
+    "publishers": []
+  },
+  "2164540": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "스포츠"
+    ],
+    "developers": [
+      "NEOWIZ"
+    ],
+    "publishers": []
+  },
+  "1843020": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "레이싱",
+      "스포츠"
+    ],
+    "developers": [
+      "NEOWIZ"
+    ],
+    "publishers": [
+      "NEOWIZ"
+    ]
+  },
+  "1080550": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "레이싱",
+      "스포츠"
+    ],
+    "developers": [
+      "NEOWIZ"
+    ],
+    "publishers": [
+      "NEOWIZ"
+    ]
+  },
+  "2530380": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "레이싱",
+      "스포츠"
+    ],
+    "developers": [
+      "NEOWIZ"
+    ],
+    "publishers": []
+  },
+  "1958170": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "레이싱",
+      "스포츠"
+    ],
+    "developers": [
+      "NEOWIZ"
+    ],
+    "publishers": [
+      "NEOWIZ"
+    ]
+  },
+  "1782170": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "레이싱",
+      "스포츠"
+    ],
+    "developers": [
+      "NEOWIZ"
+    ],
+    "publishers": [
+      "NEOWIZ"
+    ]
+  },
+  "3222500": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "스포츠"
+    ],
+    "developers": [
+      "NEOWIZ"
+    ],
+    "publishers": []
+  },
+  "1343240": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "OverBorder Studio"
+    ],
+    "publishers": [
+      "Team17"
+    ]
+  },
+  "1277400": {
+    "genres": [
+      "어드벤처",
+      "RPG"
+    ],
+    "developers": [
+      "CAPCOM Co., Ltd."
+    ],
+    "publishers": [
+      "CAPCOM Co., Ltd."
+    ]
+  },
+  "1967630": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Odinsoft Inc."
+    ],
+    "publishers": [
+      "Twin Sails Interactive",
+      "CE-Asia"
+    ]
+  },
+  "1377380": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "RPG",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Jackto Studios"
+    ],
+    "publishers": [
+      "Jackto Studios"
+    ]
+  },
+  "2026000": {
+    "genres": [
+      "인디",
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "GreenGuy"
+    ],
+    "publishers": [
+      "GreenGuy"
+    ]
+  },
+  "1858650": {
+    "genres": [
+      "어드벤처",
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Clock Out Games"
+    ],
+    "publishers": [
+      "Kwalee"
+    ]
+  },
+  "553420": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "RPG"
+    ],
+    "developers": [
+      "TUNIC Team"
+    ],
+    "publishers": [
+      "Finji"
+    ]
+  },
+  "1114150": {
+    "genres": [
+      "대규모 멀티플레이어",
+      "레이싱",
+      "시뮬레이션",
+      "스포츠"
+    ],
+    "developers": [
+      "CarX Technologies, LLC"
+    ],
+    "publishers": [
+      "CarX Technologies, LLC"
+    ]
+  },
+  "490110": {
+    "genres": [
+      "액션",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Fallen Tree Games Ltd"
+    ],
+    "publishers": [
+      "Kwalee"
+    ]
+  },
+  "5475960": {
+    "genres": [
+      "캐주얼",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Rischer Kriebl"
+    ],
+    "publishers": [
+      "Rischer Kriebl"
+    ]
+  },
+  "2440760": {
+    "genres": [
+      "액션",
+      "인디",
+      "전략",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Octopus Panic, Inc."
+    ],
+    "publishers": [
+      "Octopus Panic, Inc."
+    ]
+  },
+  "3279470": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "스포츠"
+    ],
+    "developers": [
+      "Neonovice Co., Ltd.",
+      "SQUARE PIXELS"
+    ],
+    "publishers": [
+      "Neonovice Co., Ltd."
+    ]
+  },
+  "1686230": {
+    "genres": [
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "Pequi studios"
+    ],
+    "publishers": [
+      "indie.io"
+    ]
+  },
+  "2868390": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "Blobfish Games"
+    ],
+    "publishers": [
+      "Blobfish Games"
+    ]
+  },
+  "4272370": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Corecrew Games"
+    ],
+    "publishers": [
+      "indie.io",
+      "Corecrew Games"
+    ]
+  },
+  "2830030": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "Regular Studio"
+    ],
+    "publishers": [
+      "Top Hat Studios, Inc."
+    ]
+  },
+  "3684530": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "전략"
+    ],
+    "developers": [
+      "Black Heart Games LLC"
+    ],
+    "publishers": [
+      "Gamersky Games",
+      "brokenworm"
+    ]
+  },
+  "3758950": {
+    "genres": [
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "SUPERTHUMb"
+    ],
+    "publishers": [
+      "SUPERTHUMb"
+    ]
+  },
+  "5009390": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "WINDUP"
+    ],
+    "publishers": [
+      "WINDUP"
+    ]
+  },
+  "3832030": {
+    "genres": [
+      "액션",
+      "인디",
+      "레이싱",
+      "스포츠"
+    ],
+    "developers": [
+      "Blockage"
+    ],
+    "publishers": [
+      "Blockage"
+    ]
+  },
+  "5088440": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Cybernetic Walrus"
+    ],
+    "publishers": [
+      "Cybernetic Walrus"
+    ]
+  },
+  "5133900": {
+    "genres": [
+      "액션",
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "LuisDev"
+    ],
+    "publishers": [
+      "LuisDev"
+    ]
+  },
+  "5109260": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "RPG"
+    ],
+    "developers": [
+      "Ubisoft"
+    ],
+    "publishers": [
+      "Ubisoft"
+    ]
+  },
+  "1880360": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "CAPCOM Co., Ltd."
+    ],
+    "publishers": [
+      "CAPCOM Co., Ltd."
+    ]
   }
 }
