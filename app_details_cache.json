@@ -31352,5 +31352,63 @@
     "publishers": [
       "Atari"
     ]
+  },
+  "569480": {
+    "genres": [
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Lion Shield, LLC"
+    ],
+    "publishers": [
+      "Lion Shield, LLC"
+    ]
+  },
+  "1811950": {
+    "genres": [
+      "RPG"
+    ],
+    "developers": [
+      "Nihon Falcom"
+    ],
+    "publishers": [
+      "Clouded Leopard Entertainment"
+    ]
+  },
+  "3181500": {
+    "genres": [
+      "전략"
+    ],
+    "developers": [
+      "Triumph Studios"
+    ],
+    "publishers": [
+      "Paradox Interactive"
+    ]
+  },
+  "3907380": {
+    "genres": [
+      "어드벤처"
+    ],
+    "developers": [
+      "KONAMI"
+    ],
+    "publishers": [
+      "KONAMI"
+    ]
+  },
+  "4430260": {
+    "genres": [
+      "캐주얼",
+      "인디"
+    ],
+    "developers": [
+      "CyanCoast"
+    ],
+    "publishers": [
+      "CyanCoast"
+    ]
   }
 }

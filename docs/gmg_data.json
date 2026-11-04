@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1793746656.3880022,
+  "fetched_at": 1793768422.1881073,
   "deals": [
     {
       "appid": 39339,
@@ -1351,72 +1351,6 @@
       "review_rank": 0
     },
     {
-      "appid": 23444,
-      "name": "Fated Souls 2",
-      "discount_percent": 91,
-      "original_price": 11000.0,
-      "final_price": 1000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/7a2a16f8b47c41a4896326266236fc6f/449452e5aba94d729f2b1b1d4e769314.jpg",
-      "url": "https://www.greenmangaming.com/games/fated-souls-2-pc/",
-      "on_sale": true,
-      "genres": [
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Aldorlea Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 23365,
-      "name": "Last Heroes 3",
-      "discount_percent": 91,
-      "original_price": 11000.0,
-      "final_price": 1000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/0f69c67d01ae4ba9b28f312d2d0b883f/eeb701c6abc34500a022184e07d8b15a.jpg",
-      "url": "https://www.greenmangaming.com/games/last-heroes-3-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "인디",
-        "RPG",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Aldorlea Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 23367,
-      "name": "Last Heroes 4",
-      "discount_percent": 91,
-      "original_price": 11000.0,
-      "final_price": 1000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/9ff764596be34dae853394ee41a89664/21ea68987bb44f34af25945518d6d107.jpg",
-      "url": "https://www.greenmangaming.com/games/last-heroes-4-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "인디",
-        "RPG",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Aldorlea Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 10292,
       "name": "Lords of the Realm Complete",
       "discount_percent": 91,
@@ -1432,48 +1366,6 @@
       "developers": [],
       "publishers": [
         "Rebellion"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 23363,
-      "name": "Last Heroes 2",
-      "discount_percent": 91,
-      "original_price": 11000.0,
-      "final_price": 1000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/ba231e95383a407da45743a197ecd4e1/1ba54f1db63c46b1a53fa30daa75705f.jpg",
-      "url": "https://www.greenmangaming.com/games/last-heroes-2-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "인디",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Aldorlea Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 23421,
-      "name": "Fated Souls",
-      "discount_percent": 91,
-      "original_price": 11000.0,
-      "final_price": 1000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/4be27955e3fd4c0c87667f6fc3363b64/1f65e28da4f5470c93354ef1c6bf9cab.jpg",
-      "url": "https://www.greenmangaming.com/games/fated-souls-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Aldorlea Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -1496,48 +1388,6 @@
       "developers": [],
       "publishers": [
         "Modus Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 23361,
-      "name": "Last Heroes",
-      "discount_percent": 91,
-      "original_price": 11000.0,
-      "final_price": 1000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/2a2530eaf87941a4820585c1bc9cc5c7/043391a6a0944f5793fa13642357f625.jpg",
-      "url": "https://www.greenmangaming.com/games/last-heroes-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "인디",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Aldorlea Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 23446,
-      "name": "Fated Souls 3",
-      "discount_percent": 91,
-      "original_price": 11000.0,
-      "final_price": 1000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/b9c620b3353e43ceb747bbc84854e643/beff7b0a1a654947910720d2e29a0ac8.jpg",
-      "url": "https://www.greenmangaming.com/games/fated-souls-3-pc/",
-      "on_sale": true,
-      "genres": [
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Aldorlea Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -2070,26 +1920,6 @@
       "developers": [],
       "publishers": [
         "Square Enix"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 49314,
-      "name": "Scrapnaut",
-      "discount_percent": 90,
-      "original_price": 14500.0,
-      "final_price": 1400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/eaf2b0e396c44e0b9b794d553ad3b5a0/7154cdc6a3dd48c2948c764f838bc28a.jpg",
-      "url": "https://www.greenmangaming.com/games/scrapnaut-pc/",
-      "on_sale": true,
-      "genres": [
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "RockGame SA"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -3264,7 +3094,7 @@
       "name": "Technicity",
       "discount_percent": 90,
       "original_price": 18500.0,
-      "final_price": 1800.0,
+      "final_price": 1900.0,
       "currency": "KRW",
       "image": "https://images.greenmangaming.com/3f641003e4584ab19c02773da09a1130/fb9aee8aa6b843f9870f074c403f8f87.jpg",
       "url": "https://www.greenmangaming.com/games/technicity-pc/",
@@ -4584,6 +4414,26 @@
       "developers": [],
       "publishers": [
         "Warner Bros Interactive Entertainment"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 49314,
+      "name": "Scrapnaut",
+      "discount_percent": 88,
+      "original_price": 14500.0,
+      "final_price": 1800.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/eaf2b0e396c44e0b9b794d553ad3b5a0/7154cdc6a3dd48c2948c764f838bc28a.jpg",
+      "url": "https://www.greenmangaming.com/games/scrapnaut-pc/",
+      "on_sale": true,
+      "genres": [
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "RockGame SA"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -5954,28 +5804,6 @@
       "review_rank": 0
     },
     {
-      "appid": 49297,
-      "name": "Urbek City Builder",
-      "discount_percent": 86,
-      "original_price": 19500.0,
-      "final_price": 2700.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/a6e1eeb97b38472496bf6619b2d98f17/41befd714f614af9ada189d484a0f5c9.jpg",
-      "url": "https://www.greenmangaming.com/games/urbek-city-builder-pc/",
-      "on_sale": true,
-      "genres": [
-        "인디",
-        "전략",
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "RockGame SA"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 6242,
       "name": "Sleeping Dogs™ Definitive Edition",
       "discount_percent": 85,
@@ -6354,7 +6182,7 @@
       "name": "DESTRUCTURE: Among Debris",
       "discount_percent": 85,
       "original_price": 11000.0,
-      "final_price": 1600.0,
+      "final_price": 1700.0,
       "currency": "KRW",
       "image": "https://images.greenmangaming.com/76a422725e934383b6952af53f2dba7e/48e4fa377ff44f5a8da752468ce66dcc.jpg",
       "url": "https://www.greenmangaming.com/games/destructure-among-debris-pc/",
@@ -6884,6 +6712,28 @@
       "developers": [],
       "publishers": [
         "Kalypso Media"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 49297,
+      "name": "Urbek City Builder",
+      "discount_percent": 85,
+      "original_price": 19500.0,
+      "final_price": 3000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/a6e1eeb97b38472496bf6619b2d98f17/41befd714f614af9ada189d484a0f5c9.jpg",
+      "url": "https://www.greenmangaming.com/games/urbek-city-builder-pc/",
+      "on_sale": true,
+      "genres": [
+        "인디",
+        "전략",
+        "시뮬레이션"
+      ],
+      "developers": [],
+      "publishers": [
+        "RockGame SA"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -16476,28 +16326,6 @@
       "review_rank": 0
     },
     {
-      "appid": 7329,
-      "name": "Where Angels Cry",
-      "discount_percent": 75,
-      "original_price": 11000.0,
-      "final_price": 2800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/076fcc3e42434410b60ee3c7141cd43b/8e1c80f0e8c84d9b8427e0bfed7acdcf.jpg",
-      "url": "https://www.greenmangaming.com/games/where-angels-cry/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "퍼즐",
-        "Mac"
-      ],
-      "developers": [],
-      "publishers": [
-        "Cateia Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 43854,
       "name": "Jurassic World Evolution Deluxe Edition",
       "discount_percent": 75,
@@ -16707,27 +16535,6 @@
       "developers": [],
       "publishers": [
         "NEOWIZ"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 7324,
-      "name": "Tales from the Dragon Mountain 2: The Lair",
-      "discount_percent": 75,
-      "original_price": 11000.0,
-      "final_price": 2800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/715f5fd6465e4cc59d8b2da75d1c884c/ce3c3bf572184d1dbf5fd5523ace3294.jpg",
-      "url": "https://www.greenmangaming.com/games/tales-from-the-dragon-mountain-2-the-lair/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "Mac"
-      ],
-      "developers": [],
-      "publishers": [
-        "Cateia Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -17187,48 +16994,6 @@
       "review_rank": 0
     },
     {
-      "appid": 54249,
-      "name": "The Legend of Crystal Valley",
-      "discount_percent": 75,
-      "original_price": 16500.0,
-      "final_price": 4200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/1903af9f9b7f4b38a779f5760cd8bb1e/ad29f717f3134cc6a4fc3700454b2440.jpg",
-      "url": "https://www.greenmangaming.com/games/the-legend-of-crystal-valley-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Cateia Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 9369,
-      "name": "Where Angels Cry: Tears of the Fallen - Collector's Edition",
-      "discount_percent": 75,
-      "original_price": 16500.0,
-      "final_price": 4200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/0b31c5774f9041e0bdd19575585e8a64/5b78ad4e35414eb18f1651e12f481966.jpg",
-      "url": "https://www.greenmangaming.com/games/where-angels-cry-tears-of-the-fallen-collectors-edition/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "Mac"
-      ],
-      "developers": [],
-      "publishers": [
-        "Cateia Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 43029,
       "name": "Telling Lies",
       "discount_percent": 75,
@@ -17378,49 +17143,6 @@
       "developers": [],
       "publishers": [
         "Funbox Media Limited"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 54062,
-      "name": "Tibor: Tale of a Kind Vampire",
-      "discount_percent": 75,
-      "original_price": 11000.0,
-      "final_price": 2800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/75666f88a66b44aaabb50fd8c1a5ab40/6245e3a109674e3995ed0321bb13588c.jpg",
-      "url": "https://www.greenmangaming.com/games/tibor-tale-of-a-kind-vampire-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "캐주얼",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Cateia Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 7325,
-      "name": "Tales from the Dragon Mountain: The Strix",
-      "discount_percent": 75,
-      "original_price": 11000.0,
-      "final_price": 2800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/cfa604a6c5d84581a112f13583c2d3ba/dca2ab668a9a44e6a2e7b297f3ef7577.jpg",
-      "url": "https://www.greenmangaming.com/games/tales-from-the-dragon-mountain-the-strix/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "Mac"
-      ],
-      "developers": [],
-      "publishers": [
-        "Cateia Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -18917,6 +18639,152 @@
       "review_rank": 0
     },
     {
+      "appid": 48349,
+      "name": "Premier Manager 09",
+      "discount_percent": 74,
+      "original_price": 3400.0,
+      "final_price": 900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/39e7f20273154c26b66cdca44d84a2d5/6291679b8e374833b663e72c2cf79389.jpg",
+      "url": "https://www.greenmangaming.com/games/premier-manager-09-pc/",
+      "on_sale": true,
+      "genres": [
+        "시뮬레이션",
+        "스포츠"
+      ],
+      "developers": [],
+      "publishers": [
+        "Funbox Media Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 9476,
+      "name": "Terra Lander",
+      "discount_percent": 74,
+      "original_price": 3400.0,
+      "final_price": 900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/3e697330dae148759209654ab5e981d1/86ab38afd3e34d7d9d23a6c838a621f1.jpg",
+      "url": "https://www.greenmangaming.com/games/terra-lander/",
+      "on_sale": true,
+      "genres": [
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Funbox Media Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 36717,
+      "name": "Madness of the Architect",
+      "discount_percent": 74,
+      "original_price": 3400.0,
+      "final_price": 900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/535b4845f31f4f509bf17591be5fa0a0/26da008d155548a291a1910edbc9c3b3.jpg",
+      "url": "https://www.greenmangaming.com/games/madness-of-the-architect-pc/",
+      "on_sale": true,
+      "genres": [
+        "어드벤처",
+        "인디",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Funbox Media Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 9454,
+      "name": "Pressured\t",
+      "discount_percent": 74,
+      "original_price": 3400.0,
+      "final_price": 900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/cdf8a1063c7049ee90d4a9436db7acfd/b37c1aff512a405090bab70e2efe7665.jpg",
+      "url": "https://www.greenmangaming.com/games/pressured/",
+      "on_sale": true,
+      "genres": [
+        "인디",
+        "퍼즐"
+      ],
+      "developers": [],
+      "publishers": [
+        "Funbox Media Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 48329,
+      "name": "Premier Manager 06/07",
+      "discount_percent": 74,
+      "original_price": 3400.0,
+      "final_price": 900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/afed2fcc85ba488abb082ab8eebaba89/c4dc88f321ac40b3b4f017728eea846a.jpg",
+      "url": "https://www.greenmangaming.com/games/premier-manager-06-07-pc/",
+      "on_sale": true,
+      "genres": [
+        "시뮬레이션",
+        "스포츠"
+      ],
+      "developers": [],
+      "publishers": [
+        "Funbox Media Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 9437,
+      "name": "Marine Sharpshooter II: Jungle Warfare",
+      "discount_percent": 74,
+      "original_price": 3400.0,
+      "final_price": 900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/35b8749afbed4133b2aceeae348b38ff/f2f252c2311a46f5bf2fcd8c4f44cc9b.jpg",
+      "url": "https://www.greenmangaming.com/games/marine-sharpshooter-ii-jungle-warfare/",
+      "on_sale": true,
+      "genres": [
+        "슈팅"
+      ],
+      "developers": [],
+      "publishers": [
+        "Funbox Media Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 48325,
+      "name": "Premier Manager 05/06",
+      "discount_percent": 74,
+      "original_price": 3400.0,
+      "final_price": 900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/c63d6b409eae463d846e2a847a3377b8/56549c3a5f1b4c369ebbb28c2e95e698.jpg",
+      "url": "https://www.greenmangaming.com/games/premier-manager-05-06-pc/",
+      "on_sale": true,
+      "genres": [
+        "시뮬레이션",
+        "스포츠"
+      ],
+      "developers": [],
+      "publishers": [
+        "Funbox Media Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 44049,
       "name": "Tiny Tina's Wonderlands: Chaotic Great Edition",
       "discount_percent": 73,
@@ -19784,6 +19652,134 @@
       "review_rank": 0
     },
     {
+      "appid": 7329,
+      "name": "Where Angels Cry",
+      "discount_percent": 65,
+      "original_price": 11000.0,
+      "final_price": 3900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/076fcc3e42434410b60ee3c7141cd43b/8e1c80f0e8c84d9b8427e0bfed7acdcf.jpg",
+      "url": "https://www.greenmangaming.com/games/where-angels-cry/",
+      "on_sale": true,
+      "genres": [
+        "어드벤처",
+        "퍼즐",
+        "Mac"
+      ],
+      "developers": [],
+      "publishers": [
+        "Cateia Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 7324,
+      "name": "Tales from the Dragon Mountain 2: The Lair",
+      "discount_percent": 65,
+      "original_price": 11000.0,
+      "final_price": 3900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/715f5fd6465e4cc59d8b2da75d1c884c/ce3c3bf572184d1dbf5fd5523ace3294.jpg",
+      "url": "https://www.greenmangaming.com/games/tales-from-the-dragon-mountain-2-the-lair/",
+      "on_sale": true,
+      "genres": [
+        "어드벤처",
+        "Mac"
+      ],
+      "developers": [],
+      "publishers": [
+        "Cateia Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 54249,
+      "name": "The Legend of Crystal Valley",
+      "discount_percent": 65,
+      "original_price": 16500.0,
+      "final_price": 5800.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/1903af9f9b7f4b38a779f5760cd8bb1e/ad29f717f3134cc6a4fc3700454b2440.jpg",
+      "url": "https://www.greenmangaming.com/games/the-legend-of-crystal-valley-pc/",
+      "on_sale": true,
+      "genres": [
+        "어드벤처",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Cateia Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 9369,
+      "name": "Where Angels Cry: Tears of the Fallen - Collector's Edition",
+      "discount_percent": 65,
+      "original_price": 16500.0,
+      "final_price": 5800.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/0b31c5774f9041e0bdd19575585e8a64/5b78ad4e35414eb18f1651e12f481966.jpg",
+      "url": "https://www.greenmangaming.com/games/where-angels-cry-tears-of-the-fallen-collectors-edition/",
+      "on_sale": true,
+      "genres": [
+        "어드벤처",
+        "Mac"
+      ],
+      "developers": [],
+      "publishers": [
+        "Cateia Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 54062,
+      "name": "Tibor: Tale of a Kind Vampire",
+      "discount_percent": 65,
+      "original_price": 11000.0,
+      "final_price": 3900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/75666f88a66b44aaabb50fd8c1a5ab40/6245e3a109674e3995ed0321bb13588c.jpg",
+      "url": "https://www.greenmangaming.com/games/tibor-tale-of-a-kind-vampire-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "캐주얼",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Cateia Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 7325,
+      "name": "Tales from the Dragon Mountain: The Strix",
+      "discount_percent": 65,
+      "original_price": 11000.0,
+      "final_price": 3900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/cfa604a6c5d84581a112f13583c2d3ba/dca2ab668a9a44e6a2e7b297f3ef7577.jpg",
+      "url": "https://www.greenmangaming.com/games/tales-from-the-dragon-mountain-the-strix/",
+      "on_sale": true,
+      "genres": [
+        "어드벤처",
+        "Mac"
+      ],
+      "developers": [],
+      "publishers": [
+        "Cateia Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 49382,
       "name": "Warhammer 40,000 Rogue Trader: Voidfarer Edition",
       "discount_percent": 65,
@@ -20446,28 +20442,6 @@
       "developers": [],
       "publishers": [
         "Gaming Factory"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 58410,
-      "name": "Trackastrophe!",
-      "discount_percent": 49,
-      "original_price": 9700.0,
-      "final_price": 4900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/023c1466ba264d63a92989f162cfade5/37f2acf80ce743c089ae1ccbf28f056e.jpg",
-      "url": "https://www.greenmangaming.com/games/trackastrophe-pc/",
-      "on_sale": true,
-      "genres": [
-        "캐주얼",
-        "전략",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Black Smoke Studios"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -21300,6 +21274,28 @@
       "review_rank": 0
     },
     {
+      "appid": 58410,
+      "name": "Trackastrophe!",
+      "discount_percent": 9,
+      "original_price": 9700.0,
+      "final_price": 8800.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/023c1466ba264d63a92989f162cfade5/37f2acf80ce743c089ae1ccbf28f056e.jpg",
+      "url": "https://www.greenmangaming.com/games/trackastrophe-pc/",
+      "on_sale": true,
+      "genres": [
+        "캐주얼",
+        "전략",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Black Smoke Studios"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 58792,
       "name": "FINAL FANTASY RESONANCE",
       "discount_percent": 0,
@@ -21887,6 +21883,94 @@
       "review_rank": 0
     },
     {
+      "appid": 23444,
+      "name": "Fated Souls 2",
+      "discount_percent": 0,
+      "original_price": 11000.0,
+      "final_price": 11000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/7a2a16f8b47c41a4896326266236fc6f/449452e5aba94d729f2b1b1d4e769314.jpg",
+      "url": "https://www.greenmangaming.com/games/fated-souls-2-pc/",
+      "on_sale": false,
+      "genres": [
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "Aldorlea Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 23365,
+      "name": "Last Heroes 3",
+      "discount_percent": 0,
+      "original_price": 11000.0,
+      "final_price": 11000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/0f69c67d01ae4ba9b28f312d2d0b883f/eeb701c6abc34500a022184e07d8b15a.jpg",
+      "url": "https://www.greenmangaming.com/games/last-heroes-3-pc/",
+      "on_sale": false,
+      "genres": [
+        "어드벤처",
+        "인디",
+        "RPG",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Aldorlea Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 23367,
+      "name": "Last Heroes 4",
+      "discount_percent": 0,
+      "original_price": 11000.0,
+      "final_price": 11000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/9ff764596be34dae853394ee41a89664/21ea68987bb44f34af25945518d6d107.jpg",
+      "url": "https://www.greenmangaming.com/games/last-heroes-4-pc/",
+      "on_sale": false,
+      "genres": [
+        "어드벤처",
+        "인디",
+        "RPG",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Aldorlea Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 23363,
+      "name": "Last Heroes 2",
+      "discount_percent": 0,
+      "original_price": 11000.0,
+      "final_price": 11000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/ba231e95383a407da45743a197ecd4e1/1ba54f1db63c46b1a53fa30daa75705f.jpg",
+      "url": "https://www.greenmangaming.com/games/last-heroes-2-pc/",
+      "on_sale": false,
+      "genres": [
+        "어드벤처",
+        "인디",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "Aldorlea Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 38103,
       "name": "Aldorlea Games RPG Bundle",
       "discount_percent": 0,
@@ -21895,6 +21979,68 @@
       "currency": "KRW",
       "image": "https://images.greenmangaming.com/046a19620bd141569c07d60a6773381a/be070bf581a145e580cdda0b77b1b2c4.jpg",
       "url": "https://www.greenmangaming.com/games/aldorlea-games-rpg-bundle-pc/",
+      "on_sale": false,
+      "genres": [
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "Aldorlea Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 23421,
+      "name": "Fated Souls",
+      "discount_percent": 0,
+      "original_price": 11000.0,
+      "final_price": 11000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/4be27955e3fd4c0c87667f6fc3363b64/1f65e28da4f5470c93354ef1c6bf9cab.jpg",
+      "url": "https://www.greenmangaming.com/games/fated-souls-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Aldorlea Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 23361,
+      "name": "Last Heroes",
+      "discount_percent": 0,
+      "original_price": 11000.0,
+      "final_price": 11000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/2a2530eaf87941a4820585c1bc9cc5c7/043391a6a0944f5793fa13642357f625.jpg",
+      "url": "https://www.greenmangaming.com/games/last-heroes-pc/",
+      "on_sale": false,
+      "genres": [
+        "어드벤처",
+        "인디",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "Aldorlea Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 23446,
+      "name": "Fated Souls 3",
+      "discount_percent": 0,
+      "original_price": 11000.0,
+      "final_price": 11000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/b9c620b3353e43ceb747bbc84854e643/beff7b0a1a654947910720d2e29a0ac8.jpg",
+      "url": "https://www.greenmangaming.com/games/fated-souls-3-pc/",
       "on_sale": false,
       "genres": [
         "RPG"
