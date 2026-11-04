@@ -31410,5 +31410,780 @@
     "publishers": [
       "CyanCoast"
     ]
+  },
+  "981750": {
+    "genres": [
+      "액션",
+      "RPG"
+    ],
+    "developers": [
+      "FURYU CORPORATION"
+    ],
+    "publishers": [
+      "FURYU CORPORATION"
+    ]
+  },
+  "704850": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Noble Muffins"
+    ],
+    "publishers": [
+      "PlayWay S.A."
+    ]
+  },
+  "544750": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "BANDAI NAMCO Studios Inc.",
+      "Dimps Corporation"
+    ],
+    "publishers": [
+      "BANDAI NAMCO Entertainment"
+    ]
+  },
+  "798490": {
+    "genres": [
+      "인디",
+      "전략"
+    ],
+    "developers": [
+      "Lightbulb Crew"
+    ],
+    "publishers": [
+      "Focus Entertainment"
+    ]
+  },
+  "319090": {
+    "genres": [
+      "액션",
+      "RPG"
+    ],
+    "developers": [
+      "2K Australia",
+      "Gearbox Software",
+      "Aspyr (Linux)"
+    ],
+    "publishers": [
+      "2K",
+      "Aspyr (Linux)"
+    ]
+  },
+  "992300": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "艺龙游戏"
+    ],
+    "publishers": [
+      "艺龙游戏"
+    ]
+  },
+  "115800": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "D-Pad Studio"
+    ],
+    "publishers": [
+      "D-Pad Studio"
+    ]
+  },
+  "1147010": {
+    "genres": [
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "11 bit studios"
+    ],
+    "publishers": [
+      "11 bit studios"
+    ]
+  },
+  "1332720": {
+    "genres": [
+      "액션",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "CookieDev",
+      "Ultimate Games S.A."
+    ],
+    "publishers": [
+      "PlayWay S.A."
+    ]
+  },
+  "1568680": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "레이싱",
+      "스포츠"
+    ],
+    "developers": [
+      "NEOWIZ"
+    ],
+    "publishers": [
+      "NEOWIZ"
+    ]
+  },
+  "1300211": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "스포츠"
+    ],
+    "developers": [
+      "NEOWIZ"
+    ],
+    "publishers": []
+  },
+  "1356221": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "스포츠"
+    ],
+    "developers": [
+      "NEOWIZ"
+    ],
+    "publishers": []
+  },
+  "1300210": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "레이싱",
+      "스포츠"
+    ],
+    "developers": [
+      "NEOWIZ"
+    ],
+    "publishers": []
+  },
+  "1386610": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "레이싱",
+      "스포츠"
+    ],
+    "developers": [
+      "NEOWIZ"
+    ],
+    "publishers": [
+      "NEOWIZ"
+    ]
+  },
+  "1958171": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "스포츠"
+    ],
+    "developers": [
+      "NEOWIZ"
+    ],
+    "publishers": [
+      "NEOWIZ"
+    ]
+  },
+  "1784570": {
+    "genres": [
+      "시뮬레이션"
+    ],
+    "developers": [
+      "N3V Games"
+    ],
+    "publishers": [
+      "N3V Games"
+    ]
+  },
+  "1123770": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Passtech Games"
+    ],
+    "publishers": [
+      "Focus Entertainment"
+    ]
+  },
+  "985890": {
+    "genres": [
+      "액션",
+      "인디"
+    ],
+    "developers": [
+      "Dotemu",
+      "Guard Crush",
+      "Lizardcube"
+    ],
+    "publishers": [
+      "Dotemu"
+    ]
+  },
+  "2287330": {
+    "genres": [
+      "전략"
+    ],
+    "developers": [
+      "Tower Five"
+    ],
+    "publishers": [
+      "Microids"
+    ]
+  },
+  "1361510": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "캐주얼",
+      "인디"
+    ],
+    "developers": [
+      "Tribute Games Inc."
+    ],
+    "publishers": [
+      "Dotemu"
+    ]
+  },
+  "1451190": {
+    "genres": [
+      "액션",
+      "시뮬레이션",
+      "스포츠"
+    ],
+    "developers": [
+      "Steel City Interactive"
+    ],
+    "publishers": [
+      "Deep Silver"
+    ]
+  },
+  "4189880": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "SuperTurbine Technology Inc."
+    ],
+    "publishers": [
+      "SuperTurbine Technology Inc."
+    ]
+  },
+  "1450090": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "캐주얼",
+      "RPG"
+    ],
+    "developers": [
+      "Nihon Falcom"
+    ],
+    "publishers": [
+      "Clouded Leopard Entertainment"
+    ]
+  },
+  "1450120": {
+    "genres": [
+      "RPG"
+    ],
+    "developers": [
+      "Nihon Falcom"
+    ],
+    "publishers": [
+      "Clouded Leopard Entertainment"
+    ]
+  },
+  "1591530": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "KOEI TECMO GAMES CO., LTD."
+    ],
+    "publishers": [
+      "KOEI TECMO GAMES CO., LTD."
+    ]
+  },
+  "1341200": {
+    "genres": [
+      "액션",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "KOEI TECMO GAMES CO., LTD."
+    ],
+    "publishers": [
+      "KOEI TECMO GAMES CO., LTD."
+    ]
+  },
+  "2542120": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "The Game Kitchen"
+    ],
+    "publishers": [
+      "Dotemu",
+      "Joystick"
+    ]
+  },
+  "965680": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "인디"
+    ],
+    "developers": [
+      "Cranky Watermelon"
+    ],
+    "publishers": [
+      "Cranky Watermelon"
+    ]
+  },
+  "1454970": {
+    "genres": [
+      "어드벤처"
+    ],
+    "developers": [
+      "Gearbox Software"
+    ],
+    "publishers": [
+      "2K"
+    ]
+  },
+  "2615540": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "Stubby Games"
+    ],
+    "publishers": [
+      "Playstack"
+    ]
+  },
+  "3081320": {
+    "genres": [
+      "RPG",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "CyberConnect2"
+    ],
+    "publishers": [
+      "CyberConnect2"
+    ]
+  },
+  "411893": {
+    "genres": [
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Heatblur Simulations"
+    ],
+    "publishers": [
+      "Eagle Dynamics SA"
+    ]
+  },
+  "4179280": {
+    "genres": [
+      "액션",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Goosix Games"
+    ],
+    "publishers": [
+      "Goosix Games"
+    ]
+  },
+  "1127700": {
+    "genres": [
+      "어드벤처",
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "Shanghai Sunborn Network Technology Co., Ltd."
+    ],
+    "publishers": [
+      "XD"
+    ]
+  },
+  "2753970": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "캐주얼",
+      "인디"
+    ],
+    "developers": [
+      "Tribute Games Inc."
+    ],
+    "publishers": [
+      "Dotemu",
+      "Gamirror Games"
+    ]
+  },
+  "692890": {
+    "genres": [
+      "액션",
+      "인디"
+    ],
+    "developers": [
+      "RyseUp Studios"
+    ],
+    "publishers": [
+      "RyseUp Studios"
+    ]
+  },
+  "2881370": {
+    "genres": [
+      "인디",
+      "RPG",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "IceLemonTea Studio"
+    ],
+    "publishers": [
+      "IceLemonTea Studio",
+      "No More Robots"
+    ]
+  },
+  "3181540": {
+    "genres": [
+      "전략"
+    ],
+    "developers": [
+      "Triumph Studios"
+    ],
+    "publishers": [
+      "Paradox Interactive"
+    ]
+  },
+  "1548180": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "전략"
+    ],
+    "developers": [
+      "Chasing Rats Games"
+    ],
+    "publishers": [
+      "Chasing Rats Games"
+    ]
+  },
+  "1170570": {
+    "genres": [
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "Powerhoof",
+      "Dave Lloyd"
+    ],
+    "publishers": [
+      "Powerhoof"
+    ]
+  },
+  "3639650": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "Atomstring Games"
+    ],
+    "publishers": [
+      "2P Games"
+    ]
+  },
+  "4476270": {
+    "genres": [
+      "인디",
+      "RPG",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "MUZINA GAMES"
+    ],
+    "publishers": [
+      "MUZINA GAMES"
+    ]
+  },
+  "3976890": {
+    "genres": [
+      "전략"
+    ],
+    "developers": [
+      "Triumph Studios"
+    ],
+    "publishers": [
+      "Paradox Interactive"
+    ]
+  },
+  "5181520": {
+    "genres": [
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "PLAN KAPKAN"
+    ],
+    "publishers": [
+      "PLAN KAPKAN"
+    ]
+  },
+  "3976910": {
+    "genres": [
+      "전략"
+    ],
+    "developers": [
+      "Triumph Studios"
+    ],
+    "publishers": [
+      "Paradox Interactive"
+    ]
+  },
+  "3151270": {
+    "genres": [
+      "전략"
+    ],
+    "developers": [
+      "DenDen"
+    ],
+    "publishers": [
+      "Waku Waku Games"
+    ]
+  },
+  "3976900": {
+    "genres": [
+      "전략"
+    ],
+    "developers": [
+      "Triumph Studios"
+    ],
+    "publishers": [
+      "Paradox Interactive"
+    ]
+  },
+  "3237520": {
+    "genres": [
+      "어드벤처"
+    ],
+    "developers": [
+      "11 bit studios"
+    ],
+    "publishers": [
+      "11 bit studios"
+    ]
+  },
+  "3470610": {
+    "genres": [
+      "액션",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "SYN-Studio"
+    ],
+    "publishers": [
+      "SYN-Studio"
+    ]
+  },
+  "3727090": {
+    "genres": [
+      "캐주얼",
+      "시뮬레이션",
+      "스포츠"
+    ],
+    "developers": [
+      "Thogli Studios"
+    ],
+    "publishers": [
+      "The Mane Quest",
+      "FinPlay (CN/JP)"
+    ]
+  },
+  "5286590": {
+    "genres": [
+      "인디",
+      "시뮬레이션",
+      "전략",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "CODEMAPO"
+    ],
+    "publishers": [
+      "CODEMAPO"
+    ]
+  },
+  "4358660": {
+    "genres": [
+      "액션",
+      "인디",
+      "전략"
+    ],
+    "developers": [
+      "Konfa Games"
+    ],
+    "publishers": [
+      "tinyBuild"
+    ]
+  },
+  "5028050": {
+    "genres": [
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Green Signal Games"
+    ],
+    "publishers": [
+      "Green Signal Games"
+    ]
+  },
+  "4764420": {
+    "genres": [
+      "캐주얼",
+      "인디"
+    ],
+    "developers": [
+      "ASyun"
+    ],
+    "publishers": [
+      "ASyun"
+    ]
+  },
+  "3273260": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "레이싱"
+    ],
+    "developers": [
+      "Gest.LT"
+    ],
+    "publishers": [
+      "Gest.LT"
+    ]
+  },
+  "1133870": {
+    "genres": [
+      "액션",
+      "인디",
+      "시뮬레이션",
+      "전략",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Keen Software House"
+    ],
+    "publishers": [
+      "Keen Software House"
+    ]
+  },
+  "4653170": {
+    "genres": [
+      "액션",
+      "캐주얼"
+    ],
+    "developers": [
+      "Pipeworks Studios"
+    ],
+    "publishers": [
+      "Atari"
+    ]
+  },
+  "1562940": {
+    "genres": [
+      "RPG"
+    ],
+    "developers": [
+      "Nihon Falcom"
+    ],
+    "publishers": [
+      "Clouded Leopard Entertainment"
+    ]
+  },
+  "3743140": {
+    "genres": [
+      "전략"
+    ],
+    "developers": [
+      "Foolish Mortals Games Inc."
+    ],
+    "publishers": [
+      "Slitherine Ltd."
+    ]
+  },
+  "29720": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "대규모 멀티플레이어",
+      "RPG"
+    ],
+    "developers": [
+      "ArenaNet®"
+    ],
+    "publishers": [
+      "ArenaNet®",
+      "NCSOFT"
+    ]
+  },
+  "2168680": {
+    "genres": [
+      "액션",
+      "인디",
+      "시뮬레이션",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Shockfront Studios"
+    ],
+    "publishers": [
+      "Shockfront Studios"
+    ]
   }
 }
