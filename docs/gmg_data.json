@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1793887512.8688242,
+  "fetched_at": 1793920760.8718474,
   "deals": [
     {
       "appid": 39339,
@@ -18806,27 +18806,6 @@
       "review_rank": 0
     },
     {
-      "appid": 48333,
-      "name": "Premier Manager 08",
-      "discount_percent": 74,
-      "original_price": 3400.0,
-      "final_price": 900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/ff18f33e4365492bac8b0a40bc85ed11/600b96e943d24f519f270c160febdb52.jpg",
-      "url": "https://www.greenmangaming.com/games/premier-manager-08-pc/",
-      "on_sale": true,
-      "genres": [
-        "시뮬레이션",
-        "스포츠"
-      ],
-      "developers": [],
-      "publishers": [
-        "Funbox Media Limited"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 44049,
       "name": "Tiny Tina's Wonderlands: Chaotic Great Edition",
       "discount_percent": 73,
@@ -20862,6 +20841,27 @@
       "developers": [],
       "publishers": [
         "Remedy Entertainment"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 55393,
+      "name": "Faraway",
+      "discount_percent": 20,
+      "original_price": 10700.0,
+      "final_price": 8600.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/a5060c1a0d134245adcc42b4520f3ac3/ff0cf01211d342169ba60042979e24cf.jpg",
+      "url": "https://www.greenmangaming.com/games/faraway-pc/",
+      "on_sale": true,
+      "genres": [
+        "캐주얼",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Annapurna Interactive"
       ],
       "review_desc": null,
       "review_rank": 0
