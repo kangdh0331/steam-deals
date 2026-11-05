@@ -32209,5 +32209,146 @@
     "publishers": [
       "Parasol Corp"
     ]
+  },
+  "1436700": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "Frozenbyte"
+    ],
+    "publishers": [
+      "THQ Nordic"
+    ]
+  },
+  "2525310": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "전략"
+    ],
+    "developers": [
+      "Sleepy Mill Studio"
+    ],
+    "publishers": [
+      "The Arcade Crew",
+      "Dotemu"
+    ]
+  },
+  "2115390": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "PsychoRavens"
+    ],
+    "publishers": [
+      "Nightmare Studios"
+    ]
+  },
+  "675260": {
+    "genres": [
+      "어드벤처"
+    ],
+    "developers": [
+      "Telltale"
+    ],
+    "publishers": [
+      "Telltale"
+    ]
+  },
+  "3432860": {
+    "genres": [
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "PHOSEPO"
+    ],
+    "publishers": [
+      "Thermite Games",
+      "Smilegate"
+    ]
+  },
+  "4572120": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Sailing Bears"
+    ],
+    "publishers": [
+      "Sailing Bears"
+    ]
+  },
+  "5365410": {
+    "genres": [
+      "액션",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "ARCENCIEL"
+    ],
+    "publishers": [
+      "ARCENCIEL"
+    ]
+  },
+  "4176000": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "不志陀羅亭"
+    ],
+    "publishers": [
+      "akaeroCore"
+    ]
+  },
+  "4932800": {
+    "genres": [
+      "RPG",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Reborn Entertainment"
+    ],
+    "publishers": [
+      "Reborn Entertainment"
+    ]
+  },
+  "4314660": {
+    "genres": [
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Paradox Development Studio"
+    ],
+    "publishers": [
+      "Paradox Interactive"
+    ]
+  },
+  "5075700": {
+    "genres": [
+      "어드벤처",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Saber Interactive"
+    ],
+    "publishers": [
+      "Focus Entertainment"
+    ]
   }
 }
