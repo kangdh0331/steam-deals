@@ -32185,5 +32185,29 @@
     "publishers": [
       "Shockfront Studios"
     ]
+  },
+  "2991310": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Denneko Yuugi"
+    ],
+    "publishers": [
+      "Denneko Yuugi",
+      "Shochiku"
+    ]
+  },
+  "3581230": {
+    "genres": [
+      "캐주얼",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Parasol Corp"
+    ],
+    "publishers": [
+      "Parasol Corp"
+    ]
   }
 }
