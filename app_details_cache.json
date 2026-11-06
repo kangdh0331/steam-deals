@@ -32831,5 +32831,117 @@
     "publishers": [
       "Ubisoft"
     ]
+  },
+  "2008730": {
+    "genres": [
+      "액션",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Origin Systems"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ]
+  },
+  "1211600": {
+    "genres": [
+      "액션",
+      "인디",
+      "RPG",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Leven Liu"
+    ],
+    "publishers": [
+      "INDIECN"
+    ]
+  },
+  "3499520": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "애니메이션과 모델링",
+      "오디오 제작",
+      "동영상 제작"
+    ],
+    "developers": [
+      "TheAlanski"
+    ],
+    "publishers": [
+      "TheAlanski"
+    ]
+  },
+  "3501070": {
+    "genres": [
+      "인디",
+      "레이싱",
+      "시뮬레이션",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "V12 Studio"
+    ],
+    "publishers": [
+      "V12 Studio",
+      "Gamersky Games"
+    ]
+  },
+  "4140700": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "BlackBeak Games"
+    ],
+    "publishers": [
+      "Three River Games (3RG)"
+    ]
+  },
+  "4725170": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "RPG"
+    ],
+    "developers": [
+      "Satur Entertainment"
+    ],
+    "publishers": [
+      "Satur Entertainment"
+    ]
+  },
+  "4132280": {
+    "genres": [
+      "액션",
+      "인디",
+      "앞서 해보기"
+    ],
+    "developers": [
+      " Viridian St."
+    ],
+    "publishers": [
+      " Viridian St."
+    ]
+  },
+  "5008910": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Infinity Ward",
+      "Beenox",
+      "Digital Legends",
+      "Activision Shanghai",
+      "Raven Software",
+      "Treyarch",
+      "Sledgehammer Games",
+      "High Moon Studios"
+    ],
+    "publishers": []
   }
 }
