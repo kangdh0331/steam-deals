@@ -32943,5 +32943,569 @@
       "High Moon Studios"
     ],
     "publishers": []
+  },
+  "640820": {
+    "genres": [
+      "어드벤처",
+      "RPG"
+    ],
+    "developers": [
+      "Owlcat Games"
+    ],
+    "publishers": [
+      "Knights Peak"
+    ]
+  },
+  "235580": {
+    "genres": [
+      "전략"
+    ],
+    "developers": [
+      "Firaxis Games",
+      "Aspyr (Mac)",
+      "Aspyr (Linux)"
+    ],
+    "publishers": [
+      "2K",
+      "Aspyr (Mac)",
+      "Aspyr (Linux)"
+    ]
+  },
+  "16870": {
+    "genres": [
+      "전략"
+    ],
+    "developers": [
+      "Firaxis Games",
+      "Aspyr (Mac)",
+      "Aspyr (Linux)"
+    ],
+    "publishers": [
+      "2K",
+      "Aspyr (Mac)",
+      "Aspyr (Linux)"
+    ]
+  },
+  "2904040": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Little Dog Games"
+    ],
+    "publishers": [
+      "Simplicity Games",
+      "PlayWay S.A."
+    ]
+  },
+  "3067540": {
+    "genres": [
+      "어드벤처",
+      "RPG"
+    ],
+    "developers": [
+      "Origin Systems"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ]
+  },
+  "2008760": {
+    "genres": [
+      "RPG",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Origin Systems"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ]
+  },
+  "3066890": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Origin Systems"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ]
+  },
+  "3067100": {
+    "genres": [
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Origin Systems"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ]
+  },
+  "3067090": {
+    "genres": [
+      "액션",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Origin Systems"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ]
+  },
+  "1433560": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "IronOak Games"
+    ],
+    "publishers": [
+      "Curve Games"
+    ]
+  },
+  "3067550": {
+    "genres": [
+      "RPG"
+    ],
+    "developers": [
+      "Origin Systems"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ]
+  },
+  "3067530": {
+    "genres": [
+      "어드벤처",
+      "RPG"
+    ],
+    "developers": [
+      "Origin Systems"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ]
+  },
+  "3067560": {
+    "genres": [
+      "어드벤처",
+      "RPG"
+    ],
+    "developers": [
+      "Origin Systems"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ]
+  },
+  "2394650": {
+    "genres": [
+      "어드벤처"
+    ],
+    "developers": [
+      "Kyle Thompson"
+    ],
+    "publishers": [
+      "Kyle Thompson",
+      "Top Hat Studios, Inc.",
+      "H2 Interactive Co., Ltd."
+    ]
+  },
+  "2107850": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Dieselmine"
+    ],
+    "publishers": [
+      "Dieselmine"
+    ]
+  },
+  "2377280": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "전략"
+    ],
+    "developers": [
+      "River End Games"
+    ],
+    "publishers": [
+      "Nordcurrent Labs"
+    ]
+  },
+  "2064610": {
+    "genres": [
+      "어드벤처",
+      "캐주얼",
+      "인디",
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "Mystrigger"
+    ],
+    "publishers": [
+      "Mystrigger",
+      "XD"
+    ]
+  },
+  "1296830": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "BadMudStudio"
+    ],
+    "publishers": [
+      "bilibili"
+    ]
+  },
+  "3450550": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "RPG"
+    ],
+    "developers": [
+      "Starbreeze Studios"
+    ],
+    "publishers": [
+      "Starbreeze Entertainment"
+    ]
+  },
+  "3337380": {
+    "genres": [
+      "전략"
+    ],
+    "developers": [
+      "TJ"
+    ],
+    "publishers": [
+      "Frostbloom",
+      "Gamirror Games"
+    ]
+  },
+  "4981570": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "OnSkull Games"
+    ],
+    "publishers": [
+      "OnSkull Games"
+    ]
+  },
+  "2184350": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "RPG",
+      "전략",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Ocelot"
+    ],
+    "publishers": [
+      "Ocelot"
+    ]
+  },
+  "4260530": {
+    "genres": [
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Metamorphose"
+    ],
+    "publishers": [
+      "Saikey Studios"
+    ]
+  },
+  "2688870": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "스포츠"
+    ],
+    "developers": [
+      "SQUARE PIXELS",
+      "Neonovice Co., Ltd."
+    ],
+    "publishers": [
+      "Neonovice Co., Ltd."
+    ]
+  },
+  "5160800": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Needless Games"
+    ],
+    "publishers": [
+      "Needless Games"
+    ]
+  },
+  "4337040": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "牛蟹合戦",
+      "072 Localize"
+    ],
+    "publishers": [
+      "Oπ"
+    ]
+  },
+  "4834760": {
+    "genres": [
+      "RPG"
+    ],
+    "developers": [
+      "Stormfront Studios"
+    ],
+    "publishers": [
+      "SNEG"
+    ]
+  },
+  "2170970": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Treyarch",
+      "Raven Software",
+      "Beenox",
+      "High Moon Studios",
+      "Activision Shanghai",
+      "Sledgehammer Games",
+      "Infinity Ward",
+      "Activision Shanghai",
+      "Demonware"
+    ],
+    "publishers": [
+      "Activision"
+    ]
+  },
+  "2699820": {
+    "genres": [
+      "어드벤처",
+      "캐주얼",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "h.a.n.d., Inc."
+    ],
+    "publishers": [
+      "Neos Corporation"
+    ]
+  },
+  "1895880": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Insomniac Games",
+      "Nixxes Software"
+    ],
+    "publishers": [
+      "PlayStation Publishing LLC"
+    ]
+  },
+  "1250650": {
+    "genres": [
+      "시뮬레이션"
+    ],
+    "developers": [
+      "ILLUSION"
+    ],
+    "publishers": [
+      "ILLUSION"
+    ]
+  },
+  "3054820": {
+    "genres": [
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "ChaoGames"
+    ],
+    "publishers": [
+      "PLAYISM"
+    ]
+  },
+  "4141950": {
+    "genres": [
+      "어드벤처",
+      "캐주얼"
+    ],
+    "developers": [
+      "Laplacian"
+    ],
+    "publishers": [
+      "Laplacian"
+    ]
+  },
+  "1946560": {
+    "genres": [
+      "캐주얼",
+      "인디"
+    ],
+    "developers": [
+      "keepeetron"
+    ],
+    "publishers": [
+      "keepeetron"
+    ]
+  },
+  "601050": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "KOEI TECMO GAMES CO., LTD."
+    ],
+    "publishers": [
+      "KOEI TECMO GAMES CO., LTD."
+    ]
+  },
+  "4950600": {
+    "genres": [
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Not a Dog"
+    ],
+    "publishers": [
+      "Not a Dog"
+    ]
+  },
+  "1699480": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "Callback",
+      "ln404"
+    ],
+    "publishers": [
+      "Callback",
+      "ln404"
+    ]
+  },
+  "1599660": {
+    "genres": [
+      "어드벤처"
+    ],
+    "developers": [
+      "Sumo Digital"
+    ],
+    "publishers": [
+      "PlayStation Publishing LLC"
+    ]
+  },
+  "925580": {
+    "genres": [
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "SCS Software"
+    ],
+    "publishers": [
+      "SCS Software"
+    ]
+  },
+  "1209460": {
+    "genres": [
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "SCS Software"
+    ],
+    "publishers": [
+      "SCS Software"
+    ]
+  },
+  "1056760": {
+    "genres": [
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "SCS Software"
+    ],
+    "publishers": [
+      "SCS Software"
+    ]
+  },
+  "3021100": {
+    "genres": [
+      "어드벤처",
+      "RPG",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Storytaco"
+    ],
+    "publishers": [
+      "Storytaco"
+    ]
+  },
+  "4080030": {
+    "genres": [
+      "인디"
+    ],
+    "developers": [
+      "Applesinmypants"
+    ],
+    "publishers": [
+      "Applesinmypants"
+    ]
+  },
+  "531130": {
+    "genres": [
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "SCS Software"
+    ],
+    "publishers": [
+      "SCS Software"
+    ]
   }
 }
