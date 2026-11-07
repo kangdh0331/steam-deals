@@ -33507,5 +33507,109 @@
     "publishers": [
       "SCS Software"
     ]
+  },
+  "584980": {
+    "genres": [
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "CtrlMovie"
+    ],
+    "publishers": [
+      "Wales Interactive"
+    ]
+  },
+  "1611910": {
+    "genres": [
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "Complex Games"
+    ],
+    "publishers": [
+      "Frontier Foundry"
+    ]
+  },
+  "2201940": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "캐주얼",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Games Incubator",
+      "Hypnotic Ants"
+    ],
+    "publishers": [
+      "Games Incubator",
+      "PlayWay S.A."
+    ]
+  },
+  "1876930": {
+    "genres": [
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Glivi Games S.A."
+    ],
+    "publishers": [
+      "RockGame S.A."
+    ]
+  },
+  "3929630": {
+    "genres": [
+      "어드벤처",
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "Artefacts Studio",
+      "Shine Group"
+    ],
+    "publishers": [
+      "New Tales"
+    ]
+  },
+  "1342330": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Eggcode"
+    ],
+    "publishers": [
+      "Eggcode"
+    ]
+  },
+  "5182360": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "전략"
+    ],
+    "developers": [
+      "EK Games"
+    ],
+    "publishers": [
+      "EK Games"
+    ]
+  },
+  "4468540": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Elderwoof Games"
+    ],
+    "publishers": [
+      "Elderwoof Games"
+    ]
   }
 }
