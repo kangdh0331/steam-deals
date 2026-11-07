@@ -33611,5 +33611,45 @@
     "publishers": [
       "Elderwoof Games"
     ]
+  },
+  "837880": {
+    "genres": [
+      "액션",
+      "인디",
+      "레이싱",
+      "스포츠"
+    ],
+    "developers": [
+      "Happy Volcano"
+    ],
+    "publishers": [
+      "Curve Games"
+    ]
+  },
+  "2273980": {
+    "genres": [
+      "액션",
+      "인디",
+      "전략"
+    ],
+    "developers": [
+      "Robot Entertainment"
+    ],
+    "publishers": [
+      "Robot Entertainment"
+    ]
+  },
+  "2950410": {
+    "genres": [
+      "인디",
+      "전략",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "No Deadlines"
+    ],
+    "publishers": [
+      "No Deadlines"
+    ]
   }
 }
