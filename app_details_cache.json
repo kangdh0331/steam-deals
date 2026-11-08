@@ -33665,5 +33665,31 @@
       "OMEGAMES STUDIO",
       "NPC Entertainment"
     ]
+  },
+  "512790": {
+    "genres": [
+      "어드벤처"
+    ],
+    "developers": [
+      "Zadbox Entertainment"
+    ],
+    "publishers": [
+      "Blue Brain Games",
+      "Zadbox Entertainment"
+    ]
+  },
+  "5367010": {
+    "genres": [
+      "액션",
+      "인디",
+      "시뮬레이션",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Round4 Games"
+    ],
+    "publishers": [
+      "Round4 Games"
+    ]
   }
 }
