@@ -33715,5 +33715,46 @@
     "publishers": [
       "Greylock Studio"
     ]
+  },
+  "4576490": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Orsoniks"
+    ],
+    "publishers": [
+      "Oro Interactive"
+    ]
+  },
+  "3629430": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "RPG",
+      "시뮬레이션",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Dream Dock"
+    ],
+    "publishers": [
+      "Digital Vortex Entertainment"
+    ]
+  },
+  "4901540": {
+    "genres": [
+      "캐주얼",
+      "인디"
+    ],
+    "developers": [
+      "Bunnyhop"
+    ],
+    "publishers": [
+      "BunnyhopHome"
+    ]
   }
 }
