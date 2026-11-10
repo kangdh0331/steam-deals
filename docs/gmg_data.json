@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1794320805.1964464,
+  "fetched_at": 1794351346.9751499,
   "deals": [
     {
       "appid": 40290,
@@ -505,6 +505,30 @@
       "review_rank": 0
     },
     {
+      "appid": 57140,
+      "name": "Teenage Mutant Ninja Turtles: Splintered Fate",
+      "discount_percent": 75,
+      "original_price": 32300.0,
+      "final_price": 8100.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/5d2f1510fc2a4dee9f97cccb365ec4eb/815bd261ed474ca5b496d23436710aa9.jpg",
+      "url": "https://www.greenmangaming.com/games/teenage-mutant-ninja-turtles-splintered-fate-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "전략",
+        "RPG",
+        "인디",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Super Evil Mega Corp"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 60640,
       "name": "Simmiland",
       "discount_percent": 75,
@@ -629,6 +653,54 @@
       "developers": [],
       "publishers": [
         "Red Hook Studios"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 59630,
+      "name": "Teenage Mutant Ninja Turtles: Splintered Fate Platinum Edition",
+      "discount_percent": 70,
+      "original_price": 51300.0,
+      "final_price": 15400.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/d9fa0e473e7c463f927e213c5eac77e0/9febd1d8591b4cc6bdcc557447cb1db5.jpg",
+      "url": "https://www.greenmangaming.com/games/teenage-mutant-ninja-turtles-splintered-fate-platinum-edition-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "전략",
+        "RPG",
+        "인디",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Super Evil Mega Corp"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 59633,
+      "name": "Teenage Mutant Ninja Turtles: Splintered Fate Platinum Cowabunga Edition",
+      "discount_percent": 70,
+      "original_price": 67200.0,
+      "final_price": 20200.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/fbd196d9f4d94458b100c71435d7c550/7bcca04436d04ffda0c3aac80d7d6cab.jpg",
+      "url": "https://www.greenmangaming.com/games/teenage-mutant-ninja-turtles-splintered-fate-platinum-cowabunga-edition-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "전략",
+        "RPG",
+        "인디",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Super Evil Mega Corp"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -1613,8 +1685,8 @@
     {
       "appid": 53659,
       "name": "Airframe Ultra",
-      "discount_percent": 37,
-      "original_price": 13900.0,
+      "discount_percent": 38,
+      "original_price": 14000.0,
       "final_price": 8700.0,
       "currency": "KRW",
       "image": "https://images.greenmangaming.com/8c1bc748633e4cf59c88e27188527341/83c9beef344b43e5a8cbe540bb9891d7.jpg",
@@ -1628,6 +1700,29 @@
       "developers": [],
       "publishers": [
         "Akupara Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 57363,
+      "name": "TMNT: Splintered Fate - Casey Jones & the Junkyard Jam",
+      "discount_percent": 35,
+      "original_price": 7500.0,
+      "final_price": 4900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/9ccf6610c4984f07aa436f62297f964f/6bad7b1775ca4fe296ddfffbc9d5c43d.jpg",
+      "url": "https://www.greenmangaming.com/games/tmnt-splintered-fate-casey-jones-the-junkyard-jam-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처",
+        "인디",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "Super Evil Mega Corp"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -1899,6 +1994,28 @@
       "review_rank": 0
     },
     {
+      "appid": 60398,
+      "name": "Wilderdark",
+      "discount_percent": 29,
+      "original_price": 16000.0,
+      "final_price": 11300.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/15a4fea896bc4abba1948828f260b7be/c2abcc4f4adc47e1bc7ef0efa30467a6.jpg",
+      "url": "https://www.greenmangaming.com/games/wilderdark-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Junkfish Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 60651,
       "name": "Stacklands: Cursed Worlds",
       "discount_percent": 29,
@@ -2093,6 +2210,77 @@
       "review_rank": 0
     },
     {
+      "appid": 59636,
+      "name": "TMNT: Splintered Fate - Slash",
+      "discount_percent": 24,
+      "original_price": 4500.0,
+      "final_price": 3400.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/5a07727e64b44a119cc2c9faf61fe846/15f7646aff0f416db1f0da969a9a4f69.jpg",
+      "url": "https://www.greenmangaming.com/games/tmnt-splintered-fate-slash-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "전략",
+        "RPG",
+        "인디",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Super Evil Mega Corp"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 57459,
+      "name": "TMNT: Splintered Fate - Alopex Character DLC",
+      "discount_percent": 24,
+      "original_price": 4500.0,
+      "final_price": 3400.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/9c6b4e8cbd2a4f09892f4b330d02ba48/32526d4a1f64489a80ba627cc9c914b7.jpg",
+      "url": "https://www.greenmangaming.com/games/tmnt-splintered-fate-alopex-character-dlc-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처",
+        "인디",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "Super Evil Mega Corp"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 57365,
+      "name": "TMNT: Splintered Fate - Metalhead",
+      "discount_percent": 24,
+      "original_price": 4500.0,
+      "final_price": 3400.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/cd4177a0a1fe4bd5b1836997baab2194/2fdb09a00ee94c979993e785a5205b09.jpg",
+      "url": "https://www.greenmangaming.com/games/tmnt-splintered-fate-metalhead-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처",
+        "인디",
+        "RPG",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Super Evil Mega Corp"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 60576,
       "name": "Warhammer Survivors",
       "discount_percent": 23,
@@ -2138,6 +2326,27 @@
       "review_rank": 0
     },
     {
+      "appid": 60896,
+      "name": "Hillthorn",
+      "discount_percent": 21,
+      "original_price": 16000.0,
+      "final_price": 12700.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/a1f19a9377ee4be6bbaf02cb57177e49/ca792ae974ac43f7b44c1c18bf1cc67b.jpg",
+      "url": "https://www.greenmangaming.com/games/hillthorn-pc/",
+      "on_sale": true,
+      "genres": [
+        "어드벤처",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Raw Fury"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 59706,
       "name": "CONTROL Resonant",
       "discount_percent": 20,
@@ -2155,28 +2364,6 @@
       "developers": [],
       "publishers": [
         "Remedy Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60398,
-      "name": "Wilderdark",
-      "discount_percent": 20,
-      "original_price": 16000.0,
-      "final_price": 12800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/15a4fea896bc4abba1948828f260b7be/c2abcc4f4adc47e1bc7ef0efa30467a6.jpg",
-      "url": "https://www.greenmangaming.com/games/wilderdark-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Junkfish Limited"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -2348,6 +2535,30 @@
       "developers": [],
       "publishers": [
         "Sokpop BV"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 59638,
+      "name": "TMNT: Splintered Fate - Samurai Armor Pack",
+      "discount_percent": 20,
+      "original_price": 5600.0,
+      "final_price": 4500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/bf7cfb35ddea466488d60d5a3d0ff0a0/c811966bcb744dec9753cc8aec8ba7bf.jpg",
+      "url": "https://www.greenmangaming.com/games/tmnt-splintered-fate-samurai-armor-pack-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "전략",
+        "RPG",
+        "인디",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Super Evil Mega Corp"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -4104,30 +4315,6 @@
       "review_rank": 0
     },
     {
-      "appid": 59630,
-      "name": "Teenage Mutant Ninja Turtles: Splintered Fate Platinum Edition",
-      "discount_percent": 0,
-      "original_price": 51300.0,
-      "final_price": 51300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/d9fa0e473e7c463f927e213c5eac77e0/9febd1d8591b4cc6bdcc557447cb1db5.jpg",
-      "url": "https://www.greenmangaming.com/games/teenage-mutant-ninja-turtles-splintered-fate-platinum-edition-pc/",
-      "on_sale": false,
-      "genres": [
-        "액션",
-        "전략",
-        "RPG",
-        "인디",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Super Evil Mega Corp"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 51509,
       "name": "Romancing SaGa 2: Revenge of the Seven",
       "discount_percent": 0,
@@ -4308,30 +4495,6 @@
       "developers": [],
       "publishers": [
         "Square Enix"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 59633,
-      "name": "Teenage Mutant Ninja Turtles: Splintered Fate Platinum Cowabunga Edition",
-      "discount_percent": 0,
-      "original_price": 67200.0,
-      "final_price": 67200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/fbd196d9f4d94458b100c71435d7c550/7bcca04436d04ffda0c3aac80d7d6cab.jpg",
-      "url": "https://www.greenmangaming.com/games/teenage-mutant-ninja-turtles-splintered-fate-platinum-cowabunga-edition-pc/",
-      "on_sale": false,
-      "genres": [
-        "액션",
-        "전략",
-        "RPG",
-        "인디",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Super Evil Mega Corp"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -6763,30 +6926,6 @@
       "developers": [],
       "publishers": [
         "Playstation Publishing LLC"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 57140,
-      "name": "Teenage Mutant Ninja Turtles: Splintered Fate",
-      "discount_percent": 0,
-      "original_price": 32300.0,
-      "final_price": 32300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/5d2f1510fc2a4dee9f97cccb365ec4eb/815bd261ed474ca5b496d23436710aa9.jpg",
-      "url": "https://www.greenmangaming.com/games/teenage-mutant-ninja-turtles-splintered-fate-pc/",
-      "on_sale": false,
-      "genres": [
-        "액션",
-        "전략",
-        "RPG",
-        "인디",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Super Evil Mega Corp"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -9388,29 +9527,6 @@
       "review_rank": 0
     },
     {
-      "appid": 57363,
-      "name": "TMNT: Splintered Fate - Casey Jones & the Junkyard Jam",
-      "discount_percent": 0,
-      "original_price": 7500.0,
-      "final_price": 7500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/9ccf6610c4984f07aa436f62297f964f/6bad7b1775ca4fe296ddfffbc9d5c43d.jpg",
-      "url": "https://www.greenmangaming.com/games/tmnt-splintered-fate-casey-jones-the-junkyard-jam-pc/",
-      "on_sale": false,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "인디",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Super Evil Mega Corp"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 55220,
       "name": "Borderlands 4 Deluxe Edition",
       "discount_percent": 0,
@@ -10362,30 +10478,6 @@
       "review_rank": 0
     },
     {
-      "appid": 59636,
-      "name": "TMNT: Splintered Fate - Slash",
-      "discount_percent": 0,
-      "original_price": 4500.0,
-      "final_price": 4500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/5a07727e64b44a119cc2c9faf61fe846/15f7646aff0f416db1f0da969a9a4f69.jpg",
-      "url": "https://www.greenmangaming.com/games/tmnt-splintered-fate-slash-pc/",
-      "on_sale": false,
-      "genres": [
-        "액션",
-        "전략",
-        "RPG",
-        "인디",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Super Evil Mega Corp"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 22192,
       "name": "Carnival Games® VR: Alley Adventure",
       "discount_percent": 0,
@@ -10528,29 +10620,6 @@
       "developers": [],
       "publishers": [
         "2K Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 57459,
-      "name": "TMNT: Splintered Fate - Alopex Character DLC",
-      "discount_percent": 0,
-      "original_price": 4500.0,
-      "final_price": 4500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/9c6b4e8cbd2a4f09892f4b330d02ba48/32526d4a1f64489a80ba627cc9c914b7.jpg",
-      "url": "https://www.greenmangaming.com/games/tmnt-splintered-fate-alopex-character-dlc-pc/",
-      "on_sale": false,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "인디",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Super Evil Mega Corp"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -10863,30 +10932,6 @@
       "developers": [],
       "publishers": [
         "Square Enix"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 59638,
-      "name": "TMNT: Splintered Fate - Samurai Armor Pack",
-      "discount_percent": 0,
-      "original_price": 5600.0,
-      "final_price": 5600.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/bf7cfb35ddea466488d60d5a3d0ff0a0/c811966bcb744dec9753cc8aec8ba7bf.jpg",
-      "url": "https://www.greenmangaming.com/games/tmnt-splintered-fate-samurai-armor-pack-pc/",
-      "on_sale": false,
-      "genres": [
-        "액션",
-        "전략",
-        "RPG",
-        "인디",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Super Evil Mega Corp"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -11693,30 +11738,6 @@
       "developers": [],
       "publishers": [
         "Behaviour Interactive"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 57365,
-      "name": "TMNT: Splintered Fate - Metalhead",
-      "discount_percent": 0,
-      "original_price": 4500.0,
-      "final_price": 4500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/cd4177a0a1fe4bd5b1836997baab2194/2fdb09a00ee94c979993e785a5205b09.jpg",
-      "url": "https://www.greenmangaming.com/games/tmnt-splintered-fate-metalhead-pc/",
-      "on_sale": false,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "인디",
-        "RPG",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Super Evil Mega Corp"
       ],
       "review_desc": null,
       "review_rank": 0
