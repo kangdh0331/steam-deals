@@ -1,51 +1,6 @@
 {
-  "fetched_at": 1794237648.596225,
+  "fetched_at": 1794273655.4653246,
   "deals": [
-    {
-      "appid": 59702,
-      "name": "The Wild Eight",
-      "discount_percent": 91,
-      "original_price": 27000.0,
-      "final_price": 2400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/2dd52a63964c4b72a638987746421003/db4810b21eef49a7918ac2b723293b78.jpg",
-      "url": "https://www.greenmangaming.com/games/the-wild-eight-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "시뮬레이션",
-        "RPG",
-        "인디",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "HYPETRAIN DIGITAL LTD"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 59683,
-      "name": "12 is Better Than 6",
-      "discount_percent": 90,
-      "original_price": 10500.0,
-      "final_price": 1000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/ab590cec5e5946cb8104dd9c0ef28568/055e2e86ab1f4a75a74b71628cf56774.jpg",
-      "url": "https://www.greenmangaming.com/games/12-is-better-than-6-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "HYPETRAIN DIGITAL LTD"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
     {
       "appid": 40290,
       "name": "Dnovel Shooter Bundle",
@@ -93,27 +48,6 @@
       "review_rank": 0
     },
     {
-      "appid": 59688,
-      "name": "Barrier X",
-      "discount_percent": 85,
-      "original_price": 3300.0,
-      "final_price": 500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/885098f34d3848068457038ad8fcfd1b/e6fefb15aea443d3ad00586287058d7c.jpg",
-      "url": "https://www.greenmangaming.com/games/barrier-x-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "HYPETRAIN DIGITAL LTD"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 59286,
       "name": "Torchlight II",
       "discount_percent": 83,
@@ -152,51 +86,6 @@
       "developers": [],
       "publishers": [
         "XD NETWORK INC"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 59689,
-      "name": "Police Stories",
-      "discount_percent": 82,
-      "original_price": 21500.0,
-      "final_price": 3800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/1f2e47ceb0e54dfd98bd0a5ec99f95ae/10483450ec034e95a5317324e361fc4f.jpg",
-      "url": "https://www.greenmangaming.com/games/police-stories-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디",
-        "시뮬레이션",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "HYPETRAIN DIGITAL LTD"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 59691,
-      "name": "DESOLATE",
-      "discount_percent": 82,
-      "original_price": 16500.0,
-      "final_price": 2900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/134ebadc8e7a435f9caa9b7096bca38f/6bc951d4d1894b7ab66b8a7a262e94eb.jpg",
-      "url": "https://www.greenmangaming.com/games/desolate-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "HYPETRAIN DIGITAL LTD"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -269,53 +158,6 @@
       "review_rank": 0
     },
     {
-      "appid": 59694,
-      "name": "Tunche",
-      "discount_percent": 78,
-      "original_price": 20500.0,
-      "final_price": 4600.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/06cf31497cb24316a5d2e0548cd6db23/2f60d068f4a0457eb35c8d2d132a8f9a.jpg",
-      "url": "https://www.greenmangaming.com/games/tunche-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "RPG",
-        "인디",
-        "캐주얼",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "HYPETRAIN DIGITAL LTD"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 59679,
-      "name": "Breathedge",
-      "discount_percent": 78,
-      "original_price": 27000.0,
-      "final_price": 6000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/8564cb47f3fb49669900a417a9dcf027/69c186cd680840fda986fab7947c78f3.jpg",
-      "url": "https://www.greenmangaming.com/games/breathedge-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "시뮬레이션",
-        "인디",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "HYPETRAIN DIGITAL LTD"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 58912,
       "name": "FATAL FURY: City of the Wolves",
       "discount_percent": 75,
@@ -376,74 +218,6 @@
       "developers": [],
       "publishers": [
         "Sokpop BV"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 59676,
-      "name": "Black Book",
-      "discount_percent": 74,
-      "original_price": 27000.0,
-      "final_price": 7100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/6063ea5b21a447168c522e1e0cbd2c1e/913d88f87f5f4c46af78759c20759d66.jpg",
-      "url": "https://www.greenmangaming.com/games/black-book-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "인디",
-        "RPG",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "HYPETRAIN DIGITAL LTD"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 59699,
-      "name": "Jack Move",
-      "discount_percent": 74,
-      "original_price": 21900.0,
-      "final_price": 5800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/e439e5fc67e141e982b268cc321688d4/80295d1dda7d4ecba912a91633a6b797.jpg",
-      "url": "https://www.greenmangaming.com/games/jack-move-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "인디",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "HYPETRAIN DIGITAL LTD"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 59701,
-      "name": "There Is No Light: Enhanced Edition",
-      "discount_percent": 73,
-      "original_price": 21500.0,
-      "final_price": 5700.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/1acef2e78f6b4f1e8b146ad3b45c20b5/c07359b54614411f8c1e45ef87ccb44d.jpg",
-      "url": "https://www.greenmangaming.com/games/there-is-no-light-enhanced-edition-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "인디",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "HYPETRAIN DIGITAL LTD"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -713,51 +487,6 @@
       "review_rank": 0
     },
     {
-      "appid": 59695,
-      "name": "SuchArt: Genius Artist Simulator",
-      "discount_percent": 69,
-      "original_price": 27000.0,
-      "final_price": 8300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/d6d3ff8014ff4ff381ce82bedc59b2f1/b2a900db5cae4688a37db464e08b0d2f.jpg",
-      "url": "https://www.greenmangaming.com/games/suchart-genius-artist-simulator-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "캐주얼",
-        "인디",
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "HYPETRAIN DIGITAL LTD"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 59692,
-      "name": "StormEdge",
-      "discount_percent": 69,
-      "original_price": 16500.0,
-      "final_price": 5100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/d01a9f1133a8479bb4c3ea4edaa04f07/bf39416e88834dc7ad3035b2ceb0aa82.jpg",
-      "url": "https://www.greenmangaming.com/games/stormedge-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "HYPETRAIN DIGITAL LTD"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 47983,
       "name": "Emi's Country Store and Farm",
       "discount_percent": 69,
@@ -864,28 +593,6 @@
       "developers": [],
       "publishers": [
         "XD NETWORK INC"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 59684,
-      "name": "Nova Lands",
-      "discount_percent": 56,
-      "original_price": 21500.0,
-      "final_price": 9400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/2b621d8dc3274d43a840ea243602530f/aedf3d26462f444bbfc1be8b435490d9.jpg",
-      "url": "https://www.greenmangaming.com/games/nova-lands-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "시뮬레이션",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "HYPETRAIN DIGITAL LTD"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -1023,28 +730,6 @@
       "review_rank": 0
     },
     {
-      "appid": 59681,
-      "name": "Gatekeeper",
-      "discount_percent": 43,
-      "original_price": 16500.0,
-      "final_price": 9400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/31fe7bb3726140d1b753101c353f99f0/af091b6553e8473687969b69f7b832a1.jpg",
-      "url": "https://www.greenmangaming.com/games/gatekeeper-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "HYPETRAIN DIGITAL LTD"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 59298,
       "name": "Relic Guardian - Tower Defense",
       "discount_percent": 42,
@@ -1092,117 +777,6 @@
       "review_rank": 0
     },
     {
-      "appid": 59667,
-      "name": "Quasimorph",
-      "discount_percent": 39,
-      "original_price": 26500.0,
-      "final_price": 16200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/06180751a56547a79ba1b09fe2603bd2/acc330d53bfb4d17a0580da76cfe4046.jpg",
-      "url": "https://www.greenmangaming.com/games/quasimorph-pc/",
-      "on_sale": true,
-      "genres": [
-        "인디",
-        "RPG",
-        "시뮬레이션",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "HYPETRAIN DIGITAL LTD"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 59669,
-      "name": "Escape from Ever After",
-      "discount_percent": 39,
-      "original_price": 27000.0,
-      "final_price": 16500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/a9f06d27618d4546ac512b60679d8c73/d007b01356f34c88a31557450e82798e.jpg",
-      "url": "https://www.greenmangaming.com/games/escape-from-ever-after-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "RPG",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "HYPETRAIN DIGITAL LTD"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 59678,
-      "name": "Pathologic 3",
-      "discount_percent": 39,
-      "original_price": 37500.0,
-      "final_price": 22900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/c992a55b1fc84edaab470df7ca8866a0/7bb2b976b1074452b44077e57ce1f488.jpg",
-      "url": "https://www.greenmangaming.com/games/pathologic-3-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "시뮬레이션",
-        "RPG",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "HYPETRAIN DIGITAL LTD"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 59675,
-      "name": "Nordhold",
-      "discount_percent": 39,
-      "original_price": 21500.0,
-      "final_price": 13200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/5b49718a053e445881e24e37aa4a1357/ed7c404e15454bfcaee44225dada699b.jpg",
-      "url": "https://www.greenmangaming.com/games/nordhold-pc/",
-      "on_sale": true,
-      "genres": [
-        "인디",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "HYPETRAIN DIGITAL LTD"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 59672,
-      "name": "Intravenous 2",
-      "discount_percent": 39,
-      "original_price": 21500.0,
-      "final_price": 13200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/9f1e933aa8b64e54886fdd9f496430e9/6300cdd2d76d413b805506afb70b4803.jpg",
-      "url": "https://www.greenmangaming.com/games/intravenous-2-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "전략",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "HYPETRAIN DIGITAL LTD"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 53659,
       "name": "Airframe Ultra",
       "discount_percent": 37,
@@ -1220,28 +794,6 @@
       "developers": [],
       "publishers": [
         "Akupara Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 59673,
-      "name": "Die in the Dungeon",
-      "discount_percent": 35,
-      "original_price": 16500.0,
-      "final_price": 10800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/8ff5b06d3181425e82daa6479acffa6b/98866932dbb542f3a6f43aaa4400e7e4.jpg",
-      "url": "https://www.greenmangaming.com/games/die-in-the-dungeon-pc/",
-      "on_sale": true,
-      "genres": [
-        "인디",
-        "전략",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "HYPETRAIN DIGITAL LTD"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -1289,32 +841,6 @@
       "developers": [],
       "publishers": [
         "XD NETWORK INC"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 59698,
-      "name": "Tinkerlands",
-      "discount_percent": 34,
-      "original_price": 13000.0,
-      "final_price": 8600.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/45fbb7c9d4964e2b90134f29bbef2769/f82491353e334f1c98c7be01a0daa7c5.jpg",
-      "url": "https://www.greenmangaming.com/games/tinkerlands-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "캐주얼",
-        "인디",
-        "RPG",
-        "시뮬레이션",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "HYPETRAIN DIGITAL LTD"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -1521,8 +1047,8 @@
       "appid": 60719,
       "name": "Corpus et Spiritus",
       "discount_percent": 25,
-      "original_price": 14000.0,
-      "final_price": 10500.0,
+      "original_price": 13300.0,
+      "final_price": 10000.0,
       "currency": "KRW",
       "image": "https://images.greenmangaming.com/6a87199500bc4dd1a8caa288ef0f2b9f/117443be011b4026848466930224dbb8.jpg",
       "url": "https://www.greenmangaming.com/games/corpus-et-spiritus-pc/",
@@ -1643,29 +1169,6 @@
       "developers": [],
       "publishers": [
         "Remedy Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60612,
-      "name": "HEART ABYSS",
-      "discount_percent": 20,
-      "original_price": 22500.0,
-      "final_price": 18000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/fea794f39ff54feeb999a050a2806371/e735648c84454f0184873bdd81295a5f.jpg",
-      "url": "https://www.greenmangaming.com/games/heart-abyss-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "인디",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Herocraft Ltd"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -1986,6 +1489,29 @@
       "developers": [],
       "publishers": [
         "Gamera Interactive"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60612,
+      "name": "HEART ABYSS",
+      "discount_percent": 19,
+      "original_price": 14900.0,
+      "final_price": 12000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/fea794f39ff54feeb999a050a2806371/e735648c84454f0184873bdd81295a5f.jpg",
+      "url": "https://www.greenmangaming.com/games/heart-abyss-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처",
+        "인디",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Herocraft Ltd"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -4243,6 +3769,27 @@
       "review_rank": 0
     },
     {
+      "appid": 59683,
+      "name": "12 is Better Than 6",
+      "discount_percent": 0,
+      "original_price": 10500.0,
+      "final_price": 10500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/ab590cec5e5946cb8104dd9c0ef28568/055e2e86ab1f4a75a74b71628cf56774.jpg",
+      "url": "https://www.greenmangaming.com/games/12-is-better-than-6-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "HYPETRAIN DIGITAL LTD"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 44696,
       "name": "Destiny 2: Lightfall",
       "discount_percent": 0,
@@ -4445,6 +3992,30 @@
       "developers": [],
       "publishers": [
         "Bungie"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 59702,
+      "name": "The Wild Eight",
+      "discount_percent": 0,
+      "original_price": 27000.0,
+      "final_price": 27000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/2dd52a63964c4b72a638987746421003/db4810b21eef49a7918ac2b723293b78.jpg",
+      "url": "https://www.greenmangaming.com/games/the-wild-eight-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "시뮬레이션",
+        "RPG",
+        "인디",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "HYPETRAIN DIGITAL LTD"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -5418,6 +4989,27 @@
       "review_rank": 0
     },
     {
+      "appid": 59688,
+      "name": "Barrier X",
+      "discount_percent": 0,
+      "original_price": 3300.0,
+      "final_price": 3300.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/885098f34d3848068457038ad8fcfd1b/e6fefb15aea443d3ad00586287058d7c.jpg",
+      "url": "https://www.greenmangaming.com/games/barrier-x-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "HYPETRAIN DIGITAL LTD"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 46800,
       "name": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
       "discount_percent": 0,
@@ -6277,6 +5869,51 @@
       "review_rank": 0
     },
     {
+      "appid": 59689,
+      "name": "Police Stories",
+      "discount_percent": 0,
+      "original_price": 21500.0,
+      "final_price": 21500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/1f2e47ceb0e54dfd98bd0a5ec99f95ae/10483450ec034e95a5317324e361fc4f.jpg",
+      "url": "https://www.greenmangaming.com/games/police-stories-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "인디",
+        "시뮬레이션",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "HYPETRAIN DIGITAL LTD"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 59691,
+      "name": "DESOLATE",
+      "discount_percent": 0,
+      "original_price": 16500.0,
+      "final_price": 16500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/134ebadc8e7a435f9caa9b7096bca38f/6bc951d4d1894b7ab66b8a7a262e94eb.jpg",
+      "url": "https://www.greenmangaming.com/games/desolate-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "HYPETRAIN DIGITAL LTD"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 59865,
       "name": "FINAL FANTASY VII REVELATION",
       "discount_percent": 0,
@@ -6900,6 +6537,30 @@
       "review_rank": 0
     },
     {
+      "appid": 59694,
+      "name": "Tunche",
+      "discount_percent": 0,
+      "original_price": 20500.0,
+      "final_price": 20500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/06cf31497cb24316a5d2e0548cd6db23/2f60d068f4a0457eb35c8d2d132a8f9a.jpg",
+      "url": "https://www.greenmangaming.com/games/tunche-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "RPG",
+        "인디",
+        "캐주얼",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "HYPETRAIN DIGITAL LTD"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 6166,
       "name": "CivCity: Rome",
       "discount_percent": 0,
@@ -7103,6 +6764,29 @@
       "developers": [],
       "publishers": [
         "Arcen Games LLC"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 59679,
+      "name": "Breathedge",
+      "discount_percent": 0,
+      "original_price": 27000.0,
+      "final_price": 27000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/8564cb47f3fb49669900a417a9dcf027/69c186cd680840fda986fab7947c78f3.jpg",
+      "url": "https://www.greenmangaming.com/games/breathedge-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "시뮬레이션",
+        "인디",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "HYPETRAIN DIGITAL LTD"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -8050,6 +7734,29 @@
       "review_rank": 0
     },
     {
+      "appid": 59676,
+      "name": "Black Book",
+      "discount_percent": 0,
+      "original_price": 27000.0,
+      "final_price": 27000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/6063ea5b21a447168c522e1e0cbd2c1e/913d88f87f5f4c46af78759c20759d66.jpg",
+      "url": "https://www.greenmangaming.com/games/black-book-pc/",
+      "on_sale": false,
+      "genres": [
+        "어드벤처",
+        "인디",
+        "RPG",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "HYPETRAIN DIGITAL LTD"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 44876,
       "name": "CRISIS CORE -FINAL FANTASY VII- REUNION - DIGITAL DELUXE EDITION",
       "discount_percent": 0,
@@ -8113,6 +7820,28 @@
       "review_rank": 0
     },
     {
+      "appid": 59699,
+      "name": "Jack Move",
+      "discount_percent": 0,
+      "original_price": 21900.0,
+      "final_price": 21900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/e439e5fc67e141e982b268cc321688d4/80295d1dda7d4ecba912a91633a6b797.jpg",
+      "url": "https://www.greenmangaming.com/games/jack-move-pc/",
+      "on_sale": false,
+      "genres": [
+        "어드벤처",
+        "인디",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "HYPETRAIN DIGITAL LTD"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 46259,
       "name": "Blanc",
       "discount_percent": 0,
@@ -8129,6 +7858,29 @@
       "developers": [],
       "publishers": [
         "Gearbox Publishing"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 59701,
+      "name": "There Is No Light: Enhanced Edition",
+      "discount_percent": 0,
+      "original_price": 21500.0,
+      "final_price": 21500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/1acef2e78f6b4f1e8b146ad3b45c20b5/c07359b54614411f8c1e45ef87ccb44d.jpg",
+      "url": "https://www.greenmangaming.com/games/there-is-no-light-enhanced-edition-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "어드벤처",
+        "인디",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "HYPETRAIN DIGITAL LTD"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -8851,6 +8603,51 @@
       "review_rank": 0
     },
     {
+      "appid": 59695,
+      "name": "SuchArt: Genius Artist Simulator",
+      "discount_percent": 0,
+      "original_price": 27000.0,
+      "final_price": 27000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/d6d3ff8014ff4ff381ce82bedc59b2f1/b2a900db5cae4688a37db464e08b0d2f.jpg",
+      "url": "https://www.greenmangaming.com/games/suchart-genius-artist-simulator-pc/",
+      "on_sale": false,
+      "genres": [
+        "어드벤처",
+        "캐주얼",
+        "인디",
+        "시뮬레이션"
+      ],
+      "developers": [],
+      "publishers": [
+        "HYPETRAIN DIGITAL LTD"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 59692,
+      "name": "StormEdge",
+      "discount_percent": 0,
+      "original_price": 16500.0,
+      "final_price": 16500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/d01a9f1133a8479bb4c3ea4edaa04f07/bf39416e88834dc7ad3035b2ceb0aa82.jpg",
+      "url": "https://www.greenmangaming.com/games/stormedge-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "인디",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "HYPETRAIN DIGITAL LTD"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 54419,
       "name": "The First Berserker: Khazan",
       "discount_percent": 0,
@@ -9102,6 +8899,29 @@
       "developers": [],
       "publishers": [
         "Square Enix"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 59667,
+      "name": "Quasimorph",
+      "discount_percent": 0,
+      "original_price": 26500.0,
+      "final_price": 26500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/06180751a56547a79ba1b09fe2603bd2/acc330d53bfb4d17a0580da76cfe4046.jpg",
+      "url": "https://www.greenmangaming.com/games/quasimorph-pc/",
+      "on_sale": false,
+      "genres": [
+        "인디",
+        "RPG",
+        "시뮬레이션",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "HYPETRAIN DIGITAL LTD"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -9508,6 +9328,28 @@
       "review_rank": 0
     },
     {
+      "appid": 59669,
+      "name": "Escape from Ever After",
+      "discount_percent": 0,
+      "original_price": 27000.0,
+      "final_price": 27000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/a9f06d27618d4546ac512b60679d8c73/d007b01356f34c88a31557450e82798e.jpg",
+      "url": "https://www.greenmangaming.com/games/escape-from-ever-after-pc/",
+      "on_sale": false,
+      "genres": [
+        "어드벤처",
+        "RPG",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "HYPETRAIN DIGITAL LTD"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 36636,
       "name": "DRAGON QUEST® XI S: Echoes of an Elusive Age™ - Definitive Edition (ROW Edition)",
       "discount_percent": 0,
@@ -9544,6 +9386,29 @@
       "developers": [],
       "publishers": [
         "Gearbox Publishing"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 59678,
+      "name": "Pathologic 3",
+      "discount_percent": 0,
+      "original_price": 37500.0,
+      "final_price": 37500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/c992a55b1fc84edaab470df7ca8866a0/7bb2b976b1074452b44077e57ce1f488.jpg",
+      "url": "https://www.greenmangaming.com/games/pathologic-3-pc/",
+      "on_sale": false,
+      "genres": [
+        "어드벤처",
+        "시뮬레이션",
+        "RPG",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "HYPETRAIN DIGITAL LTD"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -10318,6 +10183,28 @@
       "review_rank": 0
     },
     {
+      "appid": 59673,
+      "name": "Die in the Dungeon",
+      "discount_percent": 0,
+      "original_price": 16500.0,
+      "final_price": 16500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/8ff5b06d3181425e82daa6479acffa6b/98866932dbb542f3a6f43aaa4400e7e4.jpg",
+      "url": "https://www.greenmangaming.com/games/die-in-the-dungeon-pc/",
+      "on_sale": false,
+      "genres": [
+        "인디",
+        "전략",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "HYPETRAIN DIGITAL LTD"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 59920,
       "name": "Dragon Quest Heroes: Torneko's Mystery Dungeon -Classic HD-",
       "discount_percent": 0,
@@ -10848,6 +10735,28 @@
       "developers": [],
       "publishers": [
         "2K Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 59684,
+      "name": "Nova Lands",
+      "discount_percent": 0,
+      "original_price": 21500.0,
+      "final_price": 21500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/2b621d8dc3274d43a840ea243602530f/aedf3d26462f444bbfc1be8b435490d9.jpg",
+      "url": "https://www.greenmangaming.com/games/nova-lands-pc/",
+      "on_sale": false,
+      "genres": [
+        "어드벤처",
+        "시뮬레이션",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "HYPETRAIN DIGITAL LTD"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -11705,6 +11614,28 @@
       "review_rank": 0
     },
     {
+      "appid": 59681,
+      "name": "Gatekeeper",
+      "discount_percent": 0,
+      "original_price": 16500.0,
+      "final_price": 16500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/31fe7bb3726140d1b753101c353f99f0/af091b6553e8473687969b69f7b832a1.jpg",
+      "url": "https://www.greenmangaming.com/games/gatekeeper-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "인디",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "HYPETRAIN DIGITAL LTD"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 59934,
       "name": "Goat Simulator 3 - Super Duper Pack",
       "discount_percent": 0,
@@ -11794,6 +11725,27 @@
       "review_rank": 0
     },
     {
+      "appid": 59675,
+      "name": "Nordhold",
+      "discount_percent": 0,
+      "original_price": 21500.0,
+      "final_price": 21500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/5b49718a053e445881e24e37aa4a1357/ed7c404e15454bfcaee44225dada699b.jpg",
+      "url": "https://www.greenmangaming.com/games/nordhold-pc/",
+      "on_sale": false,
+      "genres": [
+        "인디",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "HYPETRAIN DIGITAL LTD"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 59312,
       "name": "The Relic: First Guardian - The Night of the Unextinguished Flame",
       "discount_percent": 0,
@@ -11833,6 +11785,28 @@
       "developers": [],
       "publishers": [
         "Perp Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 59672,
+      "name": "Intravenous 2",
+      "discount_percent": 0,
+      "original_price": 21500.0,
+      "final_price": 21500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/9f1e933aa8b64e54886fdd9f496430e9/6300cdd2d76d413b805506afb70b4803.jpg",
+      "url": "https://www.greenmangaming.com/games/intravenous-2-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "전략",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "HYPETRAIN DIGITAL LTD"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -12000,6 +11974,32 @@
       "developers": [],
       "publishers": [
         "Red Hook Studios"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 59698,
+      "name": "Tinkerlands",
+      "discount_percent": 0,
+      "original_price": 13000.0,
+      "final_price": 13000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/45fbb7c9d4964e2b90134f29bbef2769/f82491353e334f1c98c7be01a0daa7c5.jpg",
+      "url": "https://www.greenmangaming.com/games/tinkerlands-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "어드벤처",
+        "캐주얼",
+        "인디",
+        "RPG",
+        "시뮬레이션",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "HYPETRAIN DIGITAL LTD"
       ],
       "review_desc": null,
       "review_rank": 0
