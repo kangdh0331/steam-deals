@@ -36756,5 +36756,599 @@
     "publishers": [
       "Bliss Brain"
     ]
+  },
+  "1658920": {
+    "genres": [
+      "어드벤처",
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "Artefacts Studio"
+    ],
+    "publishers": [
+      "Nacon"
+    ]
+  },
+  "1134700": {
+    "genres": [
+      "액션",
+      "인디",
+      "대규모 멀티플레이어",
+      "RPG"
+    ],
+    "developers": [
+      "Juvty Worlds"
+    ],
+    "publishers": [
+      "Juvty Worlds"
+    ]
+  },
+  "501590": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "People Can Fly"
+    ],
+    "publishers": [
+      "Gearbox Publishing",
+      "2K"
+    ]
+  },
+  "265930": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Coffee Stain Studios"
+    ],
+    "publishers": [
+      "Coffee Stain Publishing"
+    ]
+  },
+  "210970": {
+    "genres": [
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "Thekla, Inc."
+    ],
+    "publishers": [
+      "Thekla, Inc."
+    ]
+  },
+  "1161590": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "RPG",
+      "시뮬레이션",
+      "스포츠",
+      "전략"
+    ],
+    "developers": [
+      "Lazy Bear Games"
+    ],
+    "publishers": [
+      "tinyBuild"
+    ]
+  },
+  "57900": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Gearbox Software"
+    ],
+    "publishers": [
+      "2K"
+    ]
+  },
+  "2067350": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Rocket Panda Games Japan"
+    ],
+    "publishers": [
+      "Rocket Panda Games"
+    ]
+  },
+  "1151380": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "캐주얼",
+      "RPG",
+      "시뮬레이션",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Odd Qubit"
+    ],
+    "publishers": [
+      "RockGame S.A."
+    ]
+  },
+  "980830": {
+    "genres": [
+      "어드벤처"
+    ],
+    "developers": [
+      "EXPERIENCE"
+    ],
+    "publishers": [
+      "Aksys Games"
+    ]
+  },
+  "1658040": {
+    "genres": [
+      "인디",
+      "RPG",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Mandragora"
+    ],
+    "publishers": [
+      "tinyBuild"
+    ]
+  },
+  "3873970": {
+    "genres": [
+      "레이싱",
+      "시뮬레이션",
+      "스포츠"
+    ],
+    "developers": [
+      "iRacing.com Motorsport Simulations, LLC"
+    ],
+    "publishers": [
+      "iRacing.com Motorsport Simulations, LLC"
+    ]
+  },
+  "587260": {
+    "genres": [
+      "RPG"
+    ],
+    "developers": [
+      "Nihon Falcom"
+    ],
+    "publishers": [
+      "Aksys Games"
+    ]
+  },
+  "5175310": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "캐주얼",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Funcore Games"
+    ],
+    "publishers": [
+      "2P Games",
+      " Elegoose Games"
+    ]
+  },
+  "5416430": {
+    "genres": [
+      "액션",
+      "인디",
+      "RPG",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "CraftingBenchGames"
+    ],
+    "publishers": [
+      "CraftingBenchGames"
+    ]
+  },
+  "4618570": {
+    "genres": [
+      "캐주얼",
+      "전략"
+    ],
+    "developers": [
+      "zup"
+    ],
+    "publishers": [
+      "Funday Games"
+    ]
+  },
+  "3840390": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "IronOak Games"
+    ],
+    "publishers": [
+      "Curve Games"
+    ]
+  },
+  "2529790": {
+    "genres": [
+      "액션",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "Clover Bite"
+    ],
+    "publishers": [
+      "Kwalee"
+    ]
+  },
+  "1972440": {
+    "genres": [
+      "액션",
+      "인디",
+      "전략"
+    ],
+    "developers": [
+      "PUNKCAKE Delicieux"
+    ],
+    "publishers": [
+      "PUNKCAKE Delicieux"
+    ]
+  },
+  "3840400": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "IronOak Games"
+    ],
+    "publishers": [
+      "Curve Games"
+    ]
+  },
+  "2706020": {
+    "genres": [
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "All Parts Connected"
+    ],
+    "publishers": [
+      "tinyBuild"
+    ]
+  },
+  "3499790": {
+    "genres": [
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Oxide Games"
+    ],
+    "publishers": [
+      "Stardock Entertainment"
+    ]
+  },
+  "4933810": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "狐狸博士 Dr.Fox"
+    ],
+    "publishers": [
+      "狐狸博士 Dr.Fox"
+    ]
+  },
+  "3625350": {
+    "genres": [
+      "어드벤처",
+      "캐주얼",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Piacere"
+    ],
+    "publishers": [
+      "Piacere"
+    ]
+  },
+  "2378230": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "Starblade Games"
+    ],
+    "publishers": [
+      "Starblade Games"
+    ]
+  },
+  "4838130": {
+    "genres": [
+      "전략",
+      "앞서 해보기"
+    ],
+    "developers": [
+      " NINEHECTARE"
+    ],
+    "publishers": [
+      " NINEHECTARE"
+    ]
+  },
+  "4402200": {
+    "genres": [
+      "전략",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Advance Nine"
+    ],
+    "publishers": [
+      "Advance Nine"
+    ]
+  },
+  "3014860": {
+    "genres": [
+      "인디"
+    ],
+    "developers": [
+      "Johan Peitz",
+      "Anders Svensson"
+    ],
+    "publishers": [
+      "Apskeppet"
+    ]
+  },
+  "4202430": {
+    "genres": [
+      "인디",
+      "전략",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Tactical Boar"
+    ],
+    "publishers": [
+      "Tactical Boar"
+    ]
+  },
+  "2638080": {
+    "genres": [
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "Death Kumiai"
+    ],
+    "publishers": [
+      "Death Kumiai",
+      "Flashlight Games"
+    ]
+  },
+  "3669620": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "Auroch Digital"
+    ],
+    "publishers": [
+      "Auroch Digital"
+    ]
+  },
+  "3129790": {
+    "genres": [
+      "인디",
+      "전략"
+    ],
+    "developers": [
+      "Shading Box"
+    ],
+    "publishers": [
+      "Shading Box",
+      "Paras Games"
+    ]
+  },
+  "5019800": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "RPG",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "ANLI GAMES"
+    ],
+    "publishers": [
+      "ANLI GAMES"
+    ]
+  },
+  "3504050": {
+    "genres": [
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "Fool Moon",
+      "Finnegan Motors"
+    ],
+    "publishers": [
+      "Raw Fury"
+    ]
+  },
+  "4901860": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Critics Arcade"
+    ],
+    "publishers": [
+      "Critics Arcade"
+    ]
+  },
+  "4351380": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Yoshio Games"
+    ],
+    "publishers": [
+      "2P Games"
+    ]
+  },
+  "4532500": {
+    "genres": [
+      "캐주얼",
+      "RPG"
+    ],
+    "developers": [
+      "KOEI TECMO GAMES CO., LTD."
+    ],
+    "publishers": [
+      "KOEI TECMO GAMES CO., LTD."
+    ]
+  },
+  "227310": {
+    "genres": [
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "SCS Software"
+    ],
+    "publishers": [
+      "SCS Software"
+    ]
+  },
+  "5366160": {
+    "genres": [
+      "어드벤처",
+      "캐주얼",
+      "인디",
+      "대규모 멀티플레이어",
+      "RPG",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Qloud Games"
+    ],
+    "publishers": [
+      "Qloud Games"
+    ]
+  },
+  "850190": {
+    "genres": [
+      "어드벤처",
+      "캐주얼",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Coffee Stain North"
+    ],
+    "publishers": [
+      "Coffee Stain Publishing"
+    ]
+  },
+  "2878960": {
+    "genres": [
+      "시뮬레이션",
+      "스포츠"
+    ],
+    "developers": [
+      "Visual Concepts"
+    ],
+    "publishers": [
+      "2K"
+    ]
+  },
+  "1769420": {
+    "genres": [
+      "액션",
+      "인디",
+      "RPG",
+      "시뮬레이션",
+      "전략",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Xobermon, LLC"
+    ],
+    "publishers": [
+      "Living World"
+    ]
+  },
+  "611670": {
+    "genres": [
+      "RPG"
+    ],
+    "developers": [
+      "Bethesda Game Studios"
+    ],
+    "publishers": [
+      "Bethesda Softworks"
+    ]
+  },
+  "3144890": {
+    "genres": [
+      "전략"
+    ],
+    "developers": [
+      "World's Edge",
+      "Forgotten Empires",
+      "Climax Studios",
+      "Relic Entertainment"
+    ],
+    "publishers": [
+      "Xbox Game Studios"
+    ]
+  },
+  "447530": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Sukeban Games"
+    ],
+    "publishers": [
+      "Ysbryd Games",
+      "PLAYISM"
+    ]
   }
 }
