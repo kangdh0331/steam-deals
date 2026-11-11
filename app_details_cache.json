@@ -38176,5 +38176,104 @@
     "publishers": [
       "Big Fan"
     ]
+  },
+  "3025440": {
+    "genres": [
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "SCS Software"
+    ],
+    "publishers": [
+      "SCS Software"
+    ]
+  },
+  "3850230": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "塔克工作室",
+      "DARK STUDIO"
+    ],
+    "publishers": [
+      "塔克工作室",
+      "DARK STUDIO"
+    ]
+  },
+  "4984400": {
+    "genres": [
+      "전략"
+    ],
+    "developers": [
+      "Everybody House Games"
+    ],
+    "publishers": [
+      "Everybody House Games"
+    ]
+  },
+  "4514060": {
+    "genres": [
+      "어드벤처"
+    ],
+    "developers": [
+      "Lilith"
+    ],
+    "publishers": [
+      "Shiravune"
+    ]
+  },
+  "4218360": {
+    "genres": [
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Alawar"
+    ],
+    "publishers": [
+      "Alawar"
+    ]
+  },
+  "3012580": {
+    "genres": [
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "SCS Software"
+    ],
+    "publishers": [
+      "SCS Software"
+    ]
+  },
+  "5217440": {
+    "genres": [
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "Leonn Camayo",
+      "Andes Interactive"
+    ],
+    "publishers": [
+      "Andes Interactive"
+    ]
+  },
+  "2847780": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "Sunnyside Games"
+    ],
+    "publishers": [
+      "Sunnyside Games"
+    ]
   }
 }
