@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1794351346.9751499,
+  "fetched_at": 1794372869.8256392,
   "deals": [
     {
       "appid": 40290,
@@ -1817,28 +1817,6 @@
       "review_rank": 0
     },
     {
-      "appid": 54942,
-      "name": "Stellar Blade™ Complete Edition",
-      "discount_percent": 33,
-      "original_price": 83800.0,
-      "final_price": 56200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/22cb949d207b4480a62fef5425d9e24e/cba812b26c5b465486253d96c86290d1.jpg",
-      "url": "https://www.greenmangaming.com/games/stellar-blade-complete-edition-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Playstation Publishing LLC"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 58914,
       "name": "FATAL FURY: CotW - Season Pass 1",
       "discount_percent": 33,
@@ -1855,28 +1833,6 @@
       "developers": [],
       "publishers": [
         "SNK Corporation"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 54140,
-      "name": "Stellar Blade™",
-      "discount_percent": 33,
-      "original_price": 62800.0,
-      "final_price": 42100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/06d546b09ad945cfaae3e5dc9ddb24c3/00b622df21c44f8089860a35ccb30078.jpg",
-      "url": "https://www.greenmangaming.com/games/stellar-blade-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Playstation Publishing LLC"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -2124,27 +2080,6 @@
       "review_rank": 0
     },
     {
-      "appid": 60719,
-      "name": "Corpus et Spiritus",
-      "discount_percent": 25,
-      "original_price": 13300.0,
-      "final_price": 10000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/6a87199500bc4dd1a8caa288ef0f2b9f/117443be011b4026848466930224dbb8.jpg",
-      "url": "https://www.greenmangaming.com/games/corpus-et-spiritus-pc/",
-      "on_sale": true,
-      "genres": [
-        "인디",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Firesquid"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 60655,
       "name": "Grunn",
       "discount_percent": 25,
@@ -2347,28 +2282,6 @@
       "review_rank": 0
     },
     {
-      "appid": 59706,
-      "name": "CONTROL Resonant",
-      "discount_percent": 20,
-      "original_price": 64800.0,
-      "final_price": 51900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/f56e4312d90c4f89bae53bc0e9ed53b6/6f3ea14524f44c50ab94671a5aba03ed.jpg",
-      "url": "https://www.greenmangaming.com/games/control-resonant-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "RPG",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Remedy Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 55393,
       "name": "Faraway",
       "discount_percent": 20,
@@ -2406,50 +2319,6 @@
       "developers": [],
       "publishers": [
         "indie.io"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60227,
-      "name": "Coal Duty",
-      "discount_percent": 20,
-      "original_price": 9700.0,
-      "final_price": 7800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/70958afd6e2b4d6bb0716a654b3c7217/86ec99da8a054805b431884b15731fbf.jpg",
-      "url": "https://www.greenmangaming.com/games/coal-duty-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "indie.io"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 59708,
-      "name": "CONTROL Resonant Digital Deluxe Edition",
-      "discount_percent": 20,
-      "original_price": 75800.0,
-      "final_price": 60700.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/4d9b4ccfb4de4410aae7aaec44a601d5/abd21a5c49604b7a98a8adf3930ea4d4.jpg",
-      "url": "https://www.greenmangaming.com/games/control-resonant-digital-deluxe-edition-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "RPG",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Remedy Entertainment"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -3824,6 +3693,28 @@
       "review_rank": 0
     },
     {
+      "appid": 59706,
+      "name": "CONTROL Resonant",
+      "discount_percent": 0,
+      "original_price": 64800.0,
+      "final_price": 64800.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/f56e4312d90c4f89bae53bc0e9ed53b6/6f3ea14524f44c50ab94671a5aba03ed.jpg",
+      "url": "https://www.greenmangaming.com/games/control-resonant-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "RPG",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Remedy Entertainment"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 58794,
       "name": "FINAL FANTASY RESONANCE Digital Deluxe Edition",
       "discount_percent": 0,
@@ -3839,6 +3730,27 @@
       "developers": [],
       "publishers": [
         "Square Enix"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60719,
+      "name": "Corpus et Spiritus",
+      "discount_percent": 0,
+      "original_price": 13300.0,
+      "final_price": 13300.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/6a87199500bc4dd1a8caa288ef0f2b9f/117443be011b4026848466930224dbb8.jpg",
+      "url": "https://www.greenmangaming.com/games/corpus-et-spiritus-pc/",
+      "on_sale": false,
+      "genres": [
+        "인디",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Firesquid"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -3954,6 +3866,28 @@
       "review_rank": 0
     },
     {
+      "appid": 60227,
+      "name": "Coal Duty",
+      "discount_percent": 0,
+      "original_price": 9700.0,
+      "final_price": 9700.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/70958afd6e2b4d6bb0716a654b3c7217/86ec99da8a054805b431884b15731fbf.jpg",
+      "url": "https://www.greenmangaming.com/games/coal-duty-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "인디",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "indie.io"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 39281,
       "name": "Red Dead Redemption 2",
       "discount_percent": 0,
@@ -4056,6 +3990,28 @@
       "developers": [],
       "publishers": [
         "Square Enix"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 59708,
+      "name": "CONTROL Resonant Digital Deluxe Edition",
+      "discount_percent": 0,
+      "original_price": 75800.0,
+      "final_price": 75800.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/4d9b4ccfb4de4410aae7aaec44a601d5/abd21a5c49604b7a98a8adf3930ea4d4.jpg",
+      "url": "https://www.greenmangaming.com/games/control-resonant-digital-deluxe-edition-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "RPG",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Remedy Entertainment"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -5790,6 +5746,28 @@
       "developers": [],
       "publishers": [
         "Square Enix"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 54942,
+      "name": "Stellar Blade™ Complete Edition",
+      "discount_percent": 0,
+      "original_price": 83800.0,
+      "final_price": 83800.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/22cb949d207b4480a62fef5425d9e24e/cba812b26c5b465486253d96c86290d1.jpg",
+      "url": "https://www.greenmangaming.com/games/stellar-blade-complete-edition-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "Playstation Publishing LLC"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -9859,6 +9837,28 @@
       "developers": [],
       "publishers": [
         "2K Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 54140,
+      "name": "Stellar Blade™",
+      "discount_percent": 0,
+      "original_price": 62800.0,
+      "final_price": 62800.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/06d546b09ad945cfaae3e5dc9ddb24c3/00b622df21c44f8089860a35ccb30078.jpg",
+      "url": "https://www.greenmangaming.com/games/stellar-blade-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "Playstation Publishing LLC"
       ],
       "review_desc": null,
       "review_rank": 0
