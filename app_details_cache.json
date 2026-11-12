@@ -39444,5 +39444,284 @@
     "publishers": [
       "Xbox Game Studios"
     ]
+  },
+  "1043810": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "Suspicious Developments"
+    ],
+    "publishers": [
+      "Suspicious Developments"
+    ]
+  },
+  "352720": {
+    "genres": [
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Crytivo"
+    ],
+    "publishers": [
+      "Crytivo"
+    ]
+  },
+  "2605790": {
+    "genres": [
+      "액션",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Ghost Ship Games"
+    ],
+    "publishers": [
+      "Ghost Ship Publishing",
+      "Coffee Stain Publishing"
+    ]
+  },
+  "1704460": {
+    "genres": [
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "SCS Software"
+    ],
+    "publishers": [
+      "SCS Software"
+    ]
+  },
+  "1843940": {
+    "genres": [
+      "전략"
+    ],
+    "developers": [
+      "Happinet",
+      "Matrix"
+    ],
+    "publishers": [
+      "Happinet"
+    ]
+  },
+  "5378110": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Superdou"
+    ],
+    "publishers": [
+      "Superdou"
+    ]
+  },
+  "3742830": {
+    "genres": [
+      "액션",
+      "RPG"
+    ],
+    "developers": [
+      "TANER GAMES"
+    ],
+    "publishers": [
+      "TANER GAMES"
+    ]
+  },
+  "5343400": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Dynyx Interactive Inc"
+    ],
+    "publishers": [
+      "Dynyx Interactive Inc"
+    ]
+  },
+  "4390080": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "monoii studio"
+    ],
+    "publishers": [
+      "monoii studio"
+    ]
+  },
+  "2487190": {
+    "genres": [
+      "인디",
+      "시뮬레이션",
+      "전략",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Tumbling Dumpling Studio"
+    ],
+    "publishers": [
+      "Mythwright"
+    ]
+  },
+  "3177710": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "시뮬레이션",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "EastUp Interactive"
+    ],
+    "publishers": [
+      "EastUp Interactive"
+    ]
+  },
+  "5195200": {
+    "genres": [
+      "액션",
+      "인디",
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "Trevor Parker"
+    ],
+    "publishers": [
+      "Trevor Games"
+    ]
+  },
+  "3849000": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "RPG",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "NerveLabs"
+    ],
+    "publishers": [
+      "NerveLabs"
+    ]
+  },
+  "5455960": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Murbong"
+    ],
+    "publishers": [
+      "GoldWorks"
+    ]
+  },
+  "3218570": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Denkiworks"
+    ],
+    "publishers": [
+      "CRITICAL REFLEX"
+    ]
+  },
+  "2423290": {
+    "genres": [
+      "인디",
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "58BLADES"
+    ],
+    "publishers": [
+      "58BLADES",
+      "Human Qube Games"
+    ]
+  },
+  "2860490": {
+    "genres": [
+      "액션",
+      "인디",
+      "RPG",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "One or Eight",
+      "Team EARTHWARS"
+    ],
+    "publishers": [
+      "One or Eight"
+    ]
+  },
+  "4493130": {
+    "genres": [
+      "시뮬레이션",
+      "전략",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Falling Damage Games"
+    ],
+    "publishers": [
+      "Falling Damage Games"
+    ]
+  },
+  "4411720": {
+    "genres": [
+      "인디",
+      "시뮬레이션",
+      "스포츠",
+      "전략"
+    ],
+    "developers": [
+      "Umix Studios"
+    ],
+    "publishers": [
+      "Umix Studios"
+    ]
+  },
+  "3809270": {
+    "genres": [
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "SCS Software"
+    ],
+    "publishers": [
+      "SCS Software"
+    ]
+  },
+  "4008250": {
+    "genres": [
+      "액션",
+      "인디"
+    ],
+    "developers": [
+      "Kenny Sun and Friends"
+    ],
+    "publishers": [
+      "Devolver Digital"
+    ]
   }
 }

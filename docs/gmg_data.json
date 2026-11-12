@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1794494772.0494158,
+  "fetched_at": 1794525382.8504322,
   "deals": [
     {
       "appid": 60769,
@@ -3296,6 +3296,27 @@
       "developers": [],
       "publishers": [
         "META Publishing"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 55689,
+      "name": "9 Kings",
+      "discount_percent": 50,
+      "original_price": 19900.0,
+      "final_price": 10000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/778f3772c2cd4a73a22c59d29562f0eb/30fc6bd3f5244707a17451e153956a04.jpg",
+      "url": "https://www.greenmangaming.com/games/9-kings-pc/",
+      "on_sale": true,
+      "genres": [
+        "RPG",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Hooded Horse"
       ],
       "review_desc": null,
       "review_rank": 0
