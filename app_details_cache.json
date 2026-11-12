@@ -38275,5 +38275,102 @@
     "publishers": [
       "Sunnyside Games"
     ]
+  },
+  "1830970": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "Hotloop"
+    ],
+    "publishers": [
+      "Hotloop",
+      "Surefire.Games"
+    ]
+  },
+  "2178480": {
+    "genres": [
+      "RPG"
+    ],
+    "developers": [
+      "Spike Chunsoft Co., Ltd."
+    ],
+    "publishers": [
+      "Spike Chunsoft Co., Ltd."
+    ]
+  },
+  "4521650": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "dummy dino"
+    ],
+    "publishers": [
+      "dummy dino",
+      "Gamersky Games"
+    ]
+  },
+  "4574820": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "RPG",
+      "시뮬레이션",
+      "전략",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Kuzzi"
+    ],
+    "publishers": [
+      "KuzziGames"
+    ]
+  },
+  "4822240": {
+    "genres": [
+      "액션",
+      "인디",
+      "전략"
+    ],
+    "developers": [
+      "Mythwright"
+    ],
+    "publishers": [
+      "Mythwright"
+    ]
+  },
+  "3285880": {
+    "genres": [
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "Gentle Giant"
+    ],
+    "publishers": [
+      "Gentle Giant"
+    ]
+  },
+  "4780870": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "RPG",
+      "전략",
+      "무료 플레이"
+    ],
+    "developers": [
+      "Samharia Studios"
+    ],
+    "publishers": [
+      "Samharia Studios"
+    ]
   }
 }
