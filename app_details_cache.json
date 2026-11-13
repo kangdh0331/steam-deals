@@ -40155,5 +40155,248 @@
     "publishers": [
       "Paradox Interactive"
     ]
+  },
+  "773370": {
+    "genres": [
+      "어드벤처",
+      "캐주얼",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Exbleative"
+    ],
+    "publishers": [
+      "Future Friends Games",
+      "Exbleative"
+    ]
+  },
+  "2804510": {
+    "genres": [
+      "캐주얼",
+      "RPG",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "画域互动"
+    ],
+    "publishers": [
+      "画域互动"
+    ]
+  },
+  "3925760": {
+    "genres": [
+      "캐주얼",
+      "인디"
+    ],
+    "developers": [
+      "HEATHER FLOWERS"
+    ],
+    "publishers": [
+      "HEATHER FLOWERS"
+    ]
+  },
+  "2780800": {
+    "genres": [
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "SCS Software"
+    ],
+    "publishers": []
+  },
+  "2658450": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "DRAGAMI GAMES, LTD."
+    ],
+    "publishers": [
+      "DRAGAMI GAMES, LTD."
+    ]
+  },
+  "1592280": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Altered Orbit Studios"
+    ],
+    "publishers": [
+      "Altered Orbit Studios"
+    ]
+  },
+  "4045480": {
+    "genres": [
+      "시뮬레이션"
+    ],
+    "developers": [
+      "byKaleb"
+    ],
+    "publishers": [
+      "rokaplay"
+    ]
+  },
+  "4599880": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Overbaked Studio"
+    ],
+    "publishers": [
+      "PlayWay S.A."
+    ]
+  },
+  "5189160": {
+    "genres": [
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "dux"
+    ],
+    "publishers": [
+      "dux"
+    ]
+  },
+  "2174510": {
+    "genres": [
+      "레이싱",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "f13rce"
+    ],
+    "publishers": [
+      "f13rce"
+    ]
+  },
+  "5457010": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "RPG",
+      "시뮬레이션",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Deadcat123"
+    ],
+    "publishers": [
+      "DOPAMINE GAMES"
+    ]
+  },
+  "3594460": {
+    "genres": [
+      "액션",
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Eugen Systems"
+    ],
+    "publishers": [
+      "Eugen Systems"
+    ]
+  },
+  "4523180": {
+    "genres": [
+      "액션",
+      "전략"
+    ],
+    "developers": [
+      "Relic Entertainment"
+    ],
+    "publishers": []
+  },
+  "5295330": {
+    "genres": [
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Managagrau"
+    ],
+    "publishers": [
+      "Managagrau"
+    ]
+  },
+  "4767130": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Milo Panta"
+    ],
+    "publishers": [
+      "Milo Panta",
+      "Human Qube Games",
+      "Gamersky Games"
+    ]
+  },
+  "5302870": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Beardroid Games"
+    ],
+    "publishers": [
+      "Beardroid Games"
+    ]
+  },
+  "3687090": {
+    "genres": [
+      "캐주얼",
+      "인디"
+    ],
+    "developers": [
+      "DieCorp Games"
+    ],
+    "publishers": [
+      "DieCorp Games"
+    ]
+  },
+  "5185890": {
+    "genres": [
+      "전략",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Jogamedev"
+    ],
+    "publishers": [
+      "Jogamedev"
+    ]
+  },
+  "3810510": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "Visuwyg"
+    ],
+    "publishers": [
+      "Hyperstrange"
+    ]
   }
 }
