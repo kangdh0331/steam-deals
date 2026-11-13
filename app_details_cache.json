@@ -39810,5 +39810,350 @@
     "publishers": [
       "SCS Software"
     ]
+  },
+  "1206610": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "인디"
+    ],
+    "developers": [
+      "Flashbulb"
+    ],
+    "publishers": [
+      "Flashbulb"
+    ]
+  },
+  "632300": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "RPG",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Perun Creative"
+    ],
+    "publishers": [
+      "Perun Creative"
+    ]
+  },
+  "2183930": {
+    "genres": [
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Paradox Development Studio"
+    ],
+    "publishers": [
+      "Paradox Interactive"
+    ]
+  },
+  "1880650": {
+    "genres": [
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Paradox Development Studio"
+    ],
+    "publishers": [
+      "Paradox Interactive"
+    ]
+  },
+  "1158100": {
+    "genres": [
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Paradox Development Studio"
+    ],
+    "publishers": [
+      "Paradox Interactive"
+    ]
+  },
+  "2695150": {
+    "genres": [
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Paradox Development Studio"
+    ],
+    "publishers": [
+      "Paradox Interactive"
+    ]
+  },
+  "3152790": {
+    "genres": [
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Paradox Development Studio"
+    ],
+    "publishers": [
+      "Paradox Interactive"
+    ]
+  },
+  "3816120": {
+    "genres": [
+      "캐주얼",
+      "RPG",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Proudmate Entertainment"
+    ],
+    "publishers": [
+      "Proudmate Entertainment",
+      "一相逢互动娱乐"
+    ]
+  },
+  "4661070": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "인디",
+      "대규모 멀티플레이어",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "ArtDock"
+    ],
+    "publishers": [
+      "ArtDock"
+    ]
+  },
+  "5386810": {
+    "genres": [
+      "캐주얼",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Skymonq"
+    ],
+    "publishers": [
+      "Skymonq"
+    ]
+  },
+  "4992660": {
+    "genres": [
+      "어드벤처",
+      "캐주얼",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Swytapp Games"
+    ],
+    "publishers": [
+      "Swytapp Games"
+    ]
+  },
+  "5560550": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "인디",
+      "스포츠",
+      "무료 플레이"
+    ],
+    "developers": [
+      "QueseraGames"
+    ],
+    "publishers": [
+      "QueseraGames"
+    ]
+  },
+  "4829780": {
+    "genres": [
+      "어드벤처",
+      "캐주얼",
+      "인디",
+      "RPG",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "APOPHIS GAME STUDIO"
+    ],
+    "publishers": [
+      "APOPHIS GAME STUDIO",
+      "NPC Entertainment"
+    ]
+  },
+  "2953940": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "캐주얼",
+      "인디",
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "JOTASOFT STUDIOS"
+    ],
+    "publishers": [
+      "JOTASOFT STUDIOS"
+    ]
+  },
+  "3721530": {
+    "genres": [
+      "인디",
+      "레이싱",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "UNIQ Games"
+    ],
+    "publishers": [
+      "Red Axe Games"
+    ]
+  },
+  "4994890": {
+    "genres": [
+      "캐주얼",
+      "인디"
+    ],
+    "developers": [
+      "PandaKoala Studio"
+    ],
+    "publishers": [
+      "PandaKoala Studio"
+    ]
+  },
+  "2686630": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "RPG",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Treehouse Games"
+    ],
+    "publishers": [
+      "Treehouse Games",
+      "Fireshine Games"
+    ]
+  },
+  "1295920": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "DarkStone Digital"
+    ],
+    "publishers": [
+      "DreadXP"
+    ]
+  },
+  "690640": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "Frozenbyte"
+    ],
+    "publishers": [
+      "Frozenbyte"
+    ]
+  },
+  "418530": {
+    "genres": [
+      "액션",
+      "인디"
+    ],
+    "developers": [
+      "Mossmouth",
+      "BlitWorks"
+    ],
+    "publishers": [
+      "Mossmouth"
+    ]
+  },
+  "3681610": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "RPG"
+    ],
+    "developers": [
+      "Square Enix",
+      "TOSE CO., LTD."
+    ],
+    "publishers": [
+      "Square Enix"
+    ]
+  },
+  "1571100": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Flamebait Games"
+    ],
+    "publishers": [
+      "Flamebait Games"
+    ]
+  },
+  "1592190": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Stress Level Zero"
+    ],
+    "publishers": [
+      "Stress Level Zero"
+    ]
+  },
+  "458710": {
+    "genres": [
+      "전략"
+    ],
+    "developers": [
+      "Ironhide Game Studio"
+    ],
+    "publishers": [
+      "Ironhide Game Studio"
+    ]
+  },
+  "1602010": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Arc System Works",
+      "ATLUS"
+    ],
+    "publishers": [
+      "SEGA"
+    ]
+  },
+  "3757310": {
+    "genres": [
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Paradox Development Studio"
+    ],
+    "publishers": [
+      "Paradox Interactive"
+    ]
   }
 }
