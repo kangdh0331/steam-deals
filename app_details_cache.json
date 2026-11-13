@@ -39723,5 +39723,92 @@
     "publishers": [
       "Devolver Digital"
     ]
+  },
+  "4459590": {
+    "genres": [
+      "인디",
+      "전략"
+    ],
+    "developers": [
+      "Optima Arch"
+    ],
+    "publishers": [
+      "Optima Arch"
+    ]
+  },
+  "5270320": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Saber Interactive Inc"
+    ],
+    "publishers": [
+      "Saber Interactive Inc"
+    ]
+  },
+  "4416880": {
+    "genres": [
+      "어드벤처"
+    ],
+    "developers": [
+      "ILLGAMES"
+    ],
+    "publishers": [
+      "ILLGAMES"
+    ]
+  },
+  "495420": {
+    "genres": [
+      "액션",
+      "RPG",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Undead Labs"
+    ],
+    "publishers": [
+      "Xbox Game Studios"
+    ]
+  },
+  "1278540": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "RPG",
+      "시뮬레이션",
+      "스포츠",
+      "전략"
+    ],
+    "developers": [
+      "Asteroid Game Studio"
+    ],
+    "publishers": [
+      "Asteroid Game Studio"
+    ]
+  },
+  "704270": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Systemic Reaction™"
+    ],
+    "publishers": [
+      "Avalanche Studios"
+    ]
+  },
+  "4400940": {
+    "genres": [
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "SCS Software"
+    ],
+    "publishers": [
+      "SCS Software"
+    ]
   }
 }
