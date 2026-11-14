@@ -40524,5 +40524,57 @@
       "High Moon Studios"
     ],
     "publishers": []
+  },
+  "469600": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "전략"
+    ],
+    "developers": [
+      "AutoAttack Games"
+    ],
+    "publishers": [
+      "AutoAttack Games"
+    ]
+  },
+  "1669420": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Kyle Thompson"
+    ],
+    "publishers": [
+      "Armor Games Studios"
+    ]
+  },
+  "1374680": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "캐주얼",
+      "인디"
+    ],
+    "developers": [
+      "Wales Interactive"
+    ],
+    "publishers": [
+      "Wales Interactive"
+    ]
+  },
+  "2718320": {
+    "genres": [
+      "캐주얼",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "mattsnippets"
+    ],
+    "publishers": [
+      "Slug Disco"
+    ]
   }
 }
