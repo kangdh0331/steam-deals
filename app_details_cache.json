@@ -40398,5 +40398,46 @@
     "publishers": [
       "Hyperstrange"
     ]
+  },
+  "5264930": {
+    "genres": [
+      "RPG",
+      "시뮬레이션",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "归墟工作室"
+    ],
+    "publishers": [
+      "归墟工作室"
+    ]
+  },
+  "48700": {
+    "genres": [
+      "액션",
+      "RPG"
+    ],
+    "developers": [
+      "TaleWorlds Entertainment"
+    ],
+    "publishers": [
+      "TaleWorlds Entertainment"
+    ]
+  },
+  "17390": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "캐주얼",
+      "RPG",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Maxis™"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ]
   }
 }

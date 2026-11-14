@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1794611899.778105,
+  "fetched_at": 1794632926.1156385,
   "deals": [
     {
       "appid": 60769,
@@ -781,51 +781,6 @@
       "review_rank": 0
     },
     {
-      "appid": 60634,
-      "name": "Bamboo EP",
-      "discount_percent": 80,
-      "original_price": 6500.0,
-      "final_price": 1300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/8fe3f102c2894c6b8a02a00262d0d08e/4f7163451a2845a59c1c1fe6331720cc.jpg",
-      "url": "https://www.greenmangaming.com/games/bamboo-ep-pc/",
-      "on_sale": true,
-      "genres": [
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Sokpop BV"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60757,
-      "name": "Let's Journey",
-      "discount_percent": 80,
-      "original_price": 8500.0,
-      "final_price": 1700.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/c42f7454c5f54deeaa115810b871c816/8d023bb41ce342e9bb1237480f06db59.jpg",
-      "url": "https://www.greenmangaming.com/games/lets-journey-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "시뮬레이션",
-        "RPG",
-        "인디",
-        "캐주얼",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Garden of Dreams Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 60922,
       "name": "Dead In Vinland - True Viking Edition",
       "discount_percent": 80,
@@ -1215,27 +1170,6 @@
       "developers": [],
       "publishers": [
         "Gearbox Publishing"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60640,
-      "name": "Simmiland",
-      "discount_percent": 75,
-      "original_price": 5500.0,
-      "final_price": 1400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/a6b32ef66bd245d38c732cf9777ca2aa/8dcbde0d36a6482d879f0ad1603a25d4.jpg",
-      "url": "https://www.greenmangaming.com/games/simmiland-pc/",
-      "on_sale": true,
-      "genres": [
-        "인디",
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Sokpop BV"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -1650,28 +1584,6 @@
       "developers": [],
       "publishers": [
         "2K Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60755,
-      "name": "Bunker 21 Extended Edition",
-      "discount_percent": 70,
-      "original_price": 8900.0,
-      "final_price": 2700.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/a99b0472d6fa4938907226df2838e83a/32fa9b7cf3a841d9b4897abcfd101690.jpg",
-      "url": "https://www.greenmangaming.com/games/bunker-21-extended-edition-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Garden of Dreams Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -3100,48 +3012,6 @@
       "review_rank": 0
     },
     {
-      "appid": 60626,
-      "name": "Stacklands",
-      "discount_percent": 50,
-      "original_price": 8800.0,
-      "final_price": 4400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/f17ee888c6ab4616b6be807c1d88f2a2/7f20675157a84da2a7c0e690a5a67203.jpg",
-      "url": "https://www.greenmangaming.com/games/stacklands-pc/",
-      "on_sale": true,
-      "genres": [
-        "캐주얼",
-        "인디",
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Sokpop BV"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60636,
-      "name": "clickyland",
-      "discount_percent": 50,
-      "original_price": 5600.0,
-      "final_price": 2800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/2c067da3e671477dbdea87724dfe75e5/0a9511595d1748e09ee4ec7d0bd7d0b3.jpg",
-      "url": "https://www.greenmangaming.com/games/clickyland-pc/",
-      "on_sale": true,
-      "genres": [
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Sokpop BV"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 60947,
       "name": "Worlds of Aria - Supporters Edition",
       "discount_percent": 50,
@@ -3548,29 +3418,6 @@
       "developers": [],
       "publishers": [
         "Jackbox Games Inc"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60752,
-      "name": "Meltopia",
-      "discount_percent": 39,
-      "original_price": 8900.0,
-      "final_price": 5400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/828673bdce1c469fbb1d383fd3af5d93/56b77e69c8b84f4bac04ccaa96a21480.jpg",
-      "url": "https://www.greenmangaming.com/games/meltopia-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "시뮬레이션",
-        "인디",
-        "캐주얼"
-      ],
-      "developers": [],
-      "publishers": [
-        "Garden of Dreams Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -3994,28 +3841,6 @@
       "review_rank": 0
     },
     {
-      "appid": 60651,
-      "name": "Stacklands: Cursed Worlds",
-      "discount_percent": 29,
-      "original_price": 4500.0,
-      "final_price": 3200.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/89fea6af3d3249ad91e2e58f9dc1e873/9786855acc984c3ba1cc5c739c83b5d5.jpg",
-      "url": "https://www.greenmangaming.com/games/stacklands-cursed-worlds-pc/",
-      "on_sale": true,
-      "genres": [
-        "캐주얼",
-        "시뮬레이션",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Sokpop BV"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 58520,
       "name": "Brotato: Abyssal Terrors",
       "discount_percent": 27,
@@ -4114,28 +3939,6 @@
       "developers": [],
       "publishers": [
         "2K Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60655,
-      "name": "Grunn",
-      "discount_percent": 25,
-      "original_price": 14500.0,
-      "final_price": 10900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/0ca133d483cf4e01bd0e1b33d6e6891b/64e329f3cde74a5d98102634d6dc26ce.jpg",
-      "url": "https://www.greenmangaming.com/games/grunn-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "시뮬레이션",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Sokpop BV"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -4449,27 +4252,6 @@
       "review_rank": 0
     },
     {
-      "appid": 60642,
-      "name": "Grail",
-      "discount_percent": 20,
-      "original_price": 11000.0,
-      "final_price": 8800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/56e5cc0d32ad43fc911b7bf61dcff664/2f35da854a654b8c9ce2d313b9310c8e.jpg",
-      "url": "https://www.greenmangaming.com/games/grail-pc/",
-      "on_sale": true,
-      "genres": [
-        "인디",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Sokpop BV"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 59638,
       "name": "TMNT: Splintered Fate - Samurai Armor Pack",
       "discount_percent": 20,
@@ -4531,28 +4313,6 @@
       "developers": [],
       "publishers": [
         "Vertigo Games BV"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60653,
-      "name": "Stacklands 2000",
-      "discount_percent": 20,
-      "original_price": 4500.0,
-      "final_price": 3600.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/6d420e41730a4028bf397577c7f85f9b/faa7b92e288d43a492daa677e3bd3cac.jpg",
-      "url": "https://www.greenmangaming.com/games/stacklands-2000-pc/",
-      "on_sale": true,
-      "genres": [
-        "캐주얼",
-        "시뮬레이션",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Sokpop BV"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -5568,27 +5328,6 @@
       "review_rank": 0
     },
     {
-      "appid": 60632,
-      "name": "Rat Game",
-      "discount_percent": 9,
-      "original_price": 6700.0,
-      "final_price": 6100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/af9cbe518bb04f6cbad3debedc1c984c/fd4a8ca2ba944b1597341107e1bbc410.jpg",
-      "url": "https://www.greenmangaming.com/games/rat-game-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Sokpop BV"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 55958,
       "name": "Voyagers of Nera Founder's Edition",
       "discount_percent": 5,
@@ -5776,6 +5515,27 @@
       "developers": [],
       "publishers": [
         "Square Enix"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60632,
+      "name": "Rat Game",
+      "discount_percent": 0,
+      "original_price": 6700.0,
+      "final_price": 6700.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/af9cbe518bb04f6cbad3debedc1c984c/fd4a8ca2ba944b1597341107e1bbc410.jpg",
+      "url": "https://www.greenmangaming.com/games/rat-game-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Sokpop BV"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -22260,6 +22020,26 @@
       "developers": [],
       "publishers": [
         "Killhouse Games SRL"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60634,
+      "name": "Bamboo EP",
+      "discount_percent": 0,
+      "original_price": 6500.0,
+      "final_price": 6500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/8fe3f102c2894c6b8a02a00262d0d08e/4f7163451a2845a59c1c1fe6331720cc.jpg",
+      "url": "https://www.greenmangaming.com/games/bamboo-ep-pc/",
+      "on_sale": false,
+      "genres": [
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Sokpop BV"
       ],
       "review_desc": null,
       "review_rank": 0
