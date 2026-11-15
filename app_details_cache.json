@@ -40679,5 +40679,62 @@
     "publishers": [
       "Mythwright"
     ]
+  },
+  "285920": {
+    "genres": [
+      "액션",
+      "인디"
+    ],
+    "developers": [
+      "Payload Studios"
+    ],
+    "publishers": [
+      "Mythwright"
+    ]
+  },
+  "1457510": {
+    "genres": [
+      "RPG"
+    ],
+    "developers": [
+      "Nihon Falcom"
+    ],
+    "publishers": [
+      "Clouded Leopard Entertainment"
+    ]
+  },
+  "2113920": {
+    "genres": [
+      "RPG"
+    ],
+    "developers": [
+      "Nihon Falcom"
+    ],
+    "publishers": [
+      "Clouded Leopard Entertainment"
+    ]
+  },
+  "1450080": {
+    "genres": [
+      "RPG"
+    ],
+    "developers": [
+      "Nihon Falcom"
+    ],
+    "publishers": [
+      "Clouded Leopard Entertainment"
+    ]
+  },
+  "1732330": {
+    "genres": [
+      "액션",
+      "RPG"
+    ],
+    "developers": [
+      "Nihon Falcom"
+    ],
+    "publishers": [
+      "Clouded Leopard Entertainment"
+    ]
   }
 }
