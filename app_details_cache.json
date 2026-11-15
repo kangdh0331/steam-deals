@@ -40643,5 +40643,41 @@
     "publishers": [
       "PlayWay S.A."
     ]
+  },
+  "562150": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "전략"
+    ],
+    "developers": [
+      "AutoAttack Games"
+    ],
+    "publishers": []
+  },
+  "2162190": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "전략"
+    ],
+    "developers": [
+      "AutoAttack Games"
+    ],
+    "publishers": []
+  },
+  "2305640": {
+    "genres": [
+      "인디",
+      "RPG",
+      "시뮬레이션",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "SUN AND SERPENT creations"
+    ],
+    "publishers": [
+      "Mythwright"
+    ]
   }
 }
