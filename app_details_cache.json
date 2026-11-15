@@ -40576,5 +40576,72 @@
     "publishers": [
       "Slug Disco"
     ]
+  },
+  "238370": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Pieces Interactive"
+    ],
+    "publishers": [
+      "Paradox Interactive"
+    ]
+  },
+  "3261130": {
+    "genres": [
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Untitled Studio"
+    ],
+    "publishers": [
+      "Untitled Studio"
+    ]
+  },
+  "1337760": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "캐주얼",
+      "RPG"
+    ],
+    "developers": [
+      "MassHive Media"
+    ],
+    "publishers": [
+      "PQube"
+    ]
+  },
+  "2218970": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "대규모 멀티플레이어",
+      "RPG",
+      "시뮬레이션",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Cobra Byte Digital"
+    ],
+    "publishers": [
+      "Cobra Byte Digital"
+    ]
+  },
+  "1422130": {
+    "genres": [
+      "캐주얼",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "SimRail S.A."
+    ],
+    "publishers": [
+      "PlayWay S.A."
+    ]
   }
 }
