@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1794781928.2964122,
+  "fetched_at": 1794805134.6038167,
   "deals": [
     {
       "appid": 60769,
@@ -3770,28 +3770,6 @@
       "review_rank": 0
     },
     {
-      "appid": 55050,
-      "name": "Car Dealer Simulator",
-      "discount_percent": 30,
-      "original_price": 21900.0,
-      "final_price": 15400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/6e093f61869b42ac9c52e2c342bb272d/d6bdf6b531164f51bc1c768ed8182254.jpg",
-      "url": "https://www.greenmangaming.com/games/car-dealer-simulator-pc/",
-      "on_sale": true,
-      "genres": [
-        "캐주얼",
-        "시뮬레이션",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Garage Monkeys"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 53627,
       "name": "Revenge of the Mage",
       "discount_percent": 30,
@@ -4245,30 +4223,6 @@
       "developers": [],
       "publishers": [
         "Saber Interactive"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60016,
-      "name": "Police Chief Simulator",
-      "discount_percent": 20,
-      "original_price": 21900.0,
-      "final_price": 17600.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/cbad2a8e2d58489cba243d7375b95785/dd018c0bc8c94ccd9f225a7c88715bc6.jpg",
-      "url": "https://www.greenmangaming.com/games/police-chief-simulator-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "전략",
-        "시뮬레이션",
-        "인디",
-        "캐주얼"
-      ],
-      "developers": [],
-      "publishers": [
-        "Perfect Circle Team SA"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -5119,28 +5073,6 @@
       "developers": [],
       "publishers": [
         "Playstation Publishing LLC"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 57536,
-      "name": "Car Dealer Simulator - Up 2 You DLC",
-      "discount_percent": 10,
-      "original_price": 19700.0,
-      "final_price": 17800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/6f1e3431ec7b405ba6f4eb6215d17dbb/a7a6f41f10414187b79f5f62c688e3c8.jpg",
-      "url": "https://www.greenmangaming.com/games/car-dealer-simulator-up-2-you-dlc-pc/",
-      "on_sale": true,
-      "genres": [
-        "캐주얼",
-        "인디",
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Garage Monkeys"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -14734,6 +14666,30 @@
       "developers": [],
       "publishers": [
         "11 Bit Studios SA"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60016,
+      "name": "Police Chief Simulator",
+      "discount_percent": 0,
+      "original_price": 21900.0,
+      "final_price": 21900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/cbad2a8e2d58489cba243d7375b95785/dd018c0bc8c94ccd9f225a7c88715bc6.jpg",
+      "url": "https://www.greenmangaming.com/games/police-chief-simulator-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "전략",
+        "시뮬레이션",
+        "인디",
+        "캐주얼"
+      ],
+      "developers": [],
+      "publishers": [
+        "Perfect Circle Team SA"
       ],
       "review_desc": null,
       "review_rank": 0
