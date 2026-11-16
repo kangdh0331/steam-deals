@@ -40748,5 +40748,147 @@
       "EXNOA LLC",
       "Spike Chunsoft Co., Ltd."
     ]
+  },
+  "1766100": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Over The Moon"
+    ],
+    "publishers": [
+      "Coatsink"
+    ]
+  },
+  "571740": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "스포츠"
+    ],
+    "developers": [
+      "Perfuse Entertainment"
+    ],
+    "publishers": [
+      "Perfuse Entertainment"
+    ]
+  },
+  "2252960": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "전략"
+    ],
+    "developers": [
+      "Renka"
+    ],
+    "publishers": [
+      "Renka"
+    ]
+  },
+  "5375170": {
+    "genres": [
+      "캐주얼",
+      "인디"
+    ],
+    "developers": [
+      "Modern Daedalus Studio"
+    ],
+    "publishers": [
+      "Modern Daedalus Studio"
+    ]
+  },
+  "5200620": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "louidev"
+    ],
+    "publishers": [
+      "louidev"
+    ]
+  },
+  "5185750": {
+    "genres": [
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Onramp Games"
+    ],
+    "publishers": [
+      "Onramp Games"
+    ]
+  },
+  "4444800": {
+    "genres": [
+      "어드벤처"
+    ],
+    "developers": [
+      "Frontwing"
+    ],
+    "publishers": [
+      "NTT Solmare",
+      "GOOD SMILE COMPANY"
+    ]
+  },
+  "4996910": {
+    "genres": [
+      "액션",
+      "전략"
+    ],
+    "developers": [
+      "Mgfa Studio"
+    ],
+    "publishers": [
+      "Molter Games",
+      "Gamersky Games"
+    ]
+  },
+  "2947440": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "NeoBards Entertainment Ltd."
+    ],
+    "publishers": [
+      "KONAMI"
+    ]
+  },
+  "3740090": {
+    "genres": [
+      "액션",
+      "인디",
+      "RPG",
+      "스포츠",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "FunOldGames",
+      "Halfbrick Studios"
+    ],
+    "publishers": [
+      "Halfbrick Studios"
+    ]
+  },
+  "2124490": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Bloober Team SA"
+    ],
+    "publishers": [
+      "KONAMI"
+    ]
   }
 }
