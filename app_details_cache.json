@@ -40958,5 +40958,146 @@
     "publishers": [
       "Spry Fox"
     ]
+  },
+  "2254740": {
+    "genres": [
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "ATLUS"
+    ],
+    "publishers": [
+      "SEGA"
+    ]
+  },
+  "1413480": {
+    "genres": [
+      "RPG"
+    ],
+    "developers": [
+      "ATLUS"
+    ],
+    "publishers": [
+      "SEGA"
+    ]
+  },
+  "1810820": {
+    "genres": [
+      "어드벤처",
+      "RPG"
+    ],
+    "developers": [
+      "ATLUS"
+    ],
+    "publishers": [
+      "SEGA"
+    ]
+  },
+  "3368620": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "RPG"
+    ],
+    "developers": [
+      "Warhorse Studios"
+    ],
+    "publishers": [
+      "Warhorse Studios",
+      "Deep Silver"
+    ]
+  },
+  "3972320": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "BitBrew"
+    ],
+    "publishers": [
+      "BitBrew"
+    ]
+  },
+  "3992260": {
+    "genres": [
+      "어드벤처",
+      "RPG",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Nine Ascension Studios"
+    ],
+    "publishers": [
+      "Nine Ascension Studios"
+    ]
+  },
+  "5482350": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "전략"
+    ],
+    "developers": [
+      "Grandmaster Cirno"
+    ],
+    "publishers": [
+      "Grandmaster Cirno"
+    ]
+  },
+  "3218350": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "RPG",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Games by Malcs"
+    ],
+    "publishers": [
+      "Jagex"
+    ]
+  },
+  "2483700": {
+    "genres": [
+      "인디",
+      "전략",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "IndirectShine"
+    ],
+    "publishers": [
+      "Astrolabe Games"
+    ]
+  },
+  "4536150": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Bandai Namco Studios Inc."
+    ],
+    "publishers": [
+      "Bandai Namco Entertainment"
+    ]
+  },
+  "5070970": {
+    "genres": [
+      "액션",
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Keen Software House"
+    ],
+    "publishers": [
+      "Keen Software House"
+    ]
   }
 }
