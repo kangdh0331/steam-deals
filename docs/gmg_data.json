@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1794929678.4025135,
+  "fetched_at": 1794962206.8174808,
   "deals": [
     {
       "appid": 24507,
@@ -9799,30 +9799,6 @@
       "review_rank": 0
     },
     {
-      "appid": 57140,
-      "name": "Teenage Mutant Ninja Turtles: Splintered Fate",
-      "discount_percent": 75,
-      "original_price": 32300.0,
-      "final_price": 8100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/5d2f1510fc2a4dee9f97cccb365ec4eb/815bd261ed474ca5b496d23436710aa9.jpg",
-      "url": "https://www.greenmangaming.com/games/teenage-mutant-ninja-turtles-splintered-fate-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "전략",
-        "RPG",
-        "인디",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Super Evil Mega Corp"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 60926,
       "name": "Lakeburg Legacies",
       "discount_percent": 75,
@@ -17234,48 +17210,6 @@
       "review_rank": 0
     },
     {
-      "appid": 60680,
-      "name": "Ashes of the Singularity II Premium Edition",
-      "discount_percent": 34,
-      "original_price": 78000.0,
-      "final_price": 51800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/d6562038f48a489c8ae9810184412736/197de9cb15b54e5892306590f14971b7.jpg",
-      "url": "https://www.greenmangaming.com/games/ashes-of-the-singularity-ii-premium-edition-pc/",
-      "on_sale": true,
-      "genres": [
-        "시뮬레이션",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Stardock Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60678,
-      "name": "Ashes of the Singularity II",
-      "discount_percent": 34,
-      "original_price": 45000.0,
-      "final_price": 29900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/01566db8f37b43e38325a0b36380dc3c/b625c0f520df499ba4ce60362200e3a8.jpg",
-      "url": "https://www.greenmangaming.com/games/ashes-of-the-singularity-ii-pc/",
-      "on_sale": true,
-      "genres": [
-        "시뮬레이션",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Stardock Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 60171,
       "name": "TOEM 2",
       "discount_percent": 33,
@@ -17828,29 +17762,6 @@
       "review_rank": 0
     },
     {
-      "appid": 60576,
-      "name": "Warhammer Survivors",
-      "discount_percent": 23,
-      "original_price": 8700.0,
-      "final_price": 6700.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/78ba26b537c745a6895901357946e8f9/0710a5721b864894ac734716e36baf92.jpg",
-      "url": "https://www.greenmangaming.com/games/warhammer-survivors-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "캐주얼",
-        "인디",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 59616,
       "name": "FEED IT",
       "discount_percent": 23,
@@ -17910,28 +17821,6 @@
       "developers": [],
       "publishers": [
         "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60398,
-      "name": "Wilderdark",
-      "discount_percent": 20,
-      "original_price": 16000.0,
-      "final_price": 12800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/15a4fea896bc4abba1948828f260b7be/c2abcc4f4adc47e1bc7ef0efa30467a6.jpg",
-      "url": "https://www.greenmangaming.com/games/wilderdark-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Junkfish Limited"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -18144,29 +18033,6 @@
       "developers": [],
       "publishers": [
         "Gamera Interactive"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60612,
-      "name": "HEART ABYSS",
-      "discount_percent": 19,
-      "original_price": 14900.0,
-      "final_price": 12000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/fea794f39ff54feeb999a050a2806371/e735648c84454f0184873bdd81295a5f.jpg",
-      "url": "https://www.greenmangaming.com/games/heart-abyss-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "인디",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Herocraft Ltd"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -19235,6 +19101,71 @@
       "review_rank": 0
     },
     {
+      "appid": 60576,
+      "name": "Warhammer Survivors",
+      "discount_percent": 0,
+      "original_price": 8700.0,
+      "final_price": 8700.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/78ba26b537c745a6895901357946e8f9/0710a5721b864894ac734716e36baf92.jpg",
+      "url": "https://www.greenmangaming.com/games/warhammer-survivors-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "캐주얼",
+        "인디",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "Plug-in Digital"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60680,
+      "name": "Ashes of the Singularity II Premium Edition",
+      "discount_percent": 0,
+      "original_price": 78000.0,
+      "final_price": 78000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/d6562038f48a489c8ae9810184412736/197de9cb15b54e5892306590f14971b7.jpg",
+      "url": "https://www.greenmangaming.com/games/ashes-of-the-singularity-ii-premium-edition-pc/",
+      "on_sale": false,
+      "genres": [
+        "시뮬레이션",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Stardock Entertainment"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60678,
+      "name": "Ashes of the Singularity II",
+      "discount_percent": 0,
+      "original_price": 45000.0,
+      "final_price": 45000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/01566db8f37b43e38325a0b36380dc3c/b625c0f520df499ba4ce60362200e3a8.jpg",
+      "url": "https://www.greenmangaming.com/games/ashes-of-the-singularity-ii-pc/",
+      "on_sale": false,
+      "genres": [
+        "시뮬레이션",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Stardock Entertainment"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 59555,
       "name": "Halloween: The Game",
       "discount_percent": 0,
@@ -19250,6 +19181,28 @@
       "developers": [],
       "publishers": [
         "IllFonic Inc"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60398,
+      "name": "Wilderdark",
+      "discount_percent": 0,
+      "original_price": 16000.0,
+      "final_price": 16000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/15a4fea896bc4abba1948828f260b7be/c2abcc4f4adc47e1bc7ef0efa30467a6.jpg",
+      "url": "https://www.greenmangaming.com/games/wilderdark-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "어드벤처",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Junkfish Limited"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -19359,6 +19312,29 @@
       "developers": [],
       "publishers": [
         "Square Enix"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60612,
+      "name": "HEART ABYSS",
+      "discount_percent": 0,
+      "original_price": 14900.0,
+      "final_price": 14900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/fea794f39ff54feeb999a050a2806371/e735648c84454f0184873bdd81295a5f.jpg",
+      "url": "https://www.greenmangaming.com/games/heart-abyss-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "어드벤처",
+        "인디",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Herocraft Ltd"
       ],
       "review_desc": null,
       "review_rank": 0

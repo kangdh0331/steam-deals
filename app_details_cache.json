@@ -41099,5 +41099,54 @@
     "publishers": [
       "Keen Software House"
     ]
+  },
+  "816340": {
+    "genres": [
+      "인디",
+      "전략"
+    ],
+    "developers": [
+      "Ironhide Game Studio"
+    ],
+    "publishers": [
+      "Ironhide Game Studio"
+    ]
+  },
+  "2781660": {
+    "genres": [
+      "전략"
+    ],
+    "developers": [
+      "6side Studio"
+    ],
+    "publishers": [
+      "6side Studio",
+      "Rekoup",
+      "Gamersky Games"
+    ]
+  },
+  "4232910": {
+    "genres": [
+      "RPG",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Paradox Development Studio"
+    ],
+    "publishers": [
+      "Paradox Interactive"
+    ]
+  },
+  "5269530": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Funday Games"
+    ],
+    "publishers": [
+      "Ghost Ship Publishing"
+    ]
   }
 }
