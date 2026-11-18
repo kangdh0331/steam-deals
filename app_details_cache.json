@@ -41148,5 +41148,220 @@
     "publishers": [
       "Ghost Ship Publishing"
     ]
+  },
+  "1656370": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "무료 플레이"
+    ],
+    "developers": [
+      "Bungie"
+    ],
+    "publishers": [
+      "Bungie"
+    ]
+  },
+  "1544020": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Striking Distance Studios"
+    ],
+    "publishers": [
+      "KRAFTON, Inc."
+    ]
+  },
+  "1540210": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Vertigo Games"
+    ],
+    "publishers": [
+      "Vertigo Games"
+    ]
+  },
+  "10150": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Radical Entertainment"
+    ],
+    "publishers": [
+      "Activision"
+    ]
+  },
+  "1469610": {
+    "genres": [
+      "전략"
+    ],
+    "developers": [
+      "Ashborne Games"
+    ],
+    "publishers": [
+      "THQ Nordic"
+    ]
+  },
+  "3287520": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "KOEI TECMO GAMES CO., LTD."
+    ],
+    "publishers": [
+      "KOEI TECMO GAMES CO., LTD."
+    ]
+  },
+  "1367550": {
+    "genres": [
+      "전략"
+    ],
+    "developers": [
+      "Ironhide Game Studio"
+    ],
+    "publishers": [
+      "Ironhide Game Studio"
+    ]
+  },
+  "332570": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Fayju"
+    ],
+    "publishers": [
+      "Fayju"
+    ]
+  },
+  "2630": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Infinity Ward"
+    ],
+    "publishers": [
+      "Activision"
+    ]
+  },
+  "3118100": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "RPG"
+    ],
+    "developers": [
+      "Warhorse Studios"
+    ],
+    "publishers": [
+      "Deep Silver"
+    ]
+  },
+  "2640": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Gray Matter Studios"
+    ],
+    "publishers": [
+      "Activision"
+    ]
+  },
+  "4259360": {
+    "genres": [
+      "어드벤처",
+      "캐주얼",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Blibloop",
+      "Doot"
+    ],
+    "publishers": [
+      "Doot Tiny Games",
+      "Wholesome Games Presents"
+    ]
+  },
+  "3572800": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "전략"
+    ],
+    "developers": [
+      "1+1 Studios"
+    ],
+    "publishers": [
+      "Rising Tide",
+      "Electronic Sheep Games"
+    ]
+  },
+  "4707700": {
+    "genres": [
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Code Horizon"
+    ],
+    "publishers": [
+      "Code Horizon",
+      "PlayWay S.A."
+    ]
+  },
+  "3188660": {
+    "genres": [
+      "레이싱",
+      "시뮬레이션",
+      "스포츠",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Virtual MX Studios"
+    ],
+    "publishers": [
+      "Virtual MX Studios"
+    ]
+  },
+  "2027330": {
+    "genres": [
+      "액션",
+      "캐주얼",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "F2Games"
+    ],
+    "publishers": [
+      "F2Games"
+    ]
+  },
+  "3304770": {
+    "genres": [
+      "어드벤처",
+      "RPG"
+    ],
+    "developers": [
+      "Kumada Gaon"
+    ],
+    "publishers": [
+      "Saikey Studios"
+    ]
   }
 }
