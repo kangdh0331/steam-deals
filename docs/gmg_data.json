@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1795046183.2110436,
+  "fetched_at": 1795068856.5392308,
   "deals": [
     {
       "appid": 24507,
@@ -17753,29 +17753,6 @@
       "review_rank": 0
     },
     {
-      "appid": 53627,
-      "name": "Revenge of the Mage",
-      "discount_percent": 30,
-      "original_price": 11000.0,
-      "final_price": 7700.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/175cb7f3f533424d9c3aba76058b4568/fa383e464043482984c8748258b5ca78.jpg",
-      "url": "https://www.greenmangaming.com/games/revenge-of-the-mage-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "RPG",
-        "인디",
-        "캐주얼"
-      ],
-      "developers": [],
-      "publishers": [
-        "SinginGiant"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 52976,
       "name": "VR Bundle",
       "discount_percent": 30,
@@ -18991,28 +18968,6 @@
       "review_rank": 0
     },
     {
-      "appid": 60726,
-      "name": "Hull Rupture",
-      "discount_percent": 10,
-      "original_price": 17000.0,
-      "final_price": 15300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/5d81d2e08e5c44a28bec03e1abbc5e4e/bfe5c55cb8654dd68d707d873f04dacc.jpg",
-      "url": "https://www.greenmangaming.com/games/hull-rupture-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "전략",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "tinyBuild Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 55579,
       "name": "MARVEL Tōkon: Fighting Souls",
       "discount_percent": 10,
@@ -19532,6 +19487,28 @@
       "developers": [],
       "publishers": [
         "Warner Bros Interactive Entertainment"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60726,
+      "name": "Hull Rupture",
+      "discount_percent": 0,
+      "original_price": 17000.0,
+      "final_price": 17000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/5d81d2e08e5c44a28bec03e1abbc5e4e/bfe5c55cb8654dd68d707d873f04dacc.jpg",
+      "url": "https://www.greenmangaming.com/games/hull-rupture-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "전략",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "tinyBuild Games"
       ],
       "review_desc": null,
       "review_rank": 0
