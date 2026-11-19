@@ -41393,5 +41393,201 @@
     "publishers": [
       "Megame LLC"
     ]
+  },
+  "5340870": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Creamhouse"
+    ],
+    "publishers": [
+      "Creamhouse"
+    ]
+  },
+  "1173800": {
+    "genres": [
+      "RPG"
+    ],
+    "developers": [
+      "Square Enix"
+    ],
+    "publishers": [
+      "Square Enix"
+    ]
+  },
+  "1173790": {
+    "genres": [
+      "RPG"
+    ],
+    "developers": [
+      "Square Enix"
+    ],
+    "publishers": [
+      "Square Enix"
+    ]
+  },
+  "5035380": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Indie Souls Studio"
+    ],
+    "publishers": [
+      "Indie Souls Studio"
+    ]
+  },
+  "4066520": {
+    "genres": [
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Mishleto"
+    ],
+    "publishers": [
+      "Caspianborn Publishing"
+    ]
+  },
+  "4516500": {
+    "genres": [
+      "어드벤처",
+      "인디",
+      "RPG",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Iron Pagoda"
+    ],
+    "publishers": [
+      "Iron Pagoda"
+    ]
+  },
+  "5090180": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "캐주얼",
+      "RPG",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Gameloft"
+    ],
+    "publishers": [
+      "Gameloft"
+    ]
+  },
+  "3839890": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "전략"
+    ],
+    "developers": [
+      "banjihagames"
+    ],
+    "publishers": [
+      "banjihagames"
+    ]
+  },
+  "5005700": {
+    "genres": [
+      "어드벤처",
+      "캐주얼"
+    ],
+    "developers": [
+      "DESK GARDEN PROJECT"
+    ],
+    "publishers": [
+      "DESK GARDEN PROJECT",
+      "aNCHOR Inc."
+    ]
+  },
+  "5374070": {
+    "genres": [
+      "어드벤처",
+      "캐주얼",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Alawar"
+    ],
+    "publishers": [
+      "Alawar"
+    ]
+  },
+  "4758610": {
+    "genres": [
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Paradox Development Studio"
+    ],
+    "publishers": [
+      "Paradox Interactive"
+    ]
+  },
+  "3103620": {
+    "genres": [
+      "액션",
+      "인디",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "CitalesGames"
+    ],
+    "publishers": [
+      "Perp Games"
+    ]
+  },
+  "4882180": {
+    "genres": [
+      "어드벤처",
+      "캐주얼",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Coffee Stain North"
+    ],
+    "publishers": [
+      "Coffee Stain Publishing"
+    ]
+  },
+  "1301390": {
+    "genres": [
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Hoochoo Game Studios"
+    ],
+    "publishers": [
+      "Hoochoo Game Studios"
+    ]
+  },
+  "4672030": {
+    "genres": [
+      "인디",
+      "시뮬레이션",
+      "전략",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Mossbomb"
+    ],
+    "publishers": [
+      "Mossbomb"
+    ]
   }
 }
