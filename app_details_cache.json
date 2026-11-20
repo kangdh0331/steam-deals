@@ -41589,5 +41589,202 @@
     "publishers": [
       "Mossbomb"
     ]
+  },
+  "2076010": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "FRENCH-BREAD",
+      "Arc System Works"
+    ],
+    "publishers": [
+      "Arc System Works"
+    ]
+  },
+  "394510": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Arrowhead Game Studios"
+    ],
+    "publishers": [
+      "PlayStation Publishing LLC"
+    ]
+  },
+  "1849250": {
+    "genres": [
+      "레이싱",
+      "시뮬레이션",
+      "스포츠"
+    ],
+    "developers": [
+      "Codemasters"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ]
+  },
+  "1998340": {
+    "genres": [
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "Nippon Ichi Software, Inc."
+    ],
+    "publishers": [
+      "NIS America, Inc."
+    ]
+  },
+  "3238470": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Bend Studio"
+    ],
+    "publishers": [
+      "PlayStation Publishing LLC"
+    ]
+  },
+  "1649240": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Housemarque",
+      "Climax Studios"
+    ],
+    "publishers": [
+      "PlayStation Publishing LLC"
+    ]
+  },
+  "2258500": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "FURYU Corporation"
+    ],
+    "publishers": [
+      "NIS America, Inc."
+    ]
+  },
+  "2254450": {
+    "genres": [
+      "액션",
+      "어드벤처"
+    ],
+    "developers": [
+      "Naughty Dog LLC"
+    ],
+    "publishers": [
+      "PlayStation Publishing LLC"
+    ]
+  },
+  "579180": {
+    "genres": [
+      "액션",
+      "RPG"
+    ],
+    "developers": [
+      "Nihon Falcom"
+    ],
+    "publishers": [
+      "NIS America, Inc."
+    ]
+  },
+  "3929470": {
+    "genres": [
+      "액션",
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "The First Studios"
+    ],
+    "publishers": [
+      "Brightika, Inc."
+    ]
+  },
+  "2169930": {
+    "genres": [
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Granzella Inc."
+    ],
+    "publishers": [
+      "NIS America, Inc."
+    ]
+  },
+  "5196330": {
+    "genres": [
+      "인디",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Catchy"
+    ],
+    "publishers": [
+      "Catchy"
+    ]
+  },
+  "4729710": {
+    "genres": [
+      "캐주얼",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "BPMG Inc."
+    ],
+    "publishers": [
+      "BPMG Inc."
+    ]
+  },
+  "2254890": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "인디",
+      "RPG",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "MetalStar Studio"
+    ],
+    "publishers": [
+      "MetalStar Studio"
+    ]
+  },
+  "646910": {
+    "genres": [
+      "액션",
+      "대규모 멀티플레이어",
+      "레이싱"
+    ],
+    "developers": [
+      "Ivory Tower"
+    ],
+    "publishers": [
+      "Ubisoft"
+    ]
+  },
+  "5315880": {
+    "genres": [
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Klei Entertainment"
+    ],
+    "publishers": []
   }
 }

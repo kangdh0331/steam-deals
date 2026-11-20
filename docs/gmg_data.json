@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1795118473.021159,
+  "fetched_at": 1795154086.133833,
   "deals": [
     {
       "appid": 24507,
@@ -10174,26 +10174,6 @@
       "review_rank": 0
     },
     {
-      "appid": 58912,
-      "name": "FATAL FURY: City of the Wolves",
-      "discount_percent": 75,
-      "original_price": 21900.0,
-      "final_price": 5500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/5771a2556cc54d97874e42a8ec39d40a/a0c9d0ba0afc49758921be385cdfc9f2.jpg",
-      "url": "https://www.greenmangaming.com/games/fatal-fury-city-of-the-wolves-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "SNK Corporation"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 58911,
       "name": "FATAL FURY: City of the Wolves - Legend Edition",
       "discount_percent": 75,
@@ -18845,6 +18825,28 @@
       "review_rank": 0
     },
     {
+      "appid": 60704,
+      "name": "This Ain’t Even Poker, Ya Joker",
+      "discount_percent": 45,
+      "original_price": 6000.0,
+      "final_price": 3300.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/4a274d0b13404f3abbff537397501ca7/620c7a5d667141cbb71945df021174cd.jpg",
+      "url": "https://www.greenmangaming.com/games/this-aint-even-poker-ya-joker-pc/",
+      "on_sale": true,
+      "genres": [
+        "캐주얼",
+        "인디",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Oro Interactive"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 57979,
       "name": "Boxville 2",
       "discount_percent": 44,
@@ -19290,6 +19292,27 @@
       "review_rank": 0
     },
     {
+      "appid": 60698,
+      "name": "s.p.l.i.t",
+      "discount_percent": 41,
+      "original_price": 3400.0,
+      "final_price": 2000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/aae8db11343c48e996d450c9b0339498/edd6fd9a63eb49e6a0b353f587bb14a7.jpg",
+      "url": "https://www.greenmangaming.com/games/split-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Oro Interactive"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 60717,
       "name": "Screen Stocks",
       "discount_percent": 40,
@@ -19566,28 +19589,6 @@
       "review_rank": 0
     },
     {
-      "appid": 53659,
-      "name": "Airframe Ultra",
-      "discount_percent": 38,
-      "original_price": 14000.0,
-      "final_price": 8700.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/8c1bc748633e4cf59c88e27188527341/83c9beef344b43e5a8cbe540bb9891d7.jpg",
-      "url": "https://www.greenmangaming.com/games/airframe-ultra-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "레이싱",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Akupara Games"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 58900,
       "name": "Deer & Boy",
       "discount_percent": 37,
@@ -19720,6 +19721,52 @@
       "review_rank": 0
     },
     {
+      "appid": 51772,
+      "name": "Tiny Life",
+      "discount_percent": 36,
+      "original_price": 16500.0,
+      "final_price": 10500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/e6b55962149440448ac0221212702261/55a168fe593d4ae9949eccf8e1a90c24.jpg",
+      "url": "https://www.greenmangaming.com/games/tiny-life-pc/",
+      "on_sale": true,
+      "genres": [
+        "캐주얼",
+        "시뮬레이션",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Plug-in Digital"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 54555,
+      "name": "Moon Watch",
+      "discount_percent": 36,
+      "original_price": 11000.0,
+      "final_price": 7000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/dc7640337a384863be2a6bb74ade605c/2cc1c1167702488e96e553b61d0a8ebc.jpg",
+      "url": "https://www.greenmangaming.com/games/moon-watch-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "캐주얼",
+        "인디",
+        "RPG",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Plug-in Digital"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 57967,
       "name": "KuloNiku: Bowl Up!",
       "discount_percent": 35,
@@ -19800,6 +19847,28 @@
         "인디",
         "전략",
         "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "Coffee Stain Publishing AB"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 59948,
+      "name": "Goat Simulator 3 – Baadlands: Furry Road",
+      "discount_percent": 35,
+      "original_price": 16500.0,
+      "final_price": 10700.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/4e1f5dec5a344c4da7abe4ecafd58be7/bbc66eb4eb7949ea84bc8c2da32df01c.jpg",
+      "url": "https://www.greenmangaming.com/games/goat-simulator-3-baadlands-furry-road-pc/",
+      "on_sale": true,
+      "genres": [
+        "어드벤처",
+        "시뮬레이션",
+        "캐주얼"
       ],
       "developers": [],
       "publishers": [
@@ -19954,27 +20023,6 @@
       "developers": [],
       "publishers": [
         "Playstation Publishing LLC"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 58914,
-      "name": "FATAL FURY: CotW - Season Pass 1",
-      "discount_percent": 33,
-      "original_price": 17100.0,
-      "final_price": 11500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/2315b82b30b34c23bc01b00c768fe2a4/8a1088e7a4df44d6abde6dbaed4778f9.jpg",
-      "url": "https://www.greenmangaming.com/games/fatal-fury-cotw-season-pass-1-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "SNK Corporation"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -20737,27 +20785,6 @@
       "review_rank": 0
     },
     {
-      "appid": 55393,
-      "name": "Faraway",
-      "discount_percent": 20,
-      "original_price": 10700.0,
-      "final_price": 8600.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/a5060c1a0d134245adcc42b4520f3ac3/ff0cf01211d342169ba60042979e24cf.jpg",
-      "url": "https://www.greenmangaming.com/games/faraway-pc/",
-      "on_sale": true,
-      "genres": [
-        "캐주얼",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Annapurna Interactive"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 60390,
       "name": "Clive Barker's Hellraiser: Revival Deluxe Edition",
       "discount_percent": 20,
@@ -20796,26 +20823,6 @@
       "developers": [],
       "publishers": [
         "Coffee Stain Publishing AB"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 58915,
-      "name": "FATAL FURY: CotW - Season Pass 2",
-      "discount_percent": 20,
-      "original_price": 22800.0,
-      "final_price": 18300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/1a5cbfd966844cbf87c299e0e815e321/5fdfda3c34de4e2d81b47ea44c5646a0.jpg",
-      "url": "https://www.greenmangaming.com/games/fatal-fury-cotw-season-pass-2-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "SNK Corporation"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -21389,6 +21396,27 @@
       "review_rank": 0
     },
     {
+      "appid": 59589,
+      "name": "Mafia: The Old Country - Man of Honor",
+      "discount_percent": 12,
+      "original_price": 12000.0,
+      "final_price": 10600.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/0ad045fbb7f242b68b75d09f205f4072/a87ec3c6e9924825a8bf040fc0ea960c.jpg",
+      "url": "https://www.greenmangaming.com/games/mafia-the-old-country-man-of-honor-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "2K Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 57970,
       "name": "Starfield - Terran Armada",
       "discount_percent": 11,
@@ -21404,26 +21432,6 @@
       "developers": [],
       "publishers": [
         "Bethesda Softworks"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 60434,
-      "name": "Psycho-Sleuth",
-      "discount_percent": 10,
-      "original_price": 23800.0,
-      "final_price": 21500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/d3abaea03f9f47d283c5c7aca9f86535/e2d27915437249e4ba1c706607022aff.jpg",
-      "url": "https://www.greenmangaming.com/games/psycho-sleuth-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Thermite Games Co Ltd"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -21753,6 +21761,28 @@
       "review_rank": 0
     },
     {
+      "appid": 53659,
+      "name": "Airframe Ultra",
+      "discount_percent": 0,
+      "original_price": 14000.0,
+      "final_price": 14000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/8c1bc748633e4cf59c88e27188527341/83c9beef344b43e5a8cbe540bb9891d7.jpg",
+      "url": "https://www.greenmangaming.com/games/airframe-ultra-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "레이싱",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Akupara Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 13873,
       "name": "No Man's Sky",
       "discount_percent": 0,
@@ -21796,6 +21826,27 @@
       "review_rank": 0
     },
     {
+      "appid": 55393,
+      "name": "Faraway",
+      "discount_percent": 0,
+      "original_price": 10700.0,
+      "final_price": 10700.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/a5060c1a0d134245adcc42b4520f3ac3/ff0cf01211d342169ba60042979e24cf.jpg",
+      "url": "https://www.greenmangaming.com/games/faraway-pc/",
+      "on_sale": false,
+      "genres": [
+        "캐주얼",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "Annapurna Interactive"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 44634,
       "name": "Hogwarts Legacy",
       "discount_percent": 0,
@@ -21834,6 +21885,26 @@
       "developers": [],
       "publishers": [
         "Coffee Stain Publishing AB"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60434,
+      "name": "Psycho-Sleuth",
+      "discount_percent": 0,
+      "original_price": 23800.0,
+      "final_price": 23800.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/d3abaea03f9f47d283c5c7aca9f86535/e2d27915437249e4ba1c706607022aff.jpg",
+      "url": "https://www.greenmangaming.com/games/psycho-sleuth-pc/",
+      "on_sale": false,
+      "genres": [
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Thermite Games Co Ltd"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -21920,6 +21991,26 @@
       "developers": [],
       "publishers": [
         "Remedy Entertainment"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 58912,
+      "name": "FATAL FURY: City of the Wolves",
+      "discount_percent": 0,
+      "original_price": 21900.0,
+      "final_price": 21900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/5771a2556cc54d97874e42a8ec39d40a/a0c9d0ba0afc49758921be385cdfc9f2.jpg",
+      "url": "https://www.greenmangaming.com/games/fatal-fury-city-of-the-wolves-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "SNK Corporation"
       ],
       "review_desc": null,
       "review_rank": 0
