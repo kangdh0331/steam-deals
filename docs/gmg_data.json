@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1795186713.0193806,
+  "fetched_at": 1795218235.3836803,
   "deals": [
     {
       "appid": 39339,
@@ -19079,6 +19079,26 @@
       "review_rank": 0
     },
     {
+      "appid": 44049,
+      "name": "Tiny Tina's Wonderlands: Chaotic Great Edition",
+      "discount_percent": 76,
+      "original_price": 48900.0,
+      "final_price": 11800.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/23f706865f094b89ab4a7f6e309b2053/226822c1aa4a4c90bbaea16f1381cf18.jpg",
+      "url": "https://www.greenmangaming.com/games/tiny-tinas-wonderlands-chaotic-great-edition-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "2K Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 51600,
       "name": "X4: Community of Planets Collector's Edition",
       "discount_percent": 76,
@@ -19586,26 +19606,6 @@
       "developers": [],
       "publishers": [
         "Square Enix"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 44049,
-      "name": "Tiny Tina's Wonderlands: Chaotic Great Edition",
-      "discount_percent": 70,
-      "original_price": 48900.0,
-      "final_price": 14700.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/23f706865f094b89ab4a7f6e309b2053/226822c1aa4a4c90bbaea16f1381cf18.jpg",
-      "url": "https://www.greenmangaming.com/games/tiny-tinas-wonderlands-chaotic-great-edition-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "2K Games"
       ],
       "review_desc": null,
       "review_rank": 0

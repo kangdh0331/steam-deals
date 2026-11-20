@@ -41821,5 +41821,109 @@
     "publishers": [
       "Electronic Arts"
     ]
+  },
+  "1205520": {
+    "genres": [
+      "어드벤처",
+      "캐주얼"
+    ],
+    "developers": [
+      "Obsidian Entertainment"
+    ],
+    "publishers": [
+      "Xbox Game Studios"
+    ]
+  },
+  "3378960": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "RPG"
+    ],
+    "developers": [
+      "Ultizero Games"
+    ],
+    "publishers": [
+      "PlayStation Publishing LLC"
+    ]
+  },
+  "1235722": {
+    "genres": [
+      "캐주얼",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Maxis"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ]
+  },
+  "728530": {
+    "genres": [
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "TOM CREATE",
+      "株式会社トムクリエイト"
+    ],
+    "publishers": [
+      "BANDAI NAMCO Entertainment",
+      "株式会社バンダイナムコエンターテインメント"
+    ]
+  },
+  "4339280": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Tomas Sala"
+    ],
+    "publishers": [
+      "Wired Productions",
+      "Gamersky Games"
+    ]
+  },
+  "3842100": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "RPG"
+    ],
+    "developers": [
+      "スタジオツンエクゼ"
+    ],
+    "publishers": [
+      "072 Project"
+    ]
+  },
+  "4232870": {
+    "genres": [
+      "RPG",
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "TAMA"
+    ],
+    "publishers": [
+      "Paradox Interactive"
+    ]
+  },
+  "319510": {
+    "genres": [
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Scott Cawthon"
+    ],
+    "publishers": [
+      "Scott Cawthon"
+    ]
   }
 }
