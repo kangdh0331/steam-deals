@@ -41786,5 +41786,40 @@
       "Klei Entertainment"
     ],
     "publishers": []
+  },
+  "1238820": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "DICE"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ]
+  },
+  "1060220": {
+    "genres": [
+      "RPG",
+      "전략"
+    ],
+    "developers": [
+      "Chara-ani Corporation"
+    ],
+    "publishers": [
+      "NIS America, Inc."
+    ]
+  },
+  "1235730": {
+    "genres": [
+      "캐주얼",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Maxis"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ]
   }
 }
