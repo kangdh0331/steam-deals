@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1795356504.133293,
+  "fetched_at": 1795389488.1353116,
   "deals": [
     {
       "appid": 39339,
@@ -10507,27 +10507,6 @@
       "review_rank": 0
     },
     {
-      "appid": 23584,
-      "name": "Frostpunk",
-      "discount_percent": 87,
-      "original_price": 32000.0,
-      "final_price": 4300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/849120b396384e6f8e6701c91bcbfe4c/acca220fb8fd4229a32e7c1f7744ecfa.jpg",
-      "url": "https://www.greenmangaming.com/games/frostpunk-pc/",
-      "on_sale": true,
-      "genres": [
-        "시뮬레이션",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "11 Bit Studios SA"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 34937,
       "name": "Seed Hunter 猎源",
       "discount_percent": 87,
@@ -11183,6 +11162,27 @@
       "developers": [],
       "publishers": [
         "2K Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 23584,
+      "name": "Frostpunk",
+      "discount_percent": 85,
+      "original_price": 32000.0,
+      "final_price": 4800.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/849120b396384e6f8e6701c91bcbfe4c/acca220fb8fd4229a32e7c1f7744ecfa.jpg",
+      "url": "https://www.greenmangaming.com/games/frostpunk-pc/",
+      "on_sale": true,
+      "genres": [
+        "시뮬레이션",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "11 Bit Studios SA"
       ],
       "review_desc": null,
       "review_rank": 0

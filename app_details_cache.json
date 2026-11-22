@@ -41978,5 +41978,29 @@
     "publishers": [
       "GhostJam Games"
     ]
+  },
+  "2096610": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Crytek",
+      "Saber Interactive"
+    ],
+    "publishers": [
+      "Crytek"
+    ]
+  },
+  "1990600": {
+    "genres": [
+      "캐주얼",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Maxis"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ]
   }
 }
