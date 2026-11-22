@@ -41938,5 +41938,45 @@
     "publishers": [
       "PlayWay S.A."
     ]
+  },
+  "2933130": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "RPG"
+    ],
+    "developers": [
+      "Free Range Games"
+    ],
+    "publishers": [
+      "North Beach Games"
+    ]
+  },
+  "1538550": {
+    "genres": [
+      "어드벤처",
+      "캐주얼"
+    ],
+    "developers": [
+      "Light Brick Studio"
+    ],
+    "publishers": [
+      "Annapurna Interactive"
+    ]
+  },
+  "3558400": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "레이싱",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "GhostJam Games",
+      "Deadcat Studios"
+    ],
+    "publishers": [
+      "GhostJam Games"
+    ]
   }
 }
