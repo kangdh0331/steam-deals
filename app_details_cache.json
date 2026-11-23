@@ -42025,5 +42025,41 @@
     "publishers": [
       "Crytek"
     ]
+  },
+  "1262560": {
+    "genres": [
+      "액션",
+      "어드벤처",
+      "레이싱"
+    ],
+    "developers": [
+      "Criterion Games"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ]
+  },
+  "5403220": {
+    "genres": [
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Daeinbae"
+    ],
+    "publishers": []
+  },
+  "4241440": {
+    "genres": [
+      "시뮬레이션",
+      "전략"
+    ],
+    "developers": [
+      "Paradox Development Studio",
+      "Abrakam"
+    ],
+    "publishers": [
+      "Paradox Interactive"
+    ]
   }
 }
