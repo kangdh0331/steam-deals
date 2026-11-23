@@ -42002,5 +42002,28 @@
     "publishers": [
       "Electronic Arts"
     ]
+  },
+  "1715130": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Crytek"
+    ],
+    "publishers": [
+      "Crytek"
+    ]
+  },
+  "2096600": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Crytek",
+      "Saber Interactive"
+    ],
+    "publishers": [
+      "Crytek"
+    ]
   }
 }
