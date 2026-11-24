@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1795456284.6111126,
+  "fetched_at": 1795492299.2016327,
   "deals": [
     {
       "appid": 39339,
@@ -11312,6 +11312,26 @@
       "review_rank": 0
     },
     {
+      "appid": 53821,
+      "name": "Wolfenstein II: The New Colossus",
+      "discount_percent": 85,
+      "original_price": 44500.0,
+      "final_price": 6700.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/5e1d577c92674f7686c2fadc1e519009/f46189c650394dd789657eae1cc61587.jpg",
+      "url": "https://www.greenmangaming.com/games/wolfenstein-the-new-colossus/",
+      "on_sale": true,
+      "genres": [
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 6149,
       "name": "Dungeon Siege",
       "discount_percent": 85,
@@ -12126,6 +12146,26 @@
       "developers": [],
       "publishers": [
         "11 Bit Studios SA"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 53841,
+      "name": "Wolfenstein II: The New Colossus Digital Deluxe Edition",
+      "discount_percent": 85,
+      "original_price": 67000.0,
+      "final_price": 10100.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/2ac02b0ca0f44cb197f843032d905a8d/3f49fc79184c407690765e7cfae974d1.jpg",
+      "url": "https://www.greenmangaming.com/games/wolfenstein-ii-the-new-colossus-digital-deluxe-edition-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Bethesda Softworks"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -15754,196 +15794,6 @@
       "review_rank": 0
     },
     {
-      "appid": 46982,
-      "name": "City of Beats",
-      "discount_percent": 85,
-      "original_price": 21500.0,
-      "final_price": 3300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/891f905577f5452b9e1984a7c308c8f8/6084c684feb64216b5f4c15aa5f99b86.jpg",
-      "url": "https://www.greenmangaming.com/games/city-of-beats-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "indie.io"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 48221,
-      "name": "SlavicPunk: Oldtimer GOPNIK Bundle",
-      "discount_percent": 85,
-      "original_price": 31500.0,
-      "final_price": 4800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/e4e23270ddf448f99fab92ca7239d3aa/4f08c3d741664059be7d563d2b43e4ae.jpg",
-      "url": "https://www.greenmangaming.com/games/slavicpunk-oldtimer-gopnik-bundle-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 52175,
-      "name": "Shadwen",
-      "discount_percent": 85,
-      "original_price": 18000.0,
-      "final_price": 2700.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/3331165b7393412db22a963293f67e12/84ff1475de2b4177bccbe748753a7738.jpg",
-      "url": "https://www.greenmangaming.com/games/shadwen-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 24049,
-      "name": "Shift Quantum",
-      "discount_percent": 85,
-      "original_price": 20500.0,
-      "final_price": 3100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/739f1446d15147b8b9a40b3f3d449c87/76e9fd42229b46389d35479e321c6635.jpg",
-      "url": "https://www.greenmangaming.com/games/shift-quantum-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 53709,
-      "name": "Bibi Blocksberg ™ - Big Broom Race 3",
-      "discount_percent": 85,
-      "original_price": 20500.0,
-      "final_price": 3100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/ddb7fad491ff4339b5d5aca86fd21110/3463fc0d0f1049b6a79208bfba8ced9e.jpg",
-      "url": "https://www.greenmangaming.com/games/bibi-blocksberg-big-broom-race-3-pc/",
-      "on_sale": true,
-      "genres": [
-        "캐주얼",
-        "시뮬레이션",
-        "레이싱"
-      ],
-      "developers": [],
-      "publishers": [
-        "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 53746,
-      "name": "Ludo XXL",
-      "discount_percent": 85,
-      "original_price": 18500.0,
-      "final_price": 2800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/f16392019b3a4af18b6000f51de00377/f387c7bc790b46d9a2b763efe5faaf8f.jpg",
-      "url": "https://www.greenmangaming.com/games/ludo-xxl-pc/",
-      "on_sale": true,
-      "genres": [
-        "캐주얼"
-      ],
-      "developers": [],
-      "publishers": [
-        "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 49588,
-      "name": "Molly Medusa: Queen of Spit",
-      "discount_percent": 85,
-      "original_price": 21500.0,
-      "final_price": 3300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/a1e6c63461b34edc8116b84753bd3c45/cde632e28ec2411e9b9b47c6a57fe7e7.jpg",
-      "url": "https://www.greenmangaming.com/games/molly-medusa-queen-of-spit-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 44186,
-      "name": "Britannia",
-      "discount_percent": 85,
-      "original_price": 27000.0,
-      "final_price": 4100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/79a5a3a9d5514991b70168c046f349f8/227ed208e587483390a7a1d160801e51.jpg",
-      "url": "https://www.greenmangaming.com/games/britannia-pc/",
-      "on_sale": true,
-      "genres": [
-        "인디",
-        "전략",
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 54293,
-      "name": "Legacy of Sin: The Father Sacrifice",
-      "discount_percent": 85,
-      "original_price": 8500.0,
-      "final_price": 1300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/6f0c8d0d90374310a01c18544ba908b3/fccd5bc2e98c42da86378510e835bcee.jpg",
-      "url": "https://www.greenmangaming.com/games/legacy-of-sin-the-father-sacrifice-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "전략",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "indie.io"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 4604,
       "name": "NecroVisioN",
       "discount_percent": 84,
@@ -17894,73 +17744,6 @@
       "review_rank": 0
     },
     {
-      "appid": 22993,
-      "name": "Algo Bot",
-      "discount_percent": 83,
-      "original_price": 10500.0,
-      "final_price": 1800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/ca737b88aa924509afb8caf66a3a084b/2ab311d629b94308a0dc46d0c2126538.jpg",
-      "url": "https://www.greenmangaming.com/games/algo-bot-pc/",
-      "on_sale": true,
-      "genres": [
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 37822,
-      "name": "Synergia",
-      "discount_percent": 83,
-      "original_price": 12500.0,
-      "final_price": 2100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/6276f63fa1db4e6eb7dfdb5ef0fc866f/aba08bb286ea47e293225d45961f3142.jpg",
-      "url": "https://www.greenmangaming.com/games/synergia-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "캐주얼",
-        "인디",
-        "RPG",
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 45011,
-      "name": "Transport INC",
-      "discount_percent": 83,
-      "original_price": 12500.0,
-      "final_price": 2100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/a9f76122b5044738952d1fabc2668c70/c5ac504aca2d4acd899269c3a48a1cd9.jpg",
-      "url": "https://www.greenmangaming.com/games/transport-inc-pc/",
-      "on_sale": true,
-      "genres": [
-        "캐주얼",
-        "인디",
-        "시뮬레이션",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 44001,
       "name": "FINAL FANTASY VII REMAKE INTERGRADE",
       "discount_percent": 82,
@@ -18127,27 +17910,6 @@
       "review_rank": 0
     },
     {
-      "appid": 46164,
-      "name": "Grunnd",
-      "discount_percent": 82,
-      "original_price": 8900.0,
-      "final_price": 1600.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/a17ea6155de446a2ab7363a488e42c77/9f6c5aa803fe4ad3bf26c986a9a7a8bb.jpg",
-      "url": "https://www.greenmangaming.com/games/grunnd-pc/",
-      "on_sale": true,
-      "genres": [
-        "어드벤처",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Plug-in Digital"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 27547,
       "name": "Death end re;Quest - Deluxe Bundle",
       "discount_percent": 81,
@@ -18235,6 +17997,26 @@
       "review_rank": 0
     },
     {
+      "appid": 53779,
+      "name": "DOOM",
+      "discount_percent": 80,
+      "original_price": 22000.0,
+      "final_price": 4400.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/5bf9b64048de499cb9c3138bc972766b/40585b46fe0242f5a586e29b4cb0d99b.jpg",
+      "url": "https://www.greenmangaming.com/games/doom/",
+      "on_sale": true,
+      "genres": [
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 37663,
       "name": "Borderlands 3: Ultimate Edition",
       "discount_percent": 80,
@@ -18291,6 +18073,27 @@
       "developers": [],
       "publishers": [
         "Square Enix"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 53830,
+      "name": "The Evil Within 2",
+      "discount_percent": 80,
+      "original_price": 44500.0,
+      "final_price": 8900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/2988073fbd184d1e867836c04bcca2ee/5844f74a2d8e4dc1964b96d5fcf9aa3b.jpg",
+      "url": "https://www.greenmangaming.com/games/the-evil-within-2-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Bethesda Softworks"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -18425,6 +18228,27 @@
       "review_rank": 0
     },
     {
+      "appid": 56589,
+      "name": "Prey Digital Deluxe",
+      "discount_percent": 80,
+      "original_price": 44500.0,
+      "final_price": 8900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/fc02b40b296542938e5abc1a66b570eb/b62b2121a3464158acaeeec52160d0f2.jpg",
+      "url": "https://www.greenmangaming.com/games/prey-digital-deluxe-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 4981,
       "name": "Batman: Arkham Origins",
       "discount_percent": 80,
@@ -18503,6 +18327,28 @@
       "developers": [],
       "publishers": [
         "Ubisoft"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 53819,
+      "name": "The Elder Scrolls V: Skyrim VR",
+      "discount_percent": 80,
+      "original_price": 69000.0,
+      "final_price": 13800.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/63f49dc993e24a3faeb2060eced3ae62/65214b34d30145839e96caa1d05b6c24.jpg",
+      "url": "https://www.greenmangaming.com/games/the-elder-scrolls-v-skyrim-vr-pc/",
+      "on_sale": true,
+      "genres": [
+        "RPG",
+        "어드벤처",
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Bethesda Softworks"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -18658,6 +18504,26 @@
       "developers": [],
       "publishers": [
         "META Publishing"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 53835,
+      "name": "The Elder Scrolls IV: Oblivion Game of the Year Edition Deluxe",
+      "discount_percent": 80,
+      "original_price": 23100.0,
+      "final_price": 4700.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/976e151936c14512bbe348ee7311b2d0/020f68f533914a4182657b01cfeb0053.jpg",
+      "url": "https://www.greenmangaming.com/games/the-elder-scrolls-iv-oblivion-game-of-the-year-edition-deluxe-pc/",
+      "on_sale": true,
+      "genres": [
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "Bethesda Softworks"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -19064,6 +18930,26 @@
       "review_rank": 0
     },
     {
+      "appid": 53823,
+      "name": "DEATHLOOP",
+      "discount_percent": 80,
+      "original_price": 67000.0,
+      "final_price": 13400.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/b7ba423cfa254b27b5aa187929f8bd61/d64bd32949504d13a8d07610604ed717.jpg",
+      "url": "https://www.greenmangaming.com/games/deathloop-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 5482,
       "name": "Far Cry 4",
       "discount_percent": 80,
@@ -19127,6 +19013,27 @@
       "review_rank": 0
     },
     {
+      "appid": 53898,
+      "name": "Dishonored: Complete Collection",
+      "discount_percent": 80,
+      "original_price": 89900.0,
+      "final_price": 18000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/0b99f6fd627044e5998e0ecdf4b37a49/67c150e2708c4f6fab61b342a2995499.jpg",
+      "url": "https://www.greenmangaming.com/games/dishonored-complete-collection-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 47011,
       "name": "Bramble: The Mountain King",
       "discount_percent": 80,
@@ -19148,43 +19055,21 @@
       "review_rank": 0
     },
     {
-      "appid": 50513,
-      "name": "STAR WARS: OUTLAWS – Standard Edition",
+      "appid": 53812,
+      "name": "Prey",
       "discount_percent": 80,
-      "original_price": 79000.0,
-      "final_price": 15800.0,
+      "original_price": 33500.0,
+      "final_price": 6700.0,
       "currency": "KRW",
-      "image": "https://images.greenmangaming.com/4730803a2a8c4ad090f7afc7c68667df/a3599c6731ad4812abb2b593254db60c.jpg",
-      "url": "https://www.greenmangaming.com/games/star-wars-outlaws-standard-edition-pc/",
+      "image": "https://images.greenmangaming.com/c3d0bf94fdee46b4a4fe45486325523c/057b65aa05c649a1a581f384b5805c77.jpg",
+      "url": "https://www.greenmangaming.com/games/prey/",
       "on_sale": true,
       "genres": [
         "액션"
       ],
       "developers": [],
       "publishers": [
-        "Ubisoft"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 48977,
-      "name": "West of Dead",
-      "discount_percent": 80,
-      "original_price": 21500.0,
-      "final_price": 4300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/9288140177fc49a198a64e9a5de16718/da48da0684a94af28a8de360ab22221f.jpg",
-      "url": "https://www.greenmangaming.com/games/west-of-dead-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "인디"
-      ],
-      "developers": [],
-      "publishers": [
-        "Raw Fury"
+        "Bethesda Softworks"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -19206,26 +19091,6 @@
       "developers": [],
       "publishers": [
         "Red Barrels"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 23143,
-      "name": "Cyberdimension Neptunia: 4 Goddesses Online - Deluxe Bundle",
-      "discount_percent": 79,
-      "original_price": 33200.0,
-      "final_price": 7000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/e28449ff2fe24858914bb37dc05eaa8d/f665a29b44714f19a4c98f5734089c1c.jpg",
-      "url": "https://www.greenmangaming.com/games/cyberdimension-neptunia-4-goddesses-online-deluxe-bundle-pc/",
-      "on_sale": true,
-      "genres": [
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Idea Factory International"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -19379,6 +19244,46 @@
       "review_rank": 0
     },
     {
+      "appid": 53820,
+      "name": "Fallout 76",
+      "discount_percent": 75,
+      "original_price": 44500.0,
+      "final_price": 11200.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/e559825190f3432e8eb7dda95f980f6d/0c45789443e3485494e0c83aa49aea55.jpg",
+      "url": "https://www.greenmangaming.com/games/fallout-76-pc/",
+      "on_sale": true,
+      "genres": [
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 56591,
+      "name": "The Evil Within Bundle",
+      "discount_percent": 75,
+      "original_price": 28900.0,
+      "final_price": 7300.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/f9ca8cde87ec434ba36b911db2cc6f83/353a30a2673342abb5a3dff93611530e.jpg",
+      "url": "https://www.greenmangaming.com/games/the-evil-within-bundle-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 45034,
       "name": "Far Cry 6 Game of the Year Edition ",
       "discount_percent": 75,
@@ -19464,6 +19369,27 @@
       "review_rank": 0
     },
     {
+      "appid": 53780,
+      "name": "The Elder Scrolls® Online",
+      "discount_percent": 75,
+      "original_price": 22000.0,
+      "final_price": 5500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/d21e5e4b16fa47b49867438fb917dd7f/5fcc3bf3b38145ab8cb312d8d62a7024.jpg",
+      "url": "https://www.greenmangaming.com/games/the-elder-scrolls-online-pc/",
+      "on_sale": true,
+      "genres": [
+        "RPG",
+        "MMO"
+      ],
+      "developers": [],
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 55014,
       "name": "Mortal Kombat™ 1: Definitive Edition",
       "discount_percent": 75,
@@ -19479,26 +19405,6 @@
       "developers": [],
       "publishers": [
         "Warner Bros Interactive Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 45029,
-      "name": "Far Cry 6",
-      "discount_percent": 75,
-      "original_price": 65000.0,
-      "final_price": 16300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/63148bab1d2142f9b8c3fd618686282e/34ec50167fce451db50316a9ad6e4449.jpg",
-      "url": "https://www.greenmangaming.com/games/far-cry-6-pc/",
-      "on_sale": true,
-      "genres": [
-        "슈팅"
-      ],
-      "developers": [],
-      "publishers": [
-        "Ubisoft"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -19884,6 +19790,26 @@
       "developers": [],
       "publishers": [
         "2K Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 53866,
+      "name": "The Elder Scrolls V: Skyrim Anniversary Edition",
+      "discount_percent": 67,
+      "original_price": 56000.0,
+      "final_price": 18500.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/3e1751769e284a1081289f45b8603181/da5e7978881846edb7f7092150229ef9.jpg",
+      "url": "https://www.greenmangaming.com/games/the-elder-scrolls-v-skyrim-anniversary-edition-pc/",
+      "on_sale": true,
+      "genres": [
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "Bethesda Softworks"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -20330,6 +20256,27 @@
       "review_rank": 0
     },
     {
+      "appid": 53775,
+      "name": "DOOM: The Dark Ages",
+      "discount_percent": 50,
+      "original_price": 54300.0,
+      "final_price": 27200.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/6707e1812d3442f5a5a9128eb9abca38/3a3e0837e4b0497cb3e841eec62b67eb.jpg",
+      "url": "https://www.greenmangaming.com/games/doom-the-dark-ages-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 22663,
       "name": "Grand Theft Auto V Enhanced",
       "discount_percent": 50,
@@ -20373,6 +20320,27 @@
       "review_rank": 0
     },
     {
+      "appid": 53777,
+      "name": "DOOM: The Dark Ages Premium Edition",
+      "discount_percent": 50,
+      "original_price": 75300.0,
+      "final_price": 37700.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/a4eaa6c00b18409eaf2904ec642208e3/795c05eb5485401fa03398b5aa21714f.jpg",
+      "url": "https://www.greenmangaming.com/games/doom-the-dark-ages-premium-edition-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 55813,
       "name": "ENDLESS Legend™ 2",
       "discount_percent": 50,
@@ -20390,6 +20358,26 @@
       "developers": [],
       "publishers": [
         "Hooded Horse"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 53822,
+      "name": "Starfield",
+      "discount_percent": 50,
+      "original_price": 54300.0,
+      "final_price": 27200.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/79e2cec2ec8c469e934a0705264d39e2/f1362d5f364843fba3b76592f4ef94d4.jpg",
+      "url": "https://www.greenmangaming.com/games/starfield-pc/",
+      "on_sale": true,
+      "genres": [
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "Bethesda Softworks"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -21017,28 +21005,6 @@
       "review_rank": 0
     },
     {
-      "appid": 60874,
-      "name": "Casualties: Unknown",
-      "discount_percent": 15,
-      "original_price": 24800.0,
-      "final_price": 21100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/1758db1c22894e1f8abe1faf0ee26989/d6ffd9f475a640c381ab3e9a1970b521.jpg",
-      "url": "https://www.greenmangaming.com/games/casualties-unknown-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "시뮬레이션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Oro Interactive"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 60878,
       "name": "Wall World Strategy",
       "discount_percent": 15,
@@ -21214,6 +21180,27 @@
       "review_rank": 0
     },
     {
+      "appid": 60778,
+      "name": "Workers & Resources: Soviet Republic - Space Program",
+      "discount_percent": 10,
+      "original_price": 19900.0,
+      "final_price": 18000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/142ba91019214b9fbb9bd82cb7c89670/0c45273ae9b041639d4632a480cfaa5c.jpg",
+      "url": "https://www.greenmangaming.com/games/workers-resources-soviet-republic-space-program-pc/",
+      "on_sale": true,
+      "genres": [
+        "시뮬레이션",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Hooded Horse"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 59623,
       "name": "Flame, Forest & Flood",
       "discount_percent": 10,
@@ -21365,6 +21352,28 @@
       "review_rank": 0
     },
     {
+      "appid": 60874,
+      "name": "Casualties: Unknown",
+      "discount_percent": 0,
+      "original_price": 24800.0,
+      "final_price": 24800.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/1758db1c22894e1f8abe1faf0ee26989/d6ffd9f475a640c381ab3e9a1970b521.jpg",
+      "url": "https://www.greenmangaming.com/games/casualties-unknown-pc/",
+      "on_sale": false,
+      "genres": [
+        "액션",
+        "어드벤처",
+        "시뮬레이션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Oro Interactive"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 58796,
       "name": "DRAGON QUEST MONSTERS: The Withered World",
       "discount_percent": 0,
@@ -21404,27 +21413,6 @@
       "developers": [],
       "publishers": [
         "Square Enix"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 53775,
-      "name": "DOOM: The Dark Ages",
-      "discount_percent": 0,
-      "original_price": 54300.0,
-      "final_price": 54300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/6707e1812d3442f5a5a9128eb9abca38/3a3e0837e4b0497cb3e841eec62b67eb.jpg",
-      "url": "https://www.greenmangaming.com/games/doom-the-dark-ages-pc/",
-      "on_sale": false,
-      "genres": [
-        "액션",
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Bethesda Softworks"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -21472,47 +21460,6 @@
       "review_rank": 0
     },
     {
-      "appid": 53779,
-      "name": "DOOM",
-      "discount_percent": 0,
-      "original_price": 22000.0,
-      "final_price": 22000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/5bf9b64048de499cb9c3138bc972766b/40585b46fe0242f5a586e29b4cb0d99b.jpg",
-      "url": "https://www.greenmangaming.com/games/doom/",
-      "on_sale": false,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Bethesda Softworks"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 53777,
-      "name": "DOOM: The Dark Ages Premium Edition",
-      "discount_percent": 0,
-      "original_price": 75300.0,
-      "final_price": 75300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/a4eaa6c00b18409eaf2904ec642208e3/795c05eb5485401fa03398b5aa21714f.jpg",
-      "url": "https://www.greenmangaming.com/games/doom-the-dark-ages-premium-edition-pc/",
-      "on_sale": false,
-      "genres": [
-        "액션",
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Bethesda Softworks"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 59986,
       "name": "Valor Mortis",
       "discount_percent": 0,
@@ -21535,47 +21482,6 @@
       "review_rank": 0
     },
     {
-      "appid": 53866,
-      "name": "The Elder Scrolls V: Skyrim Anniversary Edition",
-      "discount_percent": 0,
-      "original_price": 56000.0,
-      "final_price": 56000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/3e1751769e284a1081289f45b8603181/da5e7978881846edb7f7092150229ef9.jpg",
-      "url": "https://www.greenmangaming.com/games/the-elder-scrolls-v-skyrim-anniversary-edition-pc/",
-      "on_sale": false,
-      "genres": [
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Bethesda Softworks"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 53830,
-      "name": "The Evil Within 2",
-      "discount_percent": 0,
-      "original_price": 44500.0,
-      "final_price": 44500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/2988073fbd184d1e867836c04bcca2ee/5844f74a2d8e4dc1964b96d5fcf9aa3b.jpg",
-      "url": "https://www.greenmangaming.com/games/the-evil-within-2-pc/",
-      "on_sale": false,
-      "genres": [
-        "액션",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Bethesda Softworks"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 37226,
       "name": "3DMark",
       "discount_percent": 0,
@@ -21591,109 +21497,6 @@
       "developers": [],
       "publishers": [
         "UL"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 53822,
-      "name": "Starfield",
-      "discount_percent": 0,
-      "original_price": 54300.0,
-      "final_price": 54300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/79e2cec2ec8c469e934a0705264d39e2/f1362d5f364843fba3b76592f4ef94d4.jpg",
-      "url": "https://www.greenmangaming.com/games/starfield-pc/",
-      "on_sale": false,
-      "genres": [
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Bethesda Softworks"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 56589,
-      "name": "Prey Digital Deluxe",
-      "discount_percent": 0,
-      "original_price": 44500.0,
-      "final_price": 44500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/fc02b40b296542938e5abc1a66b570eb/b62b2121a3464158acaeeec52160d0f2.jpg",
-      "url": "https://www.greenmangaming.com/games/prey-digital-deluxe-pc/",
-      "on_sale": false,
-      "genres": [
-        "액션",
-        "어드벤처"
-      ],
-      "developers": [],
-      "publishers": [
-        "Bethesda Softworks"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 53820,
-      "name": "Fallout 76",
-      "discount_percent": 0,
-      "original_price": 44500.0,
-      "final_price": 44500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/e559825190f3432e8eb7dda95f980f6d/0c45789443e3485494e0c83aa49aea55.jpg",
-      "url": "https://www.greenmangaming.com/games/fallout-76-pc/",
-      "on_sale": false,
-      "genres": [
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Bethesda Softworks"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 56591,
-      "name": "The Evil Within Bundle",
-      "discount_percent": 0,
-      "original_price": 28900.0,
-      "final_price": 28900.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/f9ca8cde87ec434ba36b911db2cc6f83/353a30a2673342abb5a3dff93611530e.jpg",
-      "url": "https://www.greenmangaming.com/games/the-evil-within-bundle-pc/",
-      "on_sale": false,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Bethesda Softworks"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 53819,
-      "name": "The Elder Scrolls V: Skyrim VR",
-      "discount_percent": 0,
-      "original_price": 69000.0,
-      "final_price": 69000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/63f49dc993e24a3faeb2060eced3ae62/65214b34d30145839e96caa1d05b6c24.jpg",
-      "url": "https://www.greenmangaming.com/games/the-elder-scrolls-v-skyrim-vr-pc/",
-      "on_sale": false,
-      "genres": [
-        "RPG",
-        "어드벤처",
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Bethesda Softworks"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -21756,66 +21559,6 @@
       "developers": [],
       "publishers": [
         "Dnovel"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 53821,
-      "name": "Wolfenstein II: The New Colossus",
-      "discount_percent": 0,
-      "original_price": 44500.0,
-      "final_price": 44500.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/5e1d577c92674f7686c2fadc1e519009/f46189c650394dd789657eae1cc61587.jpg",
-      "url": "https://www.greenmangaming.com/games/wolfenstein-the-new-colossus/",
-      "on_sale": false,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Bethesda Softworks"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 53841,
-      "name": "Wolfenstein II: The New Colossus Digital Deluxe Edition",
-      "discount_percent": 0,
-      "original_price": 67000.0,
-      "final_price": 67000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/2ac02b0ca0f44cb197f843032d905a8d/3f49fc79184c407690765e7cfae974d1.jpg",
-      "url": "https://www.greenmangaming.com/games/wolfenstein-ii-the-new-colossus-digital-deluxe-edition-pc/",
-      "on_sale": false,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Bethesda Softworks"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 53835,
-      "name": "The Elder Scrolls IV: Oblivion Game of the Year Edition Deluxe",
-      "discount_percent": 0,
-      "original_price": 23100.0,
-      "final_price": 23100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/976e151936c14512bbe348ee7311b2d0/020f68f533914a4182657b01cfeb0053.jpg",
-      "url": "https://www.greenmangaming.com/games/the-elder-scrolls-iv-oblivion-game-of-the-year-edition-deluxe-pc/",
-      "on_sale": false,
-      "genres": [
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Bethesda Softworks"
       ],
       "review_desc": null,
       "review_rank": 0
