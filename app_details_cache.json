@@ -42134,5 +42134,47 @@
       "Behaviour Interactive Inc."
     ],
     "publishers": []
+  },
+  "3174070": {
+    "genres": [
+      "캐주얼",
+      "대규모 멀티플레이어",
+      "시뮬레이션",
+      "스포츠",
+      "전략",
+      "무료 플레이"
+    ],
+    "developers": [
+      "KamaGames Entertainment Group Limited"
+    ],
+    "publishers": [
+      "KamaGames Ltd."
+    ]
+  },
+  "4507410": {
+    "genres": [
+      "RPG",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Inster",
+      "NBOXGAMES.INC"
+    ],
+    "publishers": [
+      "Inster"
+    ]
+  },
+  "5057800": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "전략"
+    ],
+    "developers": [
+      "LeenGameDev"
+    ],
+    "publishers": [
+      "LeenGameDev"
+    ]
   }
 }
