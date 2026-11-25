@@ -42099,5 +42099,40 @@
       "Dancing Dragon Games"
     ],
     "publishers": []
+  },
+  "5527800": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Unruled Games"
+    ],
+    "publishers": [
+      "Unruled Games"
+    ]
+  },
+  "5472080": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "ImSoTiredStudio"
+    ],
+    "publishers": [
+      "LightTriadGames"
+    ]
+  },
+  "5510420": {
+    "genres": [
+      "액션"
+    ],
+    "developers": [
+      "Behaviour Interactive Inc."
+    ],
+    "publishers": []
   }
 }
