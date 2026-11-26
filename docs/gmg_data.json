@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1795625548.9907918,
+  "fetched_at": 1795657088.6926248,
   "deals": [
     {
       "appid": 39339,
@@ -13333,26 +13333,6 @@
       "review_rank": 0
     },
     {
-      "appid": 56193,
-      "name": "RPG MAKER UNITE Special Edition",
-      "discount_percent": 85,
-      "original_price": 163700.0,
-      "final_price": 24600.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/cfdc1e2180d64733ae38aa3262df8dfe/d77a4c7b5ce74a7193319f11f9b9de58.jpg",
-      "url": "https://www.greenmangaming.com/games/rpg-maker-unite-special-edition-epic-pc/",
-      "on_sale": true,
-      "genres": [
-        "Utilities"
-      ],
-      "developers": [],
-      "publishers": [
-        "Gotcha Gotcha Games Inc"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 41503,
       "name": "Fling to the Finish",
       "discount_percent": 85,
@@ -13623,26 +13603,6 @@
       "developers": [],
       "publishers": [
         "Contact Sales"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 52312,
-      "name": "RPG MAKER UNITE",
-      "discount_percent": 85,
-      "original_price": 102300.0,
-      "final_price": 15400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/a89408be829f4c848f8df530d78af6c1/9cbdc2336c1b494bad35693d58ebaf4f.jpg",
-      "url": "https://www.greenmangaming.com/games/rpg-maker-unite-epic-pc/",
-      "on_sale": true,
-      "genres": [
-        "Utilities"
-      ],
-      "developers": [],
-      "publishers": [
-        "Gotcha Gotcha Games Inc"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -15835,6 +15795,49 @@
       "review_rank": 0
     },
     {
+      "appid": 46982,
+      "name": "City of Beats",
+      "discount_percent": 85,
+      "original_price": 21500.0,
+      "final_price": 3300.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/891f905577f5452b9e1984a7c308c8f8/6084c684feb64216b5f4c15aa5f99b86.jpg",
+      "url": "https://www.greenmangaming.com/games/city-of-beats-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "인디"
+      ],
+      "developers": [],
+      "publishers": [
+        "indie.io"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 54293,
+      "name": "Legacy of Sin: The Father Sacrifice",
+      "discount_percent": 85,
+      "original_price": 8500.0,
+      "final_price": 1300.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/6f0c8d0d90374310a01c18544ba908b3/fccd5bc2e98c42da86378510e835bcee.jpg",
+      "url": "https://www.greenmangaming.com/games/legacy-of-sin-the-father-sacrifice-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "전략",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "indie.io"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 49318,
       "name": "DESTRUCTURE: Among Debris",
       "discount_percent": 84,
@@ -15917,26 +15920,6 @@
       "developers": [],
       "publishers": [
         "City Interactive"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 56204,
-      "name": "RPG Maker 3D Character Converter",
-      "discount_percent": 84,
-      "original_price": 10200.0,
-      "final_price": 1600.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/3a1ff21b90f74f9aa9614a314e6a7bb1/9a918993fda0479db3e1421dbe598857.jpg",
-      "url": "https://www.greenmangaming.com/games/rpg-maker-3d-character-converter-epic-pc/",
-      "on_sale": true,
-      "genres": [
-        "Utilities"
-      ],
-      "developers": [],
-      "publishers": [
-        "Gotcha Gotcha Games Inc"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -17830,6 +17813,29 @@
       "review_rank": 0
     },
     {
+      "appid": 45011,
+      "name": "Transport INC",
+      "discount_percent": 83,
+      "original_price": 12500.0,
+      "final_price": 2100.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/a9f76122b5044738952d1fabc2668c70/c5ac504aca2d4acd899269c3a48a1cd9.jpg",
+      "url": "https://www.greenmangaming.com/games/transport-inc-pc/",
+      "on_sale": true,
+      "genres": [
+        "캐주얼",
+        "인디",
+        "시뮬레이션",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Plug-in Digital"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 44001,
       "name": "FINAL FANTASY VII REMAKE INTERGRADE",
       "discount_percent": 82,
@@ -17987,6 +17993,28 @@
       "on_sale": true,
       "genres": [
         "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Plug-in Digital"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 47829,
+      "name": "Outliver: Tribulation",
+      "discount_percent": 82,
+      "original_price": 8900.0,
+      "final_price": 1600.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/c91a286b363c41bca700f7b9d7150248/3e1217d670414619810a8e6f86c6f5fb.jpg",
+      "url": "https://www.greenmangaming.com/games/outliver-tribulation-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "인디",
+        "어드벤처"
       ],
       "developers": [],
       "publishers": [
@@ -20986,27 +21014,6 @@
       "review_rank": 0
     },
     {
-      "appid": 60878,
-      "name": "Wall World Strategy",
-      "discount_percent": 15,
-      "original_price": 22000.0,
-      "final_price": 18700.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/5a8bb14691604892934482c6314f0df3/cddf27d0b6124d4c95992de07701f0c7.jpg",
-      "url": "https://www.greenmangaming.com/games/wall-world-strategy-pc/",
-      "on_sale": true,
-      "genres": [
-        "시뮬레이션",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Alawar Entertainment Inc"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 58317,
       "name": "Airport Contraband",
       "discount_percent": 15,
@@ -21396,6 +21403,27 @@
       "review_rank": 0
     },
     {
+      "appid": 60878,
+      "name": "Wall World Strategy",
+      "discount_percent": 0,
+      "original_price": 22000.0,
+      "final_price": 22000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/5a8bb14691604892934482c6314f0df3/cddf27d0b6124d4c95992de07701f0c7.jpg",
+      "url": "https://www.greenmangaming.com/games/wall-world-strategy-pc/",
+      "on_sale": false,
+      "genres": [
+        "시뮬레이션",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Alawar Entertainment Inc"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 59870,
       "name": "FINAL FANTASY VII REVELATION Premium Plus Edition",
       "discount_percent": 0,
@@ -21560,6 +21588,66 @@
       "developers": [],
       "publishers": [
         "Dnovel"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 56193,
+      "name": "RPG MAKER UNITE Special Edition",
+      "discount_percent": 0,
+      "original_price": 163700.0,
+      "final_price": 163700.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/cfdc1e2180d64733ae38aa3262df8dfe/d77a4c7b5ce74a7193319f11f9b9de58.jpg",
+      "url": "https://www.greenmangaming.com/games/rpg-maker-unite-special-edition-epic-pc/",
+      "on_sale": false,
+      "genres": [
+        "Utilities"
+      ],
+      "developers": [],
+      "publishers": [
+        "Gotcha Gotcha Games Inc"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 56204,
+      "name": "RPG Maker 3D Character Converter",
+      "discount_percent": 0,
+      "original_price": 10200.0,
+      "final_price": 10200.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/3a1ff21b90f74f9aa9614a314e6a7bb1/9a918993fda0479db3e1421dbe598857.jpg",
+      "url": "https://www.greenmangaming.com/games/rpg-maker-3d-character-converter-epic-pc/",
+      "on_sale": false,
+      "genres": [
+        "Utilities"
+      ],
+      "developers": [],
+      "publishers": [
+        "Gotcha Gotcha Games Inc"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 52312,
+      "name": "RPG MAKER UNITE",
+      "discount_percent": 0,
+      "original_price": 102300.0,
+      "final_price": 102300.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/a89408be829f4c848f8df530d78af6c1/9cbdc2336c1b494bad35693d58ebaf4f.jpg",
+      "url": "https://www.greenmangaming.com/games/rpg-maker-unite-epic-pc/",
+      "on_sale": false,
+      "genres": [
+        "Utilities"
+      ],
+      "developers": [],
+      "publishers": [
+        "Gotcha Gotcha Games Inc"
       ],
       "review_desc": null,
       "review_rank": 0

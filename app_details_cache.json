@@ -42176,5 +42176,18 @@
     "publishers": [
       "LeenGameDev"
     ]
+  },
+  "5210790": {
+    "genres": [
+      "액션",
+      "전략"
+    ],
+    "developers": [
+      "Relic Entertainment",
+      "C Prompt Games"
+    ],
+    "publishers": [
+      "Relic Entertainment "
+    ]
   }
 }

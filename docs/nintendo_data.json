@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1795625553.6990697,
+  "fetched_at": 1795657088.9879518,
   "deals": [
     {
       "appid": 70070000025275,
@@ -1992,6 +1992,25 @@
       "developers": [],
       "publishers": [
         "Bethesda"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 70070000034260,
+      "name": "Tales of ARISE - Beyond the Dawn Premium Edition ",
+      "discount_percent": 30,
+      "original_price": 69.99,
+      "final_price": 48.99,
+      "currency": "USD",
+      "image": "https://assets.nintendo.com/image/upload/store/software/switch2/70070000034260/765736f9363724dcbb8893cd1c93280d19400a7b394b8ff39eb953ffa5557b27",
+      "url": "https://www.nintendo.com/us/store/products/tales-of-arise-beyond-the-dawn-premium-edition-switch-2/",
+      "on_sale": true,
+      "platform": "Nintendo Switch 2",
+      "genres": [],
+      "developers": [],
+      "publishers": [
+        "Bandai Namco Entertainment"
       ],
       "review_desc": null,
       "review_rank": 0
