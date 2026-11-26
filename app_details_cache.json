@@ -42189,5 +42189,31 @@
     "publishers": [
       "Relic Entertainment "
     ]
+  },
+  "4253570": {
+    "genres": [
+      "캐주얼",
+      "인디",
+      "시뮬레이션"
+    ],
+    "developers": [
+      "Quite OK Games"
+    ],
+    "publishers": [
+      "Quite OK Games"
+    ]
+  },
+  "4933500": {
+    "genres": [
+      "어드벤처",
+      "캐주얼",
+      "인디"
+    ],
+    "developers": [
+      "PMF Top Joy Games"
+    ],
+    "publishers": [
+      "PMF Top Joy Games"
+    ]
   }
 }
