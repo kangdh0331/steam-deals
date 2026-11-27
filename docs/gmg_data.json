@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1795710554.406007,
+  "fetched_at": 1795743105.7537322,
   "deals": [
     {
       "appid": 17282,
@@ -359,28 +359,6 @@
       "review_rank": 0
     },
     {
-      "appid": 44634,
-      "name": "Hogwarts Legacy",
-      "discount_percent": 92,
-      "original_price": 79800.0,
-      "final_price": 6400.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/6a8a200f88f5416aa08b0754d343c401/2716c34ac5274e5b94c00e58a1a6d36e.jpg",
-      "url": "https://www.greenmangaming.com/games/hogwarts-legacy-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션",
-        "어드벤처",
-        "RPG"
-      ],
-      "developers": [],
-      "publishers": [
-        "Warner Bros Interactive Entertainment"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 17273,
       "name": "SYMMETRY",
       "discount_percent": 92,
@@ -506,6 +484,28 @@
       "developers": [],
       "publishers": [
         "Yogscast Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 44634,
+      "name": "Hogwarts Legacy",
+      "discount_percent": 90,
+      "original_price": 79800.0,
+      "final_price": 8000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/6a8a200f88f5416aa08b0754d343c401/2716c34ac5274e5b94c00e58a1a6d36e.jpg",
+      "url": "https://www.greenmangaming.com/games/hogwarts-legacy-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션",
+        "어드벤처",
+        "RPG"
+      ],
+      "developers": [],
+      "publishers": [
+        "Warner Bros Interactive Entertainment"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -15860,6 +15860,86 @@
       "review_rank": 0
     },
     {
+      "appid": 49032,
+      "name": "Foretales",
+      "discount_percent": 85,
+      "original_price": 20500.0,
+      "final_price": 3100.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/116507b2c7934b6abc05ab5d218181a2/ac9509b9d49f4635845c74dd1a18b495.jpg",
+      "url": "https://www.greenmangaming.com/games/foretales-pc/",
+      "on_sale": true,
+      "genres": [
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Plug-in Digital"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 49588,
+      "name": "Molly Medusa: Queen of Spit",
+      "discount_percent": 85,
+      "original_price": 21500.0,
+      "final_price": 3300.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/a1e6c63461b34edc8116b84753bd3c45/cde632e28ec2411e9b9b47c6a57fe7e7.jpg",
+      "url": "https://www.greenmangaming.com/games/molly-medusa-queen-of-spit-pc/",
+      "on_sale": true,
+      "genres": [
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Plug-in Digital"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 46046,
+      "name": "RE:CALL",
+      "discount_percent": 85,
+      "original_price": 21500.0,
+      "final_price": 3300.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/46677629a84748f5937bb1929b93719d/728c1e96838542f39f407b90ad1c05a5.jpg",
+      "url": "https://www.greenmangaming.com/games/recall-pc/",
+      "on_sale": true,
+      "genres": [
+        "어드벤처"
+      ],
+      "developers": [],
+      "publishers": [
+        "Plug-in Digital"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 53746,
+      "name": "Ludo XXL",
+      "discount_percent": 85,
+      "original_price": 18500.0,
+      "final_price": 2800.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/f16392019b3a4af18b6000f51de00377/f387c7bc790b46d9a2b763efe5faaf8f.jpg",
+      "url": "https://www.greenmangaming.com/games/ludo-xxl-pc/",
+      "on_sale": true,
+      "genres": [
+        "캐주얼"
+      ],
+      "developers": [],
+      "publishers": [
+        "Plug-in Digital"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 49318,
       "name": "DESTRUCTURE: Among Debris",
       "discount_percent": 84,
@@ -20390,27 +20470,6 @@
       "review_rank": 0
     },
     {
-      "appid": 55689,
-      "name": "9 Kings",
-      "discount_percent": 50,
-      "original_price": 19900.0,
-      "final_price": 10000.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/778f3772c2cd4a73a22c59d29562f0eb/30fc6bd3f5244707a17451e153956a04.jpg",
-      "url": "https://www.greenmangaming.com/games/9-kings-pc/",
-      "on_sale": true,
-      "genres": [
-        "RPG",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Hooded Horse"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 50248,
       "name": "Ghost of Tsushima DIRECTOR'S CUT",
       "discount_percent": 50,
@@ -20778,28 +20837,6 @@
       "review_rank": 0
     },
     {
-      "appid": 60416,
-      "name": "Main Sequence",
-      "discount_percent": 32,
-      "original_price": 28000.0,
-      "final_price": 19100.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/3c77b3e4071c476fbe2608b0aa157755/ed2b93fa7383493694eee746f8b32a19.jpg",
-      "url": "https://www.greenmangaming.com/games/main-sequence-pc/",
-      "on_sale": true,
-      "genres": [
-        "인디",
-        "시뮬레이션",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Mythwright Limited"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 57250,
       "name": "The Adventures of Elliot: The Millennium Tales",
       "discount_percent": 30,
@@ -21145,28 +21182,6 @@
       "review_rank": 0
     },
     {
-      "appid": 61046,
-      "name": "Chronocracy",
-      "discount_percent": 10,
-      "original_price": 17000.0,
-      "final_price": 15300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/b3f63ce4687648bbb97816bbfcfc0608/eef197c03dfa498ca340f3b1d88a96a9.jpg",
-      "url": "https://www.greenmangaming.com/games/chronocracy-pc/",
-      "on_sale": true,
-      "genres": [
-        "인디",
-        "시뮬레이션",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Herocraft Ltd"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 60778,
       "name": "Workers & Resources: Soviet Republic - Space Program",
       "discount_percent": 10,
@@ -21204,28 +21219,6 @@
       "developers": [],
       "publishers": [
         "Eversim"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
-      "appid": 59623,
-      "name": "Flame, Forest & Flood",
-      "discount_percent": 10,
-      "original_price": 17000.0,
-      "final_price": 15300.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/a7a9d9ce31b048fb981de974a03495fa/599dab27e10a4016870eef19b105c15f.jpg",
-      "url": "https://www.greenmangaming.com/games/flame-forest-flood-pc/",
-      "on_sale": true,
-      "genres": [
-        "캐주얼",
-        "인디",
-        "전략"
-      ],
-      "developers": [],
-      "publishers": [
-        "Fairy Mount Games"
       ],
       "review_desc": null,
       "review_rank": 0
@@ -21338,6 +21331,28 @@
       "review_rank": 0
     },
     {
+      "appid": 59623,
+      "name": "Flame, Forest & Flood",
+      "discount_percent": 0,
+      "original_price": 17000.0,
+      "final_price": 17000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/a7a9d9ce31b048fb981de974a03495fa/599dab27e10a4016870eef19b105c15f.jpg",
+      "url": "https://www.greenmangaming.com/games/flame-forest-flood-pc/",
+      "on_sale": false,
+      "genres": [
+        "캐주얼",
+        "인디",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Fairy Mount Games"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
       "appid": 58798,
       "name": "DRAGON QUEST MONSTERS: The Withered World DIGITAL DELUXE EDITION",
       "discount_percent": 0,
@@ -21397,6 +21412,49 @@
       "developers": [],
       "publishers": [
         "Square Enix"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 60416,
+      "name": "Main Sequence",
+      "discount_percent": 0,
+      "original_price": 28000.0,
+      "final_price": 28000.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/3c77b3e4071c476fbe2608b0aa157755/ed2b93fa7383493694eee746f8b32a19.jpg",
+      "url": "https://www.greenmangaming.com/games/main-sequence-pc/",
+      "on_sale": false,
+      "genres": [
+        "인디",
+        "시뮬레이션",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Mythwright Limited"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 55689,
+      "name": "9 Kings",
+      "discount_percent": 0,
+      "original_price": 19900.0,
+      "final_price": 19900.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/778f3772c2cd4a73a22c59d29562f0eb/30fc6bd3f5244707a17451e153956a04.jpg",
+      "url": "https://www.greenmangaming.com/games/9-kings-pc/",
+      "on_sale": false,
+      "genres": [
+        "RPG",
+        "전략"
+      ],
+      "developers": [],
+      "publishers": [
+        "Hooded Horse"
       ],
       "review_desc": null,
       "review_rank": 0
