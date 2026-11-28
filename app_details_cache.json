@@ -42241,5 +42241,32 @@
     "publishers": [
       "Wayway Inc"
     ]
+  },
+  "5546750": {
+    "genres": [
+      "액션",
+      "인디",
+      "RPG",
+      "앞서 해보기"
+    ],
+    "developers": [
+      "Act Seven Entertainment Inc."
+    ],
+    "publishers": [
+      "Act Seven Entertainment Inc."
+    ]
+  },
+  "3224600": {
+    "genres": [
+      "어드벤처",
+      "인디"
+    ],
+    "developers": [
+      "HO! Games"
+    ],
+    "publishers": [
+      "HO! Games",
+      "Outersloth"
+    ]
   }
 }
