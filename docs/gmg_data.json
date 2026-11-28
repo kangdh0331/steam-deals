@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1795796088.180817,
+  "fetched_at": 1795828247.7227998,
   "deals": [
     {
       "appid": 17282,
@@ -19977,26 +19977,6 @@
       "review_rank": 0
     },
     {
-      "appid": 55414,
-      "name": "Marathon",
-      "discount_percent": 62,
-      "original_price": 44800.0,
-      "final_price": 16800.0,
-      "currency": "KRW",
-      "image": "https://images.greenmangaming.com/7132b5299275407283809b94d50d9b49/c66b1ad2d49e4d5e8520a52b5a68e103.jpg",
-      "url": "https://www.greenmangaming.com/games/marathon-pc/",
-      "on_sale": true,
-      "genres": [
-        "액션"
-      ],
-      "developers": [],
-      "publishers": [
-        "Bungie"
-      ],
-      "review_desc": null,
-      "review_rank": 0
-    },
-    {
       "appid": 55222,
       "name": "Borderlands 4 Super Deluxe Edition",
       "discount_percent": 60,
@@ -20394,6 +20374,26 @@
       "developers": [],
       "publishers": [
         "Hooded Horse"
+      ],
+      "review_desc": null,
+      "review_rank": 0
+    },
+    {
+      "appid": 55414,
+      "name": "Marathon",
+      "discount_percent": 50,
+      "original_price": 44800.0,
+      "final_price": 22400.0,
+      "currency": "KRW",
+      "image": "https://images.greenmangaming.com/7132b5299275407283809b94d50d9b49/c66b1ad2d49e4d5e8520a52b5a68e103.jpg",
+      "url": "https://www.greenmangaming.com/games/marathon-pc/",
+      "on_sale": true,
+      "genres": [
+        "액션"
+      ],
+      "developers": [],
+      "publishers": [
+        "Bungie"
       ],
       "review_desc": null,
       "review_rank": 0
